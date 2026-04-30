@@ -1,0 +1,304 @@
+{
+  "day": 17,
+  "title": "Day 017 · cohesive → commute",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "communicate",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Cypher Eye",
+      "hp": 100,
+      "words": [
+        {
+          "en": "cohesive",
+          "zh": "adj. 粘着的",
+          "pos": "adj."
+        },
+        {
+          "en": "coil",
+          "zh": "n. （一）卷；线圈",
+          "pos": "n."
+        },
+        {
+          "en": "recoil",
+          "zh": "vi. 弹回，反冲",
+          "pos": "vi."
+        },
+        {
+          "en": "coin",
+          "zh": "n. 铸币",
+          "pos": "n."
+        },
+        {
+          "en": "coinage",
+          "zh": "n. 造币，货币制度",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Chamber Bullet",
+      "hp": 150,
+      "words": [
+        {
+          "en": "coincide",
+          "zh": "vi. 同时发生；相符合，相巧合",
+          "pos": "vi."
+        },
+        {
+          "en": "coincident",
+          "zh": "adj. 一致的，巧合的",
+          "pos": "adj."
+        },
+        {
+          "en": "coincidence",
+          "zh": "n. 一致；同时发生或同时存在的事",
+          "pos": "n."
+        },
+        {
+          "en": "collaborate",
+          "zh": "vi. 协作，合作",
+          "pos": "vi."
+        },
+        {
+          "en": "collaboration",
+          "zh": "n. 合作",
+          "pos": "n."
+        },
+        {
+          "en": "collapse",
+          "zh": "n. 倒塌；崩溃，失败",
+          "pos": "n."
+        },
+        {
+          "en": "colleague",
+          "zh": "n. 同事，同僚",
+          "pos": "n."
+        },
+        {
+          "en": "collective",
+          "zh": "adj. 集体的，共同的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Wall",
+      "hp": 200,
+      "words": [
+        {
+          "en": "collide",
+          "zh": "vi. 碰撞；冲突",
+          "pos": "vi."
+        },
+        {
+          "en": "collision",
+          "zh": "n. 碰撞；冲突，抵触",
+          "pos": "n."
+        },
+        {
+          "en": "colloquial",
+          "zh": "adj. 口语的，通俗语的",
+          "pos": "adj."
+        },
+        {
+          "en": "colloquialism",
+          "zh": "n. 俗话，白话，口语",
+          "pos": "n."
+        },
+        {
+          "en": "colonize",
+          "zh": "vt. 建立殖民地，拓殖",
+          "pos": "vt."
+        },
+        {
+          "en": "colony",
+          "zh": "n. 殖民地；群体",
+          "pos": "n."
+        },
+        {
+          "en": "colonial",
+          "zh": "adj. 殖民的，殖民地的",
+          "pos": "adj."
+        },
+        {
+          "en": "colonel",
+          "zh": "n. 陆军上校",
+          "pos": "n."
+        },
+        {
+          "en": "colossal",
+          "zh": "adj. 巨大的",
+          "pos": "adj."
+        },
+        {
+          "en": "combination",
+          "zh": "n. 化和，组合",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "combine",
+          "zh": "v. 联合，结合",
+          "pos": "v."
+        },
+        {
+          "en": "comet",
+          "zh": "n. 彗星",
+          "pos": "n."
+        },
+        {
+          "en": "cometary",
+          "zh": "adj. 彗星的，彗星似的",
+          "pos": "adj."
+        },
+        {
+          "en": "comic",
+          "zh": "adj. 滑稽的，好笑的；喜剧的",
+          "pos": "adj."
+        },
+        {
+          "en": "comical",
+          "zh": "adj. 滑稽的，好笑的",
+          "pos": "adj."
+        },
+        {
+          "en": "commander",
+          "zh": "n. 司令官，指挥员",
+          "pos": "n."
+        },
+        {
+          "en": "commemorate",
+          "zh": "vt. 纪念",
+          "pos": "vt."
+        },
+        {
+          "en": "comment",
+          "zh": "n. 注释，评论",
+          "pos": "n."
+        },
+        {
+          "en": "commentator",
+          "zh": "n. 评论员，讲解员",
+          "pos": "n."
+        },
+        {
+          "en": "communicate",
+          "zh": "vt. 传达，沟通；通信",
+          "pos": "vt."
+        },
+        {
+          "en": "commentary",
+          "zh": "n. 注释，解说词",
+          "pos": "n."
+        },
+        {
+          "en": "commerce",
+          "zh": "n. 商业",
+          "pos": "n."
+        },
+        {
+          "en": "commercial",
+          "zh": "adj. 商业的，贸易的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "commercialize",
+          "zh": "vt. 使商业化，使商品化",
+          "pos": "vt."
+        },
+        {
+          "en": "commission",
+          "zh": "vt. 委任，任命；委托，委托制作",
+          "pos": "vt."
+        },
+        {
+          "en": "commissioner",
+          "zh": "n. 委员，专员",
+          "pos": "n."
+        },
+        {
+          "en": "committed",
+          "zh": "adj. 效忠的；忠于…的",
+          "pos": "adj."
+        },
+        {
+          "en": "commit",
+          "zh": "vt. 犯（错误），干（坏事）",
+          "pos": "vt."
+        },
+        {
+          "en": "committee",
+          "zh": "n. 委员会",
+          "pos": "n."
+        },
+        {
+          "en": "commitment",
+          "zh": "n. 信奉，支持；许诺，承担义务",
+          "pos": "n."
+        },
+        {
+          "en": "commodity",
+          "zh": "n. 商品，日用品",
+          "pos": "n."
+        },
+        {
+          "en": "commonsense",
+          "zh": "adj. 具有常识的",
+          "pos": "adj."
+        },
+        {
+          "en": "commonplace",
+          "zh": "adj. 平凡的",
+          "pos": "adj."
+        },
+        {
+          "en": "communal",
+          "zh": "adj. 公共的；公社的",
+          "pos": "adj."
+        },
+        {
+          "en": "communicate",
+          "zh": "vt. 传达，沟通；通信",
+          "pos": "vt."
+        },
+        {
+          "en": "communication",
+          "zh": "n. 沟通；通讯",
+          "pos": "n."
+        },
+        {
+          "en": "community",
+          "zh": "n. 社区；社会",
+          "pos": "n."
+        },
+        {
+          "en": "commute",
+          "zh": "v. 通勤",
+          "pos": "v."
+        }
+      ]
+    }
+  ]
+}

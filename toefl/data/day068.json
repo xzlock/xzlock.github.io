@@ -1,0 +1,304 @@
+{
+  "day": 68,
+  "title": "Day 068 · tadpole → precarious",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "postage",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Viper Spawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "tadpole",
+          "zh": "n. [动]蝌蚪",
+          "pos": "n."
+        },
+        {
+          "en": "porous",
+          "zh": "adj. 可渗透的，多孔的",
+          "pos": "adj."
+        },
+        {
+          "en": "portable",
+          "zh": "adj. 编携的，手提的；轻便的",
+          "pos": "adj."
+        },
+        {
+          "en": "portend",
+          "zh": "vt. 预兆，预示",
+          "pos": "vt."
+        },
+        {
+          "en": "portion",
+          "zh": "n. 一部分；部分",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Jett Blitz",
+      "hp": 150,
+      "words": [
+        {
+          "en": "portrait",
+          "zh": "n. 肖像，画像；描写",
+          "pos": "n."
+        },
+        {
+          "en": "portraitist",
+          "zh": "n. 肖像画家",
+          "pos": "n."
+        },
+        {
+          "en": "portraiture",
+          "zh": "n. 肖像画法",
+          "pos": "n."
+        },
+        {
+          "en": "portray",
+          "zh": "vt. 描述；绘制",
+          "pos": "vt."
+        },
+        {
+          "en": "portrayal",
+          "zh": "n. 饰演；描画",
+          "pos": "n."
+        },
+        {
+          "en": "pose",
+          "zh": "vt. 形成，引起",
+          "pos": "vt."
+        },
+        {
+          "en": "posture",
+          "zh": "n. 姿势，体态",
+          "pos": "n."
+        },
+        {
+          "en": "positive",
+          "zh": "adj. （电）阳极的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "possess",
+          "zh": "vt. 拥有，占有",
+          "pos": "vt."
+        },
+        {
+          "en": "possession",
+          "zh": "n. 拥有，占有；财产",
+          "pos": "n."
+        },
+        {
+          "en": "post",
+          "zh": "vt. 张贴，揭示",
+          "pos": "vt."
+        },
+        {
+          "en": "poster",
+          "zh": "n. 海报，招贴",
+          "pos": "n."
+        },
+        {
+          "en": "postmaster",
+          "zh": "n. 邮局局长",
+          "pos": "n."
+        },
+        {
+          "en": "postage",
+          "zh": "n. 邮资",
+          "pos": "n."
+        },
+        {
+          "en": "postal",
+          "zh": "adj. 邮政的，邮局的",
+          "pos": "adj."
+        },
+        {
+          "en": "postcard",
+          "zh": "n. 明信片",
+          "pos": "n."
+        },
+        {
+          "en": "postdate",
+          "zh": "vt. 填迟…的日期",
+          "pos": "vt."
+        },
+        {
+          "en": "antedate",
+          "zh": "vt. 填早...的日期",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Clove Revive",
+      "hp": 250,
+      "words": [
+        {
+          "en": "postgraduate",
+          "zh": "n. 研究生",
+          "pos": "n."
+        },
+        {
+          "en": "postwar",
+          "zh": "adj. 战后的",
+          "pos": "adj."
+        },
+        {
+          "en": "postoperative",
+          "zh": "adj. 手术后的",
+          "pos": "adj."
+        },
+        {
+          "en": "postage",
+          "zh": "n. 邮资",
+          "pos": "n."
+        },
+        {
+          "en": "posthumous",
+          "zh": "adj. 死后的，身后的",
+          "pos": "adj."
+        },
+        {
+          "en": "postpone",
+          "zh": "vt. 推迟，使延期",
+          "pos": "vt."
+        },
+        {
+          "en": "postulate",
+          "zh": "vt. 要求；假定",
+          "pos": "vt."
+        },
+        {
+          "en": "pot",
+          "zh": "n. 罐，壶",
+          "pos": "n."
+        },
+        {
+          "en": "coffeepot",
+          "zh": "n. 咖啡壶",
+          "pos": "n."
+        },
+        {
+          "en": "teapot",
+          "zh": "n. 茶壶",
+          "pos": "n."
+        },
+        {
+          "en": "pottery",
+          "zh": "n. 陶器，陶器场",
+          "pos": "n."
+        },
+        {
+          "en": "potter",
+          "zh": "n. 陶工，制陶工人",
+          "pos": "n."
+        },
+        {
+          "en": "potted",
+          "zh": "adj. 盆栽的；平或罐装的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "potent",
+          "zh": "adj. 强有力的，有效的",
+          "pos": "adj."
+        },
+        {
+          "en": "potential",
+          "zh": "adj. 可能的；潜在的",
+          "pos": "adj."
+        },
+        {
+          "en": "potentiality",
+          "zh": "n. 潜能，潜力",
+          "pos": "n."
+        },
+        {
+          "en": "pound",
+          "zh": "n. 磅，英镑",
+          "pos": "n."
+        },
+        {
+          "en": "poverty",
+          "zh": "n. 贫困",
+          "pos": "n."
+        },
+        {
+          "en": "propery",
+          "zh": "n. 财产，所有权",
+          "pos": "n."
+        },
+        {
+          "en": "practicable",
+          "zh": "adj. 行得通的，可以实行的",
+          "pos": "adj."
+        },
+        {
+          "en": "practical",
+          "zh": "adj. 实际的，实践的；实用的",
+          "pos": "adj."
+        },
+        {
+          "en": "practically",
+          "zh": "adv. 实际上；几乎，简直",
+          "pos": "adv."
+        },
+        {
+          "en": "practicality",
+          "zh": "n. 实用性",
+          "pos": "n."
+        },
+        {
+          "en": "inpractical",
+          "zh": "adj. 不切实际的",
+          "pos": "adj."
+        },
+        {
+          "en": "impracticality",
+          "zh": "n. 不切实际, 办不到",
+          "pos": "n."
+        },
+        {
+          "en": "prairie",
+          "zh": "n. 大草原",
+          "pos": "n."
+        },
+        {
+          "en": "preach",
+          "zh": "v. 布道；鼓吹",
+          "pos": "v."
+        },
+        {
+          "en": "precarious",
+          "zh": "adj. 不稳定的；危险的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

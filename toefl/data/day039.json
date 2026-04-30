@@ -1,0 +1,304 @@
+{
+  "day": 39,
+  "title": "Day 039 · figurehead → fogged",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "flagella",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Gekko Slime",
+      "hp": 100,
+      "words": [
+        {
+          "en": "figurehead",
+          "zh": "n. 装饰船头的雕像, 破浪神, 有名无实的领袖",
+          "pos": "n."
+        },
+        {
+          "en": "file",
+          "zh": "n. 档案",
+          "pos": "n."
+        },
+        {
+          "en": "profile",
+          "zh": "n. 外形，轮廓",
+          "pos": "n."
+        },
+        {
+          "en": "filter",
+          "zh": "vt. 过滤",
+          "pos": "vt."
+        },
+        {
+          "en": "finance",
+          "zh": "n. 财政，拨款",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Raze Bomber",
+      "hp": 150,
+      "words": [
+        {
+          "en": "financial",
+          "zh": "adj. 财政的",
+          "pos": "adj."
+        },
+        {
+          "en": "financing",
+          "zh": "n. 筹措资金",
+          "pos": "n."
+        },
+        {
+          "en": "finch",
+          "zh": "n. 雀类",
+          "pos": "n."
+        },
+        {
+          "en": "finesse",
+          "zh": "n. 精密技巧，灵巧",
+          "pos": "n."
+        },
+        {
+          "en": "fir",
+          "zh": "n. 杉木",
+          "pos": "n."
+        },
+        {
+          "en": "firm",
+          "zh": "adj. 结实的；坚定的",
+          "pos": "adj."
+        },
+        {
+          "en": "fishy",
+          "zh": "adj. 鱼的，鱼味的；腥臭的",
+          "pos": "adj."
+        },
+        {
+          "en": "fitness",
+          "zh": "n. 健康",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "fittingly",
+          "zh": "adv. 适当地",
+          "pos": "adv."
+        },
+        {
+          "en": "fixed",
+          "zh": "adj. 固定的；不变的",
+          "pos": "adj."
+        },
+        {
+          "en": "fixture",
+          "zh": "n. 固定设备",
+          "pos": "n."
+        },
+        {
+          "en": "flabby",
+          "zh": "adj. （肌肉等）不结实的，松弛的",
+          "pos": "adj."
+        },
+        {
+          "en": "flag",
+          "zh": "n. 旗，标记",
+          "pos": "n."
+        },
+        {
+          "en": "flagella",
+          "zh": "n. 鞭节，鞭毛",
+          "pos": "n."
+        },
+        {
+          "en": "camouflage",
+          "zh": "n./v. 伪装",
+          "pos": "n."
+        },
+        {
+          "en": "flair",
+          "zh": "n. 才能，本领",
+          "pos": "n."
+        },
+        {
+          "en": "flake",
+          "zh": "v. 使成薄片；雪片般落下",
+          "pos": "v."
+        },
+        {
+          "en": "snowflake",
+          "zh": "n. 雪花",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "flamboyant",
+          "zh": "adj. 艳丽的，炫耀的",
+          "pos": "adj."
+        },
+        {
+          "en": "flare",
+          "zh": "n. 闪光；闪耀",
+          "pos": "n."
+        },
+        {
+          "en": "flash",
+          "zh": "n. 闪光；闪现",
+          "pos": "n."
+        },
+        {
+          "en": "flashlight",
+          "zh": "n. 手电筒；闪光灯",
+          "pos": "n."
+        },
+        {
+          "en": "flavor",
+          "zh": "n. 味，风味",
+          "pos": "n."
+        },
+        {
+          "en": "flagella",
+          "zh": "n. 鞭节，鞭毛",
+          "pos": "n."
+        },
+        {
+          "en": "flavoring",
+          "zh": "n. 调味品，调料",
+          "pos": "n."
+        },
+        {
+          "en": "flea",
+          "zh": "n. 跳蚤",
+          "pos": "n."
+        },
+        {
+          "en": "fleeting",
+          "zh": "adj. 短暂的，飞逝的",
+          "pos": "adj."
+        },
+        {
+          "en": "flexible",
+          "zh": "adj. 易弯曲的，柔软的；变通的",
+          "pos": "adj."
+        },
+        {
+          "en": "flexibility",
+          "zh": "n. 灵活性",
+          "pos": "n."
+        },
+        {
+          "en": "flickering",
+          "zh": "adj. 闪烁的，摇曳的，一闪一闪的",
+          "pos": "adj."
+        },
+        {
+          "en": "flint",
+          "zh": "n. 打火石",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "float",
+          "zh": "v. 漂浮，使漂浮",
+          "pos": "v."
+        },
+        {
+          "en": "flock",
+          "zh": "n. （畜、禽）群，大量",
+          "pos": "n."
+        },
+        {
+          "en": "flounder",
+          "zh": "n. 比目鱼",
+          "pos": "n."
+        },
+        {
+          "en": "flourish",
+          "zh": "vi. 繁荣，茂盛；健康成长",
+          "pos": "vi."
+        },
+        {
+          "en": "fluctuate",
+          "zh": "vi. 波动，起伏",
+          "pos": "vi."
+        },
+        {
+          "en": "fluctuation",
+          "zh": "n. 波动，起伏",
+          "pos": "n."
+        },
+        {
+          "en": "fluent",
+          "zh": "adj. 流利的；流畅的",
+          "pos": "adj."
+        },
+        {
+          "en": "fluffy",
+          "zh": "adj. 绒毛的，松软的",
+          "pos": "adj."
+        },
+        {
+          "en": "fluorescent",
+          "zh": "adj. 荧光的",
+          "pos": "adj."
+        },
+        {
+          "en": "flux",
+          "zh": "n. 变迁；涨潮",
+          "pos": "n."
+        },
+        {
+          "en": "influx",
+          "zh": "n. 流入",
+          "pos": "n."
+        },
+        {
+          "en": "foe",
+          "zh": "n. 敌人，敌军",
+          "pos": "n."
+        },
+        {
+          "en": "fog",
+          "zh": "n. 雾",
+          "pos": "n."
+        },
+        {
+          "en": "foghorn",
+          "zh": "n. .雾号(浓雾信号)",
+          "pos": "n."
+        },
+        {
+          "en": "fogged",
+          "zh": "adj. [摄]有灰雾的,不清晰的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

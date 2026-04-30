@@ -1,0 +1,304 @@
+{
+  "day": 55,
+  "title": "Day 55 · turkey → guide book",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "wooded",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "turkey",
+          "zh": "n. 土耳其（横跨欧亚两洲的国家）",
+          "pos": "n."
+        },
+        {
+          "en": "turtle",
+          "zh": "n. 龟，甲鱼；海龟",
+          "pos": "n."
+        },
+        {
+          "en": "vegetation",
+          "zh": "n. 植被；植物，草木；呆板单调的生活",
+          "pos": "n."
+        },
+        {
+          "en": "wasp",
+          "zh": "abbr. 盎格鲁撒克逊系的白人新教徒（White Anglo-Saxon Protestant）",
+          "pos": ""
+        },
+        {
+          "en": "water hyacinth",
+          "zh": "水葫芦，风眼蓝; 凤眼兰",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "water lettuce",
+          "zh": "水浮莲",
+          "pos": ""
+        },
+        {
+          "en": "whale",
+          "zh": "\"n. 鲸；巨大的东西",
+          "pos": "n."
+        },
+        {
+          "en": "wild animals",
+          "zh": "\"na. 野生动物",
+          "pos": ""
+        },
+        {
+          "en": "wing",
+          "zh": "\"n. 翼；翅膀；飞翔；派别；侧厅，耳房，厢房",
+          "pos": "n."
+        },
+        {
+          "en": "wolf",
+          "zh": "\"n. 狼；色狼；残忍贪婪之人",
+          "pos": "n."
+        },
+        {
+          "en": "wood",
+          "zh": "\"n. 木材；木制品；树林",
+          "pos": "n."
+        },
+        {
+          "en": "wooded",
+          "zh": "\"adj. 树木繁茂的；森林多的",
+          "pos": "adj."
+        },
+        {
+          "en": "yew",
+          "zh": "n. 紫杉；紫杉木",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Drone",
+      "hp": 200,
+      "words": [
+        {
+          "en": "zebra",
+          "zh": "\"n. 斑马",
+          "pos": "n."
+        },
+        {
+          "en": "a beach holiday",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "a famous landmark",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "a sightseeing tour",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "a tourist attraction",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "a vast floating city",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "alley",
+          "zh": "n. 小巷；小路；小径",
+          "pos": "n."
+        },
+        {
+          "en": "aquarium",
+          "zh": "n. 水族馆；养鱼池；玻璃缸",
+          "pos": "n."
+        },
+        {
+          "en": "at the seaside",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "avenue",
+          "zh": "n. 大街；林荫大道；(达到某物的)途径，手段，方法，渠道",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "backpack",
+          "zh": "\"n. 双肩背包，背包；远足用的背包",
+          "pos": "n."
+        },
+        {
+          "en": "backpacker",
+          "zh": "n. 背包旅行者",
+          "pos": "n."
+        },
+        {
+          "en": "be stranded on a glacier",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "book",
+          "zh": "\"n. 书籍；卷；帐簿；名册；工作簿",
+          "pos": "n."
+        },
+        {
+          "en": "wooded",
+          "zh": "\"adj. 树木繁茂的；森林多的",
+          "pos": "adj."
+        },
+        {
+          "en": "by the sea",
+          "zh": "\"na. 在海边",
+          "pos": ""
+        },
+        {
+          "en": "camper",
+          "zh": "n. 露营者，野营者",
+          "pos": "n."
+        },
+        {
+          "en": "campfire",
+          "zh": "n. 营火；营火会",
+          "pos": "n."
+        },
+        {
+          "en": "camping",
+          "zh": "\"n. 露营；野营",
+          "pos": "n."
+        },
+        {
+          "en": "camping holiday",
+          "zh": "露营假期",
+          "pos": ""
+        },
+        {
+          "en": "campsite",
+          "zh": "n. 营地",
+          "pos": "n."
+        },
+        {
+          "en": "castle",
+          "zh": "\"n. 城堡；象棋中的车",
+          "pos": "n."
+        },
+        {
+          "en": "checkpoint",
+          "zh": "n. 检查站，关卡",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radianite Colossus",
+      "hp": 300,
+      "words": [
+        {
+          "en": "circus",
+          "zh": "n. 马戏；马戏团",
+          "pos": "n."
+        },
+        {
+          "en": "climber",
+          "zh": "n. 登山者；攀缘植物；尽力改善自己社会地位的人",
+          "pos": "n."
+        },
+        {
+          "en": "cobbled",
+          "zh": "\"adj. 铺有鹅卵石的",
+          "pos": "adj."
+        },
+        {
+          "en": "cruise",
+          "zh": "\"n. 巡航，巡游；乘船游览",
+          "pos": "n."
+        },
+        {
+          "en": "cruise ship",
+          "zh": "\"un. 游船；旅游客轮",
+          "pos": "n."
+        },
+        {
+          "en": "dwelling places",
+          "zh": "奇妙居所",
+          "pos": ""
+        },
+        {
+          "en": "electrum",
+          "zh": "n. 银金矿，金银合金",
+          "pos": "n."
+        },
+        {
+          "en": "encampment",
+          "zh": "n. 营地；露营",
+          "pos": "n."
+        },
+        {
+          "en": "Eurostar",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "five-star",
+          "zh": "adj. 五星级的；第一流的，最高级的",
+          "pos": "adj."
+        },
+        {
+          "en": "footbridge",
+          "zh": "n. 人行桥",
+          "pos": "n."
+        },
+        {
+          "en": "frontier",
+          "zh": "\"n. 前沿；边界；国境",
+          "pos": "n."
+        },
+        {
+          "en": "guest",
+          "zh": "\"n. 客人，宾客；顾客",
+          "pos": "n."
+        },
+        {
+          "en": "guesthouse",
+          "zh": "n. 宾馆；小型家庭旅馆",
+          "pos": "n."
+        },
+        {
+          "en": "guide book",
+          "zh": "\"un. 指南；入门书",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 29,
+  "title": "Day 29 · nutrition → outside",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "omit",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Deadlock Wire",
+      "hp": 100,
+      "words": [
+        {
+          "en": "nutrition",
+          "zh": "n. 营养，营养学；营养品",
+          "pos": "n."
+        },
+        {
+          "en": "object",
+          "zh": "\"n. 目标；物体；客体；宾语",
+          "pos": "n."
+        },
+        {
+          "en": "oblige",
+          "zh": "\"vt. 迫使；强制；赐，施恩惠；责成；义务",
+          "pos": "vt."
+        },
+        {
+          "en": "observe",
+          "zh": "\"vt. 庆祝",
+          "pos": "vt."
+        },
+        {
+          "en": "obsess",
+          "zh": "vt. 迷住，缠住；使…着迷；使…困扰",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "obstacle",
+          "zh": "n. 障碍，干扰；妨害物",
+          "pos": "n."
+        },
+        {
+          "en": "obstruct",
+          "zh": "\"vt. 妨碍；阻塞；遮断",
+          "pos": "vt."
+        },
+        {
+          "en": "obtain",
+          "zh": "\"vi. 获得；流行",
+          "pos": "vi."
+        },
+        {
+          "en": "obvious",
+          "zh": "adj. 明显的；显著的；平淡无奇的",
+          "pos": "adj."
+        },
+        {
+          "en": "occasion",
+          "zh": "\"n. 时机，机会；场合；理由",
+          "pos": "n."
+        },
+        {
+          "en": "occupation",
+          "zh": "n. 职业；占有；消遣；占有期",
+          "pos": "n."
+        },
+        {
+          "en": "occupy",
+          "zh": "vt. 占据，占领；居住；使忙碌",
+          "pos": "vt."
+        },
+        {
+          "en": "occur",
+          "zh": "vi. 发生；出现；存在",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "odd",
+          "zh": "\"adj. 奇数的；古怪的；剩余的；临时的；零散的",
+          "pos": "adj."
+        },
+        {
+          "en": "offer",
+          "zh": "\"vt. 提供；出价；试图",
+          "pos": "vt."
+        },
+        {
+          "en": "office",
+          "zh": "n. 办公室；政府机关；官职；营业处",
+          "pos": "n."
+        },
+        {
+          "en": "off-putting",
+          "zh": "adj. 令人不愉快的；老是推托的",
+          "pos": "adj."
+        },
+        {
+          "en": "Olympic",
+          "zh": "adj. 奥林匹斯山的，奥林匹亚的；奥林匹克的",
+          "pos": "adj."
+        },
+        {
+          "en": "omit",
+          "zh": "vt. 省略；遗漏；删除；疏忽",
+          "pos": "vt."
+        },
+        {
+          "en": "on-board",
+          "zh": "adj. 在船上的；在车上的；在飞机上的",
+          "pos": "adj."
+        },
+        {
+          "en": "once",
+          "zh": "\"adv. 一次；曾经",
+          "pos": "adv."
+        },
+        {
+          "en": "online",
+          "zh": "\"adj. 联机的；在线的",
+          "pos": "adj."
+        },
+        {
+          "en": "open",
+          "zh": "\"adj. 公开的；敞开的；空旷的；坦率的；营业着的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "open-air",
+          "zh": "adj. 露天的；户外的，野外的",
+          "pos": "adj."
+        },
+        {
+          "en": "omit",
+          "zh": "vt. 省略；遗漏；删除；疏忽",
+          "pos": "vt."
+        },
+        {
+          "en": "operate",
+          "zh": "\"vi. 运转；动手术；起作用",
+          "pos": "vi."
+        },
+        {
+          "en": "operation",
+          "zh": "n. 操作；经营； 手术； 运算",
+          "pos": "n."
+        },
+        {
+          "en": "opinion",
+          "zh": "n. 意见；主张",
+          "pos": "n."
+        },
+        {
+          "en": "opponent",
+          "zh": "\"n. 对手；反对者；敌手",
+          "pos": "n."
+        },
+        {
+          "en": "opportunity",
+          "zh": "n. 时机，机会",
+          "pos": "n."
+        },
+        {
+          "en": "oppose",
+          "zh": "\"vt. 反对；对抗，抗争",
+          "pos": "vt."
+        },
+        {
+          "en": "opposite",
+          "zh": "\"adj. 相反的；对面的；对立的",
+          "pos": "adj."
+        },
+        {
+          "en": "opt to do sth.",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "option",
+          "zh": "n. 选项；选择权；买卖的特权",
+          "pos": "n."
+        },
+        {
+          "en": "oral",
+          "zh": "\"n. 口试",
+          "pos": "n."
+        },
+        {
+          "en": "orbit",
+          "zh": "\"n. 轨道；眼眶；势力范围；生活常规",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "order",
+          "zh": "\"n. 命令；顺序；规则； 定单",
+          "pos": "n."
+        },
+        {
+          "en": "ordinary",
+          "zh": "\"adj. 普通的；平凡的；平常的",
+          "pos": "adj."
+        },
+        {
+          "en": "organize",
+          "zh": "\"vt. 组织；使有系统化；给予生机；组织成立工会等",
+          "pos": "vt."
+        },
+        {
+          "en": "orientate",
+          "zh": "\"vi. 向东；定向",
+          "pos": "vi."
+        },
+        {
+          "en": "original",
+          "zh": "\"n. 原件；原作；原物；原型",
+          "pos": "n."
+        },
+        {
+          "en": "other",
+          "zh": "\"adj. 其他的，另外的",
+          "pos": "adj."
+        },
+        {
+          "en": "otherwise",
+          "zh": "\"adv. 否则；另外；在其他方面",
+          "pos": "adv."
+        },
+        {
+          "en": "ought",
+          "zh": "\"aux. 应该，应当；大概",
+          "pos": ""
+        },
+        {
+          "en": "out of the blue",
+          "zh": "\"un. 难得到的；突然；突如其来；出人意料",
+          "pos": "n."
+        },
+        {
+          "en": "outdoor",
+          "zh": "adj. 户外的；露天的；野外的（等于out-of-door）",
+          "pos": "adj."
+        },
+        {
+          "en": "outer",
+          "zh": "\"adj. 外面的，外部的；远离中心的",
+          "pos": "adj."
+        },
+        {
+          "en": "outline",
+          "zh": "\"n. 轮廓；大纲；概要；略图",
+          "pos": "n."
+        },
+        {
+          "en": "outlook",
+          "zh": "\"n. 展望；观点；景色",
+          "pos": "n."
+        },
+        {
+          "en": "outset",
+          "zh": "n. 开始；开端",
+          "pos": "n."
+        },
+        {
+          "en": "outside",
+          "zh": "\"adj. 外面的，外部的；外来的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

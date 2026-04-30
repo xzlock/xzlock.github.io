@@ -1,0 +1,304 @@
+{
+  "day": 28,
+  "title": "Day 028 · diagonally → discipline",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "diet",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Sova Scout",
+      "hp": 100,
+      "words": [
+        {
+          "en": "diagonally",
+          "zh": "adv. 成对角线地，斜对地",
+          "pos": "adv."
+        },
+        {
+          "en": "diagram",
+          "zh": "n. 图表",
+          "pos": "n."
+        },
+        {
+          "en": "dialect",
+          "zh": "n. 方言，土话",
+          "pos": "n."
+        },
+        {
+          "en": "dialogue",
+          "zh": "n. 对话",
+          "pos": "n."
+        },
+        {
+          "en": "diameter",
+          "zh": "n. 直径",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Raze Bomber",
+      "hp": 150,
+      "words": [
+        {
+          "en": "dictate",
+          "zh": "vt. 规定；决定，确定",
+          "pos": "vt."
+        },
+        {
+          "en": "diction",
+          "zh": "n. 措辞，用语",
+          "pos": "n."
+        },
+        {
+          "en": "prediction",
+          "zh": "n. 预言，预报",
+          "pos": "n."
+        },
+        {
+          "en": "jurisdiction",
+          "zh": "n. 权限",
+          "pos": "n."
+        },
+        {
+          "en": "diet",
+          "zh": "n. 饮食，食物",
+          "pos": "n."
+        },
+        {
+          "en": "dietary",
+          "zh": "adj. 饮食的",
+          "pos": "adj."
+        },
+        {
+          "en": "dieter",
+          "zh": "n. 节食者，减肥者",
+          "pos": "n."
+        },
+        {
+          "en": "dietitian",
+          "zh": "n. 营养学家",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "dietetics",
+          "zh": "n. 营养学",
+          "pos": "n."
+        },
+        {
+          "en": "differentiate",
+          "zh": "v. 区分，区别",
+          "pos": "v."
+        },
+        {
+          "en": "undifferentiated",
+          "zh": "adj. 无差别的，无显著特征的",
+          "pos": "adj."
+        },
+        {
+          "en": "diffuse",
+          "zh": "v. 扩散；散播",
+          "pos": "v."
+        },
+        {
+          "en": "digestion",
+          "zh": "n. 消化",
+          "pos": "n."
+        },
+        {
+          "en": "digest",
+          "zh": "vt. 消化",
+          "pos": "vt."
+        },
+        {
+          "en": "digestive",
+          "zh": "adj. 消化的，助消化的",
+          "pos": "adj."
+        },
+        {
+          "en": "indigestion",
+          "zh": "n. 消化不良",
+          "pos": "n."
+        },
+        {
+          "en": "dignity",
+          "zh": "n. 尊严，高贵",
+          "pos": "n."
+        },
+        {
+          "en": "digression",
+          "zh": "n. 离题，扯到枝节上",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "dilate",
+          "zh": "vt. 使膨胀，使扩大",
+          "pos": "vt."
+        },
+        {
+          "en": "dilemma",
+          "zh": "n. 困境，进退两难",
+          "pos": "n."
+        },
+        {
+          "en": "diligent",
+          "zh": "adj. 勤勉的，勤奋的",
+          "pos": "adj."
+        },
+        {
+          "en": "diligently",
+          "zh": "adv. 勤勉地，尽职地，小心翼翼地",
+          "pos": "adv."
+        },
+        {
+          "en": "dilute",
+          "zh": "vt. 稀释，淡化",
+          "pos": "vt."
+        },
+        {
+          "en": "dilution",
+          "zh": "n. 稀释，淡化",
+          "pos": "n."
+        },
+        {
+          "en": "dim",
+          "zh": "adj. 暗淡的，模糊的",
+          "pos": "adj."
+        },
+        {
+          "en": "dimly",
+          "zh": "adv. 朦胧地，模糊地",
+          "pos": "adv."
+        },
+        {
+          "en": "dime",
+          "zh": "n. （美）一角硬币",
+          "pos": "n."
+        },
+        {
+          "en": "dimension",
+          "zh": "n. 尺寸；尺度",
+          "pos": "n."
+        },
+        {
+          "en": "dimensional",
+          "zh": "adj. 空间的",
+          "pos": "adj."
+        },
+        {
+          "en": "diet",
+          "zh": "n. 饮食，食物",
+          "pos": "n."
+        },
+        {
+          "en": "diminish",
+          "zh": "v. （使）减少，（使）变小",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "dinosaur",
+          "zh": "n. 恐龙",
+          "pos": "n."
+        },
+        {
+          "en": "dioxide",
+          "zh": "n. 二氧化物",
+          "pos": "n."
+        },
+        {
+          "en": "carbon dioxide",
+          "zh": "n. 二氧化碳",
+          "pos": "n."
+        },
+        {
+          "en": "diplomacy",
+          "zh": "n. 外交，交际手腕",
+          "pos": "n."
+        },
+        {
+          "en": "diplomatic",
+          "zh": "adj. 外交的；老练的",
+          "pos": "adj."
+        },
+        {
+          "en": "disadvantage",
+          "zh": "n. 缺点，坏处，不利",
+          "pos": "n."
+        },
+        {
+          "en": "disaster",
+          "zh": "n. 灾难，不幸；彻底的失败",
+          "pos": "n."
+        },
+        {
+          "en": "disastrous",
+          "zh": "adj. 损失惨重的；悲伤的",
+          "pos": "adj."
+        },
+        {
+          "en": "discard",
+          "zh": "vt. 丢弃",
+          "pos": "vt."
+        },
+        {
+          "en": "discern",
+          "zh": "vt. 看出；察觉到",
+          "pos": "vt."
+        },
+        {
+          "en": "discernible",
+          "zh": "adj. 可识别的=discernable",
+          "pos": "adj."
+        },
+        {
+          "en": "discerning",
+          "zh": "adj. 有识别能力的；眼光敏锐的",
+          "pos": "adj."
+        },
+        {
+          "en": "discharge",
+          "zh": "vt. 释放；排出",
+          "pos": "vt."
+        },
+        {
+          "en": "disciple",
+          "zh": "n. 门徒，弟子",
+          "pos": "n."
+        },
+        {
+          "en": "discipline",
+          "zh": "n. 纪律，训练",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

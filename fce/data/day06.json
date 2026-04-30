@@ -1,0 +1,304 @@
+{
+  "day": 6,
+  "title": "Day 06 · browse → champion",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "brutal",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Reyna Mote",
+      "hp": 100,
+      "words": [
+        {
+          "en": "browse",
+          "zh": "\"n. 浏览；吃草",
+          "pos": "n."
+        },
+        {
+          "en": "brush",
+          "zh": "\"n. 刷子；画笔；毛笔；争吵；与某人有效冲突；灌木丛地带；矮树丛；狐狸尾巴",
+          "pos": "n."
+        },
+        {
+          "en": "brutal",
+          "zh": "adj. 残忍的；野蛮的，不讲理的",
+          "pos": "adj."
+        },
+        {
+          "en": "budget",
+          "zh": "\"n. 预算，预算费",
+          "pos": "n."
+        },
+        {
+          "en": "build",
+          "zh": "\"n. 构造；体形；体格",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "KAY/O Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "bump into",
+          "zh": "\"v. 偶然碰到；邂逅；遇见；(意外)撞到",
+          "pos": "v."
+        },
+        {
+          "en": "bunch",
+          "zh": "\"n. 群；串；突出物",
+          "pos": "n."
+        },
+        {
+          "en": "burial",
+          "zh": "\"n. 埋葬；葬礼；弃绝",
+          "pos": "n."
+        },
+        {
+          "en": "burrow",
+          "zh": "\"n. （兔、狐等的）洞穴，地道；藏身处，住处",
+          "pos": "n."
+        },
+        {
+          "en": "burst",
+          "zh": "\"n. 爆发，突发；爆炸",
+          "pos": "n."
+        },
+        {
+          "en": "bury",
+          "zh": "vt. 埋葬；隐藏",
+          "pos": "vt."
+        },
+        {
+          "en": "business",
+          "zh": "n. 商业； 生意； 交易；事情",
+          "pos": "n."
+        },
+        {
+          "en": "businesswoman",
+          "zh": "n. 女商人",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "bustling",
+          "zh": "adj. 熙熙攘攘的；忙乱的",
+          "pos": "adj."
+        },
+        {
+          "en": "buzz",
+          "zh": "\"n. 嗡嗡声",
+          "pos": "n."
+        },
+        {
+          "en": "bypass",
+          "zh": "\"n. 旁路； 支路",
+          "pos": "n."
+        },
+        {
+          "en": "calculate",
+          "zh": "\"vt. 计算；预测；认为；打算",
+          "pos": "vt."
+        },
+        {
+          "en": "call",
+          "zh": "\"n. 电话；呼叫；要求；访问",
+          "pos": "n."
+        },
+        {
+          "en": "calm",
+          "zh": "\"n. 风平浪静",
+          "pos": "n."
+        },
+        {
+          "en": "camouflage",
+          "zh": "\"n. 伪装，掩饰",
+          "pos": "n."
+        },
+        {
+          "en": "camp",
+          "zh": "\"n. 露营",
+          "pos": "n."
+        },
+        {
+          "en": "campaign",
+          "zh": "\"n. 运动；活动；战役",
+          "pos": "n."
+        },
+        {
+          "en": "cancel",
+          "zh": "\"vi. 取消，撤销",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "brutal",
+          "zh": "adj. 残忍的；野蛮的，不讲理的",
+          "pos": "adj."
+        },
+        {
+          "en": "candidate",
+          "zh": "n. 候选人，候补者；应试者",
+          "pos": "n."
+        },
+        {
+          "en": "capable",
+          "zh": "adj. 能干的，能胜任的；有才华的",
+          "pos": "adj."
+        },
+        {
+          "en": "capital",
+          "zh": "\"n. 首都，省会；资金；大写字母；资本家",
+          "pos": "n."
+        },
+        {
+          "en": "captive",
+          "zh": "\"n. 俘虏；迷恋者",
+          "pos": "n."
+        },
+        {
+          "en": "captivity",
+          "zh": "n. 囚禁；被关",
+          "pos": "n."
+        },
+        {
+          "en": "capture",
+          "zh": "\"n. 捕获；战利品，俘虏",
+          "pos": "n."
+        },
+        {
+          "en": "care",
+          "zh": "\"n. 关怀；照料；谨慎；忧虑",
+          "pos": "n."
+        },
+        {
+          "en": "carry",
+          "zh": "\"n. 运载； 进位；射程",
+          "pos": "n."
+        },
+        {
+          "en": "cascade",
+          "zh": "\"n. 小瀑布，瀑布状物；串联",
+          "pos": "n."
+        },
+        {
+          "en": "case",
+          "zh": "\"n. 情况；实例；箱",
+          "pos": "n."
+        },
+        {
+          "en": "cast",
+          "zh": "\"n. 投掷，抛；铸件， 铸型；演员阵容；脱落物",
+          "pos": "n."
+        },
+        {
+          "en": "casually",
+          "zh": "adv. 随便地；偶然地；临时地",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Kingdom Titan",
+      "hp": 300,
+      "words": [
+        {
+          "en": "casualty",
+          "zh": "n. 意外事故；伤亡人员；急诊室",
+          "pos": "n."
+        },
+        {
+          "en": "catalogue",
+          "zh": "\"n. 目录；（美）大学情况一览",
+          "pos": "n."
+        },
+        {
+          "en": "catapult",
+          "zh": "\"n. 弹弓；石弩；飞机弹射器；（飞机上的）座椅弹射器",
+          "pos": "n."
+        },
+        {
+          "en": "catch",
+          "zh": "\"n. 捕捉；捕获物；窗钩",
+          "pos": "n."
+        },
+        {
+          "en": "cater",
+          "zh": "vt. 投合，迎合；满足需要；提供饮食及服务",
+          "pos": "vt."
+        },
+        {
+          "en": "cause",
+          "zh": "\"n. 原因；事业；目标",
+          "pos": "n."
+        },
+        {
+          "en": "celebrate",
+          "zh": "\"vt. 庆祝；举行；赞美；祝贺；宣告",
+          "pos": "vt."
+        },
+        {
+          "en": "celebrity",
+          "zh": "n. 名人；名声",
+          "pos": "n."
+        },
+        {
+          "en": "centre",
+          "zh": "\"n. 中心",
+          "pos": "n."
+        },
+        {
+          "en": "ceremony",
+          "zh": "n. 典礼，仪式；礼节，礼仪；客套，虚礼",
+          "pos": "n."
+        },
+        {
+          "en": "certain",
+          "zh": "\"adj. 某一；必然的；确信；无疑的；有把握的",
+          "pos": "adj."
+        },
+        {
+          "en": "certificate",
+          "zh": "\"n. 证书；执照，文凭",
+          "pos": "n."
+        },
+        {
+          "en": "chain",
+          "zh": "\"n. 链；束缚；枷锁",
+          "pos": "n."
+        },
+        {
+          "en": "challenge",
+          "zh": "\"n. 挑战；怀疑",
+          "pos": "n."
+        },
+        {
+          "en": "champion",
+          "zh": "\"n. 冠军；拥护者；战士",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

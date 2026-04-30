@@ -1,0 +1,304 @@
+{
+  "day": 67,
+  "title": "Day 067 · plagiarism → pole",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "pollute",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Chamber Pawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "plagiarism",
+          "zh": "n. 剽窃，抄袭",
+          "pos": "n."
+        },
+        {
+          "en": "plague",
+          "zh": "n. 瘟疫，灾祸",
+          "pos": "n."
+        },
+        {
+          "en": "plain",
+          "zh": "n. 平原，草原",
+          "pos": "n."
+        },
+        {
+          "en": "plainly",
+          "zh": "adv. 清楚地，明显地",
+          "pos": "adv."
+        },
+        {
+          "en": "plainspoken",
+          "zh": "adj. 直言不讳的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Skye Falcon",
+      "hp": 150,
+      "words": [
+        {
+          "en": "floodplain",
+          "zh": "n. 泛滥平原, 涝原, 漫滩",
+          "pos": "n."
+        },
+        {
+          "en": "planet",
+          "zh": "n. 行星",
+          "pos": "n."
+        },
+        {
+          "en": "plank",
+          "zh": "n. 厚木板",
+          "pos": "n."
+        },
+        {
+          "en": "plantation",
+          "zh": "n. 种植园",
+          "pos": "n."
+        },
+        {
+          "en": "plasma",
+          "zh": "n. 血浆",
+          "pos": "n."
+        },
+        {
+          "en": "plaster",
+          "zh": "n. 灰泥，石膏",
+          "pos": "n."
+        },
+        {
+          "en": "plate",
+          "zh": "n. 盘子；版图；大片平面",
+          "pos": "n."
+        },
+        {
+          "en": "platelike",
+          "zh": "adj. 层状的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "tinplate",
+          "zh": "n. 镀锡铁皮, 马口铁",
+          "pos": "n."
+        },
+        {
+          "en": "plateau",
+          "zh": "n. 高原，高地",
+          "pos": "n."
+        },
+        {
+          "en": "platform",
+          "zh": "n. 月台，平台，讲坛",
+          "pos": "n."
+        },
+        {
+          "en": "platitudinous",
+          "zh": "adj. 陈词滥调的，陈腐的",
+          "pos": "adj."
+        },
+        {
+          "en": "playwright",
+          "zh": "n. 剧作家",
+          "pos": "n."
+        },
+        {
+          "en": "pleasing",
+          "zh": "adj. 令人高兴的, 愉快的, 合意的",
+          "pos": "adj."
+        },
+        {
+          "en": "pleasure",
+          "zh": "n. 快乐",
+          "pos": "n."
+        },
+        {
+          "en": "pliable",
+          "zh": "adj. 易弯的，柔软的",
+          "pos": "adj."
+        },
+        {
+          "en": "pliant",
+          "zh": "adj. 顺从的；可弯曲的",
+          "pos": "adj."
+        },
+        {
+          "en": "plight",
+          "zh": "n. （恶劣的）情势，困境",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Clove Revive",
+      "hp": 250,
+      "words": [
+        {
+          "en": "plow",
+          "zh": "n. 犁",
+          "pos": "n."
+        },
+        {
+          "en": "plumage",
+          "zh": "n. 鸟类羽毛",
+          "pos": "n."
+        },
+        {
+          "en": "plumb",
+          "zh": "adj. 垂直的",
+          "pos": "adj."
+        },
+        {
+          "en": "plumbing",
+          "zh": "n. （供水）管道系统",
+          "pos": "n."
+        },
+        {
+          "en": "plump",
+          "zh": "adj. 胖嘟嘟的，丰满的",
+          "pos": "adj."
+        },
+        {
+          "en": "plunge",
+          "zh": "vi. 跳进；投入，陷入",
+          "pos": "vi."
+        },
+        {
+          "en": "pocketbook",
+          "zh": "n. 钱袋，皮夹",
+          "pos": "n."
+        },
+        {
+          "en": "polarize",
+          "zh": "vt. 使极化，使两极分化",
+          "pos": "vt."
+        },
+        {
+          "en": "polish",
+          "zh": "vt. 擦亮",
+          "pos": "vt."
+        },
+        {
+          "en": "ploished",
+          "zh": "adj. 擦亮的",
+          "pos": "adj."
+        },
+        {
+          "en": "pollute",
+          "zh": "vt. 污染；玷污",
+          "pos": "vt."
+        },
+        {
+          "en": "politics",
+          "zh": "n. 政治；政见；政治学",
+          "pos": "n."
+        },
+        {
+          "en": "poll",
+          "zh": "n. 选举之投票；民意测验",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "pollinate",
+          "zh": "vt. 对…授粉",
+          "pos": "vt."
+        },
+        {
+          "en": "pollination",
+          "zh": "n. 授粉",
+          "pos": "n."
+        },
+        {
+          "en": "pollen",
+          "zh": "n. 花粉",
+          "pos": "n."
+        },
+        {
+          "en": "pollinator",
+          "zh": "n. 传粉媒介，传粉昆虫",
+          "pos": "n."
+        },
+        {
+          "en": "pollute",
+          "zh": "vt. 污染；玷污",
+          "pos": "vt."
+        },
+        {
+          "en": "pollution",
+          "zh": "n. 污染；玷污",
+          "pos": "n."
+        },
+        {
+          "en": "pollutant",
+          "zh": "n. 污染物质",
+          "pos": "n."
+        },
+        {
+          "en": "polygon",
+          "zh": "n. 多边形",
+          "pos": "n."
+        },
+        {
+          "en": "polygonal",
+          "zh": "adj. 多角形的，多边形的",
+          "pos": "adj."
+        },
+        {
+          "en": "popular",
+          "zh": "adj. 流行的，受欢迎的",
+          "pos": "adj."
+        },
+        {
+          "en": "popularity",
+          "zh": "n. 流行，受大众欢迎",
+          "pos": "n."
+        },
+        {
+          "en": "populous",
+          "zh": "adj. 人口稠密的，人口多的",
+          "pos": "adj."
+        },
+        {
+          "en": "porcelain",
+          "zh": "n. 瓷器, 瓷",
+          "pos": "n."
+        },
+        {
+          "en": "pore",
+          "zh": "n. 小孔，气孔",
+          "pos": "n."
+        },
+        {
+          "en": "pole",
+          "zh": "n. （南北）极；磁极，电极",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

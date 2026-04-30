@@ -1,0 +1,304 @@
+{
+  "day": 32,
+  "title": "Day 032 · durable → elicit",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "ecosystem",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Viper Spawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "durable",
+          "zh": "adj. 持久的；耐用的",
+          "pos": "adj."
+        },
+        {
+          "en": "duration",
+          "zh": "n. 持续时间",
+          "pos": "n."
+        },
+        {
+          "en": "dwarf",
+          "zh": "n. 侏儒",
+          "pos": "n."
+        },
+        {
+          "en": "dwell",
+          "zh": "vi. 居住，生活于",
+          "pos": "vi."
+        },
+        {
+          "en": "dweller",
+          "zh": "n. 居住者，居民",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Skye Falcon",
+      "hp": 150,
+      "words": [
+        {
+          "en": "dwelling",
+          "zh": "n. 住处，寓所",
+          "pos": "n."
+        },
+        {
+          "en": "dye",
+          "zh": "n. 颜料，燃料",
+          "pos": "n."
+        },
+        {
+          "en": "dynamic",
+          "zh": "adj. 动力的；动态的",
+          "pos": "adj."
+        },
+        {
+          "en": "dynamics",
+          "zh": "n. 动力学",
+          "pos": "n."
+        },
+        {
+          "en": "aerodynamics",
+          "zh": "n. 空气动力学",
+          "pos": "n."
+        },
+        {
+          "en": "thermodynamics",
+          "zh": "n. 热力学",
+          "pos": "n."
+        },
+        {
+          "en": "eager",
+          "zh": "adj. 渴望的；热心的",
+          "pos": "adj."
+        },
+        {
+          "en": "earthquake",
+          "zh": "n. 地震",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "eccentric",
+          "zh": "adj./n. 古怪的（人），异常的（人）",
+          "pos": "adj."
+        },
+        {
+          "en": "eccentricity",
+          "zh": "n. 反常，怪癖",
+          "pos": "n."
+        },
+        {
+          "en": "eclecticism",
+          "zh": "n. 折衷主义",
+          "pos": "n."
+        },
+        {
+          "en": "eclipse",
+          "zh": "n. 日蚀，月蚀",
+          "pos": "n."
+        },
+        {
+          "en": "ecological",
+          "zh": "adj. 生态的；生态学的",
+          "pos": "adj."
+        },
+        {
+          "en": "ecologist",
+          "zh": "n. 生态学者",
+          "pos": "n."
+        },
+        {
+          "en": "economical",
+          "zh": "adj. 经济的，节俭的",
+          "pos": "adj."
+        },
+        {
+          "en": "economics",
+          "zh": "n. 经济学",
+          "pos": "n."
+        },
+        {
+          "en": "economize",
+          "zh": "vi. 节约，节省",
+          "pos": "vi."
+        },
+        {
+          "en": "ecosystem",
+          "zh": "n. 生态系统",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "edge",
+          "zh": "n. 边缘",
+          "pos": "n."
+        },
+        {
+          "en": "edible",
+          "zh": "adj. 可食用的",
+          "pos": "adj."
+        },
+        {
+          "en": "edifice",
+          "zh": "n. 宏伟的建筑物",
+          "pos": "n."
+        },
+        {
+          "en": "educable",
+          "zh": "adj. 可教育的，可培养的",
+          "pos": "adj."
+        },
+        {
+          "en": "educated",
+          "zh": "adj. 受过教育的，有教养的",
+          "pos": "adj."
+        },
+        {
+          "en": "education",
+          "zh": "n. 教育，培养",
+          "pos": "n."
+        },
+        {
+          "en": "ecosystem",
+          "zh": "n. 生态系统",
+          "pos": "n."
+        },
+        {
+          "en": "effective",
+          "zh": "adj. 有效的；生效的",
+          "pos": "adj."
+        },
+        {
+          "en": "effectiveness",
+          "zh": "n. 效力",
+          "pos": "n."
+        },
+        {
+          "en": "efficient",
+          "zh": "adj. 生效的；能干的，有效率的",
+          "pos": "adj."
+        },
+        {
+          "en": "efficiency",
+          "zh": "n. 效率，功效",
+          "pos": "n."
+        },
+        {
+          "en": "effluent",
+          "zh": "n. 流出物",
+          "pos": "n."
+        },
+        {
+          "en": "eject",
+          "zh": "vt. 喷出，喷射",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "elaborate",
+          "zh": "adj. 精细的，精心的；详尽的",
+          "pos": "adj."
+        },
+        {
+          "en": "elaborately",
+          "zh": "adv. 精细地，详尽地",
+          "pos": "adv."
+        },
+        {
+          "en": "elasticity",
+          "zh": "n. 弹力，弹性",
+          "pos": "n."
+        },
+        {
+          "en": "inelastic",
+          "zh": "adj. 无弹性的",
+          "pos": "adj."
+        },
+        {
+          "en": "election",
+          "zh": "n. 选举；当选",
+          "pos": "n."
+        },
+        {
+          "en": "selection",
+          "zh": "n. 选择；精选品",
+          "pos": "n."
+        },
+        {
+          "en": "electron",
+          "zh": "n. 电子",
+          "pos": "n."
+        },
+        {
+          "en": "elegant",
+          "zh": "adj. 雅致的",
+          "pos": "adj."
+        },
+        {
+          "en": "elegance",
+          "zh": "n. 高雅, 典雅, 优雅, 雅致",
+          "pos": "n."
+        },
+        {
+          "en": "element",
+          "zh": "n. 成分；要素",
+          "pos": "n."
+        },
+        {
+          "en": "elementary",
+          "zh": "adj. 基本的，初级的",
+          "pos": "adj."
+        },
+        {
+          "en": "elevate",
+          "zh": "vt. 举起；抬高；使上升",
+          "pos": "vt."
+        },
+        {
+          "en": "elevation",
+          "zh": "n. 高度，海拔",
+          "pos": "n."
+        },
+        {
+          "en": "elevator",
+          "zh": "n. 电梯，起重机；活动谷仓",
+          "pos": "n."
+        },
+        {
+          "en": "elicit",
+          "zh": "vt. 得出；引出",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

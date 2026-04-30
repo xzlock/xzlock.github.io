@@ -1,0 +1,304 @@
+{
+  "day": 3,
+  "title": "Day 003 · adhere → aggravate",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "affection",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Skye Pup",
+      "hp": 100,
+      "words": [
+        {
+          "en": "adhere",
+          "zh": "vi. 黏附，粘牢",
+          "pos": "vi."
+        },
+        {
+          "en": "adhesive",
+          "zh": "n. 粘着物",
+          "pos": "n."
+        },
+        {
+          "en": "adjacent",
+          "zh": "adj. 毗连的，邻近的",
+          "pos": "adj."
+        },
+        {
+          "en": "adjoin",
+          "zh": "vt. 毗连，邻近",
+          "pos": "vt."
+        },
+        {
+          "en": "adjoining",
+          "zh": "adj. 毗邻的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Jett Blitz",
+      "hp": 150,
+      "words": [
+        {
+          "en": "adjunct",
+          "zh": "n. 附件，附属",
+          "pos": "n."
+        },
+        {
+          "en": "adjust",
+          "zh": "vt. 调整；使适于",
+          "pos": "vt."
+        },
+        {
+          "en": "adjustment",
+          "zh": "n. 调整",
+          "pos": "n."
+        },
+        {
+          "en": "administer",
+          "zh": "vt. 管理",
+          "pos": "vt."
+        },
+        {
+          "en": "administration",
+          "zh": "n. 经营，管理",
+          "pos": "n."
+        },
+        {
+          "en": "administrative",
+          "zh": "adj. 管理的；行政的",
+          "pos": "adj."
+        },
+        {
+          "en": "administrator",
+          "zh": "n. 管理者；行政官",
+          "pos": "n."
+        },
+        {
+          "en": "admire",
+          "zh": "vt. 钦佩，崇拜；欣赏",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "admiration",
+          "zh": "n. 钦佩，赞美",
+          "pos": "n."
+        },
+        {
+          "en": "admit",
+          "zh": "vt. 准许进入",
+          "pos": "vt."
+        },
+        {
+          "en": "admittedly",
+          "zh": "adv. 公认地；诚然，无可否认地",
+          "pos": "adv."
+        },
+        {
+          "en": "adobe",
+          "zh": "n. 泥砖，土坯",
+          "pos": "n."
+        },
+        {
+          "en": "adopt",
+          "zh": "vt. 采用，采纳",
+          "pos": "vt."
+        },
+        {
+          "en": "adoption",
+          "zh": "n. 采用",
+          "pos": "n."
+        },
+        {
+          "en": "adorn",
+          "zh": "vt. 装饰",
+          "pos": "vt."
+        },
+        {
+          "en": "adornment",
+          "zh": "n. 装饰；装饰品",
+          "pos": "n."
+        },
+        {
+          "en": "unadorned",
+          "zh": "adj. 未装饰的，朴实的",
+          "pos": "adj."
+        },
+        {
+          "en": "advance",
+          "zh": "vt. 提高，发展；提升",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "advancement",
+          "zh": "n. 进展；提升",
+          "pos": "n."
+        },
+        {
+          "en": "advanced",
+          "zh": "adj. 高级的；年老的；先进的",
+          "pos": "adj."
+        },
+        {
+          "en": "advent",
+          "zh": "n. 出现，到来",
+          "pos": "n."
+        },
+        {
+          "en": "adventure",
+          "zh": "n. 冒险经历",
+          "pos": "n."
+        },
+        {
+          "en": "affection",
+          "zh": "n. 友爱，挚爱，情爱",
+          "pos": "n."
+        },
+        {
+          "en": "adventurous",
+          "zh": "adj. 喜欢冒险的，敢做敢为的",
+          "pos": "adj."
+        },
+        {
+          "en": "adventurer",
+          "zh": "n. 冒险家",
+          "pos": "n."
+        },
+        {
+          "en": "adverse",
+          "zh": "adj. 负面的，不利的",
+          "pos": "adj."
+        },
+        {
+          "en": "adversely",
+          "zh": "adv. 相反地；不利地",
+          "pos": "adv."
+        },
+        {
+          "en": "adversity",
+          "zh": "n. 不幸，灾难",
+          "pos": "n."
+        },
+        {
+          "en": "advocate",
+          "zh": "n. 提倡者，主张者，拥护者",
+          "pos": "n."
+        },
+        {
+          "en": "aesthetic",
+          "zh": "adj. 美学的，审美的",
+          "pos": "adj."
+        },
+        {
+          "en": "anesthetic",
+          "zh": "n. 麻醉剂",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "affect",
+          "zh": "v. 影响；假装",
+          "pos": "v."
+        },
+        {
+          "en": "affected",
+          "zh": "adj. 装模作样的",
+          "pos": "adj."
+        },
+        {
+          "en": "affection",
+          "zh": "n. 友爱，挚爱，情爱",
+          "pos": "n."
+        },
+        {
+          "en": "affective",
+          "zh": "adj. 感情的，表达感情的",
+          "pos": "adj."
+        },
+        {
+          "en": "affectionate",
+          "zh": "adj. 亲爱的，挚爱的",
+          "pos": "adj."
+        },
+        {
+          "en": "affiliate",
+          "zh": "vt. 使隶属；接纳为成员",
+          "pos": "vt."
+        },
+        {
+          "en": "affinity",
+          "zh": "n. 紧密关系",
+          "pos": "n."
+        },
+        {
+          "en": "affirm",
+          "zh": "vt. 断言；证实，确认",
+          "pos": "vt."
+        },
+        {
+          "en": "afflict",
+          "zh": "vt. 折磨；使苦恼",
+          "pos": "vt."
+        },
+        {
+          "en": "affliction",
+          "zh": "n. 痛苦，苦恼",
+          "pos": "n."
+        },
+        {
+          "en": "affluent",
+          "zh": "adj. 富有的，丰富的",
+          "pos": "adj."
+        },
+        {
+          "en": "afford",
+          "zh": "vt. 付得起；冒险做",
+          "pos": "vt."
+        },
+        {
+          "en": "affordable",
+          "zh": "adj. 负担得起的，便宜的",
+          "pos": "adj."
+        },
+        {
+          "en": "agenda",
+          "zh": "n. 日程，议程",
+          "pos": "n."
+        },
+        {
+          "en": "aggravate",
+          "zh": "vt. 使恶化，使加重",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

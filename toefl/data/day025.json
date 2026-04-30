@@ -1,0 +1,304 @@
+{
+  "day": 25,
+  "title": "Day 025 · outdated → deft",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "deciduous",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "KAY/O Unit",
+      "hp": 100,
+      "words": [
+        {
+          "en": "outdated",
+          "zh": "adj. 过时的，不流行的",
+          "pos": "adj."
+        },
+        {
+          "en": "validate",
+          "zh": "vt. （法律）使有效，使生效",
+          "pos": "vt."
+        },
+        {
+          "en": "inundate",
+          "zh": "vt. 淹没",
+          "pos": "vt."
+        },
+        {
+          "en": "daunting",
+          "zh": "adj. 使人畏缩的",
+          "pos": "adj."
+        },
+        {
+          "en": "dawn",
+          "zh": "n. 黎明；开端，开始",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "dawning",
+          "zh": "n. 拂晓，黎明",
+          "pos": "n."
+        },
+        {
+          "en": "dazzling",
+          "zh": "adj. 眼花缭乱的；耀眼的",
+          "pos": "adj."
+        },
+        {
+          "en": "deadly",
+          "zh": "adj. 致命的；极度的",
+          "pos": "adj."
+        },
+        {
+          "en": "deal",
+          "zh": "n. 交易；份量",
+          "pos": "n."
+        },
+        {
+          "en": "debatable",
+          "zh": "adj. 未决定的，有争执的",
+          "pos": "adj."
+        },
+        {
+          "en": "debate",
+          "zh": "n. 争论，辩论",
+          "pos": "n."
+        },
+        {
+          "en": "debris",
+          "zh": "n. 废墟，残骸；碎片",
+          "pos": "n."
+        },
+        {
+          "en": "debt",
+          "zh": "n. 债务",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Drone",
+      "hp": 200,
+      "words": [
+        {
+          "en": "debtor",
+          "zh": "n. 债务人",
+          "pos": "n."
+        },
+        {
+          "en": "decadent",
+          "zh": "adj. 颓废的",
+          "pos": "adj."
+        },
+        {
+          "en": "decay",
+          "zh": "vi./n. 腐烂",
+          "pos": "vi."
+        },
+        {
+          "en": "deceive",
+          "zh": "vt. 欺骗，行骗",
+          "pos": "vt."
+        },
+        {
+          "en": "decent",
+          "zh": "adj. 适当的，可接受的",
+          "pos": "adj."
+        },
+        {
+          "en": "deceptive",
+          "zh": "adj. 欺骗的，导致误解的",
+          "pos": "adj."
+        },
+        {
+          "en": "deception",
+          "zh": "n. 欺骗，诡计",
+          "pos": "n."
+        },
+        {
+          "en": "deciduous",
+          "zh": "adj. 每年落叶的",
+          "pos": "adj."
+        },
+        {
+          "en": "decimal",
+          "zh": "adj. 十进制的，小数的",
+          "pos": "adj."
+        },
+        {
+          "en": "deck",
+          "zh": "n. 一副（纸牌）",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "declaration",
+          "zh": "n. 宣布，宣言",
+          "pos": "n."
+        },
+        {
+          "en": "declare",
+          "zh": "vt. 宣布，声明",
+          "pos": "vt."
+        },
+        {
+          "en": "decline",
+          "zh": "vi./n. 衰退；下降，减退",
+          "pos": "vi."
+        },
+        {
+          "en": "decompose",
+          "zh": "v. 分解，（使）腐烂",
+          "pos": "v."
+        },
+        {
+          "en": "decorate",
+          "zh": "vt. 装饰，装潢，修饰",
+          "pos": "vt."
+        },
+        {
+          "en": "decoration",
+          "zh": "n. 装饰，装饰品",
+          "pos": "n."
+        },
+        {
+          "en": "decorative",
+          "zh": "adj. 装饰的，可作装饰的",
+          "pos": "adj."
+        },
+        {
+          "en": "decrease",
+          "zh": "v. 减少",
+          "pos": "v."
+        },
+        {
+          "en": "defecate",
+          "zh": "vi. 排粪；通大便",
+          "pos": "vi."
+        },
+        {
+          "en": "deciduous",
+          "zh": "adj. 每年落叶的",
+          "pos": "adj."
+        },
+        {
+          "en": "defect",
+          "zh": "n. 缺点，瑕疵",
+          "pos": "n."
+        },
+        {
+          "en": "defective",
+          "zh": "adj. 有缺陷的",
+          "pos": "adj."
+        },
+        {
+          "en": "defend",
+          "zh": "vt. 防护；辩护",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "defense",
+          "zh": "n. 防卫；防卫物",
+          "pos": "n."
+        },
+        {
+          "en": "defensive",
+          "zh": "adj. 自卫的",
+          "pos": "adj."
+        },
+        {
+          "en": "defer",
+          "zh": "vi. 遵从，听从",
+          "pos": "vi."
+        },
+        {
+          "en": "deferential",
+          "zh": "adj. 恭敬的, 恭顺的",
+          "pos": "adj."
+        },
+        {
+          "en": "deference",
+          "zh": "n. 尊重，顺从；敬意",
+          "pos": "n."
+        },
+        {
+          "en": "deficiency",
+          "zh": "n. 缺乏；不足",
+          "pos": "n."
+        },
+        {
+          "en": "deficient",
+          "zh": "adj. 缺乏的，不足的",
+          "pos": "adj."
+        },
+        {
+          "en": "deficit",
+          "zh": "n. 赤字，不足额",
+          "pos": "n."
+        },
+        {
+          "en": "definite",
+          "zh": "adj. 清楚的；明确的；确切的",
+          "pos": "adj."
+        },
+        {
+          "en": "definitely",
+          "zh": "adv. 明确地，肯定地",
+          "pos": "adv."
+        },
+        {
+          "en": "definitive",
+          "zh": "adj. 决定性的，最后的",
+          "pos": "adj."
+        },
+        {
+          "en": "definition",
+          "zh": "n. 定义",
+          "pos": "n."
+        },
+        {
+          "en": "deform",
+          "zh": "vt. 使变形",
+          "pos": "vt."
+        },
+        {
+          "en": "deformation",
+          "zh": "n. 损坏，变形",
+          "pos": "n."
+        },
+        {
+          "en": "deft",
+          "zh": "adj. 灵巧的，熟练的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

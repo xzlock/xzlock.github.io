@@ -1,0 +1,304 @@
+{
+  "day": 53,
+  "title": "Day 53 · rainforest → elephant",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "compost",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Cypher Eye",
+      "hp": 100,
+      "words": [
+        {
+          "en": "rainforest",
+          "zh": "n. （热带）雨林",
+          "pos": "n."
+        },
+        {
+          "en": "rift",
+          "zh": "\"n. 裂缝；不和； 裂口",
+          "pos": "n."
+        },
+        {
+          "en": "rocky",
+          "zh": "adj. 岩石的，多岩石的；坚如岩石的；摇晃的；头晕目眩的",
+          "pos": "adj."
+        },
+        {
+          "en": "rubbish",
+          "zh": "\"n. 垃圾，废物；废话",
+          "pos": "n."
+        },
+        {
+          "en": "sandy",
+          "zh": "adj. 沙地的；多沙的；含沙的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "KAY/O Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "shade",
+          "zh": "\"n. 树荫；阴影；阴凉处；遮阳物；（照片等的）明暗度；少量、些微；细微的差别",
+          "pos": "n."
+        },
+        {
+          "en": "sheer mountains",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "shooting stars",
+          "zh": "\"na. 流星；美国樱草",
+          "pos": ""
+        },
+        {
+          "en": "shore",
+          "zh": "\"n. 海滨；支柱",
+          "pos": "n."
+        },
+        {
+          "en": "snow-capped",
+          "zh": "adj. 积雪盖顶的",
+          "pos": "adj."
+        },
+        {
+          "en": "snow-clad",
+          "zh": "adj. 被雪所覆盖的",
+          "pos": "adj."
+        },
+        {
+          "en": "space",
+          "zh": "\"n. 空间；太空；距离",
+          "pos": "n."
+        },
+        {
+          "en": "spray",
+          "zh": "\"n. 喷雾；喷雾器；水沫",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "sulfur",
+          "zh": "\"n. 硫磺；硫磺色",
+          "pos": "n."
+        },
+        {
+          "en": "sunlight",
+          "zh": "n. 日光",
+          "pos": "n."
+        },
+        {
+          "en": "sunrise",
+          "zh": "n. 日出；黎明",
+          "pos": "n."
+        },
+        {
+          "en": "sunset",
+          "zh": "n. 日落，傍晚",
+          "pos": "n."
+        },
+        {
+          "en": "terrain",
+          "zh": "n. 地形，地势；领域；地带",
+          "pos": "n."
+        },
+        {
+          "en": "valley",
+          "zh": "n. 山谷；流域；溪谷",
+          "pos": "n."
+        },
+        {
+          "en": "Venus",
+          "zh": "n. 金星；维纳斯（爱与美的女神）",
+          "pos": "n."
+        },
+        {
+          "en": "volcano",
+          "zh": "n. 火山",
+          "pos": "n."
+        },
+        {
+          "en": "waterfall",
+          "zh": "n. 瀑布；瀑布似的东西",
+          "pos": "n."
+        },
+        {
+          "en": "wetland",
+          "zh": "n. 湿地；沼泽地",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "wonderful beaches",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "acacia",
+          "zh": "n. 阿拉伯树胶；刺槐；金合欢属植物",
+          "pos": "n."
+        },
+        {
+          "en": "albatross",
+          "zh": "n. 信天翁；沉重负担",
+          "pos": "n."
+        },
+        {
+          "en": "animal",
+          "zh": "\"n. 动物",
+          "pos": "n."
+        },
+        {
+          "en": "animal clinic",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "antilopine kangaroo",
+          "zh": "羚大袋鼠",
+          "pos": ""
+        },
+        {
+          "en": "aquatic life",
+          "zh": "\"un. 水生生物",
+          "pos": "n."
+        },
+        {
+          "en": "baobab tree",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "bark",
+          "zh": "\"n. 树皮；深青棕色；毛皮；皮肤；狗叫",
+          "pos": "n."
+        },
+        {
+          "en": "beehive",
+          "zh": "n. 蜂窝；蜂箱",
+          "pos": "n."
+        },
+        {
+          "en": "beetle",
+          "zh": "\"n. 甲虫；大槌",
+          "pos": "n."
+        },
+        {
+          "en": "compost",
+          "zh": "\"n. 堆肥；混合物",
+          "pos": "n."
+        },
+        {
+          "en": "birch",
+          "zh": "\"n. 桦木；桦树；桦条",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Ascendant Warlord",
+      "hp": 300,
+      "words": [
+        {
+          "en": "bull",
+          "zh": "\"n. 公牛；看好股市者；粗壮如牛的人；胡说八道；印玺",
+          "pos": "n."
+        },
+        {
+          "en": "bush",
+          "zh": "\"n. 灌木；矮树丛",
+          "pos": "n."
+        },
+        {
+          "en": "butterfly",
+          "zh": "n. 蝴蝶；蝶泳；举止轻浮的人；追求享乐的人",
+          "pos": "n."
+        },
+        {
+          "en": "cane",
+          "zh": "\"n. 手杖；藤条；细长的茎",
+          "pos": "n."
+        },
+        {
+          "en": "carnivore",
+          "zh": "n. 食肉动物；食虫植物",
+          "pos": "n."
+        },
+        {
+          "en": "caterpillar",
+          "zh": "\"adj. 有履带装置的",
+          "pos": "adj."
+        },
+        {
+          "en": "chameleon",
+          "zh": "n. 变色龙；善变的人；轻浮的人",
+          "pos": "n."
+        },
+        {
+          "en": "compost",
+          "zh": "\"n. 堆肥；混合物",
+          "pos": "n."
+        },
+        {
+          "en": "condor",
+          "zh": "n. 秃鹫，秃鹰",
+          "pos": "n."
+        },
+        {
+          "en": "crocodile",
+          "zh": "n. 鳄鱼",
+          "pos": "n."
+        },
+        {
+          "en": "cub",
+          "zh": "\"n. 幼兽；不懂规矩的年轻人",
+          "pos": "n."
+        },
+        {
+          "en": "cute",
+          "zh": "adj. 可爱的；漂亮的；聪明的，伶俐的",
+          "pos": "adj."
+        },
+        {
+          "en": "dinosaur",
+          "zh": "n. 恐龙；过时、落伍的人或事物",
+          "pos": "n."
+        },
+        {
+          "en": "dolphin",
+          "zh": "n. 海豚",
+          "pos": "n."
+        },
+        {
+          "en": "elephant",
+          "zh": "n. 象；大号图画纸",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

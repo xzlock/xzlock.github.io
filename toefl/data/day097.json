@@ -1,0 +1,304 @@
+{
+  "day": 97,
+  "title": "Day 097 · visibility → wed",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "volcanic",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Viper Spawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "visibility",
+          "zh": "n. 可见度",
+          "pos": "n."
+        },
+        {
+          "en": "division",
+          "zh": "n. 分开，分割",
+          "pos": "n."
+        },
+        {
+          "en": "subdivision",
+          "zh": "n. 细分，一部",
+          "pos": "n."
+        },
+        {
+          "en": "vista",
+          "zh": "n. 景色",
+          "pos": "n."
+        },
+        {
+          "en": "vital",
+          "zh": "adj. 极重要的，致命的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "vitalism",
+          "zh": "n. 活机论, 生机说",
+          "pos": "n."
+        },
+        {
+          "en": "vitalist",
+          "zh": "n. 活力论者",
+          "pos": "n."
+        },
+        {
+          "en": "vitality",
+          "zh": "n. 活力，生命力",
+          "pos": "n."
+        },
+        {
+          "en": "vivid",
+          "zh": "adj. (光线、色彩)鲜艳的，强烈的",
+          "pos": "adj."
+        },
+        {
+          "en": "vocation",
+          "zh": "n. 职业",
+          "pos": "n."
+        },
+        {
+          "en": "vocational",
+          "zh": "adj. 职业的",
+          "pos": "adj."
+        },
+        {
+          "en": "void",
+          "zh": "n. 空白，空虚",
+          "pos": "n."
+        },
+        {
+          "en": "volatile",
+          "zh": "adj. 挥发性的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "volcanic",
+          "zh": "adj. 火山的",
+          "pos": "adj."
+        },
+        {
+          "en": "voltage",
+          "zh": "n. 电压",
+          "pos": "n."
+        },
+        {
+          "en": "volume",
+          "zh": "n. 体积，容积；量",
+          "pos": "n."
+        },
+        {
+          "en": "voluntary",
+          "zh": "adj. 自愿的；志愿的",
+          "pos": "adj."
+        },
+        {
+          "en": "volunteer",
+          "zh": "n. 自愿者",
+          "pos": "n."
+        },
+        {
+          "en": "voracious",
+          "zh": "adj. 狼吞虎咽的，贪婪的",
+          "pos": "adj."
+        },
+        {
+          "en": "vote",
+          "zh": "vt. 投票",
+          "pos": "vt."
+        },
+        {
+          "en": "voter",
+          "zh": "n. 投票者，选举人",
+          "pos": "n."
+        },
+        {
+          "en": "vowel",
+          "zh": "n. 元音",
+          "pos": "n."
+        },
+        {
+          "en": "voyage",
+          "zh": "n. 旅行，航程",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "vulnerable",
+          "zh": "adj. 易受攻击的；易受伤害的",
+          "pos": "adj."
+        },
+        {
+          "en": "wade",
+          "zh": "v. 涉水，费力行走",
+          "pos": "v."
+        },
+        {
+          "en": "wagon",
+          "zh": "n. 四轮马车",
+          "pos": "n."
+        },
+        {
+          "en": "waist",
+          "zh": "n. 腰，腰部",
+          "pos": "n."
+        },
+        {
+          "en": "wrist",
+          "zh": "n. 手腕，腕关节",
+          "pos": "n."
+        },
+        {
+          "en": "wristwatch",
+          "zh": "n. 手表",
+          "pos": "n."
+        },
+        {
+          "en": "waive",
+          "zh": "v. 放弃；免除",
+          "pos": "v."
+        },
+        {
+          "en": "volcanic",
+          "zh": "adj. 火山的",
+          "pos": "adj."
+        },
+        {
+          "en": "walkout",
+          "zh": "n. 罢工",
+          "pos": "n."
+        },
+        {
+          "en": "walnut",
+          "zh": "n. 胡桃，核桃树",
+          "pos": "n."
+        },
+        {
+          "en": "wane",
+          "zh": "v. 减少，衰落",
+          "pos": "v."
+        },
+        {
+          "en": "warranty",
+          "zh": "n. 担保，保证；保修",
+          "pos": "n."
+        },
+        {
+          "en": "warrantable",
+          "zh": "adj. 可证明为正确的，可证实的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "warrior",
+          "zh": "n. 战士，勇士",
+          "pos": "n."
+        },
+        {
+          "en": "wary",
+          "zh": "adj. 小心翼翼的，机警小心的",
+          "pos": "adj."
+        },
+        {
+          "en": "watercourse",
+          "zh": "n. 水道，河道",
+          "pos": "n."
+        },
+        {
+          "en": "wavy",
+          "zh": "adj. 波状的，起浪的；波动的",
+          "pos": "adj."
+        },
+        {
+          "en": "wax",
+          "zh": "n. 蜂蜡；蜡状物",
+          "pos": "n."
+        },
+        {
+          "en": "waxy",
+          "zh": "adj. 苍白的；光滑的",
+          "pos": "adj."
+        },
+        {
+          "en": "weapon",
+          "zh": "n. 武器",
+          "pos": "n."
+        },
+        {
+          "en": "weary",
+          "zh": "adj. 疲倦的；厌倦的",
+          "pos": "adj."
+        },
+        {
+          "en": "weariness",
+          "zh": "n. 疲倦",
+          "pos": "n."
+        },
+        {
+          "en": "weather",
+          "zh": "v. 风化",
+          "pos": "v."
+        },
+        {
+          "en": "weathering",
+          "zh": "n. 侵蚀，风化",
+          "pos": "n."
+        },
+        {
+          "en": "weave",
+          "zh": "vi. 迂回行进",
+          "pos": "vi."
+        },
+        {
+          "en": "weaverbird",
+          "zh": "n. [鸟]织巢鸟之一种",
+          "pos": "n."
+        },
+        {
+          "en": "weaver",
+          "zh": "n. 织布者，织工",
+          "pos": "n."
+        },
+        {
+          "en": "wed",
+          "zh": "v. 娶，嫁，结婚",
+          "pos": "v."
+        }
+      ]
+    }
+  ]
+}

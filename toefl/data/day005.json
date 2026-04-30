@@ -1,0 +1,304 @@
+{
+  "day": 5,
+  "title": "Day 005 · amazing → anthology",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "annoy",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Deadlock Wire",
+      "hp": 100,
+      "words": [
+        {
+          "en": "amazing",
+          "zh": "adj. 令人惊异的",
+          "pos": "adj."
+        },
+        {
+          "en": "ambience",
+          "zh": "n. 周围环境，气氛",
+          "pos": "n."
+        },
+        {
+          "en": "ambition",
+          "zh": "n. 雄心，抱负",
+          "pos": "n."
+        },
+        {
+          "en": "ambitious",
+          "zh": "adj. 有雄心的，渴望成功的",
+          "pos": "adj."
+        },
+        {
+          "en": "ambivalent",
+          "zh": "adj. 有矛盾情绪的，举棋不定的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Skye Falcon",
+      "hp": 150,
+      "words": [
+        {
+          "en": "ambivalence",
+          "zh": "n. 矛盾心理",
+          "pos": "n."
+        },
+        {
+          "en": "amble",
+          "zh": "vi. 漫步，缓行",
+          "pos": "vi."
+        },
+        {
+          "en": "scramble",
+          "zh": "vt. 攀爬；搅乱，使混杂",
+          "pos": "vt."
+        },
+        {
+          "en": "amenable",
+          "zh": "adj. 顺从的；应服从的",
+          "pos": "adj."
+        },
+        {
+          "en": "amendment",
+          "zh": "n. 改正，修正",
+          "pos": "n."
+        },
+        {
+          "en": "Amendment",
+          "zh": "n. 宪法修正案",
+          "pos": "n."
+        },
+        {
+          "en": "amend",
+          "zh": "vt. 改正，修正",
+          "pos": "vt."
+        },
+        {
+          "en": "amenity",
+          "zh": "n. pl.生活福利设施，文娱康乐场所",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "amid",
+          "zh": "prep. 在…中",
+          "pos": "prep."
+        },
+        {
+          "en": "pyramid",
+          "zh": "n. 金字塔；金字塔现象/形状",
+          "pos": "n."
+        },
+        {
+          "en": "amnesia",
+          "zh": "n. 健忘症",
+          "pos": "n."
+        },
+        {
+          "en": "amount",
+          "zh": "n. 量，总合",
+          "pos": "n."
+        },
+        {
+          "en": "ample",
+          "zh": "adj. 富足的，充足的",
+          "pos": "adj."
+        },
+        {
+          "en": "trample",
+          "zh": "vt. 践踏，踩坏",
+          "pos": "vt."
+        },
+        {
+          "en": "amplify",
+          "zh": "vt. 放大；扩大；增强",
+          "pos": "vt."
+        },
+        {
+          "en": "amplification",
+          "zh": "n. 扩大",
+          "pos": "n."
+        },
+        {
+          "en": "analogy",
+          "zh": "n. 类比，类推",
+          "pos": "n."
+        },
+        {
+          "en": "analogous",
+          "zh": "adj. 类似的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "analyze",
+          "zh": "vt. 分析，分解",
+          "pos": "vt."
+        },
+        {
+          "en": "analysis",
+          "zh": "n. 分析；分析报告",
+          "pos": "n."
+        },
+        {
+          "en": "psychoanalysis",
+          "zh": "n. 心理分析",
+          "pos": "n."
+        },
+        {
+          "en": "anarchist",
+          "zh": "n. 无政府主义者",
+          "pos": "n."
+        },
+        {
+          "en": "anatomy",
+          "zh": "n. 解剖；解剖学",
+          "pos": "n."
+        },
+        {
+          "en": "annoy",
+          "zh": "vt. 使恼怒；打扰",
+          "pos": "vt."
+        },
+        {
+          "en": "ancestor",
+          "zh": "n. 祖先，祖宗",
+          "pos": "n."
+        },
+        {
+          "en": "ancestry",
+          "zh": "n. 家系，血统",
+          "pos": "n."
+        },
+        {
+          "en": "ancestral",
+          "zh": "adj. 祖先的，祖传的",
+          "pos": "adj."
+        },
+        {
+          "en": "anecdotal",
+          "zh": "adj. 轶闻的，多轶闻趣闻的",
+          "pos": "adj."
+        },
+        {
+          "en": "anecdote",
+          "zh": "n. 短故事，轶事",
+          "pos": "n."
+        },
+        {
+          "en": "anesthesia",
+          "zh": "n. 麻醉",
+          "pos": "n."
+        },
+        {
+          "en": "angular",
+          "zh": "adj. 有角的，尖角的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Kingdom Titan",
+      "hp": 300,
+      "words": [
+        {
+          "en": "rectangular",
+          "zh": "n. 矩形的，成直角的",
+          "pos": "n."
+        },
+        {
+          "en": "animated",
+          "zh": "adj. 活生生的；活泼的，生动的",
+          "pos": "adj."
+        },
+        {
+          "en": "annex",
+          "zh": "vt. 兼并，附加",
+          "pos": "vt."
+        },
+        {
+          "en": "annihilate",
+          "zh": "vt. 消灭；消减",
+          "pos": "vt."
+        },
+        {
+          "en": "announce",
+          "zh": "vt. 宣布，发表，通告",
+          "pos": "vt."
+        },
+        {
+          "en": "announcement",
+          "zh": "n. 宣告，发表",
+          "pos": "n."
+        },
+        {
+          "en": "announcer",
+          "zh": "n. 广播员；报幕员",
+          "pos": "n."
+        },
+        {
+          "en": "annoy",
+          "zh": "vt. 使恼怒；打扰",
+          "pos": "vt."
+        },
+        {
+          "en": "annoying",
+          "zh": "adj. 恼人的，讨厌的；使人愤怒的",
+          "pos": "adj."
+        },
+        {
+          "en": "annual",
+          "zh": "adj. 每年的",
+          "pos": "adj."
+        },
+        {
+          "en": "annually",
+          "zh": "adv. 一年一次，每年",
+          "pos": "adv."
+        },
+        {
+          "en": "anomaly",
+          "zh": "n. 异常，不规则；异常的人或物",
+          "pos": "n."
+        },
+        {
+          "en": "anonymous",
+          "zh": "adj. 匿名的",
+          "pos": "adj."
+        },
+        {
+          "en": "anthem",
+          "zh": "n. 圣歌，赞美诗",
+          "pos": "n."
+        },
+        {
+          "en": "anthology",
+          "zh": "n. 诗集，文选",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

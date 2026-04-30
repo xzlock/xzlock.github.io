@@ -1,0 +1,304 @@
+{
+  "day": 13,
+  "title": "Day 013 · bump → career",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "career",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Chamber Pawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "bump",
+          "zh": "n. 肿块；突起",
+          "pos": "n."
+        },
+        {
+          "en": "bunch",
+          "zh": "n. 串，束；群",
+          "pos": "n."
+        },
+        {
+          "en": "bundle",
+          "zh": "n. 捆，束，包",
+          "pos": "n."
+        },
+        {
+          "en": "burdensome",
+          "zh": "adj. 繁重的，劳累的",
+          "pos": "adj."
+        },
+        {
+          "en": "burgeon",
+          "zh": "vi. 迅速 成长，发展",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "burning",
+          "zh": "n./adj. 燃烧（的）",
+          "pos": "n."
+        },
+        {
+          "en": "burrow",
+          "zh": "n. 洞穴",
+          "pos": "n."
+        },
+        {
+          "en": "bush",
+          "zh": "n. 矮树丛",
+          "pos": "n."
+        },
+        {
+          "en": "bust",
+          "zh": "n. 半身像，半身雕像",
+          "pos": "n."
+        },
+        {
+          "en": "combustion",
+          "zh": "n. 燃烧",
+          "pos": "n."
+        },
+        {
+          "en": "combustible",
+          "zh": "adj. 易燃的",
+          "pos": "adj."
+        },
+        {
+          "en": "robust",
+          "zh": "adj. 精力充沛的",
+          "pos": "adj."
+        },
+        {
+          "en": "statue",
+          "zh": "n. 全身雕像",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "bustle",
+          "zh": "n. 喧闹，匆匆忙忙",
+          "pos": "n."
+        },
+        {
+          "en": "butter",
+          "zh": "n. 奶油",
+          "pos": "n."
+        },
+        {
+          "en": "buzz",
+          "zh": "n./v. 嗡嗡声；发出嗡嗡声",
+          "pos": "n."
+        },
+        {
+          "en": "buzzer",
+          "zh": "n. 蜂鸣器",
+          "pos": "n."
+        },
+        {
+          "en": "by-product",
+          "zh": "n. 副产品",
+          "pos": "n."
+        },
+        {
+          "en": "cab",
+          "zh": "n. 出租马车、汽车",
+          "pos": "n."
+        },
+        {
+          "en": "taxicab",
+          "zh": "n. 出租车",
+          "pos": "n."
+        },
+        {
+          "en": "the Cabinet",
+          "zh": "n. 内阁 cabinet n. 橱柜",
+          "pos": "n."
+        },
+        {
+          "en": "cabinetmaker",
+          "zh": "n. 家具师，细木工匠",
+          "pos": "n."
+        },
+        {
+          "en": "cabin",
+          "zh": "n. 小屋；船舱",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "cacti",
+          "zh": "n. （pl）仙人掌-单数cactus",
+          "pos": "n."
+        },
+        {
+          "en": "cadence",
+          "zh": "n. （语调的）抑扬顿挫",
+          "pos": "n."
+        },
+        {
+          "en": "calculate",
+          "zh": "vt. 计算；估计",
+          "pos": "vt."
+        },
+        {
+          "en": "calculation",
+          "zh": "n. 计算，考虑",
+          "pos": "n."
+        },
+        {
+          "en": "calculator",
+          "zh": "n. 计算器",
+          "pos": "n."
+        },
+        {
+          "en": "calibration",
+          "zh": "n. 校准；标度，刻度",
+          "pos": "n."
+        },
+        {
+          "en": "calm",
+          "zh": "adj. （天气、海洋等）静的，平静的",
+          "pos": "adj."
+        },
+        {
+          "en": "campaign",
+          "zh": "n. (政治或商业性)活动，竞选活动",
+          "pos": "n."
+        },
+        {
+          "en": "champion",
+          "zh": "n. 冠军 vt.拥护，支持",
+          "pos": "n."
+        },
+        {
+          "en": "championship",
+          "zh": "n. 锦标赛",
+          "pos": "n."
+        },
+        {
+          "en": "cancel",
+          "zh": "vt. 取消",
+          "pos": "vt."
+        },
+        {
+          "en": "cancellation",
+          "zh": "n. 取消",
+          "pos": "n."
+        },
+        {
+          "en": "career",
+          "zh": "n. 生涯，职业",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "candid",
+          "zh": "adj. 率直的，坦白的",
+          "pos": "adj."
+        },
+        {
+          "en": "candidate",
+          "zh": "n. 候选人",
+          "pos": "n."
+        },
+        {
+          "en": "cannibalism",
+          "zh": "n. 同类相食",
+          "pos": "n."
+        },
+        {
+          "en": "canopy",
+          "zh": "n. 天篷，遮篷",
+          "pos": "n."
+        },
+        {
+          "en": "canvas",
+          "zh": "n. 帆布；画布",
+          "pos": "n."
+        },
+        {
+          "en": "canyon",
+          "zh": "n. 峡谷",
+          "pos": "n."
+        },
+        {
+          "en": "capable",
+          "zh": "adj. 有能力的",
+          "pos": "adj."
+        },
+        {
+          "en": "capacity",
+          "zh": "n. 容量；能力",
+          "pos": "n."
+        },
+        {
+          "en": "captivity",
+          "zh": "n. 囚禁，拘留",
+          "pos": "n."
+        },
+        {
+          "en": "carapace",
+          "zh": "n. （蟹或龟的）甲壳",
+          "pos": "n."
+        },
+        {
+          "en": "carat",
+          "zh": "n. （宝石重量单位）克拉",
+          "pos": "n."
+        },
+        {
+          "en": "carbohydrate",
+          "zh": "n. 碳水化合物",
+          "pos": "n."
+        },
+        {
+          "en": "cardiac",
+          "zh": "adj. 心脏的",
+          "pos": "adj."
+        },
+        {
+          "en": "cardinal",
+          "zh": "adj. 首要的，主要的",
+          "pos": "adj."
+        },
+        {
+          "en": "career",
+          "zh": "n. 生涯，职业",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

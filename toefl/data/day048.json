@@ -1,0 +1,304 @@
+{
+  "day": 48,
+  "title": "Day 048 · implication → indispensable",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "indifferent",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Viper Spawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "implication",
+          "zh": "n. 暗示，意义",
+          "pos": "n."
+        },
+        {
+          "en": "imply",
+          "zh": "vt. 暗示，意味",
+          "pos": "vt."
+        },
+        {
+          "en": "import",
+          "zh": "vt./n. （贸易）进口",
+          "pos": "vt."
+        },
+        {
+          "en": "impose",
+          "zh": "vt. 把…强加于；施加影响",
+          "pos": "vt."
+        },
+        {
+          "en": "imposing",
+          "zh": "adj. 使人难忘的, 壮丽的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "impressive",
+          "zh": "adj. 给人深刻印象的；威严的",
+          "pos": "adj."
+        },
+        {
+          "en": "imprint",
+          "zh": "n. 印痕，痕迹；深刻的印象",
+          "pos": "n."
+        },
+        {
+          "en": "imprisonment",
+          "zh": "n. 监禁",
+          "pos": "n."
+        },
+        {
+          "en": "improbable",
+          "zh": "adj. 不可能的",
+          "pos": "adj."
+        },
+        {
+          "en": "improvise",
+          "zh": "vt. 即席创作，即兴表演",
+          "pos": "vt."
+        },
+        {
+          "en": "improvision",
+          "zh": "n. 即席创作",
+          "pos": "n."
+        },
+        {
+          "en": "improviser",
+          "zh": "n. 即席演奏者",
+          "pos": "n."
+        },
+        {
+          "en": "impulse",
+          "zh": "n. 冲动；刺激，驱使",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "in",
+          "zh": "conjunction with 词组 结合",
+          "pos": ""
+        },
+        {
+          "en": "inaccessible",
+          "zh": "adj. 难达到的,不可及的;不能得到的",
+          "pos": "adj."
+        },
+        {
+          "en": "inactivate",
+          "zh": "vt. 使…不活跃",
+          "pos": "vt."
+        },
+        {
+          "en": "inadequate",
+          "zh": "adj. 不充分的，不适当的",
+          "pos": "adj."
+        },
+        {
+          "en": "inanimate",
+          "zh": "adj. 无生命的",
+          "pos": "adj."
+        },
+        {
+          "en": "inappropriate",
+          "zh": "adj. 不适当的，不相称的",
+          "pos": "adj."
+        },
+        {
+          "en": "inaugurate",
+          "zh": "v. 创新，开辟",
+          "pos": "v."
+        },
+        {
+          "en": "incapacitate",
+          "zh": "vt. 使失去能力；使不胜任",
+          "pos": "vt."
+        },
+        {
+          "en": "incense",
+          "zh": "n. 熏香；焚香的烟",
+          "pos": "n."
+        },
+        {
+          "en": "incentive",
+          "zh": "n. 动机",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "incessant",
+          "zh": "adj. 不停的，连续的",
+          "pos": "adj."
+        },
+        {
+          "en": "incident",
+          "zh": "n. 事件",
+          "pos": "n."
+        },
+        {
+          "en": "incidentally",
+          "zh": "adv. 附带地，偶然地",
+          "pos": "adv."
+        },
+        {
+          "en": "incidence",
+          "zh": "n. 发生，出现；发生频率",
+          "pos": "n."
+        },
+        {
+          "en": "incisive",
+          "zh": "adj. 深刻的，尖锐的",
+          "pos": "adj."
+        },
+        {
+          "en": "incise",
+          "zh": "vt. 切割",
+          "pos": "vt."
+        },
+        {
+          "en": "inclination",
+          "zh": "n. 嗜好，倾向",
+          "pos": "n."
+        },
+        {
+          "en": "inclined",
+          "zh": "adj. 倾向…的",
+          "pos": "adj."
+        },
+        {
+          "en": "inclusive",
+          "zh": "adj. 包含的，包括的",
+          "pos": "adj."
+        },
+        {
+          "en": "incomprehensible",
+          "zh": "adj. 不能理解的，费解的",
+          "pos": "adj."
+        },
+        {
+          "en": "incongruity",
+          "zh": "n. 不一致，不和谐",
+          "pos": "n."
+        },
+        {
+          "en": "incongruous",
+          "zh": "adj. 不协调的，不一致的",
+          "pos": "adj."
+        },
+        {
+          "en": "indifferent",
+          "zh": "adj. 不感兴趣的，漠不关心的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "incorpoarate",
+          "zh": "vt. 合并，并入；包含",
+          "pos": "vt."
+        },
+        {
+          "en": "incorporation",
+          "zh": "n. 结合，合并",
+          "pos": "n."
+        },
+        {
+          "en": "incredible",
+          "zh": "adj. 难以置信的，惊人的",
+          "pos": "adj."
+        },
+        {
+          "en": "incredulity",
+          "zh": "n. 怀疑，不相信",
+          "pos": "n."
+        },
+        {
+          "en": "incur",
+          "zh": "vt. 招致，引起",
+          "pos": "vt."
+        },
+        {
+          "en": "indefinite",
+          "zh": "adj. 模糊的；不明确的",
+          "pos": "adj."
+        },
+        {
+          "en": "indefinitely",
+          "zh": "adv. 不确定地；无穷尽地",
+          "pos": "adv."
+        },
+        {
+          "en": "indented",
+          "zh": "adj. 锯齿状的，高低不平的",
+          "pos": "adj."
+        },
+        {
+          "en": "indicate",
+          "zh": "vt. 指示，指出；象征，表明",
+          "pos": "vt."
+        },
+        {
+          "en": "indicative",
+          "zh": "adj. 指示的，预示的",
+          "pos": "adj."
+        },
+        {
+          "en": "indifferent",
+          "zh": "adj. 不感兴趣的，漠不关心的",
+          "pos": "adj."
+        },
+        {
+          "en": "indifference",
+          "zh": "n. 冷漠，不关心",
+          "pos": "n."
+        },
+        {
+          "en": "indiscriminately",
+          "zh": "adv. 随意地；不加区别地",
+          "pos": "adv."
+        },
+        {
+          "en": "indiscrimination",
+          "zh": "n. 歧视",
+          "pos": "n."
+        },
+        {
+          "en": "indispensable",
+          "zh": "adj. 不可缺少的，必需的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

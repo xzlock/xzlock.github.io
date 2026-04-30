@@ -1,0 +1,304 @@
+{
+  "day": 45,
+  "title": "Day 045 · haven → homemade",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "heal",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Iso Shard",
+      "hp": 100,
+      "words": [
+        {
+          "en": "haven",
+          "zh": "n. 避难所，安全地",
+          "pos": "n."
+        },
+        {
+          "en": "heaven",
+          "zh": "n. 天，天堂",
+          "pos": "n."
+        },
+        {
+          "en": "heavenly",
+          "zh": "adj. 天空的，天上的",
+          "pos": "adj."
+        },
+        {
+          "en": "hay",
+          "zh": "n. 干草",
+          "pos": "n."
+        },
+        {
+          "en": "hazard",
+          "zh": "n. 危险；危害物",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Fade Nightmare",
+      "hp": 150,
+      "words": [
+        {
+          "en": "hazardous",
+          "zh": "adj. 危险的，冒险的",
+          "pos": "adj."
+        },
+        {
+          "en": "hazel",
+          "zh": "adj. 榛树的",
+          "pos": "adj."
+        },
+        {
+          "en": "haze",
+          "zh": "n. 薄雾",
+          "pos": "n."
+        },
+        {
+          "en": "heal",
+          "zh": "v. 康复，治愈",
+          "pos": "v."
+        },
+        {
+          "en": "healing",
+          "zh": "adj. 有治疗作用的",
+          "pos": "adj."
+        },
+        {
+          "en": "healthful",
+          "zh": "adj. 有益健康的",
+          "pos": "adj."
+        },
+        {
+          "en": "heed",
+          "zh": "n./v. 注意，留意",
+          "pos": "n."
+        },
+        {
+          "en": "heel",
+          "zh": "n. 脚后跟",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "heighten",
+          "zh": "vt. 提高，升高；加深",
+          "pos": "vt."
+        },
+        {
+          "en": "heir",
+          "zh": "n. 继承人，后嗣",
+          "pos": "n."
+        },
+        {
+          "en": "helium",
+          "zh": "n. 氦",
+          "pos": "n."
+        },
+        {
+          "en": "helpful",
+          "zh": "adj. 有帮助的，有益的",
+          "pos": "adj."
+        },
+        {
+          "en": "helper",
+          "zh": "n. 助手",
+          "pos": "n."
+        },
+        {
+          "en": "helpless",
+          "zh": "adj. 无助的，无依靠的",
+          "pos": "adj."
+        },
+        {
+          "en": "hem",
+          "zh": "n. （衣服或裙子）褶边，边缘",
+          "pos": "n."
+        },
+        {
+          "en": "ham",
+          "zh": "n. 火腿；大腿",
+          "pos": "n."
+        },
+        {
+          "en": "hemisphere",
+          "zh": "n. 半球；半脑",
+          "pos": "n."
+        },
+        {
+          "en": "herald",
+          "zh": "vt. 宣布…的消息；预示…的来临",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "herculean",
+          "zh": "adj. 力大无比的, 巨大的",
+          "pos": "adj."
+        },
+        {
+          "en": "herd",
+          "zh": "n. 兽群；人群",
+          "pos": "n."
+        },
+        {
+          "en": "shepherd",
+          "zh": "n. 牧羊人",
+          "pos": "n."
+        },
+        {
+          "en": "herder",
+          "zh": "n. 牧者，牧人",
+          "pos": "n."
+        },
+        {
+          "en": "heredity",
+          "zh": "n. 遗传",
+          "pos": "n."
+        },
+        {
+          "en": "heritage",
+          "zh": "n. 遗产，继承物；传统",
+          "pos": "n."
+        },
+        {
+          "en": "heroism",
+          "zh": "n. 英雄品质，英勇",
+          "pos": "n."
+        },
+        {
+          "en": "hesitate",
+          "zh": "vi. 犹豫，踌躇",
+          "pos": "vi."
+        },
+        {
+          "en": "hestiant",
+          "zh": "adj. 迟疑的，犹豫不定的",
+          "pos": "adj."
+        },
+        {
+          "en": "heterogeneous",
+          "zh": "adj. 异类的，不同的",
+          "pos": "adj."
+        },
+        {
+          "en": "heal",
+          "zh": "v. 康复，治愈",
+          "pos": "v."
+        },
+        {
+          "en": "homogeneous",
+          "zh": "adj. 同类的，均一的",
+          "pos": "adj."
+        },
+        {
+          "en": "heyday",
+          "zh": "n. 全盛期",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "hibernate",
+          "zh": "vi. 冬眠",
+          "pos": "vi."
+        },
+        {
+          "en": "hibernation",
+          "zh": "n. 冬眠",
+          "pos": "n."
+        },
+        {
+          "en": "hide",
+          "zh": "n. 兽皮",
+          "pos": "n."
+        },
+        {
+          "en": "rawhide",
+          "zh": "n. 生牛皮",
+          "pos": "n."
+        },
+        {
+          "en": "hierarchy",
+          "zh": "n. 阶层，等级制度",
+          "pos": "n."
+        },
+        {
+          "en": "highlight",
+          "zh": "vt. 使显著，突出",
+          "pos": "vt."
+        },
+        {
+          "en": "hike",
+          "zh": "v. 远足，徒步旅行",
+          "pos": "v."
+        },
+        {
+          "en": "hilly",
+          "zh": "adj. 多小山的，多坡的",
+          "pos": "adj."
+        },
+        {
+          "en": "hinder",
+          "zh": "vt. 阻碍，妨碍",
+          "pos": "vt."
+        },
+        {
+          "en": "hinge",
+          "zh": "n. （门等）铰链，枢纽",
+          "pos": "n."
+        },
+        {
+          "en": "hint",
+          "zh": "n. 提示，线索",
+          "pos": "n."
+        },
+        {
+          "en": "hinterland",
+          "zh": "n. 穷乡僻壤；腹地",
+          "pos": "n."
+        },
+        {
+          "en": "hoe",
+          "zh": "vt. 用锄耕地，锄",
+          "pos": "vt."
+        },
+        {
+          "en": "hollow",
+          "zh": "adj. 空心的，凹陷的",
+          "pos": "adj."
+        },
+        {
+          "en": "homemade",
+          "zh": "adj. 自制的，家里做的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

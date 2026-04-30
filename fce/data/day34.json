@@ -1,0 +1,304 @@
+{
+  "day": 34,
+  "title": "Day 34 · prospect → realize",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "protect",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Astra Dust",
+      "hp": 100,
+      "words": [
+        {
+          "en": "prospect",
+          "zh": "\"n. 前途；预期；景色",
+          "pos": "n."
+        },
+        {
+          "en": "protect",
+          "zh": "vt. 保护，防卫；警戒",
+          "pos": "vt."
+        },
+        {
+          "en": "protest",
+          "zh": "\"n. 抗议",
+          "pos": "n."
+        },
+        {
+          "en": "prove",
+          "zh": "\"vi. 证明是",
+          "pos": "vi."
+        },
+        {
+          "en": "provide",
+          "zh": "\"vt. 提供；规定；准备；装备",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "provided",
+          "zh": "\"conj. 假如；倘若",
+          "pos": "conj."
+        },
+        {
+          "en": "province",
+          "zh": "n. 省；领域；职权",
+          "pos": "n."
+        },
+        {
+          "en": "provoke",
+          "zh": "vt. 驱使；激怒；煽动；惹起",
+          "pos": "vt."
+        },
+        {
+          "en": "psyche",
+          "zh": "n. 灵魂；心智",
+          "pos": "n."
+        },
+        {
+          "en": "psychology",
+          "zh": "n. 心理学；心理状态",
+          "pos": "n."
+        },
+        {
+          "en": "public",
+          "zh": "\"n. 公众；社会；公共场所",
+          "pos": "n."
+        },
+        {
+          "en": "publicity",
+          "zh": "n. 宣传，宣扬；公开；广告；注意",
+          "pos": "n."
+        },
+        {
+          "en": "publish",
+          "zh": "\"vi. 出版；发行；刊印",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Wall",
+      "hp": 200,
+      "words": [
+        {
+          "en": "pull",
+          "zh": "\"n. 拉，拉绳；拉力，牵引力；拖",
+          "pos": "n."
+        },
+        {
+          "en": "punch",
+          "zh": "\"n. 冲压机；打洞器；钻孔机",
+          "pos": "n."
+        },
+        {
+          "en": "punctual",
+          "zh": "adj. 准时的，守时的；精确的",
+          "pos": "adj."
+        },
+        {
+          "en": "punctuation",
+          "zh": "n. 标点；标点符号",
+          "pos": "n."
+        },
+        {
+          "en": "puncture",
+          "zh": "\"n. 穿刺；刺痕",
+          "pos": "n."
+        },
+        {
+          "en": "punish",
+          "zh": "\"vt. 惩罚；严厉对待；贪婪地吃喝",
+          "pos": "vt."
+        },
+        {
+          "en": "purchase",
+          "zh": "\"n. 购买；紧握；起重装置",
+          "pos": "n."
+        },
+        {
+          "en": "purify",
+          "zh": "\"vt. 净化；使纯净",
+          "pos": "vt."
+        },
+        {
+          "en": "purpose",
+          "zh": "\"n. 目的；用途；意志",
+          "pos": "n."
+        },
+        {
+          "en": "pursue",
+          "zh": "\"vi. 追赶；继续进行",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Wraith",
+      "hp": 250,
+      "words": [
+        {
+          "en": "push",
+          "zh": "\"n. 推，决心；大规模攻势；矢志的追求",
+          "pos": "n."
+        },
+        {
+          "en": "put",
+          "zh": "\"n. 掷；笨蛋；投击；怪人",
+          "pos": "n."
+        },
+        {
+          "en": "puzzling",
+          "zh": "adj. 使迷惑的；使莫名其妙的",
+          "pos": "adj."
+        },
+        {
+          "en": "qualification",
+          "zh": "n. 资格；条件；限制；赋予资格",
+          "pos": "n."
+        },
+        {
+          "en": "qualified",
+          "zh": "\"v. 限制（qualify的过去分词）；描述；授权予",
+          "pos": "v."
+        },
+        {
+          "en": "quality",
+          "zh": "\"n. 质量， 品质；特性；才能",
+          "pos": "n."
+        },
+        {
+          "en": "protect",
+          "zh": "vt. 保护，防卫；警戒",
+          "pos": "vt."
+        },
+        {
+          "en": "quantity",
+          "zh": "n. 量，数量；大量；总量",
+          "pos": "n."
+        },
+        {
+          "en": "query",
+          "zh": "\"n. 疑问，质问；疑问号 ； 查询",
+          "pos": "n."
+        },
+        {
+          "en": "queue",
+          "zh": "\"n. 队列；长队；辫子",
+          "pos": "n."
+        },
+        {
+          "en": "quite",
+          "zh": "adv. 很；相当；完全",
+          "pos": "adv."
+        },
+        {
+          "en": "quote",
+          "zh": "\"n. 引用",
+          "pos": "n."
+        },
+        {
+          "en": "race",
+          "zh": "\"n. 属，种；种族，人种；家庭，门第",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "radically",
+          "zh": "adv. 根本上；彻底地；以激进的方式",
+          "pos": "adv."
+        },
+        {
+          "en": "raise",
+          "zh": "\"n. 高地；上升；加薪",
+          "pos": "n."
+        },
+        {
+          "en": "range",
+          "zh": "\"n. 范围；幅度；排；山脉",
+          "pos": "n."
+        },
+        {
+          "en": "rapid",
+          "zh": "\"n. 急流；高速交通工具，高速交通网",
+          "pos": "n."
+        },
+        {
+          "en": "rapport",
+          "zh": "n. 密切关系，交往；和谐一致",
+          "pos": "n."
+        },
+        {
+          "en": "rare",
+          "zh": "\"adj. 稀有的；稀薄的；半熟的",
+          "pos": "adj."
+        },
+        {
+          "en": "rarity",
+          "zh": "n. 罕见；珍贵；珍品（需用复数）；稀薄",
+          "pos": "n."
+        },
+        {
+          "en": "rate",
+          "zh": "\"n. 比率，率；速度；价格；等级",
+          "pos": "n."
+        },
+        {
+          "en": "rave about",
+          "zh": "\"un. 欣喜若狂；醉心于(招收)；热烈地吹捧",
+          "pos": "n."
+        },
+        {
+          "en": "reach",
+          "zh": "\"n. 范围；延伸；河段；横风行驶",
+          "pos": "n."
+        },
+        {
+          "en": "react",
+          "zh": "\"vi. 反应；影响；反抗；起反作用",
+          "pos": "vi."
+        },
+        {
+          "en": "reaction",
+          "zh": "n. 反应，感应；反动，复古；反作用",
+          "pos": "n."
+        },
+        {
+          "en": "reader",
+          "zh": "n. 读者；阅读器；读物",
+          "pos": "n."
+        },
+        {
+          "en": "real",
+          "zh": "\"n. 现实；实数",
+          "pos": "n."
+        },
+        {
+          "en": "realize",
+          "zh": "vt. 实现；认识到；了解；将某物卖得，把(证券等)变成现钱；变卖",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

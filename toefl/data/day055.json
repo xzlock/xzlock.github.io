@@ -1,0 +1,304 @@
+{
+  "day": 55,
+  "title": "Day 055 · workload → demagnetize",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "magical",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Cypher Eye",
+      "hp": 100,
+      "words": [
+        {
+          "en": "workload",
+          "zh": "n. 工作量",
+          "pos": "n."
+        },
+        {
+          "en": "loathsome",
+          "zh": "adj. 令人讨厌的",
+          "pos": "adj."
+        },
+        {
+          "en": "lobby",
+          "zh": "n. 大厅，休息厅",
+          "pos": "n."
+        },
+        {
+          "en": "lobster",
+          "zh": "n. 龙虾",
+          "pos": "n."
+        },
+        {
+          "en": "locate",
+          "zh": "vt. 找出，定位；设置",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Chamber Bullet",
+      "hp": 150,
+      "words": [
+        {
+          "en": "location",
+          "zh": "n. 位置，场所",
+          "pos": "n."
+        },
+        {
+          "en": "locality",
+          "zh": "n. 位置，地方",
+          "pos": "n."
+        },
+        {
+          "en": "locally",
+          "zh": "adv. 在地方上，在当地",
+          "pos": "adv."
+        },
+        {
+          "en": "locomote",
+          "zh": "v. 移动，行动",
+          "pos": "v."
+        },
+        {
+          "en": "locomotion",
+          "zh": "n. 运动，移动",
+          "pos": "n."
+        },
+        {
+          "en": "locomotive",
+          "zh": "n. 火车头",
+          "pos": "n."
+        },
+        {
+          "en": "lodge",
+          "zh": "n. （山林）小屋",
+          "pos": "n."
+        },
+        {
+          "en": "lodging",
+          "zh": "n. 寄宿，住房（常指出租的房间）",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Wall",
+      "hp": 200,
+      "words": [
+        {
+          "en": "log",
+          "zh": "n. 圆木；航海日志；vt. 记录",
+          "pos": "n."
+        },
+        {
+          "en": "logical",
+          "zh": "adj. 合乎逻辑的，合理的",
+          "pos": "adj."
+        },
+        {
+          "en": "logic",
+          "zh": "n. 逻辑，逻辑学",
+          "pos": "n."
+        },
+        {
+          "en": "longevity",
+          "zh": "n. 长寿",
+          "pos": "n."
+        },
+        {
+          "en": "longitude",
+          "zh": "n. 经度，经线",
+          "pos": "n."
+        },
+        {
+          "en": "loom",
+          "zh": "n. 织布机",
+          "pos": "n."
+        },
+        {
+          "en": "loop",
+          "zh": "vt. 把…圈成环；缠绕",
+          "pos": "vt."
+        },
+        {
+          "en": "sloop",
+          "zh": "n. 单桅帆船",
+          "pos": "n."
+        },
+        {
+          "en": "loose",
+          "zh": "adj. 宽松的；不牢固的",
+          "pos": "adj."
+        },
+        {
+          "en": "loosen",
+          "zh": "vt. 解开，放松",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "lore",
+          "zh": "n. 口头传说；学问，知识",
+          "pos": "n."
+        },
+        {
+          "en": "lucrative",
+          "zh": "adj. 赚钱的，有利可图的",
+          "pos": "adj."
+        },
+        {
+          "en": "lull",
+          "zh": "vt. 使平静；使安静",
+          "pos": "vt."
+        },
+        {
+          "en": "lumber",
+          "zh": "n. 木材，木料",
+          "pos": "n."
+        },
+        {
+          "en": "lumbering",
+          "zh": "n. 采伐林木",
+          "pos": "n."
+        },
+        {
+          "en": "timber",
+          "zh": "n. 木材，木料",
+          "pos": "n."
+        },
+        {
+          "en": "slumber",
+          "zh": "n. 睡眠",
+          "pos": "n."
+        },
+        {
+          "en": "plumber",
+          "zh": "n. 水管工人",
+          "pos": "n."
+        },
+        {
+          "en": "magical",
+          "zh": "adj. 魔术的，不可思议的",
+          "pos": "adj."
+        },
+        {
+          "en": "luminosity",
+          "zh": "n. 亮度，发光度",
+          "pos": "n."
+        },
+        {
+          "en": "luminous",
+          "zh": "adj. 发光的；明亮的",
+          "pos": "adj."
+        },
+        {
+          "en": "lunar",
+          "zh": "adj. 月的",
+          "pos": "adj."
+        },
+        {
+          "en": "lure",
+          "zh": "vt. 引诱，诱惑",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "luster",
+          "zh": "n. 光彩，光泽；声望",
+          "pos": "n."
+        },
+        {
+          "en": "lustrous",
+          "zh": "adj. 有光泽的；光辉的",
+          "pos": "adj."
+        },
+        {
+          "en": "luxurious",
+          "zh": "adj. 奢侈的，豪华的",
+          "pos": "adj."
+        },
+        {
+          "en": "luxury",
+          "zh": "n. 奢侈，豪华",
+          "pos": "n."
+        },
+        {
+          "en": "lyric",
+          "zh": "n. 抒情诗；歌词",
+          "pos": "n."
+        },
+        {
+          "en": "lyricist",
+          "zh": "n. 抒情诗人",
+          "pos": "n."
+        },
+        {
+          "en": "lyrically",
+          "zh": "adv. 抒情地",
+          "pos": "adv."
+        },
+        {
+          "en": "magic",
+          "zh": "n. 魔法，魔力；魔术",
+          "pos": "n."
+        },
+        {
+          "en": "magical",
+          "zh": "adj. 魔术的，不可思议的",
+          "pos": "adj."
+        },
+        {
+          "en": "magician",
+          "zh": "n. 魔术师，变戏法的人",
+          "pos": "n."
+        },
+        {
+          "en": "magnesium",
+          "zh": "n. 镁",
+          "pos": "n."
+        },
+        {
+          "en": "magnetic",
+          "zh": "adj. 磁的，有磁性的",
+          "pos": "adj."
+        },
+        {
+          "en": "magnetism",
+          "zh": "n. 磁，磁力",
+          "pos": "n."
+        },
+        {
+          "en": "magnetize",
+          "zh": "vt. 使磁化；吸引",
+          "pos": "vt."
+        },
+        {
+          "en": "demagnetize",
+          "zh": "vt. 消磁，使退磁",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

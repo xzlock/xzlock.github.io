@@ -1,0 +1,304 @@
+{
+  "day": 51,
+  "title": "Day 51 · fog → crystal",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "rainbow",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Gekko Slime",
+      "hp": 100,
+      "words": [
+        {
+          "en": "fog",
+          "zh": "\"n. 雾；烟雾，尘雾；迷惑",
+          "pos": "n."
+        },
+        {
+          "en": "foggy",
+          "zh": "adj. 有雾的；模糊的，朦胧的",
+          "pos": "adj."
+        },
+        {
+          "en": "frost",
+          "zh": "\"n. 霜；冰冻，严寒；冷淡",
+          "pos": "n."
+        },
+        {
+          "en": "frosty",
+          "zh": "adj. 结霜的，严寒的；冷淡的；灰白的",
+          "pos": "adj."
+        },
+        {
+          "en": "gale",
+          "zh": "n. 大风，狂风；（突发的）一阵",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "KAY/O Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "hailstone",
+          "zh": "n. 冰雹",
+          "pos": "n."
+        },
+        {
+          "en": "heatwave",
+          "zh": "n. 热浪；奇热时期",
+          "pos": "n."
+        },
+        {
+          "en": "high rainfall",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "ice",
+          "zh": "\"n. 冰；冰淇淋；矜持；（俚）钻石",
+          "pos": "n."
+        },
+        {
+          "en": "icy",
+          "zh": "adj. 冰冷的；冷淡的；结满冰的",
+          "pos": "adj."
+        },
+        {
+          "en": "lightening",
+          "zh": "\"v. 减轻（lighten的ing形式）；发光",
+          "pos": "v."
+        },
+        {
+          "en": "mild",
+          "zh": "\"adj. 温和的；轻微的；淡味的；文雅的；不含有害物质的的",
+          "pos": "adj."
+        },
+        {
+          "en": "monsoon",
+          "zh": "n. 季风；（印度等地的）雨季；季候风",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "natural greenhouse",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "puddle",
+          "zh": "\"n. 水坑，泥潭；胶土（由粘土与水和成，不透水）",
+          "pos": "n."
+        },
+        {
+          "en": "rainbow",
+          "zh": "\"n. 彩虹；五彩缤纷的排列；幻想",
+          "pos": "n."
+        },
+        {
+          "en": "rainfall",
+          "zh": "n. 降雨；降雨量",
+          "pos": "n."
+        },
+        {
+          "en": "rainy",
+          "zh": "adj. 下雨的；多雨的",
+          "pos": "adj."
+        },
+        {
+          "en": "showery",
+          "zh": "adj. 阵雨的；多阵雨的",
+          "pos": "adj."
+        },
+        {
+          "en": "snowfall",
+          "zh": "n. 降雪；降雪量",
+          "pos": "n."
+        },
+        {
+          "en": "snowy",
+          "zh": "adj. 下雪的，多雪的；被雪覆盖的；洁白无瑕的",
+          "pos": "adj."
+        },
+        {
+          "en": "stormy",
+          "zh": "adj. 暴风雨的；猛烈的；暴躁的",
+          "pos": "adj."
+        },
+        {
+          "en": "sub-zero",
+          "zh": "adj. 零下的；严寒的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "sunny",
+          "zh": "adj. 阳光充足的，和煦的；快活的；性情开朗的",
+          "pos": "adj."
+        },
+        {
+          "en": "sunshine",
+          "zh": "n. 阳光；愉快；晴天；快活",
+          "pos": "n."
+        },
+        {
+          "en": "temperature",
+          "zh": "n. 温度；体温；气温；发烧",
+          "pos": "n."
+        },
+        {
+          "en": "rainbow",
+          "zh": "\"n. 彩虹；五彩缤纷的排列；幻想",
+          "pos": "n."
+        },
+        {
+          "en": "thunder",
+          "zh": "\"n. 雷；轰隆声；恐吓",
+          "pos": "n."
+        },
+        {
+          "en": "thunderstorm",
+          "zh": "n. 雷暴；雷暴雨；大雷雨",
+          "pos": "n."
+        },
+        {
+          "en": "weather",
+          "zh": "\"n. 天气；气象；气候；处境",
+          "pos": "n."
+        },
+        {
+          "en": "wet",
+          "zh": "\"n. 雨天；湿气",
+          "pos": "n."
+        },
+        {
+          "en": "windspeed",
+          "zh": "\"un. 卷绕速度",
+          "pos": "n."
+        },
+        {
+          "en": "windy",
+          "zh": "adj. 多风的，有风的；腹胀的；吹牛的",
+          "pos": "adj."
+        },
+        {
+          "en": "a layer of ash",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "a speck of dust",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "a thick layer of ice",
+          "zh": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "all-terrain",
+          "zh": "全地形",
+          "pos": ""
+        },
+        {
+          "en": "amber",
+          "zh": "\"n. 琥珀；琥珀色",
+          "pos": "n."
+        },
+        {
+          "en": "archaeological",
+          "zh": "adj. 考古学的； 考古学上的",
+          "pos": "adj."
+        },
+        {
+          "en": "archaeology",
+          "zh": "\"n. 考古学",
+          "pos": "n."
+        },
+        {
+          "en": "bank",
+          "zh": "\"n. 银行；岸；浅滩；储库",
+          "pos": "n."
+        },
+        {
+          "en": "bay",
+          "zh": "\"n. 海湾；狗吠声",
+          "pos": "n."
+        },
+        {
+          "en": "boulder",
+          "zh": "n. 卵石，大圆石；巨砾",
+          "pos": "n."
+        },
+        {
+          "en": "canal",
+          "zh": "\"n. 运河； 水道； 管道；灌溉水渠",
+          "pos": "n."
+        },
+        {
+          "en": "carbon dioxide",
+          "zh": "\"n. 二氧化碳",
+          "pos": "n."
+        },
+        {
+          "en": "cliff",
+          "zh": "n. 悬崖；绝壁",
+          "pos": "n."
+        },
+        {
+          "en": "climate change",
+          "zh": "\"n. 气候变化",
+          "pos": "n."
+        },
+        {
+          "en": "comet",
+          "zh": "n. 彗星",
+          "pos": "n."
+        },
+        {
+          "en": "countryside",
+          "zh": "n. 农村，乡下；乡下的全体居民",
+          "pos": "n."
+        },
+        {
+          "en": "crag",
+          "zh": "n. 峭壁；岩石碎块；颈；嗉囊",
+          "pos": "n."
+        },
+        {
+          "en": "crystal",
+          "zh": "\"n. 结晶，晶体；水晶；水晶饰品",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

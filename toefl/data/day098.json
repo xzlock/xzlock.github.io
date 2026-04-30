@@ -1,0 +1,304 @@
+{
+  "day": 98,
+  "title": "Day 098 · wedding → abide",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "locoweed",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Breach Fist",
+      "hp": 100,
+      "words": [
+        {
+          "en": "wedding",
+          "zh": "n. 婚礼",
+          "pos": "n."
+        },
+        {
+          "en": "wedge-shaped",
+          "zh": "adj. 楔形的",
+          "pos": "adj."
+        },
+        {
+          "en": "weed",
+          "zh": "n. 杂草",
+          "pos": "n."
+        },
+        {
+          "en": "locoweed",
+          "zh": "n. [植] 疯草(牲畜食后引起疯草病)",
+          "pos": "n."
+        },
+        {
+          "en": "weep",
+          "zh": "vi. 哭泣",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Jett Blitz",
+      "hp": 150,
+      "words": [
+        {
+          "en": "weird",
+          "zh": "adj. 怪诞的，奇异的",
+          "pos": "adj."
+        },
+        {
+          "en": "weld",
+          "zh": "v. 焊接",
+          "pos": "v."
+        },
+        {
+          "en": "welfare",
+          "zh": "n. 福利",
+          "pos": "n."
+        },
+        {
+          "en": "well-being",
+          "zh": "n. 安宁 ，福利",
+          "pos": "n."
+        },
+        {
+          "en": "whim",
+          "zh": "n. 随意，冲动",
+          "pos": "n."
+        },
+        {
+          "en": "whittle",
+          "zh": "v. 削；削减",
+          "pos": "v."
+        },
+        {
+          "en": "wholesale",
+          "zh": "adj. 批发的",
+          "pos": "adj."
+        },
+        {
+          "en": "wholesaler",
+          "zh": "n. 批发商",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "wholesome",
+          "zh": "adj. 有益健康的",
+          "pos": "adj."
+        },
+        {
+          "en": "wildlife",
+          "zh": "n. 野生动植物",
+          "pos": "n."
+        },
+        {
+          "en": "wit",
+          "zh": "n. 智力，才智",
+          "pos": "n."
+        },
+        {
+          "en": "withdraw",
+          "zh": "v. 撤退",
+          "pos": "v."
+        },
+        {
+          "en": "withdrawal",
+          "zh": "n. 收回；撤退，退回",
+          "pos": "n."
+        },
+        {
+          "en": "wither",
+          "zh": "v. （使）枯萎，凋谢",
+          "pos": "v."
+        },
+        {
+          "en": "witness",
+          "zh": "vt. 目击；为…作证",
+          "pos": "vt."
+        },
+        {
+          "en": "woods",
+          "zh": "n. 森林",
+          "pos": "n."
+        },
+        {
+          "en": "cottonwood",
+          "zh": "n. [植]三叶杨,棉白杨",
+          "pos": "n."
+        },
+        {
+          "en": "softwood",
+          "zh": "n. 软木材",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "wool",
+          "zh": "n. 羊毛",
+          "pos": "n."
+        },
+        {
+          "en": "woolen",
+          "zh": "adj. 羊毛制的；毛织品的",
+          "pos": "adj."
+        },
+        {
+          "en": "woolly",
+          "zh": "adj. 多毛的",
+          "pos": "adj."
+        },
+        {
+          "en": "worldwide",
+          "zh": "adj. 全世界的",
+          "pos": "adj."
+        },
+        {
+          "en": "wrap",
+          "zh": "vt. 裹，包，捆",
+          "pos": "vt."
+        },
+        {
+          "en": "locoweed",
+          "zh": "n. [植] 疯草(牲畜食后引起疯草病)",
+          "pos": "n."
+        },
+        {
+          "en": "wreck",
+          "zh": "n. 失事；失事的残骸",
+          "pos": "n."
+        },
+        {
+          "en": "shipwreck",
+          "zh": "n. 船只失事, 海难",
+          "pos": "n."
+        },
+        {
+          "en": "wrestling",
+          "zh": "n. 摔跤，格斗",
+          "pos": "n."
+        },
+        {
+          "en": "wring",
+          "zh": "vt. 绞，拧，扭",
+          "pos": "vt."
+        },
+        {
+          "en": "wrinkle",
+          "zh": "n. 皱纹，褶皱",
+          "pos": "n."
+        },
+        {
+          "en": "yarn",
+          "zh": "n. 纱，纱线",
+          "pos": "n."
+        },
+        {
+          "en": "yawn",
+          "zh": "n. 呵欠",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radianite Colossus",
+      "hp": 300,
+      "words": [
+        {
+          "en": "yelp",
+          "zh": "vi. 狗吠",
+          "pos": "vi."
+        },
+        {
+          "en": "yield",
+          "zh": "v. 生产；产生",
+          "pos": "v."
+        },
+        {
+          "en": "yolk",
+          "zh": "n. 蛋黄",
+          "pos": "n."
+        },
+        {
+          "en": "zeal",
+          "zh": "n. 热心，热情，热忱",
+          "pos": "n."
+        },
+        {
+          "en": "zealous",
+          "zh": "adj. 热心的；狂热的",
+          "pos": "adj."
+        },
+        {
+          "en": "zenith",
+          "zh": "n. 顶点，顶峰",
+          "pos": "n."
+        },
+        {
+          "en": "zigzag",
+          "zh": "adj. 曲折的",
+          "pos": "adj."
+        },
+        {
+          "en": "zone",
+          "zh": "n. 区域；地带",
+          "pos": "n."
+        },
+        {
+          "en": "ozone",
+          "zh": "n. [化]臭氧",
+          "pos": "n."
+        },
+        {
+          "en": "abandon",
+          "zh": "vt. 抛弃；放弃",
+          "pos": "vt."
+        },
+        {
+          "en": "abandoned",
+          "zh": "adj. 被抛弃的，废置的",
+          "pos": "adj."
+        },
+        {
+          "en": "abandonment",
+          "zh": "n. 抛弃；放弃",
+          "pos": "n."
+        },
+        {
+          "en": "abbreviate",
+          "zh": "vt. 缩短；缩写",
+          "pos": "vt."
+        },
+        {
+          "en": "abbreviation",
+          "zh": "n. 缩写；缩写词",
+          "pos": "n."
+        },
+        {
+          "en": "abide",
+          "zh": "vi. 遵守",
+          "pos": "vi."
+        }
+      ]
+    }
+  ]
+}

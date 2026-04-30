@@ -1,0 +1,304 @@
+{
+  "day": 23,
+  "title": "Day 023 · counselor → critical",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "courteously",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Neon Flicker",
+      "hp": 100,
+      "words": [
+        {
+          "en": "counselor",
+          "zh": "n. 顾问，法律顾问",
+          "pos": "n."
+        },
+        {
+          "en": "counteract",
+          "zh": "vt. 消除，抵消",
+          "pos": "vt."
+        },
+        {
+          "en": "counterbalance",
+          "zh": "v. 使平衡",
+          "pos": "v."
+        },
+        {
+          "en": "counterfeit",
+          "zh": "vt. 伪造，仿造",
+          "pos": "vt."
+        },
+        {
+          "en": "counterpart",
+          "zh": "n. 相似的人或物，配对物",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Clove Dash",
+      "hp": 150,
+      "words": [
+        {
+          "en": "countless",
+          "zh": "adj. 无数的",
+          "pos": "adj."
+        },
+        {
+          "en": "couple",
+          "zh": "n. （一）对，（一）双；夫妇",
+          "pos": "n."
+        },
+        {
+          "en": "courier",
+          "zh": "n. 送急件的人，信使",
+          "pos": "n."
+        },
+        {
+          "en": "court",
+          "zh": "n. 法庭；球场",
+          "pos": "n."
+        },
+        {
+          "en": "courthouse",
+          "zh": "n. 法院；郡政府所在地",
+          "pos": "n."
+        },
+        {
+          "en": "courtship",
+          "zh": "n. 求爱；求爱时期",
+          "pos": "n."
+        },
+        {
+          "en": "courtly",
+          "zh": "adj. 尊严而有礼貌的",
+          "pos": "adj."
+        },
+        {
+          "en": "courteously",
+          "zh": "adv. 有礼貌地，亲切地",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "cover",
+          "zh": "vt. 覆盖；包括；报道",
+          "pos": "vt."
+        },
+        {
+          "en": "coverage",
+          "zh": "n. 新闻报道；报道",
+          "pos": "n."
+        },
+        {
+          "en": "cowhand",
+          "zh": "n. 牛仔，牧牛工",
+          "pos": "n."
+        },
+        {
+          "en": "cowboy",
+          "zh": "n. 牛仔",
+          "pos": "n."
+        },
+        {
+          "en": "cozy",
+          "zh": "adj. 舒适的，惬意的",
+          "pos": "adj."
+        },
+        {
+          "en": "crab",
+          "zh": "n. 蟹",
+          "pos": "n."
+        },
+        {
+          "en": "crack",
+          "zh": "n. 裂缝，裂纹；缺点",
+          "pos": "n."
+        },
+        {
+          "en": "craft",
+          "zh": "n. 手艺；容器",
+          "pos": "n."
+        },
+        {
+          "en": "craftspeople",
+          "zh": "n. 手工艺人",
+          "pos": "n."
+        },
+        {
+          "en": "hovercraft",
+          "zh": "n. 气垫船",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "aircraft",
+          "zh": "n. 飞行器；飞机，飞艇",
+          "pos": "n."
+        },
+        {
+          "en": "spacecraft",
+          "zh": "n. 太空船",
+          "pos": "n."
+        },
+        {
+          "en": "cram",
+          "zh": "v. 填塞；匆忙准备",
+          "pos": "v."
+        },
+        {
+          "en": "cramped",
+          "zh": "adj. 狭窄的",
+          "pos": "adj."
+        },
+        {
+          "en": "crash",
+          "zh": "n./vt. 碰撞，坠毁，撞碎",
+          "pos": "n."
+        },
+        {
+          "en": "crater",
+          "zh": "n. 火山口；弹坑",
+          "pos": "n."
+        },
+        {
+          "en": "crawl",
+          "zh": "vi. 爬，爬行",
+          "pos": "vi."
+        },
+        {
+          "en": "crayon",
+          "zh": "n. 彩色蜡笔、粉笔或其绘画",
+          "pos": "n."
+        },
+        {
+          "en": "crazy",
+          "zh": "adj. 疯狂的，狂热的",
+          "pos": "adj."
+        },
+        {
+          "en": "credence",
+          "zh": "n. 信任，相信",
+          "pos": "n."
+        },
+        {
+          "en": "credentials",
+          "zh": "n. 凭据，文凭",
+          "pos": "n."
+        },
+        {
+          "en": "credit",
+          "zh": "n. 学分",
+          "pos": "n."
+        },
+        {
+          "en": "courteously",
+          "zh": "adv. 有礼貌地，亲切地",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "creditor",
+          "zh": "n. 债权人",
+          "pos": "n."
+        },
+        {
+          "en": "creek",
+          "zh": "n. 小溪，小河",
+          "pos": "n."
+        },
+        {
+          "en": "creep",
+          "zh": "vi. 慢慢行进；爬行",
+          "pos": "vi."
+        },
+        {
+          "en": "crevice",
+          "zh": "n. 缺口，裂缝",
+          "pos": "n."
+        },
+        {
+          "en": "crew",
+          "zh": "n. 全体工作人员；同事们",
+          "pos": "n."
+        },
+        {
+          "en": "screw",
+          "zh": "n. 螺丝钉 vt.拧紧",
+          "pos": "n."
+        },
+        {
+          "en": "screwdriver",
+          "zh": "n. 螺丝起子",
+          "pos": "n."
+        },
+        {
+          "en": "crimson",
+          "zh": "n./adj. 深红色（的）",
+          "pos": "n."
+        },
+        {
+          "en": "cripple",
+          "zh": "vt. 削弱；使残废",
+          "pos": "vt."
+        },
+        {
+          "en": "crippling",
+          "zh": "adj. 令人震惊的",
+          "pos": "adj."
+        },
+        {
+          "en": "crisscross",
+          "zh": "vi. 交叉往来",
+          "pos": "vi."
+        },
+        {
+          "en": "crossbones",
+          "zh": "n. 十字骨头",
+          "pos": "n."
+        },
+        {
+          "en": "crosscut",
+          "zh": "adj. 横切的",
+          "pos": "adj."
+        },
+        {
+          "en": "crossing",
+          "zh": "n. 横越，交叉口",
+          "pos": "n."
+        },
+        {
+          "en": "critical",
+          "zh": "adj. 评论的，批评的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

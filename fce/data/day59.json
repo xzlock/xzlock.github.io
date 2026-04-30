@@ -1,0 +1,304 @@
+{
+  "day": 59,
+  "title": "Day 59 · oil painting → domino",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "soundtrack",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Gekko Slime",
+      "hp": 100,
+      "words": [
+        {
+          "en": "oil painting",
+          "zh": "\"n. 油画；油画艺术",
+          "pos": "n."
+        },
+        {
+          "en": "orchestra",
+          "zh": "n. 管弦乐队；乐队演奏处",
+          "pos": "n."
+        },
+        {
+          "en": "piano",
+          "zh": "n. 钢琴",
+          "pos": "n."
+        },
+        {
+          "en": "poem",
+          "zh": "n. 诗",
+          "pos": "n."
+        },
+        {
+          "en": "pop music",
+          "zh": "\"n. 流行乐曲",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "portrait",
+          "zh": "n. 肖像；描写；半身雕塑像",
+          "pos": "n."
+        },
+        {
+          "en": "poster",
+          "zh": "n. 海报，广告；招贴",
+          "pos": "n."
+        },
+        {
+          "en": "pottery",
+          "zh": "n. 陶器；陶器厂；陶器制造术",
+          "pos": "n."
+        },
+        {
+          "en": "read up on",
+          "zh": "\"na. 研读",
+          "pos": ""
+        },
+        {
+          "en": "relic",
+          "zh": "n. 遗迹，遗物；废墟；纪念物",
+          "pos": "n."
+        },
+        {
+          "en": "repertoire",
+          "zh": "n. 全部节目；计算机指令系统；（美）某人或机器的全部技能",
+          "pos": "n."
+        },
+        {
+          "en": "rhythm section",
+          "zh": "\"n. 乐队的节奏乐器组（通常由鼓、低音提琴，有时还有钢琴组成）",
+          "pos": "n."
+        },
+        {
+          "en": "rock music",
+          "zh": "\"un. 摇滚音乐",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "rumba",
+          "zh": "\"n. 伦巴舞；伦巴舞曲",
+          "pos": "n."
+        },
+        {
+          "en": "saxophone",
+          "zh": "n. 萨克斯管",
+          "pos": "n."
+        },
+        {
+          "en": "science fiction",
+          "zh": "\"n. 科幻小说；科幻电影",
+          "pos": "n."
+        },
+        {
+          "en": "sci-fi",
+          "zh": "n. 科幻小说（等于science fiction）",
+          "pos": "n."
+        },
+        {
+          "en": "sculpture",
+          "zh": "\"n. 雕塑；雕刻；刻蚀",
+          "pos": "n."
+        },
+        {
+          "en": "skeptic",
+          "zh": "\"n. 怀疑论者；怀疑者；无神论者",
+          "pos": "n."
+        },
+        {
+          "en": "soundtrack",
+          "zh": "n. 声带；声道；声迹；电影配音",
+          "pos": "n."
+        },
+        {
+          "en": "stich",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "symphony",
+          "zh": "n. 交响乐；谐声，和声",
+          "pos": "n."
+        },
+        {
+          "en": "tabloid",
+          "zh": "\"n. 小报；药片；文摘；小型画报",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Wraith",
+      "hp": 250,
+      "words": [
+        {
+          "en": "tale",
+          "zh": "n. 故事；传说；叙述；流言蜚语",
+          "pos": "n."
+        },
+        {
+          "en": "tango",
+          "zh": "\"n. 探戈舞；探戈舞曲",
+          "pos": "n."
+        },
+        {
+          "en": "textile",
+          "zh": "\"n. 纺织品，织物",
+          "pos": "n."
+        },
+        {
+          "en": "thriller",
+          "zh": "n. 惊险小说；使人毛骨悚然的东西；使人毛骨悚然的小说",
+          "pos": "n."
+        },
+        {
+          "en": "ticket",
+          "zh": "vt. 加标签于；指派；对…开出交通违规罚单",
+          "pos": "vt."
+        },
+        {
+          "en": "traditional dances",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "tune",
+          "zh": "\"n. 曲调；和谐；心情",
+          "pos": "n."
+        },
+        {
+          "en": "ukulele",
+          "zh": "n. 尤克里里琴（夏威夷的四弦琴，等于ukelele）",
+          "pos": "n."
+        },
+        {
+          "en": "violin",
+          "zh": "n. 小提琴；小提琴手",
+          "pos": "n."
+        },
+        {
+          "en": "watercolour",
+          "zh": "n. 水彩画；水彩画颜料（等于watercolor）",
+          "pos": "n."
+        },
+        {
+          "en": "acrobatic",
+          "zh": "adj. 杂技的；特技的",
+          "pos": "adj."
+        },
+        {
+          "en": "soundtrack",
+          "zh": "n. 声带；声道；声迹；电影配音",
+          "pos": "n."
+        },
+        {
+          "en": "amusement park",
+          "zh": "\"n. 游乐场；娱乐园",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "an astronomy club",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "arcade games",
+          "zh": "大型电玩；街机游戏；游乐场电玩",
+          "pos": ""
+        },
+        {
+          "en": "awards ceremony",
+          "zh": "颁奖典礼；颁奖仪式；颁奖庆典",
+          "pos": ""
+        },
+        {
+          "en": "backgammon",
+          "zh": "n. 西洋双陆棋戏",
+          "pos": "n."
+        },
+        {
+          "en": "binoculars",
+          "zh": "n. 双筒望远镜； 双筒镜， 双目镜",
+          "pos": "n."
+        },
+        {
+          "en": "blogroll",
+          "zh": "博客链接",
+          "pos": ""
+        },
+        {
+          "en": "bulletin",
+          "zh": "\"n. 公告，公报",
+          "pos": "n."
+        },
+        {
+          "en": "cartoon",
+          "zh": "\"n. 卡通片， 动画片；连环漫画",
+          "pos": "n."
+        },
+        {
+          "en": "choir",
+          "zh": "\"n. 唱诗班；合唱队；舞蹈队",
+          "pos": "n."
+        },
+        {
+          "en": "climbing",
+          "zh": "\"n. 攀登",
+          "pos": "n."
+        },
+        {
+          "en": "clothing",
+          "zh": "\"n. （总称） 服装；帆装",
+          "pos": "n."
+        },
+        {
+          "en": "crossword",
+          "zh": "n. 纵横字谜；纵横填字谜（等于cross puzzle）",
+          "pos": "n."
+        },
+        {
+          "en": "cup tie",
+          "zh": "\"n. 优胜杯赛比赛",
+          "pos": "n."
+        },
+        {
+          "en": "diary",
+          "zh": "n. 日志，日记；日记簿",
+          "pos": "n."
+        },
+        {
+          "en": "domino",
+          "zh": "n. 多米诺骨牌；面具；化装外衣",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

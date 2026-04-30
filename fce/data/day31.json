@@ -1,0 +1,304 @@
+{
+  "day": 31,
+  "title": "Day 31 · past → platform",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "patient",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Viper Spawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "past",
+          "zh": "\"n. 过去；往事",
+          "pos": "n."
+        },
+        {
+          "en": "patchy",
+          "zh": "adj. 不调和的；拼凑成的；有补丁的",
+          "pos": "adj."
+        },
+        {
+          "en": "patient",
+          "zh": "\"n. 病人；患者",
+          "pos": "n."
+        },
+        {
+          "en": "pattern",
+          "zh": "\"n. 模式；图案；样品",
+          "pos": "n."
+        },
+        {
+          "en": "pause",
+          "zh": "\"n. 暂停；间歇",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "pave the way",
+          "zh": "铺平道路；铺路；为某事铺平道路",
+          "pos": ""
+        },
+        {
+          "en": "pave the way for",
+          "zh": "\"na. 为…铺平道路；使…容易到来",
+          "pos": ""
+        },
+        {
+          "en": "pavement",
+          "zh": "\"n. 人行道",
+          "pos": "n."
+        },
+        {
+          "en": "pay",
+          "zh": "\"n. 工资，薪水；付款；报答",
+          "pos": "n."
+        },
+        {
+          "en": "peaceful",
+          "zh": "adj. 和平的，爱好和平的；平静的",
+          "pos": "adj."
+        },
+        {
+          "en": "pedal",
+          "zh": "\"n. 踏板；脚蹬子",
+          "pos": "n."
+        },
+        {
+          "en": "pedestrian",
+          "zh": "\"n. 行人；步行者",
+          "pos": "n."
+        },
+        {
+          "en": "peer",
+          "zh": "\"vt. 封为贵族；与…同等",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "penfriend",
+          "zh": "n. <英>笔友",
+          "pos": "n."
+        },
+        {
+          "en": "pension",
+          "zh": "\"n. 退休金，抚恤金；津贴；膳宿费",
+          "pos": "n."
+        },
+        {
+          "en": "people",
+          "zh": "\"n. 人；人类；民族；公民",
+          "pos": "n."
+        },
+        {
+          "en": "per capita",
+          "zh": "\"adj. 每人的；人均的",
+          "pos": "adj."
+        },
+        {
+          "en": "per",
+          "zh": "prep. 每；经；按照；每一",
+          "pos": "prep."
+        },
+        {
+          "en": "percent",
+          "zh": "\"n. 百分比，百分率；部分；百分数",
+          "pos": "n."
+        },
+        {
+          "en": "perfect",
+          "zh": "\"n. 完成式",
+          "pos": "n."
+        },
+        {
+          "en": "perform",
+          "zh": "\"vt. 执行；完成；演奏",
+          "pos": "vt."
+        },
+        {
+          "en": "perhaps",
+          "zh": "\"n. 假定；猜想；未定之事",
+          "pos": "n."
+        },
+        {
+          "en": "peril",
+          "zh": "\"n. 危险；冒险",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "period",
+          "zh": "\"n. 周期，期间；时期；月经；课时；（语法学）句点，句号",
+          "pos": "n."
+        },
+        {
+          "en": "permanent",
+          "zh": "\"n. 烫发（等于permanent wave）",
+          "pos": "n."
+        },
+        {
+          "en": "patient",
+          "zh": "\"n. 病人；患者",
+          "pos": "n."
+        },
+        {
+          "en": "permission",
+          "zh": "n. 允许，许可",
+          "pos": "n."
+        },
+        {
+          "en": "persistent",
+          "zh": "adj. 固执的，坚持的；持久稳固的",
+          "pos": "adj."
+        },
+        {
+          "en": "person",
+          "zh": "n. 人；身体；容貌，外表；人称",
+          "pos": "n."
+        },
+        {
+          "en": "personnel",
+          "zh": "\"n. 人事部门；全体人员",
+          "pos": "n."
+        },
+        {
+          "en": "perspective",
+          "zh": "\"n. 观点；远景；透视图",
+          "pos": "n."
+        },
+        {
+          "en": "persuade",
+          "zh": "\"vt. 说服，劝说；使某人相信；劝某人做（不做）某事",
+          "pos": "vt."
+        },
+        {
+          "en": "pester",
+          "zh": "vt. 纠缠，烦扰；使烦恼",
+          "pos": "vt."
+        },
+        {
+          "en": "phase out",
+          "zh": "\"na. 使逐步结束；使逐步撤出；逐步淘汰；逐部停止(活动等)",
+          "pos": ""
+        },
+        {
+          "en": "phenomenal",
+          "zh": "adj. 现象的；显著的；异常的；能知觉的；惊人的，非凡的",
+          "pos": "adj."
+        },
+        {
+          "en": "phone",
+          "zh": "\"n. 电话；耳机，听筒",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "photograph",
+          "zh": "\"n. 照片，相片",
+          "pos": "n."
+        },
+        {
+          "en": "phrase",
+          "zh": "\"n. 短语, 习语, 措辞, 乐句",
+          "pos": "n."
+        },
+        {
+          "en": "physical",
+          "zh": "\"n. 体格检查",
+          "pos": "n."
+        },
+        {
+          "en": "pick",
+          "zh": "\"n. 选择；鹤嘴锄；挖；掩护",
+          "pos": "n."
+        },
+        {
+          "en": "picture",
+          "zh": "\"n. 照片，图画；影片；景色；化身",
+          "pos": "n."
+        },
+        {
+          "en": "piece",
+          "zh": "\"n. 块；件；篇；硬币",
+          "pos": "n."
+        },
+        {
+          "en": "pile",
+          "zh": "\"n. 堆；大量；建筑群",
+          "pos": "n."
+        },
+        {
+          "en": "pin down",
+          "zh": "\"na. 强迫(人)承认条约；用…束缚住；阻止；牵制",
+          "pos": ""
+        },
+        {
+          "en": "pitch",
+          "zh": "\"n. 沥青；音高；程度；树脂；倾斜；投掷；球场",
+          "pos": "n."
+        },
+        {
+          "en": "pity",
+          "zh": "\"n. 怜悯，同情；遗憾",
+          "pos": "n."
+        },
+        {
+          "en": "place",
+          "zh": "\"n. 地方；住所；座位",
+          "pos": "n."
+        },
+        {
+          "en": "plan",
+          "zh": "\"n. 计划；平面图",
+          "pos": "n."
+        },
+        {
+          "en": "plant",
+          "zh": "\"n. 工厂，车间；植物；设备；庄稼",
+          "pos": "n."
+        },
+        {
+          "en": "plastic",
+          "zh": "\"n. 塑料制品；整形；可塑体",
+          "pos": "n."
+        },
+        {
+          "en": "platform",
+          "zh": "n. 平台；月台，站台；坛；讲台",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

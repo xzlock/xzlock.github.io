@@ -1,0 +1,304 @@
+{
+  "day": 2,
+  "title": "Day 02 · advert → antique",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "allocate",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Phoenix Ember",
+      "hp": 100,
+      "words": [
+        {
+          "en": "advert",
+          "zh": "\"vi. 注意；谈到",
+          "pos": "vi."
+        },
+        {
+          "en": "advertise",
+          "zh": "\"vt. 通知；为…做广告；使突出",
+          "pos": "vt."
+        },
+        {
+          "en": "advise",
+          "zh": "\"vt. 建议；劝告，忠告；通知；警告",
+          "pos": "vt."
+        },
+        {
+          "en": "affect",
+          "zh": "\"n. 情感；引起感情的因素",
+          "pos": "n."
+        },
+        {
+          "en": "afford",
+          "zh": "vt. 给予，提供；买得起",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "agency",
+          "zh": "n. 代理，中介；代理处，经销处",
+          "pos": "n."
+        },
+        {
+          "en": "aggressive",
+          "zh": "adj. 侵略性的；好斗的；有进取心的；有闯劲的",
+          "pos": "adj."
+        },
+        {
+          "en": "agitate",
+          "zh": "\"vt. 摇动；骚动；使…激动",
+          "pos": "vt."
+        },
+        {
+          "en": "agree",
+          "zh": "\"vi. vi. 同意，意见一致；约定，商定",
+          "pos": "vi."
+        },
+        {
+          "en": "agricultural",
+          "zh": "adj. 农业的；农艺的",
+          "pos": "adj."
+        },
+        {
+          "en": "ahead",
+          "zh": "\"adj. 向前；在前的；领先",
+          "pos": "adj."
+        },
+        {
+          "en": "aid",
+          "zh": "\"n. 援助；帮助；助手；帮助者",
+          "pos": "n."
+        },
+        {
+          "en": "aim",
+          "zh": "\"n. 目的；目标；对准",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "aircraft",
+          "zh": "n. 飞机，航空器",
+          "pos": "n."
+        },
+        {
+          "en": "airy",
+          "zh": "adj. 空气的；通风的；幻想的；轻快的；空中的",
+          "pos": "adj."
+        },
+        {
+          "en": "alien",
+          "zh": "\"n. 外国人，外侨；外星人",
+          "pos": "n."
+        },
+        {
+          "en": "alike",
+          "zh": "\"adj. 相似的；相同的",
+          "pos": "adj."
+        },
+        {
+          "en": "alive",
+          "zh": "adj. 活着的；活泼的；有生气的",
+          "pos": "adj."
+        },
+        {
+          "en": "allergic",
+          "zh": "adj. 对…过敏的；对…极讨厌的",
+          "pos": "adj."
+        },
+        {
+          "en": "allocate",
+          "zh": "\"vt. 分配；拨出；使坐落于",
+          "pos": "vt."
+        },
+        {
+          "en": "allow",
+          "zh": "\"vi. 容许；考虑",
+          "pos": "vi."
+        },
+        {
+          "en": "alone",
+          "zh": "\"adj. 独自的；单独的；孤独的",
+          "pos": "adj."
+        },
+        {
+          "en": "alter",
+          "zh": "\"vt. 改变，更改",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Clove Revive",
+      "hp": 250,
+      "words": [
+        {
+          "en": "alternative",
+          "zh": "\"n. 二中择一；供替代的选择",
+          "pos": "n."
+        },
+        {
+          "en": "although",
+          "zh": "conj. 尽管；虽然；但是；然而",
+          "pos": "conj."
+        },
+        {
+          "en": "altitude",
+          "zh": "n. 高地；高度； 顶垂线；（等级和地位等的）高级；海拔",
+          "pos": "n."
+        },
+        {
+          "en": "amateur",
+          "zh": "\"n. 爱好者；业余爱好者；外行",
+          "pos": "n."
+        },
+        {
+          "en": "allocate",
+          "zh": "\"vt. 分配；拨出；使坐落于",
+          "pos": "vt."
+        },
+        {
+          "en": "amaze",
+          "zh": "vt. 使吃惊",
+          "pos": "vt."
+        },
+        {
+          "en": "ambition",
+          "zh": "\"n. 野心，雄心；抱负，志向",
+          "pos": "n."
+        },
+        {
+          "en": "ambitious",
+          "zh": "adj. 野心勃勃的；有雄心的；热望的；炫耀的",
+          "pos": "adj."
+        },
+        {
+          "en": "amenity",
+          "zh": "n. 舒适；礼仪；愉快；便利设施",
+          "pos": "n."
+        },
+        {
+          "en": "amount",
+          "zh": "\"n. 数量；总额，总数",
+          "pos": "n."
+        },
+        {
+          "en": "ample",
+          "zh": "adj. 丰富的；足够的；宽敞的",
+          "pos": "adj."
+        },
+        {
+          "en": "amused",
+          "zh": "\"v. 逗笑（amuse的过去分词）；使欢乐",
+          "pos": "v."
+        },
+        {
+          "en": "amusing",
+          "zh": "\"adj. 有趣的，好玩的；引人发笑的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "analysis",
+          "zh": "n. 分析；分解；验定",
+          "pos": "n."
+        },
+        {
+          "en": "analytical",
+          "zh": "adj. 分析的；解析的；善于分析的",
+          "pos": "adj."
+        },
+        {
+          "en": "ancestor",
+          "zh": "n. 始祖，祖先；被继承人",
+          "pos": "n."
+        },
+        {
+          "en": "ancient",
+          "zh": "\"n. 古代人；老人",
+          "pos": "n."
+        },
+        {
+          "en": "anger",
+          "zh": "\"n. 怒，愤怒；忿怒",
+          "pos": "n."
+        },
+        {
+          "en": "angle",
+          "zh": "\"n. 角度，角，方面",
+          "pos": "n."
+        },
+        {
+          "en": "angry",
+          "zh": "adj. 生气的；愤怒的；狂暴的；（伤口等）发炎的",
+          "pos": "adj."
+        },
+        {
+          "en": "announce",
+          "zh": "\"vt. 宣布；述说；预示；播报",
+          "pos": "vt."
+        },
+        {
+          "en": "annoy",
+          "zh": "\"n. 烦恼（等于annoyance）",
+          "pos": "n."
+        },
+        {
+          "en": "annoying",
+          "zh": "\"v. 骚扰（annoy的ing形式）",
+          "pos": "v."
+        },
+        {
+          "en": "annual",
+          "zh": "\"n. 年刊，年鉴；一年生植物",
+          "pos": "n."
+        },
+        {
+          "en": "another",
+          "zh": "\"prep. 另一个；另一个人",
+          "pos": "prep."
+        },
+        {
+          "en": "answer",
+          "zh": "\"n. 回答；答案；答辩",
+          "pos": "n."
+        },
+        {
+          "en": "anticipate",
+          "zh": "vt. 预期，期望；占先，抢先；提前使用",
+          "pos": "vt."
+        },
+        {
+          "en": "antique",
+          "zh": "\"n. 古董，古玩；古风，古希腊和古罗马艺术风格",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

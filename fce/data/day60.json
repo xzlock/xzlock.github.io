@@ -1,0 +1,304 @@
+{
+  "day": 60,
+  "title": "Day 60 · engagement party → athlete",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "jigsaw",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Clove Mist",
+      "hp": 100,
+      "words": [
+        {
+          "en": "engagement party",
+          "zh": "订婚派对；订婚聚会；订婚宴",
+          "pos": ""
+        },
+        {
+          "en": "extravaganza",
+          "zh": "n. 狂妄的言行；内容狂妄的作品；铺张华丽的表演",
+          "pos": "n."
+        },
+        {
+          "en": "family-friendly restaurants",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "family holidays",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "family road trips",
+          "zh": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Neon Pulse",
+      "hp": 150,
+      "words": [
+        {
+          "en": "fee",
+          "zh": "\"n. 费用；酬金；小费",
+          "pos": "n."
+        },
+        {
+          "en": "fishing rod",
+          "zh": "\"n. 钓竿",
+          "pos": "n."
+        },
+        {
+          "en": "front-page story",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "funfair",
+          "zh": "n. 游乐场；游艺集市",
+          "pos": "n."
+        },
+        {
+          "en": "games consoles",
+          "zh": "游戏机；求购游戏机；家庭游乐器",
+          "pos": ""
+        },
+        {
+          "en": "geocache",
+          "zh": "隐藏物；地理宝藏",
+          "pos": ""
+        },
+        {
+          "en": "get fit",
+          "zh": "保持健康；健身；去健身",
+          "pos": ""
+        },
+        {
+          "en": "keep fit",
+          "zh": "\"na. 保持健康",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Wall",
+      "hp": 200,
+      "words": [
+        {
+          "en": "horse-riding",
+          "zh": "骑马",
+          "pos": ""
+        },
+        {
+          "en": "jigsaw",
+          "zh": "\"n. 拼图玩具；线锯；镂花锯",
+          "pos": "n."
+        },
+        {
+          "en": "jigsaw puzzle",
+          "zh": "\"na. (玩具)益智分合板",
+          "pos": ""
+        },
+        {
+          "en": "lottery",
+          "zh": "n. 彩票；碰运气的事，难算计的事；抽彩给奖法",
+          "pos": "n."
+        },
+        {
+          "en": "marriage",
+          "zh": "n. 结婚；婚姻生活；密切结合，合并",
+          "pos": "n."
+        },
+        {
+          "en": "media",
+          "zh": "n. 媒体；媒质（medium的复数）；血管中层；浊塞音；中脉",
+          "pos": "n."
+        },
+        {
+          "en": "membership",
+          "zh": "n. 资格；成员资格；会员身份",
+          "pos": "n."
+        },
+        {
+          "en": "membership fees",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "mini-website",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "nightclub",
+          "zh": "\"n. 夜总会",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "painting",
+          "zh": "\"n. 绘画；油画；着色",
+          "pos": "n."
+        },
+        {
+          "en": "pastime",
+          "zh": "n. 娱乐，消遣",
+          "pos": "n."
+        },
+        {
+          "en": "photography",
+          "zh": "n. 摄影；摄影术",
+          "pos": "n."
+        },
+        {
+          "en": "picnic",
+          "zh": "\"n. 野餐",
+          "pos": "n."
+        },
+        {
+          "en": "postage stamps",
+          "zh": "\"na. 邮票",
+          "pos": ""
+        },
+        {
+          "en": "restaurant",
+          "zh": "n. 餐馆； 饭店",
+          "pos": "n."
+        },
+        {
+          "en": "rollerblade",
+          "zh": "\"n. 直排轮滑；滚轴溜冰；滑旱冰",
+          "pos": "n."
+        },
+        {
+          "en": "rollercoaster",
+          "zh": "n. 过山车",
+          "pos": "n."
+        },
+        {
+          "en": "sauna",
+          "zh": "\"n. 桑拿浴",
+          "pos": "n."
+        },
+        {
+          "en": "season ticket",
+          "zh": "\"n. 长期票（如火车通勤票、公交车月票、体育比赛套票等）",
+          "pos": "n."
+        },
+        {
+          "en": "self-propelled wheels",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "snorkel",
+          "zh": "\"n. 通气管；潜艇换气装置",
+          "pos": "n."
+        },
+        {
+          "en": "jigsaw",
+          "zh": "\"n. 拼图玩具；线锯；镂花锯",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Kingdom Titan",
+      "hp": 300,
+      "words": [
+        {
+          "en": "tattoo",
+          "zh": "\"n. 文身",
+          "pos": "n."
+        },
+        {
+          "en": "telephone",
+          "zh": "\"n. （美）电话；电话机；电话耳机",
+          "pos": "n."
+        },
+        {
+          "en": "video",
+          "zh": "\"n. 视频；录像，录像机；电视",
+          "pos": "n."
+        },
+        {
+          "en": "video footage",
+          "zh": "录像；录像片段；录象片段",
+          "pos": ""
+        },
+        {
+          "en": "walkway",
+          "zh": "n. 通道， 走道",
+          "pos": "n."
+        },
+        {
+          "en": "weblog",
+          "zh": "n. 网络日志",
+          "pos": "n."
+        },
+        {
+          "en": "wedding anniversary",
+          "zh": "\"n. 结婚纪念日",
+          "pos": "n."
+        },
+        {
+          "en": "website",
+          "zh": "n. 网站（全球资讯网的主机站）",
+          "pos": "n."
+        },
+        {
+          "en": "a keen kayaker",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "a very sporty person",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "action sport",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "aerobic",
+          "zh": "adj. 需氧的；增氧健身法的",
+          "pos": "adj."
+        },
+        {
+          "en": "aerobics",
+          "zh": "n. 有氧运动法；增氧健身法",
+          "pos": "n."
+        },
+        {
+          "en": "archery course",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "athlete",
+          "zh": "n. 运动员，体育家；身强力壮的人",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

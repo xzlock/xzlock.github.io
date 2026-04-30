@@ -1,0 +1,304 @@
+{
+  "day": 2,
+  "title": "Day 002 · accidentally → adequate",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "accurate",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Breach Fist",
+      "hp": 100,
+      "words": [
+        {
+          "en": "accidentally",
+          "zh": "adv. 意外地，偶然地",
+          "pos": "adv."
+        },
+        {
+          "en": "accident",
+          "zh": "n. 意外事件，事故",
+          "pos": "n."
+        },
+        {
+          "en": "acclaim",
+          "zh": "n. 赞誉，赞许",
+          "pos": "n."
+        },
+        {
+          "en": "acclaimed",
+          "zh": "adj. 受人欢迎的",
+          "pos": "adj."
+        },
+        {
+          "en": "accommodate",
+          "zh": "vt. 为提供食宿；与相符，与相适应",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "accommodating",
+          "zh": "adj. 乐于助人的",
+          "pos": "adj."
+        },
+        {
+          "en": "accompany",
+          "zh": "vt. 陪伴，伴随；伴奏",
+          "pos": "vt."
+        },
+        {
+          "en": "accompanying",
+          "zh": "adj. 陪伴的，伴随的",
+          "pos": "adj."
+        },
+        {
+          "en": "accompaniment",
+          "zh": "n. 伴奏",
+          "pos": "n."
+        },
+        {
+          "en": "accomplish",
+          "zh": "vt. 完成，达到，实现",
+          "pos": "vt."
+        },
+        {
+          "en": "accomplished",
+          "zh": "adj. 精通的，熟练的",
+          "pos": "adj."
+        },
+        {
+          "en": "accomplishment",
+          "zh": "n. 成就",
+          "pos": "n."
+        },
+        {
+          "en": "accordion",
+          "zh": "n. 手风琴",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "account",
+          "zh": "n. 说明，解释",
+          "pos": "n."
+        },
+        {
+          "en": "take",
+          "zh": "into account 词组 重视，考虑",
+          "pos": ""
+        },
+        {
+          "en": "accounting",
+          "zh": "n. 会计学",
+          "pos": "n."
+        },
+        {
+          "en": "accountant",
+          "zh": "n. 会计员，会计师",
+          "pos": "n."
+        },
+        {
+          "en": "accredit",
+          "zh": "vt. 授权",
+          "pos": "vt."
+        },
+        {
+          "en": "accumulate",
+          "zh": "vi. 堆积，积聚；积累",
+          "pos": "vi."
+        },
+        {
+          "en": "accumulation",
+          "zh": "n. 积聚",
+          "pos": "n."
+        },
+        {
+          "en": "accurate",
+          "zh": "adj. 准确的，正确的",
+          "pos": "adj."
+        },
+        {
+          "en": "accuracy",
+          "zh": "n. 准确性，正确性",
+          "pos": "n."
+        },
+        {
+          "en": "accuse",
+          "zh": "vt. 指责，归咎",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "accurate",
+          "zh": "adj. 准确的，正确的",
+          "pos": "adj."
+        },
+        {
+          "en": "accusation",
+          "zh": "n. 谴责；控告",
+          "pos": "n."
+        },
+        {
+          "en": "accustomed",
+          "zh": "adj. 习惯了的",
+          "pos": "adj."
+        },
+        {
+          "en": "achieve",
+          "zh": "vt. 完成，实现",
+          "pos": "vt."
+        },
+        {
+          "en": "achievement",
+          "zh": "n. 成就，功绩",
+          "pos": "n."
+        },
+        {
+          "en": "acid",
+          "zh": "n. 酸",
+          "pos": "n."
+        },
+        {
+          "en": "acidic",
+          "zh": "adj. 酸的，酸性的",
+          "pos": "adj."
+        },
+        {
+          "en": "acidity",
+          "zh": "n. 酸度，酸性",
+          "pos": "n."
+        },
+        {
+          "en": "acquaintance",
+          "zh": "n. 熟人",
+          "pos": "n."
+        },
+        {
+          "en": "acquaint",
+          "zh": "v. 熟悉",
+          "pos": "v."
+        },
+        {
+          "en": "acquisition",
+          "zh": "n. 获得",
+          "pos": "n."
+        },
+        {
+          "en": "acquire",
+          "zh": "vt. 获得，学到",
+          "pos": "vt."
+        },
+        {
+          "en": "acronym",
+          "zh": "n. 首字母缩写词",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "actual",
+          "zh": "adj. 实际的，现行的",
+          "pos": "adj."
+        },
+        {
+          "en": "actually",
+          "zh": "adv. 实际上，事实上",
+          "pos": "adv."
+        },
+        {
+          "en": "actuate",
+          "zh": "vt. 开动，促使",
+          "pos": "vt."
+        },
+        {
+          "en": "activate",
+          "zh": "vt. 刺激，使活动",
+          "pos": "vt."
+        },
+        {
+          "en": "actively",
+          "zh": "adv. 活跃地，积极地",
+          "pos": "adv."
+        },
+        {
+          "en": "acute",
+          "zh": "adj. 灵敏的，敏锐的",
+          "pos": "adj."
+        },
+        {
+          "en": "acumen",
+          "zh": "n. 敏锐，聪明",
+          "pos": "n."
+        },
+        {
+          "en": "adapt",
+          "zh": "v. （使）适应，调整；改编",
+          "pos": "v."
+        },
+        {
+          "en": "adaptable",
+          "zh": "adj. 能适应的，适应能力强的",
+          "pos": "adj."
+        },
+        {
+          "en": "adaptation",
+          "zh": "n. 改编，改写；适应环境",
+          "pos": "n."
+        },
+        {
+          "en": "adaptive",
+          "zh": "adj. 适合的；适应的",
+          "pos": "adj."
+        },
+        {
+          "en": "additive",
+          "zh": "n. 添加剂",
+          "pos": "n."
+        },
+        {
+          "en": "additional",
+          "zh": "adj. 另外的，附加的，额外的",
+          "pos": "adj."
+        },
+        {
+          "en": "adept",
+          "zh": "adj. 熟练的，擅长的",
+          "pos": "adj."
+        },
+        {
+          "en": "adequate",
+          "zh": "adj. 足够的，充实的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

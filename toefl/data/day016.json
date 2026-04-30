@@ -1,0 +1,304 @@
+{
+  "day": 16,
+  "title": "Day 016 · circulate → cohesion",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "classification",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "KAY/O Unit",
+      "hp": 100,
+      "words": [
+        {
+          "en": "circulate",
+          "zh": "v. （使）循环；（使）传播",
+          "pos": "v."
+        },
+        {
+          "en": "circulation",
+          "zh": "n. 循环；流通",
+          "pos": "n."
+        },
+        {
+          "en": "circumference",
+          "zh": "n. 圆周；周长",
+          "pos": "n."
+        },
+        {
+          "en": "circumscribe",
+          "zh": "vt. 划界限；限制",
+          "pos": "vt."
+        },
+        {
+          "en": "circumstance",
+          "zh": "n. 环境，情况",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "citadel",
+          "zh": "n. 堡垒，要塞",
+          "pos": "n."
+        },
+        {
+          "en": "cite",
+          "zh": "vt. 引用，举例",
+          "pos": "vt."
+        },
+        {
+          "en": "citizenship",
+          "zh": "n. 公民（的身份）",
+          "pos": "n."
+        },
+        {
+          "en": "civil",
+          "zh": "adj. 公民的；市民的",
+          "pos": "adj."
+        },
+        {
+          "en": "civility",
+          "zh": "n. 彬彬有礼，斯文",
+          "pos": "n."
+        },
+        {
+          "en": "civilization",
+          "zh": "n. 文明，文化",
+          "pos": "n."
+        },
+        {
+          "en": "civilian",
+          "zh": "adj. 平民的；民用的",
+          "pos": "adj."
+        },
+        {
+          "en": "claim",
+          "zh": "n. 要求，要求权",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "clam",
+          "zh": "n. 蛤，蛤肉",
+          "pos": "n."
+        },
+        {
+          "en": "clamor",
+          "zh": "n. 叫嚣，喧哗",
+          "pos": "n."
+        },
+        {
+          "en": "reclamation",
+          "zh": "n. 开垦；改造；（废料等的）回收",
+          "pos": "n."
+        },
+        {
+          "en": "clan",
+          "zh": "n. 家族，宗族",
+          "pos": "n."
+        },
+        {
+          "en": "clap",
+          "zh": "n. 拍手声；霹雳声",
+          "pos": "n."
+        },
+        {
+          "en": "clarify",
+          "zh": "vt. 澄清，阐明",
+          "pos": "vt."
+        },
+        {
+          "en": "clarification",
+          "zh": "n. 澄清，净化",
+          "pos": "n."
+        },
+        {
+          "en": "classify",
+          "zh": "vt. 把…分类，分等级",
+          "pos": "vt."
+        },
+        {
+          "en": "classification",
+          "zh": "n. 分类，分级",
+          "pos": "n."
+        },
+        {
+          "en": "clause",
+          "zh": "n. 分句；条款",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Wraith",
+      "hp": 250,
+      "words": [
+        {
+          "en": "clay",
+          "zh": "n. 粘土；泥土",
+          "pos": "n."
+        },
+        {
+          "en": "clergy",
+          "zh": "n. 牧师",
+          "pos": "n."
+        },
+        {
+          "en": "clergyman",
+          "zh": "n. 牧师，教士",
+          "pos": "n."
+        },
+        {
+          "en": "cliff",
+          "zh": "n. 悬崖峭壁",
+          "pos": "n."
+        },
+        {
+          "en": "climate",
+          "zh": "n. 气候；社会风气或趋势",
+          "pos": "n."
+        },
+        {
+          "en": "climatic",
+          "zh": "adj. 气候上的",
+          "pos": "adj."
+        },
+        {
+          "en": "cling",
+          "zh": "vi. 粘紧，附着",
+          "pos": "vi."
+        },
+        {
+          "en": "clinic",
+          "zh": "n. 门诊所",
+          "pos": "n."
+        },
+        {
+          "en": "clinical",
+          "zh": "adj. 临床的",
+          "pos": "adj."
+        },
+        {
+          "en": "classification",
+          "zh": "n. 分类，分级",
+          "pos": "n."
+        },
+        {
+          "en": "clip",
+          "zh": "vt. 修剪",
+          "pos": "vt."
+        },
+        {
+          "en": "clockwise",
+          "zh": "adj./adv. 顺时针方向的（地）",
+          "pos": "adj."
+        },
+        {
+          "en": "counterclockwise",
+          "zh": "adj./adv. 逆时针方向的（地）",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "clog",
+          "zh": "vt. 障碍，阻塞",
+          "pos": "vt."
+        },
+        {
+          "en": "clumsy",
+          "zh": "adj. 笨拙的；愚笨的",
+          "pos": "adj."
+        },
+        {
+          "en": "cluster",
+          "zh": "n. 簇，串，群",
+          "pos": "n."
+        },
+        {
+          "en": "clutch",
+          "zh": "v. 抓住，攫取",
+          "pos": "v."
+        },
+        {
+          "en": "coalesce",
+          "zh": "vi. 联合，合并",
+          "pos": "vi."
+        },
+        {
+          "en": "coalescence",
+          "zh": "n. 合并，联合",
+          "pos": "n."
+        },
+        {
+          "en": "coalition",
+          "zh": "n. 联合，同盟",
+          "pos": "n."
+        },
+        {
+          "en": "coarse",
+          "zh": "adj. 粗糙的",
+          "pos": "adj."
+        },
+        {
+          "en": "coax",
+          "zh": "vt. 哄诱，巧言诱哄",
+          "pos": "vt."
+        },
+        {
+          "en": "codify",
+          "zh": "vt. 编成法典，编辑成书",
+          "pos": "vt."
+        },
+        {
+          "en": "coexist",
+          "zh": "vi. 同时存在，共存",
+          "pos": "vi."
+        },
+        {
+          "en": "cognitive",
+          "zh": "adj. 认知的；感知的",
+          "pos": "adj."
+        },
+        {
+          "en": "coherent",
+          "zh": "adj. 粘在一起的",
+          "pos": "adj."
+        },
+        {
+          "en": "coherence",
+          "zh": "n. 一致",
+          "pos": "n."
+        },
+        {
+          "en": "cohesion",
+          "zh": "n. 附着（力），凝聚力",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

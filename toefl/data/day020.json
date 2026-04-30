@@ -1,0 +1,304 @@
+{
+  "day": 20,
+  "title": "Day 020 · conflict → consonant",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "consideration",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Raze Cub",
+      "hp": 100,
+      "words": [
+        {
+          "en": "conflict",
+          "zh": "n. 争论，冲突，斗争",
+          "pos": "n."
+        },
+        {
+          "en": "conflicting",
+          "zh": "adj. 相冲突的，相矛盾的",
+          "pos": "adj."
+        },
+        {
+          "en": "confluence",
+          "zh": "n. 汇合；聚集",
+          "pos": "n."
+        },
+        {
+          "en": "conform",
+          "zh": "vi. 遵守，顺从；符合",
+          "pos": "vi."
+        },
+        {
+          "en": "conformity",
+          "zh": "n. 一致，符合",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "nonconformity",
+          "zh": "n. 不墨守陈规，不一致",
+          "pos": "n."
+        },
+        {
+          "en": "nonconformist",
+          "zh": "n. 非国教徒，不尊奉英国国教的基督教新教教徒",
+          "pos": "n."
+        },
+        {
+          "en": "confront",
+          "zh": "vt. 面对，正视",
+          "pos": "vt."
+        },
+        {
+          "en": "confuse",
+          "zh": "vt. 搞乱，使糊涂",
+          "pos": "vt."
+        },
+        {
+          "en": "confusion",
+          "zh": "n. 混乱，混淆",
+          "pos": "n."
+        },
+        {
+          "en": "congenial",
+          "zh": "adj. 合得来的；适意的",
+          "pos": "adj."
+        },
+        {
+          "en": "congenital",
+          "zh": "adj. 先天的，天生的",
+          "pos": "adj."
+        },
+        {
+          "en": "congestion",
+          "zh": "n. 拥挤，拥塞",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "congested",
+          "zh": "adj. 堵塞的；拥挤的",
+          "pos": "adj."
+        },
+        {
+          "en": "congratulation",
+          "zh": "n. 祝贺，道喜",
+          "pos": "n."
+        },
+        {
+          "en": "congregate",
+          "zh": "v. 聚集",
+          "pos": "v."
+        },
+        {
+          "en": "conglomerate",
+          "zh": "n. 混合",
+          "pos": "n."
+        },
+        {
+          "en": "congress",
+          "zh": "n. 国会，议会",
+          "pos": "n."
+        },
+        {
+          "en": "congressional",
+          "zh": "adj. 会议的，大会的；国会的",
+          "pos": "adj."
+        },
+        {
+          "en": "congressman",
+          "zh": "n. 国会议员",
+          "pos": "n."
+        },
+        {
+          "en": "conifer",
+          "zh": "n. 松类，针叶树",
+          "pos": "n."
+        },
+        {
+          "en": "conjectural",
+          "zh": "adj. 推测的",
+          "pos": "adj."
+        },
+        {
+          "en": "conjecture",
+          "zh": "n./v. 推测，猜测",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "connect",
+          "zh": "v. 连接；联系；联合",
+          "pos": "v."
+        },
+        {
+          "en": "connection",
+          "zh": "n. 连接",
+          "pos": "n."
+        },
+        {
+          "en": "disconnect",
+          "zh": "vt. 分离，断开",
+          "pos": "vt."
+        },
+        {
+          "en": "connoisseur",
+          "zh": "n. 鉴赏家，行家",
+          "pos": "n."
+        },
+        {
+          "en": "conscience",
+          "zh": "n. 良心，良知",
+          "pos": "n."
+        },
+        {
+          "en": "conscientious",
+          "zh": "adj. 尽责的，一丝不苟的",
+          "pos": "adj."
+        },
+        {
+          "en": "conscious",
+          "zh": "adj. 有意识的，神志清醒的",
+          "pos": "adj."
+        },
+        {
+          "en": "consciously",
+          "zh": "adv. 有意识地，自觉地",
+          "pos": "adv."
+        },
+        {
+          "en": "consciousness",
+          "zh": "n. 意识，知觉",
+          "pos": "n."
+        },
+        {
+          "en": "unconscious",
+          "zh": "adj. 不省人事的,未发觉的,无意识的",
+          "pos": "adj."
+        },
+        {
+          "en": "consecutive",
+          "zh": "adj. 连续的",
+          "pos": "adj."
+        },
+        {
+          "en": "consequence",
+          "zh": "n. 结果，后果",
+          "pos": "n."
+        },
+        {
+          "en": "consideration",
+          "zh": "n. 体谅，考虑",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "consequent",
+          "zh": "adj. 作为结果的，随之发生的",
+          "pos": "adj."
+        },
+        {
+          "en": "consequently",
+          "zh": "adv. 从而，因此",
+          "pos": "adv."
+        },
+        {
+          "en": "conservative",
+          "zh": "adj. 保守的，谨慎的；守旧的",
+          "pos": "adj."
+        },
+        {
+          "en": "conservatism",
+          "zh": "n. 保守主义，守旧性",
+          "pos": "n."
+        },
+        {
+          "en": "conserve",
+          "zh": "vt. 保存,保藏 n.可长期保存的食物",
+          "pos": "vt."
+        },
+        {
+          "en": "conservation",
+          "zh": "n. 保存，保持",
+          "pos": "n."
+        },
+        {
+          "en": "conservationist",
+          "zh": "n. （天然资源的）保护管理论者",
+          "pos": "n."
+        },
+        {
+          "en": "considerable",
+          "zh": "adj. 相当大（多）的；值得考虑的；相当可观的",
+          "pos": "adj."
+        },
+        {
+          "en": "considerably",
+          "zh": "adv. 相当地",
+          "pos": "adv."
+        },
+        {
+          "en": "considerate",
+          "zh": "adj. 考虑周到的，体贴的",
+          "pos": "adj."
+        },
+        {
+          "en": "consideration",
+          "zh": "n. 体谅，考虑",
+          "pos": "n."
+        },
+        {
+          "en": "consistent",
+          "zh": "adj. 一致的；稳定的，变化少的",
+          "pos": "adj."
+        },
+        {
+          "en": "consistency",
+          "zh": "n. 浓度，密度",
+          "pos": "n."
+        },
+        {
+          "en": "consistently",
+          "zh": "adv. 一贯地",
+          "pos": "adv."
+        },
+        {
+          "en": "consonant",
+          "zh": "adj. 协调一致的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

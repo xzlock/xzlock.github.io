@@ -1,0 +1,304 @@
+{
+  "day": 10,
+  "title": "Day 10 · couple → daunt",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "couple",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Reyna Mote",
+      "hp": 100,
+      "words": [
+        {
+          "en": "couple",
+          "zh": "\"n. 对；夫妇；数个",
+          "pos": "n."
+        },
+        {
+          "en": "courage",
+          "zh": "n. 勇气；胆量",
+          "pos": "n."
+        },
+        {
+          "en": "course",
+          "zh": "\"n. 科目；课程；过程；进程；道路；路线，航向；一道菜",
+          "pos": "n."
+        },
+        {
+          "en": "coursework",
+          "zh": "n. 作业，修习；指定功课，职业培训",
+          "pos": "n."
+        },
+        {
+          "en": "court",
+          "zh": "\"n. 法院；球场；朝廷；奉承",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Jett Blitz",
+      "hp": 150,
+      "words": [
+        {
+          "en": "cover",
+          "zh": "\"n. 封面，封皮；盖子；掩蔽物;幌子，借口",
+          "pos": "n."
+        },
+        {
+          "en": "cower",
+          "zh": "vi. 退缩；抖缩；蜷缩；弯腰屈膝",
+          "pos": "vi."
+        },
+        {
+          "en": "crack",
+          "zh": "\"n. 裂缝；声变；噼啪声",
+          "pos": "n."
+        },
+        {
+          "en": "cram",
+          "zh": "\"n. 死记硬背；极度拥挤",
+          "pos": "n."
+        },
+        {
+          "en": "crash",
+          "zh": "\"n. 撞碎；坠毁；破产；轰隆声；睡觉",
+          "pos": "n."
+        },
+        {
+          "en": "crawl",
+          "zh": "\"n. 爬行；养鱼池；匍匐而行",
+          "pos": "n."
+        },
+        {
+          "en": "crazy",
+          "zh": "adj. 疯狂的；狂热的，着迷的",
+          "pos": "adj."
+        },
+        {
+          "en": "creak",
+          "zh": "\"n. 嘎吱嘎吱声",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "create",
+          "zh": "vt. 创造，创作；造成",
+          "pos": "vt."
+        },
+        {
+          "en": "creature",
+          "zh": "n. 动物，生物；人；创造物",
+          "pos": "n."
+        },
+        {
+          "en": "credential",
+          "zh": "n. 证书；凭据；国书",
+          "pos": "n."
+        },
+        {
+          "en": "credit",
+          "zh": "\"n. 信用，信誉； 贷款；学分；信任；声望",
+          "pos": "n."
+        },
+        {
+          "en": "creep",
+          "zh": "\"n. 爬行；毛骨悚然的感觉；谄媚者",
+          "pos": "n."
+        },
+        {
+          "en": "crew",
+          "zh": "\"n. 队，组；全体人员，全体船员",
+          "pos": "n."
+        },
+        {
+          "en": "crime",
+          "zh": "\"n. 罪行，犯罪；罪恶；犯罪活动",
+          "pos": "n."
+        },
+        {
+          "en": "crisis",
+          "zh": "\"n. 危机；危险期；决定性时刻",
+          "pos": "n."
+        },
+        {
+          "en": "critical",
+          "zh": "adj. 鉴定的； 临界的；批评的，爱挑剔的；危险的；决定性的；评论的",
+          "pos": "adj."
+        },
+        {
+          "en": "criticize",
+          "zh": "\"vi. 批评；评论；苛求",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "croak",
+          "zh": "\"n. 呱呱叫声；低沉沙哑的说话声",
+          "pos": "n."
+        },
+        {
+          "en": "cross",
+          "zh": "\"n. 交叉，十字；十字架，十字形物",
+          "pos": "n."
+        },
+        {
+          "en": "crouch",
+          "zh": "\"n. 蹲伏",
+          "pos": "n."
+        },
+        {
+          "en": "couple",
+          "zh": "\"n. 对；夫妇；数个",
+          "pos": "n."
+        },
+        {
+          "en": "crowded",
+          "zh": "\"adj. 拥挤的；塞满的",
+          "pos": "adj."
+        },
+        {
+          "en": "crucial",
+          "zh": "adj. 重要的；决定性的；定局的；决断的",
+          "pos": "adj."
+        },
+        {
+          "en": "cruel",
+          "zh": "adj. 残酷的，残忍的；使人痛苦的，让人受难的；无情的，严酷的",
+          "pos": "adj."
+        },
+        {
+          "en": "crush",
+          "zh": "\"n. 粉碎；迷恋；压榨；拥挤的人群",
+          "pos": "n."
+        },
+        {
+          "en": "cubic",
+          "zh": "adj. 立方体的，立方的",
+          "pos": "adj."
+        },
+        {
+          "en": "cue",
+          "zh": "\"n. 提示，暗示；线索",
+          "pos": "n."
+        },
+        {
+          "en": "cultivate",
+          "zh": "vt. 培养；陶冶；耕作",
+          "pos": "vt."
+        },
+        {
+          "en": "culture",
+          "zh": "\"n. 文化，文明；修养；栽培",
+          "pos": "n."
+        },
+        {
+          "en": "curiosity",
+          "zh": "n. 好奇，好奇心；珍品，古董，古玩",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "current",
+          "zh": "\"n. （水，气，电）流；趋势；涌流",
+          "pos": "n."
+        },
+        {
+          "en": "curtail",
+          "zh": "vt. 缩减；剪短；剥夺…特权等",
+          "pos": "vt."
+        },
+        {
+          "en": "custody",
+          "zh": "n. 保管；监护；拘留；抚养权",
+          "pos": "n."
+        },
+        {
+          "en": "cut",
+          "zh": "\"n. 伤口；切口；削减；（服装等的）式样；削球；切入",
+          "pos": "n."
+        },
+        {
+          "en": "cut-price",
+          "zh": "adj. 廉价的；打折扣的",
+          "pos": "adj."
+        },
+        {
+          "en": "cut-throat",
+          "zh": "\"n. 凶手；刺客",
+          "pos": "n."
+        },
+        {
+          "en": "cycle",
+          "zh": "\"n. 循环；周期；自行车；整套；一段时间",
+          "pos": "n."
+        },
+        {
+          "en": "daily",
+          "zh": "\"n. 日报；朝来夜去的女佣",
+          "pos": "n."
+        },
+        {
+          "en": "dam",
+          "zh": "\"n. 水坝；障碍",
+          "pos": "n."
+        },
+        {
+          "en": "damage",
+          "zh": "\"vi. 损害；损毁",
+          "pos": "vi."
+        },
+        {
+          "en": "danger",
+          "zh": "n. 危险；危险物，威胁",
+          "pos": "n."
+        },
+        {
+          "en": "dark",
+          "zh": "\"n. 黑暗；夜；黄昏；模糊",
+          "pos": "n."
+        },
+        {
+          "en": "dash",
+          "zh": "\"n. 破折号；冲撞",
+          "pos": "n."
+        },
+        {
+          "en": "date",
+          "zh": "\"n. 日期；约会；年代；枣椰子",
+          "pos": "n."
+        },
+        {
+          "en": "daunt",
+          "zh": "vt. 使气馁，使畏缩；威吓",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 84,
+  "title": "Day 084 · space shuttle → spoil",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "speck",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Cypher Eye",
+      "hp": 100,
+      "words": [
+        {
+          "en": "space shuttle",
+          "zh": "n. 航天飞机",
+          "pos": "n."
+        },
+        {
+          "en": "spacious",
+          "zh": "adj. 广大的，宽敞的",
+          "pos": "adj."
+        },
+        {
+          "en": "span",
+          "zh": "n. 跨度；一段时间",
+          "pos": "n."
+        },
+        {
+          "en": "spangle",
+          "zh": "v. （使）闪烁",
+          "pos": "v."
+        },
+        {
+          "en": "spanking",
+          "zh": "adj. 强烈的，疾行的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "wingspan",
+          "zh": "n. [空]翼展",
+          "pos": "n."
+        },
+        {
+          "en": "spare",
+          "zh": "adj. 多余的，备用的",
+          "pos": "adj."
+        },
+        {
+          "en": "sparingly",
+          "zh": "adv. 节俭地，保守地",
+          "pos": "adv."
+        },
+        {
+          "en": "sparrow",
+          "zh": "n. 麻雀",
+          "pos": "n."
+        },
+        {
+          "en": "spark",
+          "zh": "n. 火花，火星",
+          "pos": "n."
+        },
+        {
+          "en": "sparse",
+          "zh": "adj. 稀少的；稀疏的",
+          "pos": "adj."
+        },
+        {
+          "en": "sparsely",
+          "zh": "adv. 稀疏地，稀少地",
+          "pos": "adv."
+        },
+        {
+          "en": "spawn",
+          "zh": "v. 产卵，大量生育",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "specialized",
+          "zh": "adj. 专业的，专门的",
+          "pos": "adj."
+        },
+        {
+          "en": "species",
+          "zh": "n. 类群，种类",
+          "pos": "n."
+        },
+        {
+          "en": "subspecies",
+          "zh": "n. [生]亚种",
+          "pos": "n."
+        },
+        {
+          "en": "specify",
+          "zh": "vt. 明确说明；具体指定",
+          "pos": "vt."
+        },
+        {
+          "en": "specified",
+          "zh": "adj. 特定的",
+          "pos": "adj."
+        },
+        {
+          "en": "specific",
+          "zh": "adj. 具体的，特指的",
+          "pos": "adj."
+        },
+        {
+          "en": "specification",
+          "zh": "n. 规格，详细说明书",
+          "pos": "n."
+        },
+        {
+          "en": "specimen",
+          "zh": "n. 标本，样品",
+          "pos": "n."
+        },
+        {
+          "en": "speck",
+          "zh": "n. 斑点",
+          "pos": "n."
+        },
+        {
+          "en": "flyspeck",
+          "zh": "n. 蝇粪留下的污点, 污点",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "spectacle",
+          "zh": "n. 奇观；展示，景象",
+          "pos": "n."
+        },
+        {
+          "en": "spectacular",
+          "zh": "adj. 引人入胜的，壮观的",
+          "pos": "adj."
+        },
+        {
+          "en": "spectacularly",
+          "zh": "adv. 引人入胜地",
+          "pos": "adv."
+        },
+        {
+          "en": "spectator",
+          "zh": "n. 参观者，观众",
+          "pos": "n."
+        },
+        {
+          "en": "spectrum",
+          "zh": "n. 谱，光谱",
+          "pos": "n."
+        },
+        {
+          "en": "spectra",
+          "zh": "n. 光谱",
+          "pos": "n."
+        },
+        {
+          "en": "speculate",
+          "zh": "v. 推测；沉思",
+          "pos": "v."
+        },
+        {
+          "en": "speedy",
+          "zh": "adj. 快的，迅速的",
+          "pos": "adj."
+        },
+        {
+          "en": "sphere",
+          "zh": "n. 球体",
+          "pos": "n."
+        },
+        {
+          "en": "spherical",
+          "zh": "adj. 球的，球状的",
+          "pos": "adj."
+        },
+        {
+          "en": "chromosphere",
+          "zh": "n. 色球",
+          "pos": "n."
+        },
+        {
+          "en": "speck",
+          "zh": "n. 斑点",
+          "pos": "n."
+        },
+        {
+          "en": "magnetosphere",
+          "zh": "n. 磁气圈",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "lithosphere",
+          "zh": "n. [地]岩石圈",
+          "pos": "n."
+        },
+        {
+          "en": "photosphere",
+          "zh": "n. 光球",
+          "pos": "n."
+        },
+        {
+          "en": "hydrosphere",
+          "zh": "n. 水圈, 水气, 水界",
+          "pos": "n."
+        },
+        {
+          "en": "ionosphere",
+          "zh": "n. 电离层",
+          "pos": "n."
+        },
+        {
+          "en": "spill",
+          "zh": "vi. 溢出",
+          "pos": "vi."
+        },
+        {
+          "en": "pill",
+          "zh": "n. 药丸",
+          "pos": "n."
+        },
+        {
+          "en": "spinal",
+          "zh": "adj. 脊骨的，脊髓的",
+          "pos": "adj."
+        },
+        {
+          "en": "spiny",
+          "zh": "adj. 多刺的，刺状的",
+          "pos": "adj."
+        },
+        {
+          "en": "spinach",
+          "zh": "n. 菠菜",
+          "pos": "n."
+        },
+        {
+          "en": "spinning",
+          "zh": "adj. 旋转的",
+          "pos": "adj."
+        },
+        {
+          "en": "spiral",
+          "zh": "adj. 螺旋形的，盘旋的",
+          "pos": "adj."
+        },
+        {
+          "en": "spiritual",
+          "zh": "adj. 精神上的",
+          "pos": "adj."
+        },
+        {
+          "en": "splendor",
+          "zh": "n. 壮丽，辉煌",
+          "pos": "n."
+        },
+        {
+          "en": "split",
+          "zh": "v. 劈开，（使）裂开；分开",
+          "pos": "v."
+        },
+        {
+          "en": "spoil",
+          "zh": "v. 损坏；腐烂",
+          "pos": "v."
+        }
+      ]
+    }
+  ]
+}

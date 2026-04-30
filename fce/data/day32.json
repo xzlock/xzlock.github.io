@@ -1,0 +1,304 @@
+{
+  "day": 32,
+  "title": "Day 32 · play → prehistory",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "polite",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "play",
+          "zh": "\"n. 游戏；比赛；剧本",
+          "pos": "n."
+        },
+        {
+          "en": "pleasant",
+          "zh": "adj. 令人愉快的，舒适的；讨人喜欢的，和蔼可亲的",
+          "pos": "adj."
+        },
+        {
+          "en": "pleasing",
+          "zh": "\"v. 取悦（please的现在分词）",
+          "pos": "v."
+        },
+        {
+          "en": "pleasure",
+          "zh": "\"n. 快乐；希望；娱乐；令人高兴的事",
+          "pos": "n."
+        },
+        {
+          "en": "plenty",
+          "zh": "\"n. 丰富，大量；充足",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Chamber Bullet",
+      "hp": 150,
+      "words": [
+        {
+          "en": "plot",
+          "zh": "\"n. 情节；图；阴谋",
+          "pos": "n."
+        },
+        {
+          "en": "plural",
+          "zh": "\"n. 复数",
+          "pos": "n."
+        },
+        {
+          "en": "plus",
+          "zh": "\"prep. 加，加上",
+          "pos": "prep."
+        },
+        {
+          "en": "podium",
+          "zh": "n. 乐队指挥台；矮墙；墩座墙",
+          "pos": "n."
+        },
+        {
+          "en": "point",
+          "zh": "\"n. 要点；得分；标点； 尖端",
+          "pos": "n."
+        },
+        {
+          "en": "poise",
+          "zh": "\"n. 平衡；姿势；镇静",
+          "pos": "n."
+        },
+        {
+          "en": "poisonous",
+          "zh": "adj. 有毒的；恶毒的；讨厌的",
+          "pos": "adj."
+        },
+        {
+          "en": "pole",
+          "zh": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "policy",
+          "zh": "n. 政策，方针；保险单",
+          "pos": "n."
+        },
+        {
+          "en": "polish",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "polite",
+          "zh": "adj. 有礼貌的，客气的；文雅的；上流的；优雅的",
+          "pos": "adj."
+        },
+        {
+          "en": "political",
+          "zh": "adj. 政治的；党派的",
+          "pos": "adj."
+        },
+        {
+          "en": "polluted",
+          "zh": "\"adj. 受污染的；被玷污的",
+          "pos": "adj."
+        },
+        {
+          "en": "pollution",
+          "zh": "\"n. 污染",
+          "pos": "n."
+        },
+        {
+          "en": "pollution-free",
+          "zh": "adj. 无污染的",
+          "pos": "adj."
+        },
+        {
+          "en": "poor",
+          "zh": "adj. 贫穷的；可怜的；贫乏的；卑鄙的",
+          "pos": "adj."
+        },
+        {
+          "en": "pop into",
+          "zh": "访问某人；匆匆走进；不假思索地到",
+          "pos": ""
+        },
+        {
+          "en": "popular",
+          "zh": "adj. 流行的，通俗的；受欢迎的；大众的；普及的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "population",
+          "zh": "n. 人口； 种群， 群体；全体居民",
+          "pos": "n."
+        },
+        {
+          "en": "portable",
+          "zh": "\"n. 手提式打字机",
+          "pos": "n."
+        },
+        {
+          "en": "portfolio",
+          "zh": "n. 公文包；文件夹；证券投资组合；部长职务",
+          "pos": "n."
+        },
+        {
+          "en": "portion",
+          "zh": "\"n. 部分；一份；命运",
+          "pos": "n."
+        },
+        {
+          "en": "posh",
+          "zh": "adj. 时髦的；漂亮的；奢侈的",
+          "pos": "adj."
+        },
+        {
+          "en": "position",
+          "zh": "\"n. 位置，方位；职位，工作；姿态；站位",
+          "pos": "n."
+        },
+        {
+          "en": "positive",
+          "zh": "\"n. 正数； 正片",
+          "pos": "n."
+        },
+        {
+          "en": "polite",
+          "zh": "adj. 有礼貌的，客气的；文雅的；上流的；优雅的",
+          "pos": "adj."
+        },
+        {
+          "en": "possess",
+          "zh": "vt. 控制；使掌握；持有；迷住；拥有，具备",
+          "pos": "vt."
+        },
+        {
+          "en": "possibility",
+          "zh": "n. 可能性；可能发生的事物",
+          "pos": "n."
+        },
+        {
+          "en": "possible",
+          "zh": "\"n. 可能性；合适的人；可能的事物",
+          "pos": "n."
+        },
+        {
+          "en": "post",
+          "zh": "\"n. 岗位；邮件；标杆",
+          "pos": "n."
+        },
+        {
+          "en": "postpone",
+          "zh": "\"vt. 使…延期；把…放在次要地位；把…放在后面",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Kingdom Titan",
+      "hp": 300,
+      "words": [
+        {
+          "en": "potential",
+          "zh": "\"n. 潜能；可能性； 电势",
+          "pos": "n."
+        },
+        {
+          "en": "pour",
+          "zh": "\"n. 倾泻；流出；骤雨",
+          "pos": "n."
+        },
+        {
+          "en": "poverty",
+          "zh": "n. 贫困；困难；缺少；低劣",
+          "pos": "n."
+        },
+        {
+          "en": "power",
+          "zh": "\"n. 力量，能力；电力，功率；政权，势力； 幂",
+          "pos": "n."
+        },
+        {
+          "en": "practice",
+          "zh": "\"n. 实践；练习；惯例",
+          "pos": "n."
+        },
+        {
+          "en": "practise",
+          "zh": "\"vi. 练习，实践；实施，实行；从事",
+          "pos": "vi."
+        },
+        {
+          "en": "praise",
+          "zh": "\"n. 赞扬；称赞；荣耀；崇拜",
+          "pos": "n."
+        },
+        {
+          "en": "precious",
+          "zh": "adj. 宝贵的；珍贵的；矫揉造作的",
+          "pos": "adj."
+        },
+        {
+          "en": "precise",
+          "zh": "adj. 精确的；明确的；严格的",
+          "pos": "adj."
+        },
+        {
+          "en": "preconception",
+          "zh": "n. 偏见；先入之见；预想",
+          "pos": "n."
+        },
+        {
+          "en": "predecessor",
+          "zh": "n. 前任，前辈",
+          "pos": "n."
+        },
+        {
+          "en": "predict",
+          "zh": "\"vi. 作出预言；作预料，作预报",
+          "pos": "vi."
+        },
+        {
+          "en": "prefer",
+          "zh": "\"vt. 更喜欢；宁愿；提出；提升",
+          "pos": "vt."
+        },
+        {
+          "en": "prehensile",
+          "zh": "adj. 适于抓握的；善于领会的",
+          "pos": "adj."
+        },
+        {
+          "en": "prehistory",
+          "zh": "n. 史前；史前史；（导致事件、危机等的）背景",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

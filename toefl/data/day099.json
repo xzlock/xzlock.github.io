@@ -1,0 +1,304 @@
+{
+  "day": 99,
+  "title": "Day 099 · abiding → accommodating",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "viability",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Clove Mist",
+      "hp": 100,
+      "words": [
+        {
+          "en": "abiding",
+          "zh": "adj. 持久的",
+          "pos": "adj."
+        },
+        {
+          "en": "ability",
+          "zh": "n. 能力，才干",
+          "pos": "n."
+        },
+        {
+          "en": "inability",
+          "zh": "n. 无能，无力",
+          "pos": "n."
+        },
+        {
+          "en": "capability",
+          "zh": "n. 能力，性能，容量",
+          "pos": "n."
+        },
+        {
+          "en": "viability",
+          "zh": "n. 生存能力；可行性",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "variability",
+          "zh": "n. 可变性",
+          "pos": "n."
+        },
+        {
+          "en": "ablaze",
+          "zh": "adj. 着火的，燃烧的；闪耀的",
+          "pos": "adj."
+        },
+        {
+          "en": "blazing",
+          "zh": "adj. 炽烧的，闪耀的",
+          "pos": "adj."
+        },
+        {
+          "en": "abnormal",
+          "zh": "adj. 反常的，异常的；变态的",
+          "pos": "adj."
+        },
+        {
+          "en": "normal",
+          "zh": "adj. 正常的，正规的，标准的",
+          "pos": "adj."
+        },
+        {
+          "en": "abolish",
+          "zh": "vt. 废除，取消",
+          "pos": "vt."
+        },
+        {
+          "en": "abolition",
+          "zh": "n. 废除，取消",
+          "pos": "n."
+        },
+        {
+          "en": "abolitionist",
+          "zh": "n. 废奴主义者",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "abort",
+          "zh": "n. 中止计划（任务）",
+          "pos": "n."
+        },
+        {
+          "en": "abound",
+          "zh": "vi. 充满；富于",
+          "pos": "vi."
+        },
+        {
+          "en": "abrasion",
+          "zh": "n. 磨（擦）破；表面磨损",
+          "pos": "n."
+        },
+        {
+          "en": "abrasive",
+          "zh": "adj. 研磨的",
+          "pos": "adj."
+        },
+        {
+          "en": "abrupt",
+          "zh": "adj. 突然的，意外的",
+          "pos": "adj."
+        },
+        {
+          "en": "absenteeism",
+          "zh": "n. 旷课；旷工",
+          "pos": "n."
+        },
+        {
+          "en": "absentee",
+          "zh": "n. 缺席者",
+          "pos": "n."
+        },
+        {
+          "en": "absent",
+          "zh": "adj. 缺少的；不在的，缺席的",
+          "pos": "adj."
+        },
+        {
+          "en": "absence",
+          "zh": "n. 缺少；不在，缺席",
+          "pos": "n."
+        },
+        {
+          "en": "absolute",
+          "zh": "adj. 完全的；绝对的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "absolutely",
+          "zh": "adv. 完全地；绝对地",
+          "pos": "adv."
+        },
+        {
+          "en": "absorb",
+          "zh": "vt. 吸收（液体、知识）",
+          "pos": "vt."
+        },
+        {
+          "en": "absorption",
+          "zh": "n. 吸收",
+          "pos": "n."
+        },
+        {
+          "en": "abstract",
+          "zh": "adj. 抽象的",
+          "pos": "adj."
+        },
+        {
+          "en": "absurd",
+          "zh": "adj. 荒谬的，可笑的",
+          "pos": "adj."
+        },
+        {
+          "en": "abundant",
+          "zh": "adj. 丰富的，充裕的；大量的",
+          "pos": "adj."
+        },
+        {
+          "en": "viability",
+          "zh": "n. 生存能力；可行性",
+          "pos": "n."
+        },
+        {
+          "en": "abundantly",
+          "zh": "adv. 丰富地",
+          "pos": "adv."
+        },
+        {
+          "en": "abundance",
+          "zh": "n. 丰富，充裕",
+          "pos": "n."
+        },
+        {
+          "en": "abuse",
+          "zh": "vt. 滥用；虐待",
+          "pos": "vt."
+        },
+        {
+          "en": "abut",
+          "zh": "vi. 邻接，毗邻",
+          "pos": "vi."
+        },
+        {
+          "en": "academic",
+          "zh": "adj. 学术的；学院的；理论的",
+          "pos": "adj."
+        },
+        {
+          "en": "academician",
+          "zh": "n. 学会会员；院士；学者",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "accelerate",
+          "zh": "v. 加快，加速",
+          "pos": "v."
+        },
+        {
+          "en": "accelerated",
+          "zh": "adj. 加速的，迅速的",
+          "pos": "adj."
+        },
+        {
+          "en": "accelerating",
+          "zh": "adj. 加速的",
+          "pos": "adj."
+        },
+        {
+          "en": "acceleration",
+          "zh": "n. 加速度",
+          "pos": "n."
+        },
+        {
+          "en": "access",
+          "zh": "n. 接触，接近（的机会）",
+          "pos": "n."
+        },
+        {
+          "en": "accessible",
+          "zh": "adj. 可接近的，可接触的；可得到的",
+          "pos": "adj."
+        },
+        {
+          "en": "accessibility",
+          "zh": "n. 易接近；可达到",
+          "pos": "n."
+        },
+        {
+          "en": "accessory",
+          "zh": "n. 附件，零件",
+          "pos": "n."
+        },
+        {
+          "en": "accidental",
+          "zh": "adj. 意外的，偶然的",
+          "pos": "adj."
+        },
+        {
+          "en": "accidentally",
+          "zh": "adv. 意外地，偶然地",
+          "pos": "adv."
+        },
+        {
+          "en": "accident",
+          "zh": "n. 意外事件，事故",
+          "pos": "n."
+        },
+        {
+          "en": "acclaim",
+          "zh": "n. 赞誉，赞许",
+          "pos": "n."
+        },
+        {
+          "en": "acclaimed",
+          "zh": "adj. 受人欢迎的",
+          "pos": "adj."
+        },
+        {
+          "en": "accommodate",
+          "zh": "vt. 为提供食宿；与相符，与相适应",
+          "pos": "vt."
+        },
+        {
+          "en": "accommodating",
+          "zh": "adj. 乐于助人的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

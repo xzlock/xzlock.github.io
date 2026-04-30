@@ -1,0 +1,304 @@
+{
+  "day": 27,
+  "title": "Day 027 · depress → diagonal",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "deserve",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Skye Pup",
+      "hp": 100,
+      "words": [
+        {
+          "en": "depress",
+          "zh": "vt. 压下，压低",
+          "pos": "vt."
+        },
+        {
+          "en": "depressed",
+          "zh": "adj. 沮丧的",
+          "pos": "adj."
+        },
+        {
+          "en": "depression",
+          "zh": "n. 不景气，萧条期",
+          "pos": "n."
+        },
+        {
+          "en": "deprive",
+          "zh": "vt. 剥夺，使失去",
+          "pos": "vt."
+        },
+        {
+          "en": "deprivation",
+          "zh": "n. 缺乏；剥夺",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Skye Falcon",
+      "hp": 150,
+      "words": [
+        {
+          "en": "derive",
+          "zh": "vt. 得到，获取；源于",
+          "pos": "vt."
+        },
+        {
+          "en": "derivative",
+          "zh": "n. 派生的事物；派生词",
+          "pos": "n."
+        },
+        {
+          "en": "desalination",
+          "zh": "n. 脱盐，去盐作用",
+          "pos": "n."
+        },
+        {
+          "en": "descend",
+          "zh": "v. 传下，遗传",
+          "pos": "v."
+        },
+        {
+          "en": "descendant",
+          "zh": "n. 子孙，后裔",
+          "pos": "n."
+        },
+        {
+          "en": "descent",
+          "zh": "n. 血统，世袭",
+          "pos": "n."
+        },
+        {
+          "en": "desert",
+          "zh": "n. 沙漠",
+          "pos": "n."
+        },
+        {
+          "en": "deserted",
+          "zh": "adj. 荒芜的，荒废的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Wall",
+      "hp": 200,
+      "words": [
+        {
+          "en": "deserve",
+          "zh": "vt. 应得",
+          "pos": "vt."
+        },
+        {
+          "en": "undeserved",
+          "zh": "adj. 不应得的，不该受的",
+          "pos": "adj."
+        },
+        {
+          "en": "designate",
+          "zh": "vt. 指定，任命",
+          "pos": "vt."
+        },
+        {
+          "en": "desire",
+          "zh": "n. 欲望，要求",
+          "pos": "n."
+        },
+        {
+          "en": "desirable",
+          "zh": "adj. 令人向往的；令人满意的",
+          "pos": "adj."
+        },
+        {
+          "en": "desolate",
+          "zh": "adj. 荒凉的，无人烟的",
+          "pos": "adj."
+        },
+        {
+          "en": "desperate",
+          "zh": "adj. 绝望的，不顾一切的，拼死的",
+          "pos": "adj."
+        },
+        {
+          "en": "desperately",
+          "zh": "adv. 迫切地；危急地",
+          "pos": "adv."
+        },
+        {
+          "en": "despoil",
+          "zh": "v. 夺取，掠夺",
+          "pos": "v."
+        },
+        {
+          "en": "despoiler",
+          "zh": "n. 掠夺者",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "deserve",
+          "zh": "vt. 应得",
+          "pos": "vt."
+        },
+        {
+          "en": "dessert",
+          "zh": "n. 餐后甜点",
+          "pos": "n."
+        },
+        {
+          "en": "destination",
+          "zh": "n. 目的地",
+          "pos": "n."
+        },
+        {
+          "en": "destine",
+          "zh": "vt. 命运注定，预定",
+          "pos": "vt."
+        },
+        {
+          "en": "destruction",
+          "zh": "n. 破坏；毁灭",
+          "pos": "n."
+        },
+        {
+          "en": "destructive",
+          "zh": "adj. 破坏的；毁灭性的",
+          "pos": "adj."
+        },
+        {
+          "en": "detect",
+          "zh": "vt. 察觉，发觉；探测，侦查",
+          "pos": "vt."
+        },
+        {
+          "en": "detective",
+          "zh": "n. 侦探",
+          "pos": "n."
+        },
+        {
+          "en": "detectable",
+          "zh": "adj. 可发觉的；可查明的",
+          "pos": "adj."
+        },
+        {
+          "en": "deter",
+          "zh": "vt. 阻碍，制止，使踌躇",
+          "pos": "vt."
+        },
+        {
+          "en": "deterrent",
+          "zh": "n. 制止物，威慑力量",
+          "pos": "n."
+        },
+        {
+          "en": "detergent",
+          "zh": "n. 清洁剂",
+          "pos": "n."
+        },
+        {
+          "en": "deteriorate",
+          "zh": "v. 使恶化；质量下降",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radianite Colossus",
+      "hp": 300,
+      "words": [
+        {
+          "en": "determinant",
+          "zh": "n. 决定因素",
+          "pos": "n."
+        },
+        {
+          "en": "detest",
+          "zh": "vt. 深恶，憎恶",
+          "pos": "vt."
+        },
+        {
+          "en": "detrimental",
+          "zh": "adj. 有害的",
+          "pos": "adj."
+        },
+        {
+          "en": "detriment",
+          "zh": "n. 伤害，危害",
+          "pos": "n."
+        },
+        {
+          "en": "devastate",
+          "zh": "vt. 毁坏",
+          "pos": "vt."
+        },
+        {
+          "en": "devastation",
+          "zh": "n. 毁坏",
+          "pos": "n."
+        },
+        {
+          "en": "devastating",
+          "zh": "adj. 破坏性的",
+          "pos": "adj."
+        },
+        {
+          "en": "device",
+          "zh": "n. 器械，装置",
+          "pos": "n."
+        },
+        {
+          "en": "devise",
+          "zh": "vt. 设计；发明",
+          "pos": "vt."
+        },
+        {
+          "en": "devoid",
+          "zh": "adj. 全无的，缺乏的",
+          "pos": "adj."
+        },
+        {
+          "en": "devote",
+          "zh": "vt. 投入于，献身；用于，作…之用",
+          "pos": "vt."
+        },
+        {
+          "en": "devotion",
+          "zh": "n. 热爱，忠诚",
+          "pos": "n."
+        },
+        {
+          "en": "devour",
+          "zh": "vt. 贪婪地吃，吞食",
+          "pos": "vt."
+        },
+        {
+          "en": "diagnose",
+          "zh": "vt. 诊断",
+          "pos": "vt."
+        },
+        {
+          "en": "diagonal",
+          "zh": "n./adj. 对角线（的）",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

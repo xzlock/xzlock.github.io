@@ -1,0 +1,304 @@
+{
+  "day": 74,
+  "title": "Day 074 · recount → relax",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "recur",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Viper Spawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "recount",
+          "zh": "vt. 叙述，描写",
+          "pos": "vt."
+        },
+        {
+          "en": "recreation",
+          "zh": "n. 消遣，娱乐",
+          "pos": "n."
+        },
+        {
+          "en": "recreational",
+          "zh": "adj. 娱乐的",
+          "pos": "adj."
+        },
+        {
+          "en": "recruit",
+          "zh": "vt. 征兵，征募；补充",
+          "pos": "vt."
+        },
+        {
+          "en": "rectangle",
+          "zh": "n. 长方形",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "rectify",
+          "zh": "vt. 矫正",
+          "pos": "vt."
+        },
+        {
+          "en": "recur",
+          "zh": "vi. 重现，再来；复发",
+          "pos": "vi."
+        },
+        {
+          "en": "recurring",
+          "zh": "adj. 往复的，再次发生的",
+          "pos": "adj."
+        },
+        {
+          "en": "recycle",
+          "zh": "vt. 使再循环，再利用",
+          "pos": "vt."
+        },
+        {
+          "en": "redirect",
+          "zh": "v. （信件）重寄；使改变方向",
+          "pos": "v."
+        },
+        {
+          "en": "reed",
+          "zh": "n. 芦苇",
+          "pos": "n."
+        },
+        {
+          "en": "refine",
+          "zh": "vt. 精炼，精制",
+          "pos": "vt."
+        },
+        {
+          "en": "refined",
+          "zh": "adj. 优雅的；精制的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "refinement",
+          "zh": "n. （言语、举止等的）文雅，精巧",
+          "pos": "n."
+        },
+        {
+          "en": "reflection",
+          "zh": "n. 反映",
+          "pos": "n."
+        },
+        {
+          "en": "reform",
+          "zh": "n./v. 改革，革新",
+          "pos": "n."
+        },
+        {
+          "en": "reformer",
+          "zh": "n. 改革家，改革运动者",
+          "pos": "n."
+        },
+        {
+          "en": "reformism",
+          "zh": "n. 改革主义",
+          "pos": "n."
+        },
+        {
+          "en": "refreshing",
+          "zh": "adj. 提神的,凉爽的;使人耳目一新的",
+          "pos": "adj."
+        },
+        {
+          "en": "refreshment",
+          "zh": "n. 茶点；提神之事物",
+          "pos": "n."
+        },
+        {
+          "en": "refrigerate",
+          "zh": "vt. 使冷却，冷藏",
+          "pos": "vt."
+        },
+        {
+          "en": "refrigerator",
+          "zh": "n. 冰箱，冷藏库",
+          "pos": "n."
+        },
+        {
+          "en": "refrigeration",
+          "zh": "n. 冷藏，冷却",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "refrigerant",
+          "zh": "n. 制冷剂",
+          "pos": "n."
+        },
+        {
+          "en": "refurbish",
+          "zh": "vt. 刷新，再磨光",
+          "pos": "vt."
+        },
+        {
+          "en": "recur",
+          "zh": "vi. 重现，再来；复发",
+          "pos": "vi."
+        },
+        {
+          "en": "refute",
+          "zh": "vt. 反驳",
+          "pos": "vt."
+        },
+        {
+          "en": "regardless",
+          "zh": "adj. 不管，不顾，不注意",
+          "pos": "adj."
+        },
+        {
+          "en": "regenerate",
+          "zh": "vt. 使再生，新生；更新",
+          "pos": "vt."
+        },
+        {
+          "en": "regeneration",
+          "zh": "n. （灵魂）重生，新生",
+          "pos": "n."
+        },
+        {
+          "en": "regime",
+          "zh": "n. 政权，政体；政治制度",
+          "pos": "n."
+        },
+        {
+          "en": "regimentation",
+          "zh": "n. 系统化，组织化；团队精神",
+          "pos": "n."
+        },
+        {
+          "en": "register",
+          "zh": "vt. 登记",
+          "pos": "vt."
+        },
+        {
+          "en": "regulate",
+          "zh": "vt. 管制，控制",
+          "pos": "vt."
+        },
+        {
+          "en": "regulatory",
+          "zh": "adj. 按规矩来的，规章的，调节的",
+          "pos": "adj."
+        },
+        {
+          "en": "regulation",
+          "zh": "n. 规则，规章",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "rehabilitate",
+          "zh": "vt. 使(身体)康复；使复职；使复元",
+          "pos": "vt."
+        },
+        {
+          "en": "rehabilitation",
+          "zh": "n. 恢复，复员",
+          "pos": "n."
+        },
+        {
+          "en": "rehearse",
+          "zh": "vt. 预演，排练",
+          "pos": "vt."
+        },
+        {
+          "en": "reign",
+          "zh": "n./vi. 统治，支配",
+          "pos": "n."
+        },
+        {
+          "en": "reigning",
+          "zh": "adj. 统治的，起支配作用的",
+          "pos": "adj."
+        },
+        {
+          "en": "sovereignty",
+          "zh": "n. 统治权，主权",
+          "pos": "n."
+        },
+        {
+          "en": "reimburse",
+          "zh": "vt. 偿还",
+          "pos": "vt."
+        },
+        {
+          "en": "reinforce",
+          "zh": "vt. 加强",
+          "pos": "vt."
+        },
+        {
+          "en": "reinterpretation",
+          "zh": "n. 重新解释，纠正性说明",
+          "pos": "n."
+        },
+        {
+          "en": "reiterate",
+          "zh": "vt. 重申，反复地说",
+          "pos": "vt."
+        },
+        {
+          "en": "reject",
+          "zh": "vt. 拒绝，抵制",
+          "pos": "vt."
+        },
+        {
+          "en": "rejection",
+          "zh": "n. 拒绝",
+          "pos": "n."
+        },
+        {
+          "en": "rejuvenate",
+          "zh": "v. (使)返老还童；(使)恢复活力",
+          "pos": "v."
+        },
+        {
+          "en": "rekindle",
+          "zh": "vt. 再点火；使再振作",
+          "pos": "vt."
+        },
+        {
+          "en": "relax",
+          "zh": "v. （使）松弛，放松",
+          "pos": "v."
+        }
+      ]
+    }
+  ]
+}

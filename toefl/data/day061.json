@@ -1,0 +1,304 @@
+{
+  "day": 61,
+  "title": "Day 061 · nourishing → offspring",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "noxious",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Harbor Drop",
+      "hp": 100,
+      "words": [
+        {
+          "en": "nourishing",
+          "zh": "adj. 有营养的；滋养的",
+          "pos": "adj."
+        },
+        {
+          "en": "nourishment",
+          "zh": "n. 营养品",
+          "pos": "n."
+        },
+        {
+          "en": "novel",
+          "zh": "adj. 新奇的，新颖的",
+          "pos": "adj."
+        },
+        {
+          "en": "novelty",
+          "zh": "n. 新颖，新奇",
+          "pos": "n."
+        },
+        {
+          "en": "novice",
+          "zh": "n. 生手，新手",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Skye Falcon",
+      "hp": 150,
+      "words": [
+        {
+          "en": "nowadays",
+          "zh": "adv. 现今，时下",
+          "pos": "adv."
+        },
+        {
+          "en": "noxious",
+          "zh": "adj. 有害的，有毒的",
+          "pos": "adj."
+        },
+        {
+          "en": "nuclear",
+          "zh": "adj. 核子的；核的，原子能的",
+          "pos": "adj."
+        },
+        {
+          "en": "nuclei",
+          "zh": "n. 核子；核心",
+          "pos": "n."
+        },
+        {
+          "en": "nucleus",
+          "zh": "n. 合子，核心",
+          "pos": "n."
+        },
+        {
+          "en": "null",
+          "zh": "adj. 无效的；空的",
+          "pos": "adj."
+        },
+        {
+          "en": "numerous",
+          "zh": "adj. 众多的，很多的",
+          "pos": "adj."
+        },
+        {
+          "en": "nutrient",
+          "zh": "n. 营养物",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "nutritional",
+          "zh": "adj. 营养的, 滋养的",
+          "pos": "adj."
+        },
+        {
+          "en": "nutritious",
+          "zh": "adj. 有营养成分的, 营养的",
+          "pos": "adj."
+        },
+        {
+          "en": "oath",
+          "zh": "n. 誓言，宣誓",
+          "pos": "n."
+        },
+        {
+          "en": "objection",
+          "zh": "n. 反对",
+          "pos": "n."
+        },
+        {
+          "en": "objective",
+          "zh": "n. 目标",
+          "pos": "n."
+        },
+        {
+          "en": "obligated",
+          "zh": "adj. 有义务的，有责任的",
+          "pos": "adj."
+        },
+        {
+          "en": "obligation",
+          "zh": "n. 义务，职责",
+          "pos": "n."
+        },
+        {
+          "en": "obligatory",
+          "zh": "adj. 强制性的，义务的",
+          "pos": "adj."
+        },
+        {
+          "en": "oblige",
+          "zh": "vt. 迫使，责成",
+          "pos": "vt."
+        },
+        {
+          "en": "obscure",
+          "zh": "vt. 隐藏，使…模糊",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "obsession",
+          "zh": "n. 入迷；固执的念头",
+          "pos": "n."
+        },
+        {
+          "en": "obsessed",
+          "zh": "adj. 心神不宁的,鬼迷心窍的,沉迷的",
+          "pos": "adj."
+        },
+        {
+          "en": "obsolete",
+          "zh": "adj. 废弃的；过时的",
+          "pos": "adj."
+        },
+        {
+          "en": "obstacle",
+          "zh": "n. 障碍",
+          "pos": "n."
+        },
+        {
+          "en": "obstruct",
+          "zh": "vt. 阻塞(道路、通道等)；妨碍,阻挠",
+          "pos": "vt."
+        },
+        {
+          "en": "obstruction",
+          "zh": "n. 阻塞，妨碍；障碍物",
+          "pos": "n."
+        },
+        {
+          "en": "noxious",
+          "zh": "adj. 有害的，有毒的",
+          "pos": "adj."
+        },
+        {
+          "en": "unobstructed",
+          "zh": "adj. 畅通无阻的",
+          "pos": "adj."
+        },
+        {
+          "en": "obtain",
+          "zh": "vt. 得到",
+          "pos": "vt."
+        },
+        {
+          "en": "obtainable",
+          "zh": "adj. 可得到的",
+          "pos": "adj."
+        },
+        {
+          "en": "occasional",
+          "zh": "adj. 偶然的；临时的",
+          "pos": "adj."
+        },
+        {
+          "en": "occasionally",
+          "zh": "adv. 偶尔",
+          "pos": "adv."
+        },
+        {
+          "en": "occupation",
+          "zh": "n. 职业",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Ascendant Warlord",
+      "hp": 300,
+      "words": [
+        {
+          "en": "occupy",
+          "zh": "vt. 居住",
+          "pos": "vt."
+        },
+        {
+          "en": "occupant",
+          "zh": "n. 占有者，居住者",
+          "pos": "n."
+        },
+        {
+          "en": "occur",
+          "zh": "vi. 发生，出现",
+          "pos": "vi."
+        },
+        {
+          "en": "occurrence",
+          "zh": "n. 事件；发生",
+          "pos": "n."
+        },
+        {
+          "en": "octopus",
+          "zh": "n. 章鱼",
+          "pos": "n."
+        },
+        {
+          "en": "odd",
+          "zh": "adj. 奇异的，古怪的",
+          "pos": "adj."
+        },
+        {
+          "en": "oddly",
+          "zh": "adv. 奇特地，古怪地",
+          "pos": "adv."
+        },
+        {
+          "en": "odds",
+          "zh": "n. 可能的机会, 成败的可能性, 几率",
+          "pos": "n."
+        },
+        {
+          "en": "odor",
+          "zh": "n. 气味",
+          "pos": "n."
+        },
+        {
+          "en": "deodorizer",
+          "zh": "n. 除臭剂",
+          "pos": "n."
+        },
+        {
+          "en": "odorless",
+          "zh": "adj. 无嗅的，没有气味的",
+          "pos": "adj."
+        },
+        {
+          "en": "offensive",
+          "zh": "adj. 讨厌的，无礼的；攻击性的",
+          "pos": "adj."
+        },
+        {
+          "en": "inoffensive",
+          "zh": "adj. 无害的,不触犯人的,让人不讨厌的",
+          "pos": "adj."
+        },
+        {
+          "en": "offshore",
+          "zh": "adj. 离岸的, 海面上的",
+          "pos": "adj."
+        },
+        {
+          "en": "offspring",
+          "zh": "n. 子孙，后代",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 9,
+  "title": "Day 009 · aurora → bang",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "balloon",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Sova Scout",
+      "hp": 100,
+      "words": [
+        {
+          "en": "aurora",
+          "zh": "n. 极光=auroral light",
+          "pos": "n."
+        },
+        {
+          "en": "authentic",
+          "zh": "adj. 真的；可靠的，确实的",
+          "pos": "adj."
+        },
+        {
+          "en": "authenticate",
+          "zh": "vt. 证明…为真",
+          "pos": "vt."
+        },
+        {
+          "en": "authority",
+          "zh": "n. 权力，权限；权威人士",
+          "pos": "n."
+        },
+        {
+          "en": "authorize",
+          "zh": "vt. 授权，批准",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "autobiography",
+          "zh": "n. 自传",
+          "pos": "n."
+        },
+        {
+          "en": "autobiographical",
+          "zh": "adj. 自传的，自传体的",
+          "pos": "adj."
+        },
+        {
+          "en": "biography",
+          "zh": "n. 传记",
+          "pos": "n."
+        },
+        {
+          "en": "automated",
+          "zh": "adj. 自动的",
+          "pos": "adj."
+        },
+        {
+          "en": "automatic",
+          "zh": "adj. 自动(化)的；无意识的，机械的",
+          "pos": "adj."
+        },
+        {
+          "en": "autonomy",
+          "zh": "n. 自治，自治权",
+          "pos": "n."
+        },
+        {
+          "en": "autonomous",
+          "zh": "adj. 自治的，独立的",
+          "pos": "adj."
+        },
+        {
+          "en": "auxiliary",
+          "zh": "adj. 辅助的；补充的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "available",
+          "zh": "adj. 自由的，有空的",
+          "pos": "adj."
+        },
+        {
+          "en": "avalanche",
+          "zh": "n. 雪崩",
+          "pos": "n."
+        },
+        {
+          "en": "avant-garde",
+          "zh": "n. 先锋派(艺术流派)；先锋，前卫",
+          "pos": "n."
+        },
+        {
+          "en": "average",
+          "zh": "adj. 一般的，通常的；平庸的",
+          "pos": "adj."
+        },
+        {
+          "en": "aversion",
+          "zh": "n. 厌恶，憎恨",
+          "pos": "n."
+        },
+        {
+          "en": "averse",
+          "zh": "adj. 反对的，不愿意的",
+          "pos": "adj."
+        },
+        {
+          "en": "avert",
+          "zh": "vt. 转移；避免，规避",
+          "pos": "vt."
+        },
+        {
+          "en": "aviation",
+          "zh": "n. 航空；航空学",
+          "pos": "n."
+        },
+        {
+          "en": "aviator",
+          "zh": "n. 飞行员，飞行家",
+          "pos": "n."
+        },
+        {
+          "en": "avid",
+          "zh": "adj. 渴望的；热心的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "avocation",
+          "zh": "n. 副业；业余爱好",
+          "pos": "n."
+        },
+        {
+          "en": "avocational",
+          "zh": "adj. 副业的，嗜好的",
+          "pos": "adj."
+        },
+        {
+          "en": "avoid",
+          "zh": "vt. 躲避，规避",
+          "pos": "vt."
+        },
+        {
+          "en": "avoidable",
+          "zh": "adj. 可避免的",
+          "pos": "adj."
+        },
+        {
+          "en": "avoidance",
+          "zh": "n. 避免",
+          "pos": "n."
+        },
+        {
+          "en": "awareness",
+          "zh": "n. 意识",
+          "pos": "n."
+        },
+        {
+          "en": "balloon",
+          "zh": "n. 气球",
+          "pos": "n."
+        },
+        {
+          "en": "awkward",
+          "zh": "adj. 笨拙的，不灵活的",
+          "pos": "adj."
+        },
+        {
+          "en": "awkwardly",
+          "zh": "adv. (见到生人)局促不安地，笨拙地",
+          "pos": "adv."
+        },
+        {
+          "en": "axis",
+          "zh": "n. 轴；轴心",
+          "pos": "n."
+        },
+        {
+          "en": "baby-sitter",
+          "zh": "n. 临时保姆，代人照顾婴儿者",
+          "pos": "n."
+        },
+        {
+          "en": "bachelor",
+          "zh": "n. 学士（学位）；单身汉",
+          "pos": "n."
+        },
+        {
+          "en": "backbone",
+          "zh": "n. 骨干，支柱",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radianite Colossus",
+      "hp": 300,
+      "words": [
+        {
+          "en": "backdrop",
+          "zh": "n. 舞台背景；背景",
+          "pos": "n."
+        },
+        {
+          "en": "baggage",
+          "zh": "n. 行李",
+          "pos": "n."
+        },
+        {
+          "en": "balance",
+          "zh": "n. 平衡",
+          "pos": "n."
+        },
+        {
+          "en": "balanced",
+          "zh": "adj. 均衡的；平稳的",
+          "pos": "adj."
+        },
+        {
+          "en": "imbalance",
+          "zh": "n. 不平衡，不均衡",
+          "pos": "n."
+        },
+        {
+          "en": "overbalance",
+          "zh": "vi. 失去平衡",
+          "pos": "vi."
+        },
+        {
+          "en": "bald",
+          "zh": "adj. 秃头的；光秃的",
+          "pos": "adj."
+        },
+        {
+          "en": "ballet",
+          "zh": "n. 芭蕾舞",
+          "pos": "n."
+        },
+        {
+          "en": "balloon",
+          "zh": "n. 气球",
+          "pos": "n."
+        },
+        {
+          "en": "balloonist",
+          "zh": "n. 气球驾驶者",
+          "pos": "n."
+        },
+        {
+          "en": "balmy",
+          "zh": "adj. 芳香的；（空气）温和的",
+          "pos": "adj."
+        },
+        {
+          "en": "ban",
+          "zh": "vt. 禁止，查禁",
+          "pos": "vt."
+        },
+        {
+          "en": "banner",
+          "zh": "n. 旗帜，标语，横幅",
+          "pos": "n."
+        },
+        {
+          "en": "banker",
+          "zh": "n. 银行家",
+          "pos": "n."
+        },
+        {
+          "en": "bang",
+          "zh": "v. 发出砰的一声，重击",
+          "pos": "v."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 82,
+  "title": "Day 082 · short-range → slime",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "airsickness",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "short-range",
+          "zh": "adj. 近程的",
+          "pos": "adj."
+        },
+        {
+          "en": "shot",
+          "zh": "n. 照相，照片",
+          "pos": "n."
+        },
+        {
+          "en": "shrink",
+          "zh": "vi. 收缩，缩小",
+          "pos": "vi."
+        },
+        {
+          "en": "shrinkage",
+          "zh": "n. 收缩",
+          "pos": "n."
+        },
+        {
+          "en": "shrivel",
+          "zh": "v. （使）枯萎",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "shrub",
+          "zh": "n. 灌木；灌木丛",
+          "pos": "n."
+        },
+        {
+          "en": "shuffle",
+          "zh": "vt. 洗牌",
+          "pos": "vt."
+        },
+        {
+          "en": "shutter",
+          "zh": "n. (pl)百叶窗",
+          "pos": "n."
+        },
+        {
+          "en": "shuttle",
+          "zh": "n. 梭子；往返汽车",
+          "pos": "n."
+        },
+        {
+          "en": "shy",
+          "zh": "adj. 害羞的；胆小的",
+          "pos": "adj."
+        },
+        {
+          "en": "shyness",
+          "zh": "n. 羞怯，胆怯",
+          "pos": "n."
+        },
+        {
+          "en": "flashy",
+          "zh": "adj. 浮华的",
+          "pos": "adj."
+        },
+        {
+          "en": "sick",
+          "zh": "adj. 不舒服的，有病的；恶心的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "homesick",
+          "zh": "adj. 思家的，思乡病的",
+          "pos": "adj."
+        },
+        {
+          "en": "airsickness",
+          "zh": "n. 晕机",
+          "pos": "n."
+        },
+        {
+          "en": "sickness",
+          "zh": "n. 疾病；呕吐",
+          "pos": "n."
+        },
+        {
+          "en": "sidestep",
+          "zh": "v. 横跨一步躲闪；回避(困难)",
+          "pos": "v."
+        },
+        {
+          "en": "sideways",
+          "zh": "adv. 向一旁，向侧面地",
+          "pos": "adv."
+        },
+        {
+          "en": "significant",
+          "zh": "adj. 有意义的；重要的，重大的",
+          "pos": "adj."
+        },
+        {
+          "en": "significance",
+          "zh": "n. 意义，含义；重要性",
+          "pos": "n."
+        },
+        {
+          "en": "insignificant",
+          "zh": "adj. 无关紧要的, 可忽略的, 无意义的",
+          "pos": "adj."
+        },
+        {
+          "en": "signify",
+          "zh": "vt. 表示，意味",
+          "pos": "vt."
+        },
+        {
+          "en": "silica",
+          "zh": "n. 硅石，硅土",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "silicate",
+          "zh": "n. [化]硅酸盐",
+          "pos": "n."
+        },
+        {
+          "en": "silly",
+          "zh": "adj. 愚蠢的；糊涂的；傻的",
+          "pos": "adj."
+        },
+        {
+          "en": "silt",
+          "zh": "n. 淤泥",
+          "pos": "n."
+        },
+        {
+          "en": "silversmith",
+          "zh": "n. 银器匠",
+          "pos": "n."
+        },
+        {
+          "en": "blacksmith",
+          "zh": "n. 铁匠",
+          "pos": "n."
+        },
+        {
+          "en": "airsickness",
+          "zh": "n. 晕机",
+          "pos": "n."
+        },
+        {
+          "en": "simplicity",
+          "zh": "n. 简单；朴素",
+          "pos": "n."
+        },
+        {
+          "en": "simulate",
+          "zh": "vt. 模拟，模仿",
+          "pos": "vt."
+        },
+        {
+          "en": "simultaneous",
+          "zh": "adj. 同时的, 同时发生的",
+          "pos": "adj."
+        },
+        {
+          "en": "sinuous",
+          "zh": "adj. 蜿蜒的，迂回的",
+          "pos": "adj."
+        },
+        {
+          "en": "skeleton",
+          "zh": "n. 骨架；纲要",
+          "pos": "n."
+        },
+        {
+          "en": "skeptical",
+          "zh": "adj. 怀疑的；多疑的",
+          "pos": "adj."
+        },
+        {
+          "en": "skepticism",
+          "zh": "n. 怀疑",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Kingdom Titan",
+      "hp": 300,
+      "words": [
+        {
+          "en": "sketch",
+          "zh": "n. 草图；素描",
+          "pos": "n."
+        },
+        {
+          "en": "skimp",
+          "zh": "v. 节省，节俭；吝啬",
+          "pos": "v."
+        },
+        {
+          "en": "skip",
+          "zh": "v. 跳",
+          "pos": "v."
+        },
+        {
+          "en": "skull",
+          "zh": "n. 头骨",
+          "pos": "n."
+        },
+        {
+          "en": "skyrocket",
+          "zh": "vi. 猛涨，突增",
+          "pos": "vi."
+        },
+        {
+          "en": "skyscraper",
+          "zh": "n. 摩天大楼",
+          "pos": "n."
+        },
+        {
+          "en": "slab",
+          "zh": "n. （四边形的厚物质）板，片",
+          "pos": "n."
+        },
+        {
+          "en": "slander",
+          "zh": "n./v. 诽谤",
+          "pos": "n."
+        },
+        {
+          "en": "slash",
+          "zh": "vt. 大量消减",
+          "pos": "vt."
+        },
+        {
+          "en": "slender",
+          "zh": "adj. 苗条的；纤细的",
+          "pos": "adj."
+        },
+        {
+          "en": "slice",
+          "zh": "n. 薄片；部分，份",
+          "pos": "n."
+        },
+        {
+          "en": "slide",
+          "zh": "v. （使）滑动，（使）滑行",
+          "pos": "v."
+        },
+        {
+          "en": "slight",
+          "zh": "adj. 轻微的；微小的，微不足道的",
+          "pos": "adj."
+        },
+        {
+          "en": "slightly",
+          "zh": "adv. 些微地",
+          "pos": "adv."
+        },
+        {
+          "en": "slime",
+          "zh": "n. 黏土；黏液",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 22,
+  "title": "Day 22 · implement → initiate",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "in terms of",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Yoru Shadow",
+      "hp": 100,
+      "words": [
+        {
+          "en": "implement",
+          "zh": "\"n. 工具，器具；手段",
+          "pos": "n."
+        },
+        {
+          "en": "imply",
+          "zh": "vt. 意味；暗示；隐含",
+          "pos": "vt."
+        },
+        {
+          "en": "important",
+          "zh": "adj. 重要的，重大的；有地位的；有权力的",
+          "pos": "adj."
+        },
+        {
+          "en": "impose",
+          "zh": "\"vt. 强加；征税；以…欺骗",
+          "pos": "vt."
+        },
+        {
+          "en": "impossible",
+          "zh": "\"n. 不可能；不可能的事",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "impress",
+          "zh": "\"n. 印象，印记；特征，痕迹",
+          "pos": "n."
+        },
+        {
+          "en": "improve",
+          "zh": "\"vt. 改善，增进；提高…的价值",
+          "pos": "vt."
+        },
+        {
+          "en": "improvise",
+          "zh": "\"vt. 即兴创作；即兴表演；临时做；临时提供",
+          "pos": "vt."
+        },
+        {
+          "en": "impulse",
+          "zh": "\"n. 冲动； 脉冲；刺激；神经冲动；推动力",
+          "pos": "n."
+        },
+        {
+          "en": "in a flash",
+          "zh": "\"na. 刹那间；瞬间；一下子",
+          "pos": ""
+        },
+        {
+          "en": "in spite of",
+          "zh": "\"na. spite of 不管；无视",
+          "pos": ""
+        },
+        {
+          "en": "in terms of",
+          "zh": "\"na. 依…；从…方面；用…特有的字眼",
+          "pos": ""
+        },
+        {
+          "en": "inacceptable",
+          "zh": "\"a. 不能接受的, 不够格的,达不到的\"",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "incident",
+          "zh": "\"n. 事件，事变；插曲",
+          "pos": "n."
+        },
+        {
+          "en": "incidentally",
+          "zh": "adv. 顺便；偶然地；附带地",
+          "pos": "adv."
+        },
+        {
+          "en": "incline",
+          "zh": "\"n. 倾斜；斜面；斜坡",
+          "pos": "n."
+        },
+        {
+          "en": "include",
+          "zh": "vt. 包含，包括",
+          "pos": "vt."
+        },
+        {
+          "en": "income",
+          "zh": "n. 收入，收益；所得",
+          "pos": "n."
+        },
+        {
+          "en": "incomplete",
+          "zh": "adj. 不完全的； 不完备的",
+          "pos": "adj."
+        },
+        {
+          "en": "inconvenient",
+          "zh": "adj. 不便的；打扰的",
+          "pos": "adj."
+        },
+        {
+          "en": "incorporate",
+          "zh": "\"vt. 包含，吸收；体现；把……合并",
+          "pos": "vt."
+        },
+        {
+          "en": "incorrect",
+          "zh": "adj. 错误的，不正确的；不适当的；不真实的",
+          "pos": "adj."
+        },
+        {
+          "en": "increase",
+          "zh": "\"n. 增加，增长；提高",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "increasingly",
+          "zh": "adv. 越来越多地；渐增地",
+          "pos": "adv."
+        },
+        {
+          "en": "incredible",
+          "zh": "adj. 难以置信的，惊人的",
+          "pos": "adj."
+        },
+        {
+          "en": "indeed",
+          "zh": "\"adv. 的确；实在；真正地；甚至",
+          "pos": "adv."
+        },
+        {
+          "en": "independent",
+          "zh": "\"n. 独立自主者；无党派者",
+          "pos": "n."
+        },
+        {
+          "en": "indicate",
+          "zh": "vt. 表明；指出；预示；象征",
+          "pos": "vt."
+        },
+        {
+          "en": "indigenous",
+          "zh": "adj. 本土的；土著的；国产的；固有的",
+          "pos": "adj."
+        },
+        {
+          "en": "individual",
+          "zh": "\"n. 个人，个体",
+          "pos": "n."
+        },
+        {
+          "en": "indoor",
+          "zh": "adj. 室内的，户内的",
+          "pos": "adj."
+        },
+        {
+          "en": "indulge",
+          "zh": "\"vi. 沉溺；满足；放任",
+          "pos": "vi."
+        },
+        {
+          "en": "industry",
+          "zh": "n. 产业；工业；勤勉",
+          "pos": "n."
+        },
+        {
+          "en": "inevitable",
+          "zh": "adj. 必然的，不可避免的",
+          "pos": "adj."
+        },
+        {
+          "en": "in terms of",
+          "zh": "\"na. 依…；从…方面；用…特有的字眼",
+          "pos": ""
+        },
+        {
+          "en": "infect",
+          "zh": "vt. 感染，传染",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "infinitive",
+          "zh": "\"adj. 原形的，不定式的",
+          "pos": "adj."
+        },
+        {
+          "en": "inflate",
+          "zh": "\"vt. 使充气；使通货膨胀",
+          "pos": "vt."
+        },
+        {
+          "en": "influence",
+          "zh": "\"n. 影响；势力；感化；有影响的人或事",
+          "pos": "n."
+        },
+        {
+          "en": "inform",
+          "zh": "\"vi. 告发；告密",
+          "pos": "vi."
+        },
+        {
+          "en": "informal",
+          "zh": "adj. 非正式的；不拘礼节的；随便的；通俗的；日常使用的",
+          "pos": "adj."
+        },
+        {
+          "en": "information",
+          "zh": "n. 信息，资料；知识；情报；通知",
+          "pos": "n."
+        },
+        {
+          "en": "informative",
+          "zh": "adj. 教育性的，有益的；情报的；见闻广博的",
+          "pos": "adj."
+        },
+        {
+          "en": "infrequent",
+          "zh": "adj. 罕见的；稀少的；珍贵的；不频发的",
+          "pos": "adj."
+        },
+        {
+          "en": "ingenious",
+          "zh": "adj. 有独创性的；机灵的，精制的；心灵手巧的",
+          "pos": "adj."
+        },
+        {
+          "en": "ingrain",
+          "zh": "\"n. 固有品质；原纱染色；生染的纤维",
+          "pos": "n."
+        },
+        {
+          "en": "inhabit",
+          "zh": "\"vt. 栖息；居住于；占据",
+          "pos": "vt."
+        },
+        {
+          "en": "inherit",
+          "zh": "\"vt. 继承；遗传而得",
+          "pos": "vt."
+        },
+        {
+          "en": "inhospitable",
+          "zh": "adj. 荒凉的；冷淡的，不好客的；不适居留的",
+          "pos": "adj."
+        },
+        {
+          "en": "initial",
+          "zh": "\"n. 词首大写字母",
+          "pos": "n."
+        },
+        {
+          "en": "initiate",
+          "zh": "\"n. 开始；新加入者，接受初步知识者",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

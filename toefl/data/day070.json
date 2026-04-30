@@ -1,0 +1,304 @@
+{
+  "day": 70,
+  "title": "Day 070 · prime → fireproof",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "priority",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Iso Shard",
+      "hp": 100,
+      "words": [
+        {
+          "en": "prime",
+          "zh": "adj. 主要的",
+          "pos": "adj."
+        },
+        {
+          "en": "primary",
+          "zh": "adj. 第一位的，主要的",
+          "pos": "adj."
+        },
+        {
+          "en": "primitive",
+          "zh": "adj. 上古的，原始的",
+          "pos": "adj."
+        },
+        {
+          "en": "primordial",
+          "zh": "adj. 原始的，最初的",
+          "pos": "adj."
+        },
+        {
+          "en": "priority",
+          "zh": "n. 优先，优先权",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "pristine",
+          "zh": "adj. 原始的，未被破坏的",
+          "pos": "adj."
+        },
+        {
+          "en": "privilege",
+          "zh": "vt. 给与…特权，特免 n. 特权",
+          "pos": "vt."
+        },
+        {
+          "en": "probe",
+          "zh": "vi. 调查，查究",
+          "pos": "vi."
+        },
+        {
+          "en": "proceed",
+          "zh": "vi. 进行，继续下去",
+          "pos": "vi."
+        },
+        {
+          "en": "proceeds",
+          "zh": "n. （pl）收益",
+          "pos": "n."
+        },
+        {
+          "en": "proceeding",
+          "zh": "n. 行动；进行",
+          "pos": "n."
+        },
+        {
+          "en": "process",
+          "zh": "n. 过程； vt. 加工",
+          "pos": "n."
+        },
+        {
+          "en": "proclaim",
+          "zh": "vt. 声明，宣告",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Wall",
+      "hp": 200,
+      "words": [
+        {
+          "en": "proclivity",
+          "zh": "n. 倾向，癖性",
+          "pos": "n."
+        },
+        {
+          "en": "prod",
+          "zh": "vt. 戳，刺",
+          "pos": "vt."
+        },
+        {
+          "en": "prodigious",
+          "zh": "adj. 巨大的，惊人的；挥霍的",
+          "pos": "adj."
+        },
+        {
+          "en": "prodigy",
+          "zh": "n. 非凡之人，天才",
+          "pos": "n."
+        },
+        {
+          "en": "produce",
+          "zh": "v. 生产 n. 农副产品",
+          "pos": "v."
+        },
+        {
+          "en": "profession",
+          "zh": "n. 职业，专业",
+          "pos": "n."
+        },
+        {
+          "en": "professional",
+          "zh": "adj. 专业的，职业的",
+          "pos": "adj."
+        },
+        {
+          "en": "proficient",
+          "zh": "adj. 熟练的，精通的",
+          "pos": "adj."
+        },
+        {
+          "en": "proficiency",
+          "zh": "n. 熟练，精通",
+          "pos": "n."
+        },
+        {
+          "en": "profound",
+          "zh": "adj. 深刻的，深奥的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "profoundly",
+          "zh": "adv. 深深地，衷心地",
+          "pos": "adv."
+        },
+        {
+          "en": "priority",
+          "zh": "n. 优先，优先权",
+          "pos": "n."
+        },
+        {
+          "en": "progress",
+          "zh": "n./vi. 前进，发展",
+          "pos": "n."
+        },
+        {
+          "en": "progression",
+          "zh": "n. 行进；次序",
+          "pos": "n."
+        },
+        {
+          "en": "progressive",
+          "zh": "adj. 前进的；累进的",
+          "pos": "adj."
+        },
+        {
+          "en": "prohibit",
+          "zh": "vt. 禁止",
+          "pos": "vt."
+        },
+        {
+          "en": "prohibitive",
+          "zh": "adj. 禁止的，抑制的",
+          "pos": "adj."
+        },
+        {
+          "en": "prohibitively",
+          "zh": "adv. 令人望而却步地；(价格)极高地",
+          "pos": "adv."
+        },
+        {
+          "en": "project",
+          "zh": "n. 设计，规划；项目",
+          "pos": "n."
+        },
+        {
+          "en": "projecting",
+          "zh": "adj. 突出的，伸出的",
+          "pos": "adj."
+        },
+        {
+          "en": "projector",
+          "zh": "n. 放映机",
+          "pos": "n."
+        },
+        {
+          "en": "projection",
+          "zh": "n. 发射",
+          "pos": "n."
+        },
+        {
+          "en": "projectionist",
+          "zh": "n. 电影放映员，幻灯放映员",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "proliferate",
+          "zh": "vi. 激增；繁殖",
+          "pos": "vi."
+        },
+        {
+          "en": "proliferation",
+          "zh": "n. 繁殖，大量增殖",
+          "pos": "n."
+        },
+        {
+          "en": "prolific",
+          "zh": "adj. 多产的，多结果的",
+          "pos": "adj."
+        },
+        {
+          "en": "prolong",
+          "zh": "vt. 拖长，延长",
+          "pos": "vt."
+        },
+        {
+          "en": "prominent",
+          "zh": "adj. 杰出的，突出的",
+          "pos": "adj."
+        },
+        {
+          "en": "prominence",
+          "zh": "n. 显著，突出",
+          "pos": "n."
+        },
+        {
+          "en": "promising",
+          "zh": "adj. 有前途的，有希望的",
+          "pos": "adj."
+        },
+        {
+          "en": "unpromising",
+          "zh": "adj. 无前途的，没有希望的",
+          "pos": "adj."
+        },
+        {
+          "en": "promote",
+          "zh": "vt. 晋级，使升级；促进",
+          "pos": "vt."
+        },
+        {
+          "en": "promoter",
+          "zh": "n. 促进者",
+          "pos": "n."
+        },
+        {
+          "en": "prompt",
+          "zh": "vt. 鼓动，促进",
+          "pos": "vt."
+        },
+        {
+          "en": "prone",
+          "zh": "adj. 易于…的；倾向于…的",
+          "pos": "adj."
+        },
+        {
+          "en": "proof",
+          "zh": "n. 证据",
+          "pos": "n."
+        },
+        {
+          "en": "proofread",
+          "zh": "vt. 校正，校对",
+          "pos": "vt."
+        },
+        {
+          "en": "fireproof",
+          "zh": "adj. 耐火的，防火的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

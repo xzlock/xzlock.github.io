@@ -1,0 +1,304 @@
+{
+  "day": 38,
+  "title": "Day 38 · satisfaction → sentence",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "self-importance",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Harbor Drop",
+      "hp": 100,
+      "words": [
+        {
+          "en": "satisfaction",
+          "zh": "n. 满意，满足；赔偿；乐事；赎罪",
+          "pos": "n."
+        },
+        {
+          "en": "satisfying",
+          "zh": "adj. 令人满意的；令人满足的",
+          "pos": "adj."
+        },
+        {
+          "en": "saunter",
+          "zh": "\"n. 漫步；闲逛",
+          "pos": "n."
+        },
+        {
+          "en": "save",
+          "zh": "\"prep. 除...之外",
+          "pos": "prep."
+        },
+        {
+          "en": "savour",
+          "zh": "\"n. 滋味；风味",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Iso Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "scale",
+          "zh": "\"n. 规模；比例；鳞；刻度；天平；数值范围",
+          "pos": "n."
+        },
+        {
+          "en": "scan",
+          "zh": "\"n. 扫描；浏览；审视；细看",
+          "pos": "n."
+        },
+        {
+          "en": "scandal",
+          "zh": "n. 丑闻；流言蜚语；诽谤；公愤",
+          "pos": "n."
+        },
+        {
+          "en": "scarce",
+          "zh": "\"adj. 缺乏的，不足的；稀有的",
+          "pos": "adj."
+        },
+        {
+          "en": "scare",
+          "zh": "\"n. 恐慌；惊吓；惊恐",
+          "pos": "n."
+        },
+        {
+          "en": "scatter",
+          "zh": "\"n. 分散；散播，撒播",
+          "pos": "n."
+        },
+        {
+          "en": "scene",
+          "zh": "n. 场面；情景；景象；事件",
+          "pos": "n."
+        },
+        {
+          "en": "scenery",
+          "zh": "n. 风景；景色；舞台布景",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "sceptical",
+          "zh": "adj. 怀疑的；怀疑论的；习惯怀疑的",
+          "pos": "adj."
+        },
+        {
+          "en": "schedule",
+          "zh": "\"n. 时间表；计划表；一览表",
+          "pos": "n."
+        },
+        {
+          "en": "scheme",
+          "zh": "\"n. 计划；组合；体制；诡计",
+          "pos": "n."
+        },
+        {
+          "en": "science",
+          "zh": "n. 科学；技术；学科；理科",
+          "pos": "n."
+        },
+        {
+          "en": "scrabble",
+          "zh": "\"n. 一种拼字游戏；抓；摸索；挣扎；涂鸦",
+          "pos": "n."
+        },
+        {
+          "en": "scramble",
+          "zh": "\"n. 抢夺，争夺；混乱，混乱的一团；爬行，攀登",
+          "pos": "n."
+        },
+        {
+          "en": "scrap",
+          "zh": "\"n. 碎片；残余物；打架；少量",
+          "pos": "n."
+        },
+        {
+          "en": "scratch",
+          "zh": "\"n. 擦伤；抓痕；刮擦声；乱写",
+          "pos": "n."
+        },
+        {
+          "en": "scream",
+          "zh": "\"n. 尖叫声；尖锐刺耳的声音；极其滑稽可笑的人",
+          "pos": "n."
+        },
+        {
+          "en": "screen",
+          "zh": "\"n. 屏，幕；屏风",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "script",
+          "zh": "\"n. 脚本；手迹；书写用的字母",
+          "pos": "n."
+        },
+        {
+          "en": "scrutinize",
+          "zh": "\"n. 仔细或彻底检查",
+          "pos": "n."
+        },
+        {
+          "en": "search",
+          "zh": "\"n. 搜寻；探究，查究",
+          "pos": "n."
+        },
+        {
+          "en": "season",
+          "zh": "\"n. 时期；季节；赛季",
+          "pos": "n."
+        },
+        {
+          "en": "seasonal",
+          "zh": "adj. 季节的；周期性的；依照季节的",
+          "pos": "adj."
+        },
+        {
+          "en": "self-importance",
+          "zh": "n. 自负；自尊；自大",
+          "pos": "n."
+        },
+        {
+          "en": "second",
+          "zh": "\"num. 第二",
+          "pos": "num."
+        },
+        {
+          "en": "secondary",
+          "zh": "\"n. 副手；代理人",
+          "pos": "n."
+        },
+        {
+          "en": "secret",
+          "zh": "\"n. 秘密；秘诀；机密",
+          "pos": "n."
+        },
+        {
+          "en": "section",
+          "zh": "\"n. 截面；部分；部门；地区；章节",
+          "pos": "n."
+        },
+        {
+          "en": "secure",
+          "zh": "\"vt. 保护；弄到；招致；缚住",
+          "pos": "vt."
+        },
+        {
+          "en": "sedentary",
+          "zh": "adj. 久坐的；坐惯的；定栖的；静坐的",
+          "pos": "adj."
+        },
+        {
+          "en": "sediment",
+          "zh": "n. 沉积；沉淀物",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "see",
+          "zh": "\"vi. 看；看见；领会",
+          "pos": "vi."
+        },
+        {
+          "en": "segment",
+          "zh": "\"n. 段；部分",
+          "pos": "n."
+        },
+        {
+          "en": "seldom",
+          "zh": "adv. 很少，不常",
+          "pos": "adv."
+        },
+        {
+          "en": "select",
+          "zh": "\"n. 被挑选者；精萃",
+          "pos": "n."
+        },
+        {
+          "en": "self-confident",
+          "zh": "adj. 自信的",
+          "pos": "adj."
+        },
+        {
+          "en": "self-discipline",
+          "zh": "n. 自律；自我修养；自我训练",
+          "pos": "n."
+        },
+        {
+          "en": "self-importance",
+          "zh": "n. 自负；自尊；自大",
+          "pos": "n."
+        },
+        {
+          "en": "selfish",
+          "zh": "adj. 自私的；利己主义的",
+          "pos": "adj."
+        },
+        {
+          "en": "self-service",
+          "zh": "\"n. 自助； 自我服务；自助式销售",
+          "pos": "n."
+        },
+        {
+          "en": "sell",
+          "zh": "\"n. 销售；失望；推销术",
+          "pos": "n."
+        },
+        {
+          "en": "send",
+          "zh": "\"n. 上升运动",
+          "pos": "n."
+        },
+        {
+          "en": "senior",
+          "zh": "\"n. 上司；较年长者；毕业班学生",
+          "pos": "n."
+        },
+        {
+          "en": "sense",
+          "zh": "\"n. 感觉，功能；观念；道理；理智",
+          "pos": "n."
+        },
+        {
+          "en": "sensibly",
+          "zh": "adv. 明显地；容易感知地；聪明地",
+          "pos": "adv."
+        },
+        {
+          "en": "sentence",
+          "zh": "\"n. 句子，命题；宣判，判决",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

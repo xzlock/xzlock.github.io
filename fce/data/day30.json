@@ -1,0 +1,304 @@
+{
+  "day": 30,
+  "title": "Day 30 · outskirts → password",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "overlook",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Deadlock Wire",
+      "hp": 100,
+      "words": [
+        {
+          "en": "outskirts",
+          "zh": "n. 市郊，郊区",
+          "pos": "n."
+        },
+        {
+          "en": "outstanding",
+          "zh": "\"adj. 杰出的；显著的；未解决的；未偿付的",
+          "pos": "adj."
+        },
+        {
+          "en": "outward",
+          "zh": "\"adj. 向外的；外面的；公开的；外服的；肉体的",
+          "pos": "adj."
+        },
+        {
+          "en": "outweigh",
+          "zh": "vt. 比…重（在重量上）；比…重要；比…有价值",
+          "pos": "vt."
+        },
+        {
+          "en": "overall",
+          "zh": "\"adj. 全部的；全体的；一切在内的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Breach Quake",
+      "hp": 150,
+      "words": [
+        {
+          "en": "overcharge",
+          "zh": "\"n. 过度充电；超载；装药过多",
+          "pos": "n."
+        },
+        {
+          "en": "overcook",
+          "zh": "vt. 烹调过度",
+          "pos": "vt."
+        },
+        {
+          "en": "overdo",
+          "zh": "\"vt. 把…做得过分；使过于疲劳；对…表演过火；夸张",
+          "pos": "vt."
+        },
+        {
+          "en": "overflow",
+          "zh": "\"vi. 溢出；泛滥；充溢",
+          "pos": "vi."
+        },
+        {
+          "en": "overhead",
+          "zh": "\"adv. 在头顶上；在空中；在高处",
+          "pos": "adv."
+        },
+        {
+          "en": "overhear",
+          "zh": "\"vt. 无意中听到；偷听",
+          "pos": "vt."
+        },
+        {
+          "en": "overlap",
+          "zh": "\"n. 重叠；重复",
+          "pos": "n."
+        },
+        {
+          "en": "overload",
+          "zh": "\"vt. 超载，超过负荷",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "overlook",
+          "zh": "\"vt. 忽略；俯瞰；远眺；检查；高耸于…之上",
+          "pos": "vt."
+        },
+        {
+          "en": "overnight",
+          "zh": "\"adv. 通宵；突然；昨晚",
+          "pos": "adv."
+        },
+        {
+          "en": "overseas",
+          "zh": "\"adv. 在海外，海外",
+          "pos": "adv."
+        },
+        {
+          "en": "oversee",
+          "zh": "vt. 监督；审查；俯瞰；偷看到，无意中看到",
+          "pos": "vt."
+        },
+        {
+          "en": "oversleep",
+          "zh": "\"vt. 使睡过头",
+          "pos": "vt."
+        },
+        {
+          "en": "overtake",
+          "zh": "\"vt. 赶上；压倒；突然来袭",
+          "pos": "vt."
+        },
+        {
+          "en": "overwater",
+          "zh": "adj. 水上的；越过水域的",
+          "pos": "adj."
+        },
+        {
+          "en": "overweight",
+          "zh": "\"adj. 超重的；过重的",
+          "pos": "adj."
+        },
+        {
+          "en": "overwhelmingly",
+          "zh": "adv. 压倒性地；不可抵抗地",
+          "pos": "adv."
+        },
+        {
+          "en": "owe",
+          "zh": "\"vt. 欠；感激；应给予；应该把……归功于",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "owing to",
+          "zh": "\"conj. 由于；因为",
+          "pos": "conj."
+        },
+        {
+          "en": "own",
+          "zh": "\"vt. 拥有；承认",
+          "pos": "vt."
+        },
+        {
+          "en": "pace",
+          "zh": "\"n. 一步；步速；步伐；速度",
+          "pos": "n."
+        },
+        {
+          "en": "pack",
+          "zh": "\"n. 包装；一群；背包；包裹；一副",
+          "pos": "n."
+        },
+        {
+          "en": "overlook",
+          "zh": "\"vt. 忽略；俯瞰；远眺；检查；高耸于…之上",
+          "pos": "vt."
+        },
+        {
+          "en": "package",
+          "zh": "\"n. 包，包裹；套装软件， 程序包",
+          "pos": "n."
+        },
+        {
+          "en": "packet",
+          "zh": "\"n. 数据包，信息包；小包，小捆",
+          "pos": "n."
+        },
+        {
+          "en": "pad",
+          "zh": "\"n. 衬垫；护具；便笺簿；填补",
+          "pos": "n."
+        },
+        {
+          "en": "page",
+          "zh": "\"n. 页；记录；大事件，时期；男侍者",
+          "pos": "n."
+        },
+        {
+          "en": "painfully",
+          "zh": "adv. 痛苦地，费力地",
+          "pos": "adv."
+        },
+        {
+          "en": "paint",
+          "zh": "\"vt. 油漆；绘画；装饰；涂色于；描绘；（用语言，文字等）描写；擦脂粉等",
+          "pos": "vt."
+        },
+        {
+          "en": "pale",
+          "zh": "\"n. 前哨；栅栏；范围",
+          "pos": "n."
+        },
+        {
+          "en": "palpable",
+          "zh": "adj. 明显的；可感知的；易觉察的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "panel",
+          "zh": "\"n. 仪表板；嵌板；座谈小组，全体陪审员",
+          "pos": "n."
+        },
+        {
+          "en": "panic",
+          "zh": "\"n. 恐慌，惊慌；大恐慌",
+          "pos": "n."
+        },
+        {
+          "en": "paperless",
+          "zh": "adj. 无纸传输信息的",
+          "pos": "adj."
+        },
+        {
+          "en": "parachute",
+          "zh": "\"n. 降落伞",
+          "pos": "n."
+        },
+        {
+          "en": "parade",
+          "zh": "\"n. 游行；阅兵；炫耀；行进；阅兵场",
+          "pos": "n."
+        },
+        {
+          "en": "paradox",
+          "zh": "n. 悖论，反论；似非而是的论点；自相矛盾的人或事",
+          "pos": "n."
+        },
+        {
+          "en": "pardon",
+          "zh": "\"n. 原谅；赦免；宽恕",
+          "pos": "n."
+        },
+        {
+          "en": "participate",
+          "zh": "\"vi. 参与，参加；分享",
+          "pos": "vi."
+        },
+        {
+          "en": "particular",
+          "zh": "\"n. 详细说明；个别项目",
+          "pos": "n."
+        },
+        {
+          "en": "partnership",
+          "zh": "n. 合伙； 合伙企业；合作关系；合伙契约",
+          "pos": "n."
+        },
+        {
+          "en": "part-time",
+          "zh": "\"adj. 兼职的；部分时间的",
+          "pos": "adj."
+        },
+        {
+          "en": "pass",
+          "zh": "\"n. 及格；经过；护照；途径；传球",
+          "pos": "n."
+        },
+        {
+          "en": "passion",
+          "zh": "n. 激情；热情；酷爱；盛怒",
+          "pos": "n."
+        },
+        {
+          "en": "passive",
+          "zh": "\"n. 被动语态",
+          "pos": "n."
+        },
+        {
+          "en": "password",
+          "zh": "n. 密码；口令",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

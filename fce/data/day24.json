@@ -1,0 +1,304 @@
+{
+  "day": 24,
+  "title": "Day 24 · invent → lean",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "item",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Breach Fist",
+      "hp": 100,
+      "words": [
+        {
+          "en": "invent",
+          "zh": "vt. 发明；创造；虚构",
+          "pos": "vt."
+        },
+        {
+          "en": "invest",
+          "zh": "\"vi. 投资，入股；花钱买",
+          "pos": "vi."
+        },
+        {
+          "en": "investigate",
+          "zh": "v. 调查；研究",
+          "pos": "v."
+        },
+        {
+          "en": "invite",
+          "zh": "\"n. 邀请",
+          "pos": "n."
+        },
+        {
+          "en": "involve",
+          "zh": "vt. 包含；牵涉；使陷于；潜心于",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "KAY/O Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "involved",
+          "zh": "\"v. 涉及；使参与；包含（involve的过去式和过去分词）",
+          "pos": "v."
+        },
+        {
+          "en": "irregular",
+          "zh": "\"n. 不规则物；不合规格的产品",
+          "pos": "n."
+        },
+        {
+          "en": "irritate",
+          "zh": "\"vt. 刺激，使兴奋；激怒",
+          "pos": "vt."
+        },
+        {
+          "en": "isolated",
+          "zh": "\"adj. 孤立的；分离的；单独的； 绝缘的",
+          "pos": "adj."
+        },
+        {
+          "en": "issue",
+          "zh": "\"n. 问题；流出；期号；发行物",
+          "pos": "n."
+        },
+        {
+          "en": "item",
+          "zh": "\"n. 条款，项目；一则；一件商品（或物品）",
+          "pos": "n."
+        },
+        {
+          "en": "jam",
+          "zh": "\"n. 果酱；拥挤；困境；扣篮",
+          "pos": "n."
+        },
+        {
+          "en": "jealous",
+          "zh": "adj. 妒忌的；猜疑的；唯恐失去的；戒备的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Wall",
+      "hp": 200,
+      "words": [
+        {
+          "en": "jerk",
+          "zh": "\"n. 肌肉抽搐；性情古怪的人；蠢人；急拉",
+          "pos": "n."
+        },
+        {
+          "en": "jet lag",
+          "zh": "\"n. 时差反应；时差综合症",
+          "pos": "n."
+        },
+        {
+          "en": "job",
+          "zh": "\"n. 工作；职业",
+          "pos": "n."
+        },
+        {
+          "en": "join",
+          "zh": "\"vt. 参加；结合；连接",
+          "pos": "vt."
+        },
+        {
+          "en": "joke",
+          "zh": "\"n. 玩笑，笑话；笑柄",
+          "pos": "n."
+        },
+        {
+          "en": "jot down",
+          "zh": "\"v. 草草记下",
+          "pos": "v."
+        },
+        {
+          "en": "journey",
+          "zh": "\"n. 旅行；行程",
+          "pos": "n."
+        },
+        {
+          "en": "joy",
+          "zh": "\"n. 欢乐，快乐；乐趣；高兴",
+          "pos": "n."
+        },
+        {
+          "en": "jump",
+          "zh": "\"n. 跳跃；暴涨；惊跳",
+          "pos": "n."
+        },
+        {
+          "en": "junk",
+          "zh": "n. 垃圾，废物；舢板",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "just",
+          "zh": "\"adv. 只是，仅仅；刚才，刚刚；正好，恰好；实在；刚要",
+          "pos": "adv."
+        },
+        {
+          "en": "justification",
+          "zh": "n. 理由；辩护；认为有理，认为正当；释罪",
+          "pos": "n."
+        },
+        {
+          "en": "keen",
+          "zh": "\"adj. 敏锐的，敏捷的；渴望的；强烈的；热心的；锐利的",
+          "pos": "adj."
+        },
+        {
+          "en": "item",
+          "zh": "\"n. 条款，项目；一则；一件商品（或物品）",
+          "pos": "n."
+        },
+        {
+          "en": "keep",
+          "zh": "\"vt. 保持；经营；遵守；饲养",
+          "pos": "vt."
+        },
+        {
+          "en": "key",
+          "zh": "\"n. （打字机等的）键；关键；钥匙",
+          "pos": "n."
+        },
+        {
+          "en": "keyword",
+          "zh": "n. 密码；关键字",
+          "pos": "n."
+        },
+        {
+          "en": "kill time",
+          "zh": "\"v. 消磨时间",
+          "pos": "v."
+        },
+        {
+          "en": "kind",
+          "zh": "\"n. 种类；性质",
+          "pos": "n."
+        },
+        {
+          "en": "kind-hearted",
+          "zh": "adj. 仁慈的，好心肠的",
+          "pos": "adj."
+        },
+        {
+          "en": "kit",
+          "zh": "\"n. 工具箱；成套工具",
+          "pos": "n."
+        },
+        {
+          "en": "knock down",
+          "zh": "\"na. 打倒；拆除；拆卸；(拍卖时)敲槌卖出",
+          "pos": ""
+        },
+        {
+          "en": "know",
+          "zh": "\"vt. 知道；认识；懂得",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "knowledge",
+          "zh": "n. 知识，学问；知道，认识；学科",
+          "pos": "n."
+        },
+        {
+          "en": "lace",
+          "zh": "\"n. 花边；鞋带；饰带；少量烈酒",
+          "pos": "n."
+        },
+        {
+          "en": "lack",
+          "zh": "\"vt. 缺乏；不足；没有；需要",
+          "pos": "vt."
+        },
+        {
+          "en": "laid-back",
+          "zh": "adj. 懒散的；悠闲的；闲散的",
+          "pos": "adj."
+        },
+        {
+          "en": "landscape",
+          "zh": "\"n. 风景；风景画；景色；山水画；乡村风景画；地形；（文件的）横向打印格式",
+          "pos": "n."
+        },
+        {
+          "en": "language",
+          "zh": "n. 语言；语言文字；表达能力",
+          "pos": "n."
+        },
+        {
+          "en": "last",
+          "zh": "\"n. 末尾，最后；上个；鞋楦（做鞋的模型）",
+          "pos": "n."
+        },
+        {
+          "en": "late",
+          "zh": "\"adj. 晚的；迟的；已故的；最近的",
+          "pos": "adj."
+        },
+        {
+          "en": "laugh",
+          "zh": "\"n. 笑；引人发笑的事或人",
+          "pos": "n."
+        },
+        {
+          "en": "launch",
+          "zh": "\"vt. 发射（导弹、火箭等）；发起，发动；使…下水",
+          "pos": "vt."
+        },
+        {
+          "en": "lavish",
+          "zh": "\"adj. 浪费的；丰富的；大方的",
+          "pos": "adj."
+        },
+        {
+          "en": "lay",
+          "zh": "\"vt. 躺下；产卵；搁放；放置；铺放；涂，敷",
+          "pos": "vt."
+        },
+        {
+          "en": "layout",
+          "zh": "n. 布局；设计；安排；陈列",
+          "pos": "n."
+        },
+        {
+          "en": "lead",
+          "zh": "\"n. 领导；铅；导线；榜样",
+          "pos": "n."
+        },
+        {
+          "en": "lean",
+          "zh": "\"vi. 倾斜；倚靠；倾向；依赖",
+          "pos": "vi."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 58,
+  "title": "Day 058 · meteorite → mockingbird",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "mitigate",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Gekko Slime",
+      "hp": 100,
+      "words": [
+        {
+          "en": "meteorite",
+          "zh": "n. 陨星，陨石",
+          "pos": "n."
+        },
+        {
+          "en": "meteorology",
+          "zh": "n. 气象学",
+          "pos": "n."
+        },
+        {
+          "en": "meteorologist",
+          "zh": "n. 气象学者",
+          "pos": "n."
+        },
+        {
+          "en": "methodology",
+          "zh": "n. 方法论，方法学",
+          "pos": "n."
+        },
+        {
+          "en": "methodically",
+          "zh": "adv. 有条理地；井然地",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Neon Pulse",
+      "hp": 150,
+      "words": [
+        {
+          "en": "meticulous",
+          "zh": "adj. 一丝不苟的，过细的",
+          "pos": "adj."
+        },
+        {
+          "en": "metropolitan",
+          "zh": "adj. 主要都市的，大城市的",
+          "pos": "adj."
+        },
+        {
+          "en": "microbe",
+          "zh": "n. 微生物",
+          "pos": "n."
+        },
+        {
+          "en": "microcosm",
+          "zh": "n. 微观世界",
+          "pos": "n."
+        },
+        {
+          "en": "microorganism",
+          "zh": "n. 微生物",
+          "pos": "n."
+        },
+        {
+          "en": "microscope",
+          "zh": "n. 显微镜",
+          "pos": "n."
+        },
+        {
+          "en": "microscopic",
+          "zh": "adj. 用显微镜可见的；极小的",
+          "pos": "adj."
+        },
+        {
+          "en": "telescope",
+          "zh": "n. 望远镜",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "microwave",
+          "zh": "n. 微波（炉）",
+          "pos": "n."
+        },
+        {
+          "en": "mighty",
+          "zh": "adj. 强大的，巨大的",
+          "pos": "adj."
+        },
+        {
+          "en": "migrant",
+          "zh": "n. 候鸟；移民",
+          "pos": "n."
+        },
+        {
+          "en": "migrate",
+          "zh": "vi. 移动，迁徙",
+          "pos": "vi."
+        },
+        {
+          "en": "migration",
+          "zh": "n. 定期迁移；迁居",
+          "pos": "n."
+        },
+        {
+          "en": "migratory",
+          "zh": "adj. 迁移的；流浪的",
+          "pos": "adj."
+        },
+        {
+          "en": "milestone",
+          "zh": "n. 里程碑；划时代的事件",
+          "pos": "n."
+        },
+        {
+          "en": "milieu",
+          "zh": "n. 环境；出身背景",
+          "pos": "n."
+        },
+        {
+          "en": "militant",
+          "zh": "adj. 好战的，好暴力的",
+          "pos": "adj."
+        },
+        {
+          "en": "millennia",
+          "zh": "n. 一千年，千禧年",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "millionaire",
+          "zh": "n. 百万富翁",
+          "pos": "n."
+        },
+        {
+          "en": "mitigate",
+          "zh": "vt. 使减轻，使缓和",
+          "pos": "vt."
+        },
+        {
+          "en": "mime",
+          "zh": "vt. 模拟，模仿",
+          "pos": "vt."
+        },
+        {
+          "en": "mimetic",
+          "zh": "adj. 模仿的，（生物）拟态的",
+          "pos": "adj."
+        },
+        {
+          "en": "mimicry",
+          "zh": "n. （生物）拟态；模仿",
+          "pos": "n."
+        },
+        {
+          "en": "mimic",
+          "zh": "n./vt. 模仿，摹拟",
+          "pos": "n."
+        },
+        {
+          "en": "mingle",
+          "zh": "v. （使）混合",
+          "pos": "v."
+        },
+        {
+          "en": "mingling",
+          "zh": "adj. 混合的",
+          "pos": "adj."
+        },
+        {
+          "en": "miniature",
+          "zh": "adj. 微型的，缩小的",
+          "pos": "adj."
+        },
+        {
+          "en": "minimize",
+          "zh": "v. 最小化，减到最小",
+          "pos": "v."
+        },
+        {
+          "en": "minimal",
+          "zh": "adj. 最小的，最少的",
+          "pos": "adj."
+        },
+        {
+          "en": "minimalist",
+          "zh": "n. 最低限要求者",
+          "pos": "n."
+        },
+        {
+          "en": "minimum",
+          "zh": "adj. 最小的，最低的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "minority",
+          "zh": "n. 少数；少数民族",
+          "pos": "n."
+        },
+        {
+          "en": "minuscule",
+          "zh": "adj. 极小的",
+          "pos": "adj."
+        },
+        {
+          "en": "minute",
+          "zh": "adj. 微小的",
+          "pos": "adj."
+        },
+        {
+          "en": "miraculous",
+          "zh": "adj. 奇迹的，不可思议的",
+          "pos": "adj."
+        },
+        {
+          "en": "miracle",
+          "zh": "n. 奇迹，奇事",
+          "pos": "n."
+        },
+        {
+          "en": "mirage",
+          "zh": "n. 海市蜃楼，幻景",
+          "pos": "n."
+        },
+        {
+          "en": "miserable",
+          "zh": "adj. 痛苦的，悲惨的，可怜的",
+          "pos": "adj."
+        },
+        {
+          "en": "misleading",
+          "zh": "adj. 使人误解的；骗人的",
+          "pos": "adj."
+        },
+        {
+          "en": "mistrust",
+          "zh": "vt. 不信任，不相信，怀疑",
+          "pos": "vt."
+        },
+        {
+          "en": "mitigate",
+          "zh": "vt. 使减轻，使缓和",
+          "pos": "vt."
+        },
+        {
+          "en": "moat",
+          "zh": "n. 护城河，壕沟",
+          "pos": "n."
+        },
+        {
+          "en": "mobile",
+          "zh": "adj. 可移动的",
+          "pos": "adj."
+        },
+        {
+          "en": "mobility",
+          "zh": "n. 流动性；灵活性",
+          "pos": "n."
+        },
+        {
+          "en": "mock",
+          "zh": "v. （模仿性的）嘲笑",
+          "pos": "v."
+        },
+        {
+          "en": "mockingbird",
+          "zh": "n. （动物）仿声鸟",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 37,
+  "title": "Day 037 · exponential → fanciful",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "fanatical",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Yoru Shadow",
+      "hp": 100,
+      "words": [
+        {
+          "en": "exponential",
+          "zh": "adj. 指数的，幂数的",
+          "pos": "adj."
+        },
+        {
+          "en": "exposition",
+          "zh": "n. 博览会，展览会",
+          "pos": "n."
+        },
+        {
+          "en": "exposure",
+          "zh": "n. 暴露；曝光",
+          "pos": "n."
+        },
+        {
+          "en": "expressive",
+          "zh": "adj. 有表现力的,富有表情的,生动的",
+          "pos": "adj."
+        },
+        {
+          "en": "expressly",
+          "zh": "adv. 特意地，专门",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Raze Bomber",
+      "hp": 150,
+      "words": [
+        {
+          "en": "extension",
+          "zh": "n. 延长，扩充",
+          "pos": "n."
+        },
+        {
+          "en": "extend",
+          "zh": "v. 延长；扩大",
+          "pos": "v."
+        },
+        {
+          "en": "extended",
+          "zh": "adj. 延长的，扩大的",
+          "pos": "adj."
+        },
+        {
+          "en": "extensive",
+          "zh": "adj. 广的；多方面的，广泛的",
+          "pos": "adj."
+        },
+        {
+          "en": "exterior",
+          "zh": "n. 外部，外表",
+          "pos": "n."
+        },
+        {
+          "en": "exterminate",
+          "zh": "vt. 根除，灭绝",
+          "pos": "vt."
+        },
+        {
+          "en": "external",
+          "zh": "adj. 外部的；表面的",
+          "pos": "adj."
+        },
+        {
+          "en": "extinct",
+          "zh": "adj. 灭绝的；不再活跃的，熄灭的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "extinction",
+          "zh": "n. 消失，灭绝",
+          "pos": "n."
+        },
+        {
+          "en": "extol",
+          "zh": "vt. 赞美",
+          "pos": "vt."
+        },
+        {
+          "en": "extract",
+          "zh": "vt. 拔出；榨取",
+          "pos": "vt."
+        },
+        {
+          "en": "extraordinary",
+          "zh": "adj. 特别的，非凡的",
+          "pos": "adj."
+        },
+        {
+          "en": "extremity",
+          "zh": "n. 末端；极端，极度",
+          "pos": "n."
+        },
+        {
+          "en": "exuberant",
+          "zh": "adj. 充满活力的",
+          "pos": "adj."
+        },
+        {
+          "en": "eyewitness",
+          "zh": "n. 目击者",
+          "pos": "n."
+        },
+        {
+          "en": "fable",
+          "zh": "n. 寓言，神话",
+          "pos": "n."
+        },
+        {
+          "en": "fabric",
+          "zh": "n. 织物，布",
+          "pos": "n."
+        },
+        {
+          "en": "facade",
+          "zh": "n. 正面；表面",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "facet",
+          "zh": "n. 面；（问题等的）方面",
+          "pos": "n."
+        },
+        {
+          "en": "multifaceted",
+          "zh": "adj. 多层面的",
+          "pos": "adj."
+        },
+        {
+          "en": "fanatical",
+          "zh": "adj. 狂热的；入迷的",
+          "pos": "adj."
+        },
+        {
+          "en": "face",
+          "zh": "vt. 面对",
+          "pos": "vt."
+        },
+        {
+          "en": "facilitate",
+          "zh": "vt. 使容易；有助于，促进",
+          "pos": "vt."
+        },
+        {
+          "en": "facilitation",
+          "zh": "n. 促进，帮助",
+          "pos": "n."
+        },
+        {
+          "en": "facility",
+          "zh": "n. 设施，设备",
+          "pos": "n."
+        },
+        {
+          "en": "facsimile",
+          "zh": "n. 复制品，传真",
+          "pos": "n."
+        },
+        {
+          "en": "faction",
+          "zh": "n. 派别，宗派，小集团",
+          "pos": "n."
+        },
+        {
+          "en": "petrifaction",
+          "zh": "n. 石化, 化石",
+          "pos": "n."
+        },
+        {
+          "en": "satisfaction",
+          "zh": "n. 满意，满足",
+          "pos": "n."
+        },
+        {
+          "en": "factor",
+          "zh": "n. 因素；变量",
+          "pos": "n."
+        },
+        {
+          "en": "factual",
+          "zh": "adj. 事实的，实际的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "faculty",
+          "zh": "n. 教职工的总称",
+          "pos": "n."
+        },
+        {
+          "en": "fade",
+          "zh": "vi. 逐渐消失",
+          "pos": "vi."
+        },
+        {
+          "en": "faint",
+          "zh": "adj. 微弱的；模糊的；无力的",
+          "pos": "adj."
+        },
+        {
+          "en": "fairly",
+          "zh": "adv. 公平地；相当地",
+          "pos": "adv."
+        },
+        {
+          "en": "faithful",
+          "zh": "n. 信徒",
+          "pos": "n."
+        },
+        {
+          "en": "faithfulness",
+          "zh": "n. 忠诚，诚实",
+          "pos": "n."
+        },
+        {
+          "en": "fake",
+          "zh": "n. 赝品，假货",
+          "pos": "n."
+        },
+        {
+          "en": "falcon",
+          "zh": "n. 猎鹰",
+          "pos": "n."
+        },
+        {
+          "en": "falconer",
+          "zh": "n. 养猎鹰者，放鹰狩猎人",
+          "pos": "n."
+        },
+        {
+          "en": "famine",
+          "zh": "n. 饥荒，饥饿",
+          "pos": "n."
+        },
+        {
+          "en": "fanatical",
+          "zh": "adj. 狂热的；入迷的",
+          "pos": "adj."
+        },
+        {
+          "en": "fanatic",
+          "zh": "adj. 狂热的；盲信的",
+          "pos": "adj."
+        },
+        {
+          "en": "fanaticism",
+          "zh": "n. 狂热，盲信",
+          "pos": "n."
+        },
+        {
+          "en": "fancy",
+          "zh": "adj. 新奇的，精美的",
+          "pos": "adj."
+        },
+        {
+          "en": "fanciful",
+          "zh": "adj. 爱空想的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

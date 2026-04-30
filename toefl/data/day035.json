@@ -1,0 +1,304 @@
+{
+  "day": 35,
+  "title": "Day 035 · erect → excess",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "evaluate",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Astra Dust",
+      "hp": 100,
+      "words": [
+        {
+          "en": "erect",
+          "zh": "vt. 使树立；建立，创立",
+          "pos": "vt."
+        },
+        {
+          "en": "erode",
+          "zh": "v. 腐蚀，侵蚀",
+          "pos": "v."
+        },
+        {
+          "en": "erosion",
+          "zh": "n. 腐蚀，侵蚀",
+          "pos": "n."
+        },
+        {
+          "en": "erratic",
+          "zh": "adj. 古怪的，反复无常的",
+          "pos": "adj."
+        },
+        {
+          "en": "erratically",
+          "zh": "adv. 不规则地",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Fade Nightmare",
+      "hp": 150,
+      "words": [
+        {
+          "en": "error",
+          "zh": "vt. 做错，出差错",
+          "pos": "vt."
+        },
+        {
+          "en": "eruption",
+          "zh": "n. 爆发，喷发",
+          "pos": "n."
+        },
+        {
+          "en": "erupt",
+          "zh": "vi. 喷出，爆发",
+          "pos": "vi."
+        },
+        {
+          "en": "escalate",
+          "zh": "vi. 逐步升高, 逐步增强",
+          "pos": "vi."
+        },
+        {
+          "en": "escalator",
+          "zh": "n. 电动扶梯",
+          "pos": "n."
+        },
+        {
+          "en": "escape",
+          "zh": "v. 逃脱，逃走；避开，避免",
+          "pos": "v."
+        },
+        {
+          "en": "escapist",
+          "zh": "adj./n. 逃避现实的（人）",
+          "pos": "adj."
+        },
+        {
+          "en": "essential",
+          "zh": "adj. 绝对必要的；本质的，根本的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "estate",
+          "zh": "n. 财产；不动产",
+          "pos": "n."
+        },
+        {
+          "en": "estimate",
+          "zh": "vt. 估计",
+          "pos": "vt."
+        },
+        {
+          "en": "underestimate",
+          "zh": "vt. 低估，看轻",
+          "pos": "vt."
+        },
+        {
+          "en": "overestimate",
+          "zh": "vt. 评价过高",
+          "pos": "vt."
+        },
+        {
+          "en": "eternal",
+          "zh": "adj. 永恒的；永远的",
+          "pos": "adj."
+        },
+        {
+          "en": "ethics",
+          "zh": "n. 伦理学；道德规范",
+          "pos": "n."
+        },
+        {
+          "en": "ethically",
+          "zh": "adv. 在伦理上，道德上",
+          "pos": "adv."
+        },
+        {
+          "en": "ethnic",
+          "zh": "adj. 种族的",
+          "pos": "adj."
+        },
+        {
+          "en": "etiquette",
+          "zh": "n. 礼仪，礼节",
+          "pos": "n."
+        },
+        {
+          "en": "evaluate",
+          "zh": "vt. 评价，估价",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "evaporate",
+          "zh": "v. （使）蒸发；消失",
+          "pos": "v."
+        },
+        {
+          "en": "evaporation",
+          "zh": "n. 蒸发；消失",
+          "pos": "n."
+        },
+        {
+          "en": "eventful",
+          "zh": "adj. 多事的,充满大事的;意义重大的",
+          "pos": "adj."
+        },
+        {
+          "en": "eventual",
+          "zh": "adj. 最终的",
+          "pos": "adj."
+        },
+        {
+          "en": "eventually",
+          "zh": "adv. 终于",
+          "pos": "adv."
+        },
+        {
+          "en": "evergreen",
+          "zh": "adj. 常绿的",
+          "pos": "adj."
+        },
+        {
+          "en": "evaluate",
+          "zh": "vt. 评价，估价",
+          "pos": "vt."
+        },
+        {
+          "en": "evidence",
+          "zh": "n. 证据",
+          "pos": "n."
+        },
+        {
+          "en": "evident",
+          "zh": "adj. 明显的",
+          "pos": "adj."
+        },
+        {
+          "en": "eviscerate",
+          "zh": "vt. 取出内脏；除去主要部分",
+          "pos": "vt."
+        },
+        {
+          "en": "evoke",
+          "zh": "vt. 引起，激起，唤起",
+          "pos": "vt."
+        },
+        {
+          "en": "evolution",
+          "zh": "n. 发展，演变",
+          "pos": "n."
+        },
+        {
+          "en": "evolve",
+          "zh": "v. 进化，发展",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "evolutionary",
+          "zh": "adj. 发展的，进化的",
+          "pos": "adj."
+        },
+        {
+          "en": "exact",
+          "zh": "adj. 精确的，准确地",
+          "pos": "adj."
+        },
+        {
+          "en": "exacting",
+          "zh": "adj. 苛求的，要求严格的",
+          "pos": "adj."
+        },
+        {
+          "en": "exaggerate",
+          "zh": "v. 夸大，夸张",
+          "pos": "v."
+        },
+        {
+          "en": "exaggeration",
+          "zh": "n. 夸张",
+          "pos": "n."
+        },
+        {
+          "en": "exalted",
+          "zh": "adj. 崇高的，高贵的",
+          "pos": "adj."
+        },
+        {
+          "en": "excavate",
+          "zh": "vt. 挖掘，挖出",
+          "pos": "vt."
+        },
+        {
+          "en": "excavation",
+          "zh": "n. 挖掘",
+          "pos": "n."
+        },
+        {
+          "en": "exceed",
+          "zh": "vt. 超越，胜过",
+          "pos": "vt."
+        },
+        {
+          "en": "excel",
+          "zh": "vi. 胜过，杰出",
+          "pos": "vi."
+        },
+        {
+          "en": "excellent",
+          "zh": "adj. 优良的，杰出的",
+          "pos": "adj."
+        },
+        {
+          "en": "exception",
+          "zh": "n. 例外",
+          "pos": "n."
+        },
+        {
+          "en": "exceptional",
+          "zh": "adj. 异常的，杰出的",
+          "pos": "adj."
+        },
+        {
+          "en": "exceptionally",
+          "zh": "adv. 特殊地；异常地",
+          "pos": "adv."
+        },
+        {
+          "en": "excess",
+          "zh": "adj. 过度的，额外的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

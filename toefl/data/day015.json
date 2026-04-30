@@ -1,0 +1,304 @@
+{
+  "day": 15,
+  "title": "Day 015 · chafe → circle",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "cipher",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Yoru Shadow",
+      "hp": 100,
+      "words": [
+        {
+          "en": "chafe",
+          "zh": "vt. （将皮肤等）擦热，擦破",
+          "pos": "vt."
+        },
+        {
+          "en": "chagrin",
+          "zh": "n. 懊恼，失望",
+          "pos": "n."
+        },
+        {
+          "en": "chalk",
+          "zh": "n. 粉笔",
+          "pos": "n."
+        },
+        {
+          "en": "chamber",
+          "zh": "n. 室；房间",
+          "pos": "n."
+        },
+        {
+          "en": "chaos",
+          "zh": "n. 混乱",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "KAY/O Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "chaotic",
+          "zh": "adj. 混乱的",
+          "pos": "adj."
+        },
+        {
+          "en": "chapel",
+          "zh": "n. 小礼拜堂",
+          "pos": "n."
+        },
+        {
+          "en": "character",
+          "zh": "n. 角色；性格",
+          "pos": "n."
+        },
+        {
+          "en": "characteristic",
+          "zh": "adj. 典型的，表现特征的，特有的",
+          "pos": "adj."
+        },
+        {
+          "en": "characterize",
+          "zh": "vt. 表现…的特色，刻画…的性格",
+          "pos": "vt."
+        },
+        {
+          "en": "charcoal",
+          "zh": "n. 炭；木炭",
+          "pos": "n."
+        },
+        {
+          "en": "charitable",
+          "zh": "adj. 慈善事业的，慈善的；仁慈的",
+          "pos": "adj."
+        },
+        {
+          "en": "charter",
+          "zh": "v. 包租；特许",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "chart",
+          "zh": "n. 海图，图表",
+          "pos": "n."
+        },
+        {
+          "en": "chaste",
+          "zh": "adj. 贞洁的；（思想、言论）朴素的",
+          "pos": "adj."
+        },
+        {
+          "en": "chat",
+          "zh": "vi. 闲谈",
+          "pos": "vi."
+        },
+        {
+          "en": "chateau",
+          "zh": "n. 城堡，高级旅馆",
+          "pos": "n."
+        },
+        {
+          "en": "check",
+          "zh": "vt. 检查，核对；阻止，控制",
+          "pos": "vt."
+        },
+        {
+          "en": "checkup",
+          "zh": "n. 审查；身体检查",
+          "pos": "n."
+        },
+        {
+          "en": "checkout",
+          "zh": "n. 检验，校验",
+          "pos": "n."
+        },
+        {
+          "en": "paycheck",
+          "zh": "n. 付薪水的支票",
+          "pos": "n."
+        },
+        {
+          "en": "chef",
+          "zh": "n. 厨师",
+          "pos": "n."
+        },
+        {
+          "en": "cherish",
+          "zh": "v. 怀抱（希望等）；珍爱",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "chill",
+          "zh": "vt. 使冷，变冷；冷却",
+          "pos": "vt."
+        },
+        {
+          "en": "chilly",
+          "zh": "adj. 寒冷的",
+          "pos": "adj."
+        },
+        {
+          "en": "chilli",
+          "zh": "n. 红辣椒",
+          "pos": "n."
+        },
+        {
+          "en": "chimpanzee",
+          "zh": "n. 黑猩猩",
+          "pos": "n."
+        },
+        {
+          "en": "gorilla",
+          "zh": "n. 大猩猩",
+          "pos": "n."
+        },
+        {
+          "en": "chisel",
+          "zh": "n. 凿子",
+          "pos": "n."
+        },
+        {
+          "en": "cipher",
+          "zh": "n. 密码",
+          "pos": "n."
+        },
+        {
+          "en": "chivalry",
+          "zh": "n. 骑士气概，侠义；献殷勤",
+          "pos": "n."
+        },
+        {
+          "en": "choke",
+          "zh": "vt. 使窒息",
+          "pos": "vt."
+        },
+        {
+          "en": "chop",
+          "zh": "vt. 砍",
+          "pos": "vt."
+        },
+        {
+          "en": "choppy",
+          "zh": "adj. 波浪起伏的,(风)不断改变方向的",
+          "pos": "adj."
+        },
+        {
+          "en": "chord",
+          "zh": "n. 琴弦，心弦",
+          "pos": "n."
+        },
+        {
+          "en": "chore",
+          "zh": "n. 家务杂事",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Ascendant Warlord",
+      "hp": 300,
+      "words": [
+        {
+          "en": "choreography",
+          "zh": "n. 舞蹈编排",
+          "pos": "n."
+        },
+        {
+          "en": "choreograph",
+          "zh": "vt. 设计舞蹈动作",
+          "pos": "vt."
+        },
+        {
+          "en": "choreographer",
+          "zh": "n. 舞蹈指导",
+          "pos": "n."
+        },
+        {
+          "en": "choreographic",
+          "zh": "adj. 舞蹈术的，舞台舞蹈的",
+          "pos": "adj."
+        },
+        {
+          "en": "chorus",
+          "zh": "n. 合唱团",
+          "pos": "n."
+        },
+        {
+          "en": "chronic",
+          "zh": "adj. 长期的；慢性的",
+          "pos": "adj."
+        },
+        {
+          "en": "chronological",
+          "zh": "adj. 按年代顺序排列的",
+          "pos": "adj."
+        },
+        {
+          "en": "chronology",
+          "zh": "n. 年代学，年表",
+          "pos": "n."
+        },
+        {
+          "en": "chubby",
+          "zh": "adj. 丰满的，圆胖的",
+          "pos": "adj."
+        },
+        {
+          "en": "chunk",
+          "zh": "n. 大块；矮胖的人或物",
+          "pos": "n."
+        },
+        {
+          "en": "cider",
+          "zh": "n. 苹果酒，苹果汁",
+          "pos": "n."
+        },
+        {
+          "en": "cipher",
+          "zh": "n. 密码",
+          "pos": "n."
+        },
+        {
+          "en": "circuit",
+          "zh": "n. 电路",
+          "pos": "n."
+        },
+        {
+          "en": "circular",
+          "zh": "adj. 循环的；圆的",
+          "pos": "adj."
+        },
+        {
+          "en": "circle",
+          "zh": "n. 圆周，圆形物",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

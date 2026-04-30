@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>STUDY 028 · Operation Lexicon</title>
+  <meta name="description" content="TOEFL Day 028 学习模式" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="06cb22f2-6983-4e15-8624-90f22f2db00f"></script>      
+</head>
+<body>
+  <div class="container">
+
+    <header class="site-header">
+      <div class="logo">
+        <span class="logo-mark">📚</span>
+        <span class="logo-text">STUDY <strong>MODE</strong></span>
+      </div>
+      <nav class="nav">
+        <a href="index.html">← 战役地图</a>
+        <a href="day028.html" id="battle-link">⚔ 进入战斗</a>
+      </nav>
+    </header>
+
+    <section class="hero" style="padding: 32px 0;">
+      <p class="hero-tag">// STUDY PHASE · DAY 28</p>
+      <h1 class="hero-title" style="font-size: clamp(32px, 4vw, 56px);">
+        DAY 028<br />
+        <span class="accent-cyan">词汇学习</span>
+      </h1>
+      <p class="hero-sub">先认识新单词，再挑战战斗</p>
+    </section>
+
+    <section class="study-phase-nav">
+      <div class="phase-btns">
+        <button class="phase-btn is-active" data-phase="browse" type="button">
+          <span class="phase-num">1</span>
+          <span class="phase-label">浏览</span>
+        </button>
+        <button class="phase-btn" data-phase="quiz" type="button" disabled>
+          <span class="phase-num">2</span>
+          <span class="phase-label">自测</span>
+        </button>
+        <button class="phase-btn" data-phase="ready" type="button" disabled>
+          <span class="phase-num">3</span>
+          <span class="phase-label">战斗</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- 阶段 1：浏览 -->
+    <section class="study-stage" id="stage-browse">
+      <div class="study-progress">
+        <div class="progress-bar">
+          <div class="progress-fill" id="browse-progress-fill" style="width: 0%"></div>
+        </div>
+        <div class="progress-label">
+          <span>学习进度</span>
+          <span id="browse-progress-text">1 / 50</span>
+        </div>
+      </div>
+
+      <div class="flashcard" id="flashcard">
+        <div class="flashcard-side flashcard-front">
+          <p class="flashcard-pos" id="card-pos">—</p>
+          <h2 class="flashcard-word" id="card-word">loading...</h2>
+          <button class="sound-btn flashcard-sound" id="card-sound" type="button">🔊 发音</button>
+          <div class="flashcard-divider"></div>
+          <p class="flashcard-hint">👆 点击卡片查看释义</p>
+        </div>
+        <div class="flashcard-side flashcard-back">
+          <p class="flashcard-zh" id="card-zh">—</p>
+          <p class="flashcard-hint">👇 标记并继续</p>
+        </div>
+      </div>
+
+      <div class="mastery-toggle">
+        <label class="mastery-label">
+          <input type="checkbox" id="mastery-check" />
+          <span class="mastery-custom"></span>
+          <span class="mastery-text">我已掌握这个单词</span>
+        </label>
+      </div>
+
+      <div class="browse-controls">
+        <button class="btn btn-ghost" id="btn-prev" type="button">← 上一个</button>
+        <button class="btn btn-primary" id="btn-next" type="button">下一个 →</button>
+      </div>
+
+      <p class="study-tip">💡 提示：建议每个单词至少停留 5 秒，念 2 遍发音</p>
+    </section>
+
+    <!-- 阶段 2：自测 -->
+    <section class="study-stage" id="stage-quiz" style="display: none;">
+      <div class="quiz-progress">
+        <div class="progress-bar">
+          <div class="progress-fill" id="quiz-progress-fill" style="width: 0%"></div>
+        </div>
+        <div class="progress-label">
+          <span>测验进度</span>
+          <span id="quiz-progress-text">1 / 10</span>
+        </div>
+      </div>
+
+      <div class="quiz-score">
+        <span class="quiz-stat">✓ <span id="quiz-correct">0</span></span>
+        <span class="quiz-stat">✗ <span id="quiz-wrong">0</span></span>
+      </div>
+
+      <div class="quiz-card">
+        <p class="quiz-prompt">这个单词的含义是？</p>
+        <h2 class="quiz-word" id="quiz-word">loading...</h2>
+        <button class="sound-btn quiz-sound-btn" id="quiz-sound" type="button">🔊</button>
+        <div class="quiz-options" id="quiz-options"></div>
+      </div>
+
+      <p class="quiz-feedback" id="quiz-feedback"></p>
+    </section>
+
+    <!-- 阶段 3：战斗准备 -->
+    <section class="study-stage" id="stage-ready" style="display: none; text-align: center;">
+      <div class="ready-card">
+        <div class="ready-icon">🎯</div>
+        <h2>学习完成！</h2>
+        <div class="ready-stats">
+          <div class="ready-stat">
+            <div class="ready-stat-num" id="ready-viewed">50</div>
+            <div class="ready-stat-label">已学单词</div>
+          </div>
+          <div class="ready-stat">
+            <div class="ready-stat-num" id="ready-mastered">0</div>
+            <div class="ready-stat-label">自评掌握</div>
+          </div>
+          <div class="ready-stat">
+            <div class="ready-stat-num" id="ready-quiz-rate">0%</div>
+            <div class="ready-stat-label">测验正确率</div>
+          </div>
+        </div>
+        <p class="ready-desc">
+          接下来进入战斗模式，用拼写巩固记忆。<br />
+          答错会强制重做，直到正确为止 — 这是记忆最有效的方式。
+        </p>
+        <div class="hero-cta" style="margin-top: 32px;">
+          <button class="btn btn-ghost" id="btn-review" type="button">🔄 重新学习</button>
+          <a href="day028.html" class="btn btn-primary">⚔ 进入战斗</a>
+        </div>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <p>Day 28 / 108 · Study Mode</p>
+    </footer>
+
+  </div>
+
+  <script src="/assets/cloud-sync.js"></script>
+  <script>
+    'use strict';
+
+    var DAY_NUM = 28;
+    var DAY_KEY = 'day' + String(DAY_NUM).padStart(3, '0');
+    var STUDY_SECTION = 'toefl_study';
+
+    // 状态
+    var allWords = [];
+    var currentIdx = 0;
+    var isFlipped = false;
+    var masteredWords = {};
+    var QUIZ_SIZE = 10;
+    var quizPool = [];
+    var quizIdx = 0;
+    var quizCorrect = 0;
+    var quizWrong = 0;
+    var quizCurrentAnswer = null;
+
+    // ========== 初始化 ==========
+    fetch('data/' + DAY_KEY + '.json')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        var seen = {};
+        data.monsters.forEach(function (m) {
+          m.words.forEach(function (w) {
+            if (!seen[w.en]) {
+              seen[w.en] = true;
+              allWords.push(w);
+            }
+          });
+        });
+
+        // 加载已掌握记录（本地优先）
+        var studyData = JSON.parse(localStorage.getItem('toefl-study') || '{}');
+        masteredWords = (studyData[DAY_KEY] && studyData[DAY_KEY].mastered) || {};
+
+        // 云端合并
+        if (window.CloudSync && window.CloudSync.getCode()) {
+          window.CloudSync.initSection(STUDY_SECTION).then(function (merged) {
+            if (merged && merged[DAY_KEY] && merged[DAY_KEY].mastered) {
+              masteredWords = merged[DAY_KEY].mastered;
+              // 重新渲染当前卡片以反映掌握状态
+              showCard(currentIdx);
+            }
+          });
+        }
+
+        showCard(0);
+      })
+      .catch(function (err) {
+        document.getElementById('card-word').textContent = '⚠ 数据加载失败';
+      });
+
+    // ========== 阶段 1：浏览 ==========
+    function showCard(idx) {
+      if (idx < 0 || idx >= allWords.length) return;
+      currentIdx = idx;
+      var word = allWords[idx];
+      isFlipped = false;
+
+      document.getElementById('card-word').textContent = word.en;
+      document.getElementById('card-pos').textContent = word.pos || '—';
+      document.getElementById('card-zh').textContent = word.zh;
+      document.getElementById('flashcard').classList.remove('is-flipped');
+
+      document.getElementById('mastery-check').checked = !!masteredWords[word.en];
+
+      var pct = ((idx + 1) / allWords.length * 100).toFixed(0);
+      document.getElementById('browse-progress-fill').style.width = pct + '%';
+      document.getElementById('browse-progress-text').textContent = (idx + 1) + ' / ' + allWords.length;
+
+      document.getElementById('btn-prev').disabled = (idx === 0);
+      var nextBtn = document.getElementById('btn-next');
+      if (idx === allWords.length - 1) {
+        nextBtn.textContent = '✓ 完成浏览';
+        nextBtn.classList.add('is-finish');
+      } else {
+        nextBtn.textContent = '下一个 →';
+        nextBtn.classList.remove('is-finish');
+      }
+
+      setTimeout(function () {
+        if (currentIdx === idx) speakWord(word.en);
+      }, 300);
+    }
+
+    document.getElementById('flashcard').addEventListener('click', function (e) {
+      if (e.target.id === 'card-sound') return;
+      isFlipped = !isFlipped;
+      this.classList.toggle('is-flipped', isFlipped);
+    });
+
+    document.getElementById('card-sound').addEventListener('click', function (e) {
+      e.stopPropagation();
+      if (allWords[currentIdx]) speakWord(allWords[currentIdx].en);
+    });
+
+    document.getElementById('mastery-check').addEventListener('change', function (e) {
+      var word = allWords[currentIdx];
+      if (!word) return;
+      if (e.target.checked) {
+        masteredWords[word.en] = true;
+      } else {
+        delete masteredWords[word.en];
+      }
+      saveStudyData();
+    });
+
+    document.getElementById('btn-prev').addEventListener('click', function () {
+      showCard(currentIdx - 1);
+    });
+
+    document.getElementById('btn-next').addEventListener('click', function () {
+      if (currentIdx === allWords.length - 1) {
+        unlockPhase('quiz');
+        switchPhase('quiz');
+        startQuiz();
+      } else {
+        showCard(currentIdx + 1);
+      }
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowLeft') document.getElementById('btn-prev').click();
+      if (e.key === 'ArrowRight') document.getElementById('btn-next').click();
+      if (e.key === ' ' || e.key === 'Enter') {
+        if (document.getElementById('stage-browse').style.display !== 'none') {
+          document.getElementById('flashcard').click();
+          e.preventDefault();
+        }
+      }
+    });
+
+    // ========== 阶段 2：自测 ==========
+    function startQuiz() {
+      quizPool = shuffleArray(allWords.slice()).slice(0, Math.min(QUIZ_SIZE, allWords.length));
+      quizIdx = 0;
+      quizCorrect = 0;
+      quizWrong = 0;
+      showQuizQuestion();
+    }
+
+    function showQuizQuestion() {
+      if (quizIdx >= quizPool.length) {
+        finishQuiz();
+        return;
+      }
+
+      var current = quizPool[quizIdx];
+      quizCurrentAnswer = current;
+
+      document.getElementById('quiz-word').textContent = current.en;
+
+      var distractors = [];
+      var pool = allWords.filter(function (w) { return w.en !== current.en; });
+      pool = shuffleArray(pool);
+      for (var i = 0; i < 3 && i < pool.length; i++) {
+        distractors.push(pool[i]);
+      }
+
+      var options = shuffleArray([current].concat(distractors));
+      var optionsEl = document.getElementById('quiz-options');
+      optionsEl.innerHTML = '';
+
+      options.forEach(function (opt, i) {
+        var btn = document.createElement('button');
+        btn.className = 'quiz-option';
+        btn.type = 'button';
+        btn.innerHTML = '<span class="quiz-option-index">' + String.fromCharCode(65 + i) + '</span>' +
+                        '<span class="quiz-option-text">' + opt.zh + '</span>';
+        btn.addEventListener('click', function () {
+          handleQuizAnswer(opt, btn);
+        });
+        optionsEl.appendChild(btn);
+      });
+
+      var pct = (quizIdx / quizPool.length * 100).toFixed(0);
+      document.getElementById('quiz-progress-fill').style.width = pct + '%';
+      document.getElementById('quiz-progress-text').textContent = (quizIdx + 1) + ' / ' + quizPool.length;
+
+      document.getElementById('quiz-feedback').textContent = '';
+      document.getElementById('quiz-feedback').className = 'quiz-feedback';
+
+      setTimeout(function () { speakWord(current.en); }, 300);
+    }
+
+    document.getElementById('quiz-sound').addEventListener('click', function () {
+      if (quizCurrentAnswer) speakWord(quizCurrentAnswer.en);
+    });
+
+    function handleQuizAnswer(selected, btn) {
+      var options = document.querySelectorAll('.quiz-option');
+      options.forEach(function (o) { o.disabled = true; });
+
+      var feedback = document.getElementById('quiz-feedback');
+
+      if (selected.en === quizCurrentAnswer.en) {
+        btn.classList.add('is-correct');
+        feedback.textContent = '✓ 正确！';
+        feedback.className = 'quiz-feedback is-correct';
+        quizCorrect++;
+      } else {
+        btn.classList.add('is-wrong');
+        feedback.textContent = '✗ 正确答案：' + quizCurrentAnswer.zh;
+        feedback.className = 'quiz-feedback is-wrong';
+        quizWrong++;
+        options.forEach(function (o) {
+          if (o.querySelector('.quiz-option-text').textContent === quizCurrentAnswer.zh) {
+            o.classList.add('is-correct');
+          }
+        });
+      }
+
+      document.getElementById('quiz-correct').textContent = quizCorrect;
+      document.getElementById('quiz-wrong').textContent = quizWrong;
+
+      setTimeout(function () {
+        quizIdx++;
+        showQuizQuestion();
+      }, 1500);
+    }
+
+    function finishQuiz() {
+      document.getElementById('quiz-progress-fill').style.width = '100%';
+      saveStudyData();
+      unlockPhase('ready');
+      switchPhase('ready');
+      showReadyStats();
+    }
+
+    // ========== 阶段 3：战斗准备 ==========
+    function showReadyStats() {
+      var viewed = allWords.length;
+      var masteredCount = Object.keys(masteredWords).length;
+      var quizRate = quizPool.length > 0
+        ? Math.round(quizCorrect / quizPool.length * 100)
+        : 0;
+
+      document.getElementById('ready-viewed').textContent = viewed;
+      document.getElementById('ready-mastered').textContent = masteredCount;
+      document.getElementById('ready-quiz-rate').textContent = quizRate + '%';
+    }
+
+    document.getElementById('btn-review').addEventListener('click', function () {
+      switchPhase('browse');
+      showCard(0);
+    });
+
+    // ========== 阶段切换 ==========
+    function switchPhase(phase) {
+      document.querySelectorAll('.study-stage').forEach(function (s) {
+        s.style.display = 'none';
+      });
+      document.getElementById('stage-' + phase).style.display = 'block';
+
+      document.querySelectorAll('.phase-btn').forEach(function (b) {
+        b.classList.toggle('is-active', b.dataset.phase === phase);
+      });
+
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function unlockPhase(phase) {
+      var btn = document.querySelector('.phase-btn[data-phase="' + phase + '"]');
+      if (btn) {
+        btn.disabled = false;
+        btn.classList.add('is-unlocked');
+      }
+    }
+
+    document.querySelectorAll('.phase-btn').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        if (!btn.disabled) {
+          switchPhase(btn.dataset.phase);
+          if (btn.dataset.phase === 'quiz' && quizIdx === 0) {
+            startQuiz();
+          } else if (btn.dataset.phase === 'ready') {
+            showReadyStats();
+          }
+        }
+      });
+    });
+
+    // ========== 工具 ==========
+    function shuffleArray(arr) {
+      var a = arr.slice();
+      for (var i = a.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tmp = a[i]; a[i] = a[j]; a[j] = tmp;
+      }
+      return a;
+    }
+
+    function speakWord(word) {
+      if (!word) return;
+      var utter = new SpeechSynthesisUtterance(word);
+      utter.lang = 'en-US';
+      utter.rate = 0.85;
+      speechSynthesis.cancel();
+      speechSynthesis.speak(utter);
+    }
+
+    function saveStudyData() {
+      var data = JSON.parse(localStorage.getItem('toefl-study') || '{}');
+      if (!data[DAY_KEY]) data[DAY_KEY] = {};
+      data[DAY_KEY].mastered = masteredWords;
+      data[DAY_KEY].last_studied = new Date().toISOString();
+      if (quizIdx >= quizPool.length && quizPool.length > 0) {
+        data[DAY_KEY].quiz_correct = quizCorrect;
+        data[DAY_KEY].quiz_total = quizPool.length;
+      }
+      localStorage.setItem('toefl-study', JSON.stringify(data));
+
+      // 同步到云端
+      if (window.CloudSync) {
+        CloudSync.saveSection(STUDY_SECTION, data);
+      }
+    }
+  </script>
+</body>
+</html>

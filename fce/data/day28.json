@@ -1,0 +1,304 @@
+{
+  "day": 28,
+  "title": "Day 28 · musical → numerous",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "near",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Raze Cub",
+      "hp": 100,
+      "words": [
+        {
+          "en": "musical",
+          "zh": "\"adj. 音乐的；悦耳的",
+          "pos": "adj."
+        },
+        {
+          "en": "mystery",
+          "zh": "n. 秘密，谜；神秘，神秘的事物；推理小说，推理剧；常作 mysteries 秘技，秘诀",
+          "pos": "n."
+        },
+        {
+          "en": "nag",
+          "zh": "\"n. 唠叨；老马；竞赛马",
+          "pos": "n."
+        },
+        {
+          "en": "name",
+          "zh": "\"n. 名称，名字；姓名；名誉",
+          "pos": "n."
+        },
+        {
+          "en": "narrative",
+          "zh": "\"n. 叙述；故事；讲述",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Sova Arrow",
+      "hp": 150,
+      "words": [
+        {
+          "en": "narrow",
+          "zh": "\"adj. 狭窄的，有限的；勉强的；精密的；度量小的",
+          "pos": "adj."
+        },
+        {
+          "en": "nasty",
+          "zh": "\"adj. 下流的；肮脏的；脾气不好的；险恶的",
+          "pos": "adj."
+        },
+        {
+          "en": "national",
+          "zh": "\"adj. 国家的；国民的；民族的；国立的",
+          "pos": "adj."
+        },
+        {
+          "en": "native",
+          "zh": "\"adj. 本国的；土著的；天然的；与生俱来的；天赋的",
+          "pos": "adj."
+        },
+        {
+          "en": "nature",
+          "zh": "n. 自然；性质；本性；种类",
+          "pos": "n."
+        },
+        {
+          "en": "navigate",
+          "zh": "\"vt. 驾驶，操纵；使通过；航行于",
+          "pos": "vt."
+        },
+        {
+          "en": "near",
+          "zh": "\"adj. 近的；亲近的；近似的",
+          "pos": "adj."
+        },
+        {
+          "en": "nearby",
+          "zh": "\"adj. 附近的，邻近的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Drone",
+      "hp": 200,
+      "words": [
+        {
+          "en": "necessary",
+          "zh": "\"adj. 必要的；必需的；必然的",
+          "pos": "adj."
+        },
+        {
+          "en": "needless to say",
+          "zh": "\"na. 不用说",
+          "pos": ""
+        },
+        {
+          "en": "negative",
+          "zh": "\"adj. 负的；消极的；否定的；阴性的",
+          "pos": "adj."
+        },
+        {
+          "en": "neglect",
+          "zh": "\"vt. 疏忽，忽视；忽略",
+          "pos": "vt."
+        },
+        {
+          "en": "negotiate",
+          "zh": "\"vt. 谈判，商议；转让；越过",
+          "pos": "vt."
+        },
+        {
+          "en": "neighbour",
+          "zh": "\"n. n. 邻居;同胞；仁慈的人",
+          "pos": "n."
+        },
+        {
+          "en": "neither",
+          "zh": "\"conj. 也不；既不",
+          "pos": "conj."
+        },
+        {
+          "en": "nerve",
+          "zh": "\"n. 神经；勇气； 叶脉",
+          "pos": "n."
+        },
+        {
+          "en": "nerve-wracking",
+          "zh": "adj. 非常伤脑筋的，极端令人头疼的（等于nerve-racking）",
+          "pos": "adj."
+        },
+        {
+          "en": "nervous",
+          "zh": "adj. 神经的；紧张不安的；强健有力的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "network",
+          "zh": "n. 网络；广播网；网状物",
+          "pos": "n."
+        },
+        {
+          "en": "neutral",
+          "zh": "\"adj. 中立的，中性的；中立国的；非彩色的",
+          "pos": "adj."
+        },
+        {
+          "en": "never",
+          "zh": "adv. 从未；决不",
+          "pos": "adv."
+        },
+        {
+          "en": "near",
+          "zh": "\"adj. 近的；亲近的；近似的",
+          "pos": "adj."
+        },
+        {
+          "en": "nevertheless",
+          "zh": "\"adv. 然而，不过；虽然如此",
+          "pos": "adv."
+        },
+        {
+          "en": "newly",
+          "zh": "adv. 最近；重新；以新的方式",
+          "pos": "adv."
+        },
+        {
+          "en": "nice",
+          "zh": "adj. 精密的；美好的；细微的；和蔼的",
+          "pos": "adj."
+        },
+        {
+          "en": "niche",
+          "zh": "\"n. 壁龛；合适的职业；有利可图的市场(或形势等)",
+          "pos": "n."
+        },
+        {
+          "en": "nightlife",
+          "zh": "n. 夜生活",
+          "pos": "n."
+        },
+        {
+          "en": "nightmare",
+          "zh": "\"n. 恶梦；梦魇般的经历",
+          "pos": "n."
+        },
+        {
+          "en": "no longer",
+          "zh": "\"na. 不再",
+          "pos": ""
+        },
+        {
+          "en": "nobody",
+          "zh": "\"pron. 无人，没有人；没有任何人",
+          "pos": "pron."
+        },
+        {
+          "en": "noise",
+          "zh": "\"n. 噪音；响声；杂音",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "non-competitive",
+          "zh": "n. 非竞争性",
+          "pos": "n."
+        },
+        {
+          "en": "none of",
+          "zh": "\"adj. 没有一个",
+          "pos": "adj."
+        },
+        {
+          "en": "nonsense",
+          "zh": "\"n. 胡说；废话",
+          "pos": "n."
+        },
+        {
+          "en": "normal",
+          "zh": "\"adj. 正常的；正规的，标准的",
+          "pos": "adj."
+        },
+        {
+          "en": "north",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "nostalgia",
+          "zh": "n. 乡愁；怀旧之情；怀乡病",
+          "pos": "n."
+        },
+        {
+          "en": "note",
+          "zh": "\"n. 笔记；音符；票据；注解；纸币；便笺；照会；调子",
+          "pos": "n."
+        },
+        {
+          "en": "nothing",
+          "zh": "\"neg. 没什么；毫不",
+          "pos": ""
+        },
+        {
+          "en": "notice",
+          "zh": "\"n. 通知，布告；注意；公告",
+          "pos": "n."
+        },
+        {
+          "en": "nowadays",
+          "zh": "\"adv. 现今；时下",
+          "pos": "adv."
+        },
+        {
+          "en": "nowhere",
+          "zh": "\"adv. 无处；任何地方都不；毫无结果",
+          "pos": "adv."
+        },
+        {
+          "en": "nudge",
+          "zh": "\"n. 推动；用肘轻推；没完没了抱怨的人",
+          "pos": "n."
+        },
+        {
+          "en": "nuisance",
+          "zh": "n. 讨厌的人；损害；麻烦事；讨厌的东西",
+          "pos": "n."
+        },
+        {
+          "en": "number",
+          "zh": "\"n. 数；（杂志等的）期；号码；数字；算术",
+          "pos": "n."
+        },
+        {
+          "en": "numerous",
+          "zh": "adj. 许多的，很多的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

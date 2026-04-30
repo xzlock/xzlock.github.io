@@ -1,0 +1,304 @@
+{
+  "day": 1,
+  "title": "Day 01 · ability → adventure",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "admire",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Yoru Shadow",
+      "hp": 100,
+      "words": [
+        {
+          "en": "ability",
+          "zh": "n. 能力，能耐；才能",
+          "pos": "n."
+        },
+        {
+          "en": "able",
+          "zh": "adj. 能； 有能力的；能干的",
+          "pos": "adj."
+        },
+        {
+          "en": "abolish",
+          "zh": "vt. 废除，废止；取消，革除",
+          "pos": "vt."
+        },
+        {
+          "en": "concentrate",
+          "zh": "\"n. 浓缩，精选；浓缩液",
+          "pos": "n."
+        },
+        {
+          "en": "correct",
+          "zh": "\"adj. 正确的；恰当的；端正的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Fade Nightmare",
+      "hp": 150,
+      "words": [
+        {
+          "en": "above",
+          "zh": "\"prep. 超过；在……上面；在……之上",
+          "pos": "prep."
+        },
+        {
+          "en": "abroad",
+          "zh": "\"n. 海外；异国",
+          "pos": "n."
+        },
+        {
+          "en": "absolute",
+          "zh": "\"n. 绝对；绝对事物",
+          "pos": "n."
+        },
+        {
+          "en": "abstract",
+          "zh": "\"n. 摘要；抽象；抽象的概念",
+          "pos": "n."
+        },
+        {
+          "en": "absurd",
+          "zh": "\"n. 荒诞；荒诞作品",
+          "pos": "n."
+        },
+        {
+          "en": "abundant",
+          "zh": "adj. 丰富的；充裕的；盛产",
+          "pos": "adj."
+        },
+        {
+          "en": "academic",
+          "zh": "\"n. 大学生，大学教师；学者",
+          "pos": "n."
+        },
+        {
+          "en": "accelerate",
+          "zh": "\"vt. 使……加快；使……增速",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "accent",
+          "zh": "\"n. 口音；重音；强调；特点；重音符号",
+          "pos": "n."
+        },
+        {
+          "en": "accept",
+          "zh": "\"vi. 承认；同意；承兑",
+          "pos": "vi."
+        },
+        {
+          "en": "accessible",
+          "zh": "adj. 易接近的；可进入的；可理解的",
+          "pos": "adj."
+        },
+        {
+          "en": "accident",
+          "zh": "n. 事故；意外； 意外事件；机遇",
+          "pos": "n."
+        },
+        {
+          "en": "accommodation",
+          "zh": "n. 住处，膳宿；调节；和解；预订铺位",
+          "pos": "n."
+        },
+        {
+          "en": "accompany",
+          "zh": "\"vt. 陪伴，伴随；伴奏",
+          "pos": "vt."
+        },
+        {
+          "en": "accomplished",
+          "zh": "adj. 完成的；熟练的，有技巧的；有修养的；有学问的",
+          "pos": "adj."
+        },
+        {
+          "en": "according to",
+          "zh": "\"prep. 根据；按照；据（…所说）；按（…所报道）",
+          "pos": "prep."
+        },
+        {
+          "en": "accordingly",
+          "zh": "adv. 因此，于是；相应地；照著",
+          "pos": "adv."
+        },
+        {
+          "en": "account",
+          "zh": "\"n. 账户；解释；账目，账单；理由；描述",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "accurate",
+          "zh": "adj. 精确的",
+          "pos": "adj."
+        },
+        {
+          "en": "accuse",
+          "zh": "\"vt. 控告，指控；谴责；归咎于",
+          "pos": "vt."
+        },
+        {
+          "en": "accustomed",
+          "zh": "\"v. 使习惯于（accustom的过去分词）",
+          "pos": "v."
+        },
+        {
+          "en": "achieve",
+          "zh": "\"vt. 取得；获得；实现；成功",
+          "pos": "vt."
+        },
+        {
+          "en": "achievement",
+          "zh": "n. 成就；完成；达到；成绩",
+          "pos": "n."
+        },
+        {
+          "en": "acknowledge",
+          "zh": "vt. 承认；答谢；报偿；告知已收到",
+          "pos": "vt."
+        },
+        {
+          "en": "acoustic",
+          "zh": "\"n. 原声乐器；不用电传音的乐器",
+          "pos": "n."
+        },
+        {
+          "en": "acquaintance",
+          "zh": "n. 熟人；相识；了解；知道",
+          "pos": "n."
+        },
+        {
+          "en": "acquire",
+          "zh": "vt. 获得；取得；学到；捕获",
+          "pos": "vt."
+        },
+        {
+          "en": "acting",
+          "zh": "\"n. 演技；演戏；假装",
+          "pos": "n."
+        },
+        {
+          "en": "action",
+          "zh": "n. 行动；活动；功能；战斗；情节",
+          "pos": "n."
+        },
+        {
+          "en": "active",
+          "zh": "\"n. 主动语态；积极分子",
+          "pos": "n."
+        },
+        {
+          "en": "admire",
+          "zh": "\"vt. 钦佩；赞美",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radianite Colossus",
+      "hp": 300,
+      "words": [
+        {
+          "en": "activity",
+          "zh": "n. 活动；行动；活跃",
+          "pos": "n."
+        },
+        {
+          "en": "actually",
+          "zh": "adv. 实际上；事实上",
+          "pos": "adv."
+        },
+        {
+          "en": "adapt",
+          "zh": "\"vi. 适应",
+          "pos": "vi."
+        },
+        {
+          "en": "add",
+          "zh": "\"n. 加法，加法运算",
+          "pos": "n."
+        },
+        {
+          "en": "addition",
+          "zh": "n. 添加； 加法；增加物",
+          "pos": "n."
+        },
+        {
+          "en": "address",
+          "zh": "\"n. 地址；演讲；致辞；说话的技巧；称呼",
+          "pos": "n."
+        },
+        {
+          "en": "adequate",
+          "zh": "adj. 充足的；适当的；胜任的",
+          "pos": "adj."
+        },
+        {
+          "en": "adjust",
+          "zh": "\"vt. 调整，使…适合；校准",
+          "pos": "vt."
+        },
+        {
+          "en": "admire",
+          "zh": "\"vt. 钦佩；赞美",
+          "pos": "vt."
+        },
+        {
+          "en": "admit",
+          "zh": "\"vi. 承认；容许",
+          "pos": "vi."
+        },
+        {
+          "en": "adopt",
+          "zh": "\"vi. 采取；过继",
+          "pos": "vi."
+        },
+        {
+          "en": "adore",
+          "zh": "\"vt. 崇拜；爱慕；喜爱；极喜欢",
+          "pos": "vt."
+        },
+        {
+          "en": "advance",
+          "zh": "\"n. 发展；前进；增长；预付款",
+          "pos": "n."
+        },
+        {
+          "en": "advantage",
+          "zh": "\"n. 优势；利益；有利条件",
+          "pos": "n."
+        },
+        {
+          "en": "adventure",
+          "zh": "\"n. 冒险；冒险精神；投机活动",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

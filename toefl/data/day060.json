@@ -1,0 +1,304 @@
+{
+  "day": 60,
+  "title": "Day 060 · mythical → nourish",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "note",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Fade Whisper",
+      "hp": 100,
+      "words": [
+        {
+          "en": "mythical",
+          "zh": "adj. 神话的，虚构的",
+          "pos": "adj."
+        },
+        {
+          "en": "mythology",
+          "zh": "n. （总称）神话",
+          "pos": "n."
+        },
+        {
+          "en": "naked",
+          "zh": "adj. 裸体的，无遮盖的",
+          "pos": "adj."
+        },
+        {
+          "en": "narcotic",
+          "zh": "adj. 麻醉的，催眠的；n. 麻醉剂",
+          "pos": "adj."
+        },
+        {
+          "en": "narrator",
+          "zh": "n. 讲述者",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Jett Blitz",
+      "hp": 150,
+      "words": [
+        {
+          "en": "naturalist",
+          "zh": "n. 自然主义者，博物学着",
+          "pos": "n."
+        },
+        {
+          "en": "naturalistic",
+          "zh": "adj. 自然（主义）的",
+          "pos": "adj."
+        },
+        {
+          "en": "naval",
+          "zh": "adj. 海军的；军舰的",
+          "pos": "adj."
+        },
+        {
+          "en": "navigate",
+          "zh": "vi. 航行，航海；航空",
+          "pos": "vi."
+        },
+        {
+          "en": "navigation",
+          "zh": "n. 航海",
+          "pos": "n."
+        },
+        {
+          "en": "neat",
+          "zh": "adj. 整洁的；整齐的",
+          "pos": "adj."
+        },
+        {
+          "en": "underneath",
+          "zh": "prep. 在…的下面",
+          "pos": "prep."
+        },
+        {
+          "en": "needy",
+          "zh": "adj. 贫穷的，生活艰辛的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "negative",
+          "zh": "adj. 否定的；负的",
+          "pos": "adj."
+        },
+        {
+          "en": "negate",
+          "zh": "vt. 否定，打消",
+          "pos": "vt."
+        },
+        {
+          "en": "neglect",
+          "zh": "n./vt. 疏忽；忘记",
+          "pos": "n."
+        },
+        {
+          "en": "negligent",
+          "zh": "adj. 疏忽的，粗心大意的",
+          "pos": "adj."
+        },
+        {
+          "en": "negligible",
+          "zh": "adj. 可忽略的，无关紧要的",
+          "pos": "adj."
+        },
+        {
+          "en": "negotiation",
+          "zh": "n. 商议，谈判",
+          "pos": "n."
+        },
+        {
+          "en": "neoclassical",
+          "zh": "adj. 新古典主义的",
+          "pos": "adj."
+        },
+        {
+          "en": "neon",
+          "zh": "n. [化]氖；霓虹灯",
+          "pos": "n."
+        },
+        {
+          "en": "neuron",
+          "zh": "n. 神经元，神经细胞",
+          "pos": "n."
+        },
+        {
+          "en": "nervous",
+          "zh": "adj. 神经的；神经紧张的，易激动的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "neutral",
+          "zh": "adj. 中性的；中立的",
+          "pos": "adj."
+        },
+        {
+          "en": "neutralize",
+          "zh": "vt. 抵消，中和",
+          "pos": "vt."
+        },
+        {
+          "en": "neutron",
+          "zh": "n. 中子",
+          "pos": "n."
+        },
+        {
+          "en": "niche",
+          "zh": "n. 壁龛",
+          "pos": "n."
+        },
+        {
+          "en": "nickel",
+          "zh": "n. 镍；镍币",
+          "pos": "n."
+        },
+        {
+          "en": "nicotine",
+          "zh": "n. 尼古丁",
+          "pos": "n."
+        },
+        {
+          "en": "nocturnal",
+          "zh": "adj. 夜的, 夜曲的",
+          "pos": "adj."
+        },
+        {
+          "en": "note",
+          "zh": "n. 音符",
+          "pos": "n."
+        },
+        {
+          "en": "noisy",
+          "zh": "adj. 嘈杂的",
+          "pos": "adj."
+        },
+        {
+          "en": "nomadic",
+          "zh": "adj. 游牧的，流浪的",
+          "pos": "adj."
+        },
+        {
+          "en": "nominate",
+          "zh": "vt. 提名；任命",
+          "pos": "vt."
+        },
+        {
+          "en": "nominee",
+          "zh": "n. 被提名的人, 被任命者",
+          "pos": "n."
+        },
+        {
+          "en": "nonetheless",
+          "zh": "adv. 虽然如此，但是",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "nonprofessional",
+          "zh": "adj./n. 非专业的(人员)；无专长的(人员)",
+          "pos": "adj."
+        },
+        {
+          "en": "nonsense",
+          "zh": "n. 胡说，废话",
+          "pos": "n."
+        },
+        {
+          "en": "nontraditional",
+          "zh": "adj 不遵照传统生活的",
+          "pos": ""
+        },
+        {
+          "en": "norm",
+          "zh": "n. 标准，规范",
+          "pos": "n."
+        },
+        {
+          "en": "normally",
+          "zh": "adv. 通常地",
+          "pos": "adv."
+        },
+        {
+          "en": "nostalgia",
+          "zh": "n. 思家病，怀旧",
+          "pos": "n."
+        },
+        {
+          "en": "notable",
+          "zh": "adj. 著名的；显要的",
+          "pos": "adj."
+        },
+        {
+          "en": "notably",
+          "zh": "adv. 显著地；特别地",
+          "pos": "adv."
+        },
+        {
+          "en": "notate",
+          "zh": "vt. 以符号表示，把…写成记号",
+          "pos": "vt."
+        },
+        {
+          "en": "notation",
+          "zh": "n. 符号",
+          "pos": "n."
+        },
+        {
+          "en": "notch",
+          "zh": "n. 刻痕",
+          "pos": "n."
+        },
+        {
+          "en": "note",
+          "zh": "n. 音符",
+          "pos": "n."
+        },
+        {
+          "en": "notorious",
+          "zh": "adj. 臭名昭著的，声名狼藉的",
+          "pos": "adj."
+        },
+        {
+          "en": "notoriously",
+          "zh": "adv. 声名狼藉地",
+          "pos": "adv."
+        },
+        {
+          "en": "nourish",
+          "zh": "vt. 养育；滋养",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

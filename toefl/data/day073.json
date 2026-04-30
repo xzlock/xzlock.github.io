@@ -1,0 +1,304 @@
+{
+  "day": 73,
+  "title": "Day 073 · rancher → reconstruction",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "recognize",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "rancher",
+          "zh": "n. 大农场经营者；牧场工人",
+          "pos": "n."
+        },
+        {
+          "en": "range",
+          "zh": "n. 行列；范围",
+          "pos": "n."
+        },
+        {
+          "en": "rank",
+          "zh": "vt. 排列，归类",
+          "pos": "vt."
+        },
+        {
+          "en": "rare",
+          "zh": "adj. 稀有的",
+          "pos": "adj."
+        },
+        {
+          "en": "rarefy",
+          "zh": "vt. 使稀少，使稀薄",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Chamber Bullet",
+      "hp": 150,
+      "words": [
+        {
+          "en": "rarely",
+          "zh": "adv. 很少地，罕有地",
+          "pos": "adv."
+        },
+        {
+          "en": "ratify",
+          "zh": "vt. 批准",
+          "pos": "vt."
+        },
+        {
+          "en": "ration",
+          "zh": "n. 定量，配给量",
+          "pos": "n."
+        },
+        {
+          "en": "rationing",
+          "zh": "n. （食物等的）配给",
+          "pos": "n."
+        },
+        {
+          "en": "rational",
+          "zh": "adj. 理性的，合理的",
+          "pos": "adj."
+        },
+        {
+          "en": "rattle",
+          "zh": "n. 拨浪鼓；格格声",
+          "pos": "n."
+        },
+        {
+          "en": "rattlesnake",
+          "zh": "n. 响尾蛇",
+          "pos": "n."
+        },
+        {
+          "en": "raucous",
+          "zh": "adj. 沙哑的；喧嚣的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "raven",
+          "zh": "n. 大乌鸦",
+          "pos": "n."
+        },
+        {
+          "en": "ravine",
+          "zh": "n. 沟壑，峡谷",
+          "pos": "n."
+        },
+        {
+          "en": "ray",
+          "zh": "n. 光线",
+          "pos": "n."
+        },
+        {
+          "en": "rayon",
+          "zh": "n. 人造丝, 人造纤维",
+          "pos": "n."
+        },
+        {
+          "en": "tray",
+          "zh": "n. 碟，盘子",
+          "pos": "n."
+        },
+        {
+          "en": "spray",
+          "zh": "vt. 喷射，喷溅",
+          "pos": "vt."
+        },
+        {
+          "en": "raze",
+          "zh": "vt. 夷为平地",
+          "pos": "vt."
+        },
+        {
+          "en": "craze",
+          "zh": "n. 狂热",
+          "pos": "n."
+        },
+        {
+          "en": "readily",
+          "zh": "adv. 容易地；欣然地，立刻地",
+          "pos": "adv."
+        },
+        {
+          "en": "readjust",
+          "zh": "vt. 重新调整",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "realization",
+          "zh": "n. 实现；意识",
+          "pos": "n."
+        },
+        {
+          "en": "realm",
+          "zh": "n. 王国，领域",
+          "pos": "n."
+        },
+        {
+          "en": "reap",
+          "zh": "vt. 收割，收获",
+          "pos": "vt."
+        },
+        {
+          "en": "rear",
+          "zh": "vt. 培养，饲养",
+          "pos": "vt."
+        },
+        {
+          "en": "rebel",
+          "zh": "n. 叛徒",
+          "pos": "n."
+        },
+        {
+          "en": "recognize",
+          "zh": "vt. 识别，辨认",
+          "pos": "vt."
+        },
+        {
+          "en": "rebellion",
+          "zh": "n. 谋反，叛乱",
+          "pos": "n."
+        },
+        {
+          "en": "rebellious",
+          "zh": "adj. 造反的，反叛的",
+          "pos": "adj."
+        },
+        {
+          "en": "rebuke",
+          "zh": "vt. 斥责，谴责",
+          "pos": "vt."
+        },
+        {
+          "en": "recall",
+          "zh": "vt. 忆起，记忆",
+          "pos": "vt."
+        },
+        {
+          "en": "receptacle",
+          "zh": "n. 容器；贮藏所，仓库",
+          "pos": "n."
+        },
+        {
+          "en": "reception",
+          "zh": "n. 接待；招待会",
+          "pos": "n."
+        },
+        {
+          "en": "receptionist",
+          "zh": "n. 招待员",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "receptive",
+          "zh": "adj. 善于接受的，能接纳的",
+          "pos": "adj."
+        },
+        {
+          "en": "receptor",
+          "zh": "n. 接受器，感受器",
+          "pos": "n."
+        },
+        {
+          "en": "recession",
+          "zh": "n. 萧条时期，（经济）衰退",
+          "pos": "n."
+        },
+        {
+          "en": "recipe",
+          "zh": "n. 食谱，处方",
+          "pos": "n."
+        },
+        {
+          "en": "recipient",
+          "zh": "n. 接受者，接收方",
+          "pos": "n."
+        },
+        {
+          "en": "recital",
+          "zh": "n. 独奏会",
+          "pos": "n."
+        },
+        {
+          "en": "reckless",
+          "zh": "n. 轻率的，鲁莽的",
+          "pos": "n."
+        },
+        {
+          "en": "reckon",
+          "zh": "vt. 计算；估计，猜想",
+          "pos": "vt."
+        },
+        {
+          "en": "reclaim",
+          "zh": "vt. 开垦；要求归还，收回",
+          "pos": "vt."
+        },
+        {
+          "en": "recognize",
+          "zh": "vt. 识别，辨认",
+          "pos": "vt."
+        },
+        {
+          "en": "recognition",
+          "zh": "n. 赞誉，承认",
+          "pos": "n."
+        },
+        {
+          "en": "recollection",
+          "zh": "n. 回忆，记忆",
+          "pos": "n."
+        },
+        {
+          "en": "recommendation",
+          "zh": "n. 推荐，介绍（信）",
+          "pos": "n."
+        },
+        {
+          "en": "reconstruct",
+          "zh": "vt. 重建，改进",
+          "pos": "vt."
+        },
+        {
+          "en": "reconstruction",
+          "zh": "n. 复兴，改造，再建",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

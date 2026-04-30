@@ -1,0 +1,304 @@
+{
+  "day": 49,
+  "title": "Day 049 · individualism → insistence",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "inextricably",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Viper Spawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "individualism",
+          "zh": "n. 个人主义",
+          "pos": "n."
+        },
+        {
+          "en": "induce",
+          "zh": "vt. 诱使，促使；导致",
+          "pos": "vt."
+        },
+        {
+          "en": "inducible",
+          "zh": "adj. 可诱导的",
+          "pos": "adj."
+        },
+        {
+          "en": "industrial",
+          "zh": "adj. 工业的",
+          "pos": "adj."
+        },
+        {
+          "en": "industrialization",
+          "zh": "n. 工业化",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "industrialized",
+          "zh": "vt. 工业化的",
+          "pos": "vt."
+        },
+        {
+          "en": "industrious",
+          "zh": "adj. 勤勉的",
+          "pos": "adj."
+        },
+        {
+          "en": "ineligible",
+          "zh": "adj. 无资格的；不适当的",
+          "pos": "adj."
+        },
+        {
+          "en": "inert",
+          "zh": "adj. 惰性的；不活泼的",
+          "pos": "adj."
+        },
+        {
+          "en": "inevitably",
+          "zh": "adv. 不可避免地，必然地",
+          "pos": "adv."
+        },
+        {
+          "en": "inextricably",
+          "zh": "adv. 无法摆脱地",
+          "pos": "adv."
+        },
+        {
+          "en": "infection",
+          "zh": "n. 传染（病）",
+          "pos": "n."
+        },
+        {
+          "en": "infectious",
+          "zh": "adj. 传染性的，易传染的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "inferior",
+          "zh": "adj. （等级、社会地位、质量等）差的；（较）低的",
+          "pos": "adj."
+        },
+        {
+          "en": "inferiority",
+          "zh": "n. 自卑感",
+          "pos": "n."
+        },
+        {
+          "en": "infest",
+          "zh": "vt. 骚扰，大批滋生",
+          "pos": "vt."
+        },
+        {
+          "en": "infiltrate",
+          "zh": "vt. 使透过，渗透",
+          "pos": "vt."
+        },
+        {
+          "en": "inflate",
+          "zh": "vt. 使膨胀，使充气",
+          "pos": "vt."
+        },
+        {
+          "en": "inflation",
+          "zh": "n. 通货膨胀",
+          "pos": "n."
+        },
+        {
+          "en": "inflexible",
+          "zh": "adj. 坚定的",
+          "pos": "adj."
+        },
+        {
+          "en": "inflict",
+          "zh": "vt. 造成；(使)遭受(痛苦、损伤等)",
+          "pos": "vt."
+        },
+        {
+          "en": "influential",
+          "zh": "adj. 有影响的；有权势的",
+          "pos": "adj."
+        },
+        {
+          "en": "influenza",
+          "zh": "n. 流行性感冒",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "informed",
+          "zh": "adj. 受过教育的，见多识广的",
+          "pos": "adj."
+        },
+        {
+          "en": "inextricably",
+          "zh": "adv. 无法摆脱地",
+          "pos": "adv."
+        },
+        {
+          "en": "infuse",
+          "zh": "vt. 注入，灌输",
+          "pos": "vt."
+        },
+        {
+          "en": "ingenious",
+          "zh": "adj. 机灵的，有独创性的",
+          "pos": "adj."
+        },
+        {
+          "en": "ingeniously",
+          "zh": "adv. 天才地，独创地",
+          "pos": "adv."
+        },
+        {
+          "en": "ingredient",
+          "zh": "n. 配料，成份",
+          "pos": "n."
+        },
+        {
+          "en": "inhabit",
+          "zh": "vt. 居住于，栖息于",
+          "pos": "vt."
+        },
+        {
+          "en": "inhabitant",
+          "zh": "n. 居民，住户",
+          "pos": "n."
+        },
+        {
+          "en": "inherent",
+          "zh": "adj. 固有的，内在的",
+          "pos": "adj."
+        },
+        {
+          "en": "inherit",
+          "zh": "vt. 继承",
+          "pos": "vt."
+        },
+        {
+          "en": "inheritance",
+          "zh": "n. 遗产",
+          "pos": "n."
+        },
+        {
+          "en": "inhibit",
+          "zh": "vt. 抑制；阻止",
+          "pos": "vt."
+        },
+        {
+          "en": "initiate",
+          "zh": "vt. 开始，发起",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "initial",
+          "zh": "adj. 最初的，初始的",
+          "pos": "adj."
+        },
+        {
+          "en": "initially",
+          "zh": "adv. 最初，开头",
+          "pos": "adv."
+        },
+        {
+          "en": "inject",
+          "zh": "vt. 注射；注入，灌溉",
+          "pos": "vt."
+        },
+        {
+          "en": "innate",
+          "zh": "adj. 先天的，天生的",
+          "pos": "adj."
+        },
+        {
+          "en": "innermost",
+          "zh": "adj. 最里面的；内心的，秘密的",
+          "pos": "adj."
+        },
+        {
+          "en": "innocent",
+          "zh": "adj. 无辜的，清白的；天真的",
+          "pos": "adj."
+        },
+        {
+          "en": "innovation",
+          "zh": "n. 改革，创新",
+          "pos": "n."
+        },
+        {
+          "en": "innovative",
+          "zh": "adj. 创新的，革新的",
+          "pos": "adj."
+        },
+        {
+          "en": "innumerable",
+          "zh": "adj. 无数的，数不清的",
+          "pos": "adj."
+        },
+        {
+          "en": "inquiry",
+          "zh": "n. 质问；调查",
+          "pos": "n."
+        },
+        {
+          "en": "insanity",
+          "zh": "n. 精神错乱，疯狂",
+          "pos": "n."
+        },
+        {
+          "en": "insert",
+          "zh": "vt. 插入",
+          "pos": "vt."
+        },
+        {
+          "en": "insight",
+          "zh": "n. 洞察力，见识",
+          "pos": "n."
+        },
+        {
+          "en": "insist",
+          "zh": "vt. 坚持认为；坚决主张",
+          "pos": "vt."
+        },
+        {
+          "en": "insistence",
+          "zh": "n. 坚持",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

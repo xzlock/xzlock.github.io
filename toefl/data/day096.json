@@ -1,0 +1,304 @@
+{
+  "day": 96,
+  "title": "Day 096 · veil → vision",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "venom",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Sova Scout",
+      "hp": 100,
+      "words": [
+        {
+          "en": "veil",
+          "zh": "vt. 隐藏，遮蔽 n. 面纱",
+          "pos": "vt."
+        },
+        {
+          "en": "vein",
+          "zh": "n. 静脉",
+          "pos": "n."
+        },
+        {
+          "en": "veining",
+          "zh": "n. 脉络分布；矿脉",
+          "pos": "n."
+        },
+        {
+          "en": "velocity",
+          "zh": "n. 速度；速率",
+          "pos": "n."
+        },
+        {
+          "en": "venerable",
+          "zh": "adj. 值得尊敬的，庄严的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Jett Blitz",
+      "hp": 150,
+      "words": [
+        {
+          "en": "veneration",
+          "zh": "n. 尊敬, 崇拜",
+          "pos": "n."
+        },
+        {
+          "en": "venom",
+          "zh": "n. (蛇的)毒液",
+          "pos": "n."
+        },
+        {
+          "en": "venomous",
+          "zh": "adj. 有毒的",
+          "pos": "adj."
+        },
+        {
+          "en": "vent",
+          "zh": "n. 通风孔；出烟孔",
+          "pos": "n."
+        },
+        {
+          "en": "ventilate",
+          "zh": "vt. 使通风",
+          "pos": "vt."
+        },
+        {
+          "en": "ventilation",
+          "zh": "n. 通风",
+          "pos": "n."
+        },
+        {
+          "en": "venture",
+          "zh": "n. 冒险（事业），投机活动",
+          "pos": "n."
+        },
+        {
+          "en": "venturesome",
+          "zh": "adj. 好冒险的；（行为）冒险的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "venue",
+          "zh": "n. 地点；会场",
+          "pos": "n."
+        },
+        {
+          "en": "avenue",
+          "zh": "n. 林荫道, 大街",
+          "pos": "n."
+        },
+        {
+          "en": "verbal",
+          "zh": "adj. 口头的",
+          "pos": "adj."
+        },
+        {
+          "en": "nonverbal",
+          "zh": "adj. 不用语言的",
+          "pos": "adj."
+        },
+        {
+          "en": "verify",
+          "zh": "vt. 证明，证实",
+          "pos": "vt."
+        },
+        {
+          "en": "versatile",
+          "zh": "adj. 多才多艺的",
+          "pos": "adj."
+        },
+        {
+          "en": "verse",
+          "zh": "n. 诗，韵文",
+          "pos": "n."
+        },
+        {
+          "en": "version",
+          "zh": "n. 译本，译文",
+          "pos": "n."
+        },
+        {
+          "en": "vertical",
+          "zh": "adj. 垂直的，竖直的",
+          "pos": "adj."
+        },
+        {
+          "en": "vessel",
+          "zh": "n. 船",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "vestige",
+          "zh": "n. 痕迹，遗迹，残余",
+          "pos": "n."
+        },
+        {
+          "en": "veteran",
+          "zh": "n. 老兵；老手",
+          "pos": "n."
+        },
+        {
+          "en": "venom",
+          "zh": "n. (蛇的)毒液",
+          "pos": "n."
+        },
+        {
+          "en": "veto",
+          "zh": "n. 否决；否决权",
+          "pos": "n."
+        },
+        {
+          "en": "viable",
+          "zh": "adj. 可行的，切实可行的",
+          "pos": "adj."
+        },
+        {
+          "en": "vibrant",
+          "zh": "adj. 活泼的；生气勃勃的",
+          "pos": "adj."
+        },
+        {
+          "en": "vibrate",
+          "zh": "v. 颤动，震动",
+          "pos": "v."
+        },
+        {
+          "en": "vibration",
+          "zh": "n. 振动，颤动",
+          "pos": "n."
+        },
+        {
+          "en": "vicinity",
+          "zh": "n. 附近，接近",
+          "pos": "n."
+        },
+        {
+          "en": "victor",
+          "zh": "n. 胜利者；获胜者",
+          "pos": "n."
+        },
+        {
+          "en": "victory",
+          "zh": "n. 胜利，战胜",
+          "pos": "n."
+        },
+        {
+          "en": "victorious",
+          "zh": "adj. 获胜的，胜利的",
+          "pos": "adj."
+        },
+        {
+          "en": "vie",
+          "zh": "v. 竞争",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "vigilance",
+          "zh": "n. 警戒，警惕",
+          "pos": "n."
+        },
+        {
+          "en": "vigor",
+          "zh": "n. 精力，活力",
+          "pos": "n."
+        },
+        {
+          "en": "vigorous",
+          "zh": "adj. 健壮的，精力旺盛的；有力的",
+          "pos": "adj."
+        },
+        {
+          "en": "vine",
+          "zh": "n. 葡萄藤，蔓",
+          "pos": "n."
+        },
+        {
+          "en": "violence",
+          "zh": "n. 暴力，强暴",
+          "pos": "n."
+        },
+        {
+          "en": "nonviolence",
+          "zh": "n. 非暴力",
+          "pos": "n."
+        },
+        {
+          "en": "violent",
+          "zh": "adj. 暴力引起的，暴烈的",
+          "pos": "adj."
+        },
+        {
+          "en": "viral",
+          "zh": "adj. 病毒的",
+          "pos": "adj."
+        },
+        {
+          "en": "virus",
+          "zh": "n. [微]病毒",
+          "pos": "n."
+        },
+        {
+          "en": "virtue",
+          "zh": "n. 美德",
+          "pos": "n."
+        },
+        {
+          "en": "virtually",
+          "zh": "adv. 事实上，实质上",
+          "pos": "adv."
+        },
+        {
+          "en": "victuosity",
+          "zh": "n. 艺术鉴别力",
+          "pos": "n."
+        },
+        {
+          "en": "viscosity",
+          "zh": "n. 粘度，粘性",
+          "pos": "n."
+        },
+        {
+          "en": "viscous",
+          "zh": "adj. 粘滞的，粘性的",
+          "pos": "adj."
+        },
+        {
+          "en": "vision",
+          "zh": "n. 视觉",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

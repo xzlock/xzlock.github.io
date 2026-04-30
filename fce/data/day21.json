@@ -1,0 +1,304 @@
+{
+  "day": 21,
+  "title": "Day 21 · hone → impersonal",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "hover",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Neon Flicker",
+      "hp": 100,
+      "words": [
+        {
+          "en": "hone",
+          "zh": "\"n. 磨刀石；想念；抱怨",
+          "pos": "n."
+        },
+        {
+          "en": "honest",
+          "zh": "adj. 诚实的，实在的；可靠的；坦率的",
+          "pos": "adj."
+        },
+        {
+          "en": "hook",
+          "zh": "\"n. 挂钩，吊钩",
+          "pos": "n."
+        },
+        {
+          "en": "hop",
+          "zh": "\"vt. 搭乘",
+          "pos": "vt."
+        },
+        {
+          "en": "hope",
+          "zh": "\"n. 希望；期望；信心",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Iso Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "horizon",
+          "zh": "n. 地平线；视野；眼界；范围",
+          "pos": "n."
+        },
+        {
+          "en": "horrendously",
+          "zh": "adv. 骇人听闻地；可怕地",
+          "pos": "adv."
+        },
+        {
+          "en": "horrible",
+          "zh": "adj. 可怕的；极讨厌的",
+          "pos": "adj."
+        },
+        {
+          "en": "horrified",
+          "zh": "\"adj. 惊骇的；带有恐怖感的",
+          "pos": "adj."
+        },
+        {
+          "en": "hospitality",
+          "zh": "n. 好客；殷勤",
+          "pos": "n."
+        },
+        {
+          "en": "hot",
+          "zh": "\"adj. 热的；辣的；热情的；激动的；紧迫的",
+          "pos": "adj."
+        },
+        {
+          "en": "household",
+          "zh": "\"n. 全家人，一家人；(包括佣工在内的)家庭，户",
+          "pos": "n."
+        },
+        {
+          "en": "housework",
+          "zh": "n. 家务事",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "hover",
+          "zh": "\"n. 徘徊；盘旋；犹豫",
+          "pos": "n."
+        },
+        {
+          "en": "however",
+          "zh": "\"conj. 无论以何种方式; 不管怎样",
+          "pos": "conj."
+        },
+        {
+          "en": "howl",
+          "zh": "\"n. 嗥叫；怒号；嚎哭",
+          "pos": "n."
+        },
+        {
+          "en": "howling",
+          "zh": "\"n. 啸鸣",
+          "pos": "n."
+        },
+        {
+          "en": "huge",
+          "zh": "adj. 巨大的；庞大的；无限的",
+          "pos": "adj."
+        },
+        {
+          "en": "hum",
+          "zh": "\"n. 嗡嗡声；哼声；杂声",
+          "pos": "n."
+        },
+        {
+          "en": "human",
+          "zh": "\"n. 人；人类",
+          "pos": "n."
+        },
+        {
+          "en": "humid",
+          "zh": "adj. 潮湿的；湿润的；多湿气的",
+          "pos": "adj."
+        },
+        {
+          "en": "humorous",
+          "zh": "adj. 诙谐的，幽默的；滑稽的，可笑的",
+          "pos": "adj."
+        },
+        {
+          "en": "hunger",
+          "zh": "\"n. 饿，饥饿；渴望",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "hunt",
+          "zh": "\"n. 狩猎；搜寻",
+          "pos": "n."
+        },
+        {
+          "en": "hurdle",
+          "zh": "\"n. 障碍；栏；跳栏",
+          "pos": "n."
+        },
+        {
+          "en": "hurl",
+          "zh": "\"n. 用力的投掷",
+          "pos": "n."
+        },
+        {
+          "en": "hurry",
+          "zh": "\"n. 匆忙，急忙",
+          "pos": "n."
+        },
+        {
+          "en": "hurt",
+          "zh": "\"n. 痛苦；危害；痛苦的原因",
+          "pos": "n."
+        },
+        {
+          "en": "hurtle",
+          "zh": "\"n. 碰撞；猛冲",
+          "pos": "n."
+        },
+        {
+          "en": "hysterical",
+          "zh": "adj. 歇斯底里的；异常兴奋的",
+          "pos": "adj."
+        },
+        {
+          "en": "idea",
+          "zh": "n. 想法；主意；概念",
+          "pos": "n."
+        },
+        {
+          "en": "ideal",
+          "zh": "\"n. 理想；典范",
+          "pos": "n."
+        },
+        {
+          "en": "identical",
+          "zh": "\"n. 完全相同的事物",
+          "pos": "n."
+        },
+        {
+          "en": "identify",
+          "zh": "vt. 确定；鉴定；识别，辨认出；使参与；把…看成一样 vi. 确定；认同；一致",
+          "pos": "vt."
+        },
+        {
+          "en": "idiom",
+          "zh": "n. 成语，习语；土话",
+          "pos": "n."
+        },
+        {
+          "en": "hover",
+          "zh": "\"n. 徘徊；盘旋；犹豫",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "ignite",
+          "zh": "\"vt. 点燃；使燃烧；使激动",
+          "pos": "vt."
+        },
+        {
+          "en": "ignore",
+          "zh": "vt. 驳回诉讼；忽视；不理睬",
+          "pos": "vt."
+        },
+        {
+          "en": "illegal",
+          "zh": "\"n. 非法移民，非法劳工",
+          "pos": "n."
+        },
+        {
+          "en": "illuminate",
+          "zh": "\"vt. 阐明，说明；照亮；使灿烂；用灯装饰",
+          "pos": "vt."
+        },
+        {
+          "en": "illustrate",
+          "zh": "\"vi. 举例",
+          "pos": "vi."
+        },
+        {
+          "en": "image",
+          "zh": "\"n. 影像；想象；肖像；偶像",
+          "pos": "n."
+        },
+        {
+          "en": "imagine",
+          "zh": "\"vi. 想像；猜想；想像起来",
+          "pos": "vi."
+        },
+        {
+          "en": "imitate",
+          "zh": "vt. 模仿，仿效；仿造，仿制",
+          "pos": "vt."
+        },
+        {
+          "en": "immediate",
+          "zh": "adj. 立即的；直接的；最接近的",
+          "pos": "adj."
+        },
+        {
+          "en": "immense",
+          "zh": "adj. 巨大的，广大的；无边无际的；非常好的",
+          "pos": "adj."
+        },
+        {
+          "en": "immerse",
+          "zh": "vt. 沉浸；使陷入",
+          "pos": "vt."
+        },
+        {
+          "en": "immigrate",
+          "zh": "\"vi. 移入",
+          "pos": "vi."
+        },
+        {
+          "en": "impact",
+          "zh": "\"vi. 影响；撞击；冲突；压紧（on，upon，with）",
+          "pos": "vi."
+        },
+        {
+          "en": "impatient",
+          "zh": "adj. 焦躁的；不耐心的",
+          "pos": "adj."
+        },
+        {
+          "en": "impersonal",
+          "zh": "\"n. 非人称动词；不具人格的事物",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

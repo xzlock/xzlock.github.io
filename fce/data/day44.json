@@ -1,0 +1,304 @@
+{
+  "day": 44,
+  "title": "Day 44 · swerve → tidy",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "thief",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Harbor Drop",
+      "hp": 100,
+      "words": [
+        {
+          "en": "swerve",
+          "zh": "\"vt. 使转弯；使突然转向；使背离",
+          "pos": "vt."
+        },
+        {
+          "en": "swirl",
+          "zh": "\"n. 漩涡；打旋；涡状形",
+          "pos": "n."
+        },
+        {
+          "en": "switch",
+          "zh": "\"n. 开关；转换；鞭子",
+          "pos": "n."
+        },
+        {
+          "en": "symbol",
+          "zh": "n. 象征；符号；标志",
+          "pos": "n."
+        },
+        {
+          "en": "sympathy",
+          "zh": "n. 同情；慰问；赞同",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Clove Dash",
+      "hp": 150,
+      "words": [
+        {
+          "en": "symptom",
+          "zh": "n. 症状；征兆",
+          "pos": "n."
+        },
+        {
+          "en": "system",
+          "zh": "n. 制度，体制；系统；方法",
+          "pos": "n."
+        },
+        {
+          "en": "tackle",
+          "zh": "\"n. 滑车；装备；用具；扭倒",
+          "pos": "n."
+        },
+        {
+          "en": "take",
+          "zh": "\"vi. 拿；获得",
+          "pos": "vi."
+        },
+        {
+          "en": "talent",
+          "zh": "n. 才能；天才；天资",
+          "pos": "n."
+        },
+        {
+          "en": "talk",
+          "zh": "\"n. 谈话；演讲；空谈",
+          "pos": "n."
+        },
+        {
+          "en": "tap",
+          "zh": "\"n. 水龙头；轻打",
+          "pos": "n."
+        },
+        {
+          "en": "target",
+          "zh": "\"n. 目标；靶子",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "taste",
+          "zh": "\"n. 味道；品味；审美",
+          "pos": "n."
+        },
+        {
+          "en": "tasty-looking",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "tax",
+          "zh": "\"n. 税金；重负",
+          "pos": "n."
+        },
+        {
+          "en": "tear",
+          "zh": "\"vi. 流泪, 撕破",
+          "pos": "vi."
+        },
+        {
+          "en": "technical",
+          "zh": "adj. 工艺的，科技的；技术上的；专门的",
+          "pos": "adj."
+        },
+        {
+          "en": "technique",
+          "zh": "n. 技巧，技术；手法",
+          "pos": "n."
+        },
+        {
+          "en": "technology",
+          "zh": "n. 技术；工艺；术语",
+          "pos": "n."
+        },
+        {
+          "en": "tedious",
+          "zh": "adj. 沉闷的；冗长乏味的",
+          "pos": "adj."
+        },
+        {
+          "en": "tell",
+          "zh": "\"vt. 告诉，说；辨别；吩咐；断定",
+          "pos": "vt."
+        },
+        {
+          "en": "temper",
+          "zh": "\"n. 脾气；（钢等）回火；性情；倾向",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "temporary",
+          "zh": "\"n. 临时工，临时雇员",
+          "pos": "n."
+        },
+        {
+          "en": "tempt",
+          "zh": "vt. 诱惑；引起；冒…的风险；使感兴趣",
+          "pos": "vt."
+        },
+        {
+          "en": "tend",
+          "zh": "\"vt. 照料，照管",
+          "pos": "vt."
+        },
+        {
+          "en": "thief",
+          "zh": "n. 小偷，贼",
+          "pos": "n."
+        },
+        {
+          "en": "tension",
+          "zh": "\"n. 张力，拉力；紧张，不安；电压",
+          "pos": "n."
+        },
+        {
+          "en": "tentatively",
+          "zh": "adv. 暂时地；试验性地",
+          "pos": "adv."
+        },
+        {
+          "en": "terrify",
+          "zh": "vt. 恐吓；使恐怖；使害怕",
+          "pos": "vt."
+        },
+        {
+          "en": "territory",
+          "zh": "n. 领土，领域；范围；地域；版图",
+          "pos": "n."
+        },
+        {
+          "en": "thank",
+          "zh": "\"n. 感谢",
+          "pos": "n."
+        },
+        {
+          "en": "theft",
+          "zh": "n. 盗窃；偷；赃物",
+          "pos": "n."
+        },
+        {
+          "en": "theme",
+          "zh": "\"n. 主题；主旋律；题目",
+          "pos": "n."
+        },
+        {
+          "en": "theoretically",
+          "zh": "adv. 理论地；理论上",
+          "pos": "adv."
+        },
+        {
+          "en": "therefore",
+          "zh": "adv. 因此；所以",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "thick",
+          "zh": "\"n. 最拥挤部分；活动最多部分；事物的粗大浓密部分",
+          "pos": "n."
+        },
+        {
+          "en": "thief",
+          "zh": "n. 小偷，贼",
+          "pos": "n."
+        },
+        {
+          "en": "thing",
+          "zh": "n. 事情；东西；事物；情况",
+          "pos": "n."
+        },
+        {
+          "en": "think",
+          "zh": "\"n. 想；想法",
+          "pos": "n."
+        },
+        {
+          "en": "thought",
+          "zh": "\"n. 思想；思考；想法；关心",
+          "pos": "n."
+        },
+        {
+          "en": "thrall",
+          "zh": "\"n. 奴隶；束缚",
+          "pos": "n."
+        },
+        {
+          "en": "threat",
+          "zh": "n. 威胁，恐吓；凶兆",
+          "pos": "n."
+        },
+        {
+          "en": "thrill",
+          "zh": "\"n. 激动；震颤；紧张",
+          "pos": "n."
+        },
+        {
+          "en": "thrive",
+          "zh": "vi. 繁荣，兴旺；茁壮成长",
+          "pos": "vi."
+        },
+        {
+          "en": "throughout",
+          "zh": "\"prep. 贯穿，遍及",
+          "pos": "prep."
+        },
+        {
+          "en": "throw away",
+          "zh": "\"na. 抛弃；浪费；拒绝(劝告)；失去(机会)",
+          "pos": ""
+        },
+        {
+          "en": "throwaway",
+          "zh": "\"n. 废品；广告传单；脱口而出的话",
+          "pos": "n."
+        },
+        {
+          "en": "throw off",
+          "zh": "\"na. 摆脱(习惯,拘束等)；抛弃；脱掉(衣服)；甩掉",
+          "pos": ""
+        },
+        {
+          "en": "tick all the boxes",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "tidy",
+          "zh": "\"n. 椅子的背罩",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

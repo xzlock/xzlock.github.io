@@ -1,0 +1,304 @@
+{
+  "day": 35,
+  "title": "Day 35 · reappear → remain",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "recycle",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Deadlock Wire",
+      "hp": 100,
+      "words": [
+        {
+          "en": "reappear",
+          "zh": "vi. 再出现",
+          "pos": "vi."
+        },
+        {
+          "en": "reason",
+          "zh": "\"n. 理由；理性；动机",
+          "pos": "n."
+        },
+        {
+          "en": "reasonable",
+          "zh": "adj. 合理的，公道的；通情达理的",
+          "pos": "adj."
+        },
+        {
+          "en": "rebel",
+          "zh": "\"n. 反叛者；叛徒",
+          "pos": "n."
+        },
+        {
+          "en": "receive",
+          "zh": "\"vt. 收到；接待；接纳",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "recent",
+          "zh": "adj. 最近的；近代的",
+          "pos": "adj."
+        },
+        {
+          "en": "reception",
+          "zh": "n. 接待；接收；招待会；感受；反应",
+          "pos": "n."
+        },
+        {
+          "en": "recharge",
+          "zh": "\"vt. 再充电；再袭击；再控告",
+          "pos": "vt."
+        },
+        {
+          "en": "recital",
+          "zh": "n. 朗诵，吟诵；独奏会；背诵；独唱会",
+          "pos": "n."
+        },
+        {
+          "en": "recite",
+          "zh": "\"vt. 背诵；叙述；列举",
+          "pos": "vt."
+        },
+        {
+          "en": "reckon",
+          "zh": "\"vi. 估计；计算；猜想，料想",
+          "pos": "vi."
+        },
+        {
+          "en": "recognize",
+          "zh": "\"vt. 认出，识别；承认",
+          "pos": "vt."
+        },
+        {
+          "en": "recollect",
+          "zh": "v. 回忆，想起",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Drone",
+      "hp": 200,
+      "words": [
+        {
+          "en": "recommend",
+          "zh": "\"vt. 推荐，介绍；劝告；使受欢迎；托付",
+          "pos": "vt."
+        },
+        {
+          "en": "record",
+          "zh": "\"n. 档案，履历；唱片；最高纪录",
+          "pos": "n."
+        },
+        {
+          "en": "recover",
+          "zh": "\"n. 还原至预备姿势",
+          "pos": "n."
+        },
+        {
+          "en": "recreational",
+          "zh": "adj. 娱乐的，消遣的；休养的",
+          "pos": "adj."
+        },
+        {
+          "en": "recruit",
+          "zh": "\"n. 招聘；新兵；新成员",
+          "pos": "n."
+        },
+        {
+          "en": "recycle",
+          "zh": "\"n. 再生；再循环；重复利用",
+          "pos": "n."
+        },
+        {
+          "en": "redesign",
+          "zh": "\"n. 重新设计；新设计",
+          "pos": "n."
+        },
+        {
+          "en": "reduce",
+          "zh": "\"vi. 减少；缩小；归纳为",
+          "pos": "vi."
+        },
+        {
+          "en": "redundant",
+          "zh": "adj. 多余的，过剩的；被解雇的，失业的；冗长的，累赘的",
+          "pos": "adj."
+        },
+        {
+          "en": "refer",
+          "zh": "\"vt. 涉及；委托；归诸于；使…求助于",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Clove Revive",
+      "hp": 250,
+      "words": [
+        {
+          "en": "reference",
+          "zh": "\"n. 参考，参照；涉及，提及；参考书目；介绍信；证明书",
+          "pos": "n."
+        },
+        {
+          "en": "reflect",
+          "zh": "\"vt. 反映；反射，照出；表达；显示;反省",
+          "pos": "vt."
+        },
+        {
+          "en": "refresh",
+          "zh": "\"vt. 更新；使……恢复；使……清新；消除……的疲劳",
+          "pos": "vt."
+        },
+        {
+          "en": "refrigeration",
+          "zh": "n. 制冷；冷藏； 冷却",
+          "pos": "n."
+        },
+        {
+          "en": "refuse",
+          "zh": "\"n. 垃圾；废物",
+          "pos": "n."
+        },
+        {
+          "en": "regard",
+          "zh": "\"n. 注意；尊重；问候；凝视",
+          "pos": "n."
+        },
+        {
+          "en": "recycle",
+          "zh": "\"n. 再生；再循环；重复利用",
+          "pos": "n."
+        },
+        {
+          "en": "region",
+          "zh": "n. 地区；范围；部位",
+          "pos": "n."
+        },
+        {
+          "en": "registration",
+          "zh": "n. 登记；注册；挂号",
+          "pos": "n."
+        },
+        {
+          "en": "regret",
+          "zh": "\"n. 遗憾；抱歉；悲叹",
+          "pos": "n."
+        },
+        {
+          "en": "regular",
+          "zh": "\"n. 常客；正式队员；中坚分子",
+          "pos": "n."
+        },
+        {
+          "en": "regulate",
+          "zh": "vt. 调节，规定；控制；校准；有系统的管理",
+          "pos": "vt."
+        },
+        {
+          "en": "rehearse",
+          "zh": "\"vt. 排练；预演",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "reinforce",
+          "zh": "\"n. 加强；加固物；加固材料",
+          "pos": "n."
+        },
+        {
+          "en": "reintroduce",
+          "zh": "vt. 再引入；再提出；再介绍",
+          "pos": "vt."
+        },
+        {
+          "en": "reject",
+          "zh": "\"n. 被弃之物或人；次品",
+          "pos": "n."
+        },
+        {
+          "en": "relate",
+          "zh": "\"vt. 叙述；使…有联系",
+          "pos": "vt."
+        },
+        {
+          "en": "relative",
+          "zh": "\"n. 亲戚；相关物； 关系词；亲缘植物",
+          "pos": "n."
+        },
+        {
+          "en": "relax",
+          "zh": "\"vi. 放松，休息；松懈，松弛；变从容；休养",
+          "pos": "vi."
+        },
+        {
+          "en": "release",
+          "zh": "\"n. 释放；发布；让与",
+          "pos": "n."
+        },
+        {
+          "en": "relevant",
+          "zh": "adj. 相关的；切题的；中肯的；有重大关系的；有意义的，目的明确的",
+          "pos": "adj."
+        },
+        {
+          "en": "relief",
+          "zh": "n. 救济；减轻，解除；安慰；浮雕",
+          "pos": "n."
+        },
+        {
+          "en": "relieve",
+          "zh": "vt. 解除，减轻；使不单调乏味；换…的班；解围；使放心",
+          "pos": "vt."
+        },
+        {
+          "en": "relieved",
+          "zh": "\"v. 减轻；解除（relieve的过去分词）",
+          "pos": "v."
+        },
+        {
+          "en": "relish",
+          "zh": "\"n. 滋味；风味；食欲；开胃小菜；含义；调味品",
+          "pos": "n."
+        },
+        {
+          "en": "relive",
+          "zh": "\"vt. 再体验",
+          "pos": "vt."
+        },
+        {
+          "en": "rely",
+          "zh": "vi. 依靠；信赖",
+          "pos": "vi."
+        },
+        {
+          "en": "remain",
+          "zh": "\"n. 遗迹；剩余物，残骸",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

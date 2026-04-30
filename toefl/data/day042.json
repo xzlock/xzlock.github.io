@@ -1,0 +1,304 @@
+{
+  "day": 42,
+  "title": "Day 042 · furnish → glassware",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "germ",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Chamber Pawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "furnish",
+          "zh": "vt. 装备；提供",
+          "pos": "vt."
+        },
+        {
+          "en": "furnishing",
+          "zh": "n. （家庭中包含家具及其他）设备的总称",
+          "pos": "n."
+        },
+        {
+          "en": "furniture",
+          "zh": "n. 家具",
+          "pos": "n."
+        },
+        {
+          "en": "furry",
+          "zh": "adj. 毛皮的；盖着皮毛的",
+          "pos": "adj."
+        },
+        {
+          "en": "further",
+          "zh": "vt. 促进，增进",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Skye Falcon",
+      "hp": 150,
+      "words": [
+        {
+          "en": "fuse",
+          "zh": "v. 熔合",
+          "pos": "v."
+        },
+        {
+          "en": "fused",
+          "zh": "adj. 熔合在一起的",
+          "pos": "adj."
+        },
+        {
+          "en": "fusion",
+          "zh": "n. 核聚变",
+          "pos": "n."
+        },
+        {
+          "en": "diffusion",
+          "zh": "n. 扩散，传播",
+          "pos": "n."
+        },
+        {
+          "en": "infusion",
+          "zh": "n. 灌输",
+          "pos": "n."
+        },
+        {
+          "en": "galaxy",
+          "zh": "n. 星系；银河",
+          "pos": "n."
+        },
+        {
+          "en": "gallant",
+          "zh": "adj. (对女子)殷勤的;勇敢的,英勇的",
+          "pos": "adj."
+        },
+        {
+          "en": "gallantry",
+          "zh": "n. 勇敢",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "gallery",
+          "zh": "n. 画廊，美术馆",
+          "pos": "n."
+        },
+        {
+          "en": "galvanize",
+          "zh": "vt. 通电流于；刺激，激起",
+          "pos": "vt."
+        },
+        {
+          "en": "galvanization",
+          "zh": "n. 镀锌；电镀",
+          "pos": "n."
+        },
+        {
+          "en": "gap",
+          "zh": "n. 裂口；缺口",
+          "pos": "n."
+        },
+        {
+          "en": "garb",
+          "zh": "n. 服装，装束",
+          "pos": "n."
+        },
+        {
+          "en": "garbage",
+          "zh": "n. 垃圾，废物",
+          "pos": "n."
+        },
+        {
+          "en": "gaseous",
+          "zh": "adj. 气体的，气态的",
+          "pos": "adj."
+        },
+        {
+          "en": "gasoline",
+          "zh": "n. 汽油",
+          "pos": "n."
+        },
+        {
+          "en": "gauge",
+          "zh": "v. 测量，计量；评价，估计",
+          "pos": "v."
+        },
+        {
+          "en": "gazette",
+          "zh": "n. 政府公报",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "gear",
+          "zh": "n. 齿轮，传动装置",
+          "pos": "n."
+        },
+        {
+          "en": "gem",
+          "zh": "n. 宝石，珠宝",
+          "pos": "n."
+        },
+        {
+          "en": "gemstone",
+          "zh": "n. 经雕琢的宝石",
+          "pos": "n."
+        },
+        {
+          "en": "generalize",
+          "zh": "vt. 归纳，概括",
+          "pos": "vt."
+        },
+        {
+          "en": "generalization",
+          "zh": "n. 概括",
+          "pos": "n."
+        },
+        {
+          "en": "generate",
+          "zh": "vt. 造成，产生",
+          "pos": "vt."
+        },
+        {
+          "en": "generous",
+          "zh": "adj. 慷慨的",
+          "pos": "adj."
+        },
+        {
+          "en": "genesis",
+          "zh": "n. 起源，产生",
+          "pos": "n."
+        },
+        {
+          "en": "genetic",
+          "zh": "adj. 遗传的，起源的",
+          "pos": "adj."
+        },
+        {
+          "en": "genetics",
+          "zh": "n. 遗传学",
+          "pos": "n."
+        },
+        {
+          "en": "germ",
+          "zh": "n. 细菌",
+          "pos": "n."
+        },
+        {
+          "en": "genetically",
+          "zh": "adv. 遗传上",
+          "pos": "adv."
+        },
+        {
+          "en": "genial",
+          "zh": "adj. 和蔼可亲的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "genre",
+          "zh": "n. 文学上的流派和体裁",
+          "pos": "n."
+        },
+        {
+          "en": "gentility",
+          "zh": "n. 有教养，文雅",
+          "pos": "n."
+        },
+        {
+          "en": "genuine",
+          "zh": "adj. 真正的，真实的；真诚的",
+          "pos": "adj."
+        },
+        {
+          "en": "germ",
+          "zh": "n. 细菌",
+          "pos": "n."
+        },
+        {
+          "en": "giant",
+          "zh": "n. 巨人，巨大的怪物",
+          "pos": "n."
+        },
+        {
+          "en": "gibe",
+          "zh": "vi. 嘲弄，讥笑",
+          "pos": "vi."
+        },
+        {
+          "en": "gigantic",
+          "zh": "adj. 巨大的",
+          "pos": "adj."
+        },
+        {
+          "en": "gilding",
+          "zh": "n. 贴金箔，镀金",
+          "pos": "n."
+        },
+        {
+          "en": "glacial",
+          "zh": "adj. 冰的，冰河的；冰冷的",
+          "pos": "adj."
+        },
+        {
+          "en": "glacier",
+          "zh": "n. 冰川",
+          "pos": "n."
+        },
+        {
+          "en": "glamorous",
+          "zh": "adj. 迷人的，富有魅力的",
+          "pos": "adj."
+        },
+        {
+          "en": "gland",
+          "zh": "n. 腺体",
+          "pos": "n."
+        },
+        {
+          "en": "glandular",
+          "zh": "adj. 腺体的",
+          "pos": "adj."
+        },
+        {
+          "en": "glare",
+          "zh": "n. 眩目的光",
+          "pos": "n."
+        },
+        {
+          "en": "glassware",
+          "zh": "n. 玻璃制品",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

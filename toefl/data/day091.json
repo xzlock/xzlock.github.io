@@ -1,0 +1,304 @@
+{
+  "day": 91,
+  "title": "Day 091 · terminal → tolerant",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "toe",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Iso Shard",
+      "hp": 100,
+      "words": [
+        {
+          "en": "terminal",
+          "zh": "n. 总站，终点站",
+          "pos": "n."
+        },
+        {
+          "en": "terminate",
+          "zh": "v. 停止，结束",
+          "pos": "v."
+        },
+        {
+          "en": "termination",
+          "zh": "n. 终止，结束",
+          "pos": "n."
+        },
+        {
+          "en": "terminology",
+          "zh": "n. 用辞，术语",
+          "pos": "n."
+        },
+        {
+          "en": "terminus",
+          "zh": "n. （火车、汽车）终点站",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "termite",
+          "zh": "n. 白蚁",
+          "pos": "n."
+        },
+        {
+          "en": "terrace",
+          "zh": "n. 梯田，台地；阳台",
+          "pos": "n."
+        },
+        {
+          "en": "terrain",
+          "zh": "n. 地势，地形",
+          "pos": "n."
+        },
+        {
+          "en": "terrestrial",
+          "zh": "adj. 地球（上）的；陆地的",
+          "pos": "adj."
+        },
+        {
+          "en": "terrify",
+          "zh": "vt. 使恐怖，使惊吓",
+          "pos": "vt."
+        },
+        {
+          "en": "terrifying",
+          "zh": "adj. 恐怖的",
+          "pos": "adj."
+        },
+        {
+          "en": "terribly",
+          "zh": "adv. 可怕地，十分",
+          "pos": "adv."
+        },
+        {
+          "en": "terrific",
+          "zh": "adj. 极好的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "textile",
+          "zh": "n. 纺织品",
+          "pos": "n."
+        },
+        {
+          "en": "texture",
+          "zh": "n. 质地；（材料等）结构",
+          "pos": "n."
+        },
+        {
+          "en": "textured",
+          "zh": "adj. 手摸时有感觉的, 有织纹的",
+          "pos": "adj."
+        },
+        {
+          "en": "thaw",
+          "zh": "n. 解冻",
+          "pos": "n."
+        },
+        {
+          "en": "theft",
+          "zh": "n. 偷窃",
+          "pos": "n."
+        },
+        {
+          "en": "theme",
+          "zh": "n. (谈话, 写作等的)题目, 主题",
+          "pos": "n."
+        },
+        {
+          "en": "theoretical",
+          "zh": "adj. 理论上的",
+          "pos": "adj."
+        },
+        {
+          "en": "thereby",
+          "zh": "adv. 因此，从而",
+          "pos": "adv."
+        },
+        {
+          "en": "therefore",
+          "zh": "adv. 因此，所以",
+          "pos": "adv."
+        },
+        {
+          "en": "thermal",
+          "zh": "adj. 热的, 热量的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "thesis",
+          "zh": "n. 论题，论文",
+          "pos": "n."
+        },
+        {
+          "en": "thigh",
+          "zh": "n. 大腿",
+          "pos": "n."
+        },
+        {
+          "en": "thorough",
+          "zh": "adj. 完全的，彻底的",
+          "pos": "adj."
+        },
+        {
+          "en": "thoughtful",
+          "zh": "adj. 体贴的，考虑周到的",
+          "pos": "adj."
+        },
+        {
+          "en": "thread",
+          "zh": "n. 线",
+          "pos": "n."
+        },
+        {
+          "en": "toe",
+          "zh": "n. 趾，脚趾，足尖",
+          "pos": "n."
+        },
+        {
+          "en": "threadlike",
+          "zh": "adj. 线状的",
+          "pos": "adj."
+        },
+        {
+          "en": "threaten",
+          "zh": "vt. 威胁；预示…的凶兆，可能来临",
+          "pos": "vt."
+        },
+        {
+          "en": "threateningly",
+          "zh": "adv. 胁迫地",
+          "pos": "adv."
+        },
+        {
+          "en": "three-dimensional",
+          "zh": "adj. 三维的, 立体的",
+          "pos": "adj."
+        },
+        {
+          "en": "threshold",
+          "zh": "n. 开始，开端",
+          "pos": "n."
+        },
+        {
+          "en": "thrifty",
+          "zh": "adj. 节省的，节俭的",
+          "pos": "adj."
+        },
+        {
+          "en": "thrive",
+          "zh": "vi. 繁荣，兴旺；茁壮成长",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "thrust",
+          "zh": "n. 推力，冲",
+          "pos": "n."
+        },
+        {
+          "en": "thunderstorm",
+          "zh": "n. 暴风雨",
+          "pos": "n."
+        },
+        {
+          "en": "tide",
+          "zh": "n. 潮汐；潮流",
+          "pos": "n."
+        },
+        {
+          "en": "tilt",
+          "zh": "n. 倾斜",
+          "pos": "n."
+        },
+        {
+          "en": "stilt",
+          "zh": "n. 高跷，支柱",
+          "pos": "n."
+        },
+        {
+          "en": "time-consuming",
+          "zh": "adj. 费时间的",
+          "pos": "adj."
+        },
+        {
+          "en": "timid",
+          "zh": "adj. 胆怯的，羞怯的",
+          "pos": "adj."
+        },
+        {
+          "en": "timidity",
+          "zh": "n. 胆怯",
+          "pos": "n."
+        },
+        {
+          "en": "tint",
+          "zh": "vt. 给…着色；染",
+          "pos": "vt."
+        },
+        {
+          "en": "tip",
+          "zh": "n. 顶，尖端",
+          "pos": "n."
+        },
+        {
+          "en": "fingertip",
+          "zh": "n. 指尖",
+          "pos": "n."
+        },
+        {
+          "en": "toe",
+          "zh": "n. 趾，脚趾，足尖",
+          "pos": "n."
+        },
+        {
+          "en": "toed",
+          "zh": "adj. 有趾的",
+          "pos": "adj."
+        },
+        {
+          "en": "tolerate",
+          "zh": "vt. 忍受；容许",
+          "pos": "vt."
+        },
+        {
+          "en": "tolerant",
+          "zh": "adj. 容忍的；宽容的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

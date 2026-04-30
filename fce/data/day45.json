@@ -1,0 +1,304 @@
+{
+  "day": 45,
+  "title": "Day 45 · tilt → try",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "tradition",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Iso Shard",
+      "hp": 100,
+      "words": [
+        {
+          "en": "tilt",
+          "zh": "\"n. 倾斜",
+          "pos": "n."
+        },
+        {
+          "en": "time",
+          "zh": "\"n. 时间；时代；次数；节拍；倍数",
+          "pos": "n."
+        },
+        {
+          "en": "tinker away",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "timid",
+          "zh": "adj. 胆小的；羞怯的",
+          "pos": "adj."
+        },
+        {
+          "en": "tip",
+          "zh": "\"n. 小费；尖端；小建议，小窍门；轻拍",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Iso Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "tiresome",
+          "zh": "adj. 烦人的，无聊的；令人讨厌的",
+          "pos": "adj."
+        },
+        {
+          "en": "together",
+          "zh": "\"adj. 新潮的；情绪稳定的，做事有效率的",
+          "pos": "adj."
+        },
+        {
+          "en": "tolerate",
+          "zh": "vt. 忍受；默许；宽恕",
+          "pos": "vt."
+        },
+        {
+          "en": "tone",
+          "zh": "\"n. 语气；色调；音调；音色",
+          "pos": "n."
+        },
+        {
+          "en": "top",
+          "zh": "\"n. 顶部，顶端；上部；首席；陀螺",
+          "pos": "n."
+        },
+        {
+          "en": "topic",
+          "zh": "n. 主题（等于theme）；题目；一般规则；总论",
+          "pos": "n."
+        },
+        {
+          "en": "torment",
+          "zh": "\"n. 痛苦，苦恼；痛苦的根源",
+          "pos": "n."
+        },
+        {
+          "en": "total",
+          "zh": "\"n. 总数，合计",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "touch",
+          "zh": "\"n. 接触；触觉；格调；少许",
+          "pos": "n."
+        },
+        {
+          "en": "tough",
+          "zh": "\"n. 恶棍",
+          "pos": "n."
+        },
+        {
+          "en": "tournament",
+          "zh": "n. 锦标赛，联赛；比赛",
+          "pos": "n."
+        },
+        {
+          "en": "tower over",
+          "zh": "高耸；高出；超出",
+          "pos": ""
+        },
+        {
+          "en": "towering",
+          "zh": "\"adj. 高耸的；卓越的；激烈的",
+          "pos": "adj."
+        },
+        {
+          "en": "track",
+          "zh": "\"n. 轨道；足迹，踪迹；小道",
+          "pos": "n."
+        },
+        {
+          "en": "tradition",
+          "zh": "n. 惯例，传统；传说",
+          "pos": "n."
+        },
+        {
+          "en": "traffic",
+          "zh": "\"n. 交通；运输；贸易； 通信量",
+          "pos": "n."
+        },
+        {
+          "en": "trail",
+          "zh": "\"n. 小径；痕迹；尾部；踪迹；一串，一系列",
+          "pos": "n."
+        },
+        {
+          "en": "train",
+          "zh": "\"n. 火车；行列；长队；裙裾",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "transaction",
+          "zh": "n. 交易；事务；办理；会报，学报",
+          "pos": "n."
+        },
+        {
+          "en": "transfer",
+          "zh": "\"n. 转让；转移；传递；过户",
+          "pos": "n."
+        },
+        {
+          "en": "transform",
+          "zh": "\"vt. 改变，使…变形；转换",
+          "pos": "vt."
+        },
+        {
+          "en": "translate",
+          "zh": "\"vt. 翻译；转化；解释；转变为；调动",
+          "pos": "vt."
+        },
+        {
+          "en": "transport",
+          "zh": "\"n. 运输；运输机；狂喜；流放犯",
+          "pos": "n."
+        },
+        {
+          "en": "tradition",
+          "zh": "n. 惯例，传统；传说",
+          "pos": "n."
+        },
+        {
+          "en": "trap",
+          "zh": "\"n. 陷阱；圈套； 存水湾",
+          "pos": "n."
+        },
+        {
+          "en": "travel",
+          "zh": "\"n. 旅行；游历；漫游",
+          "pos": "n."
+        },
+        {
+          "en": "trawl",
+          "zh": "\"n. 拖网；排钩",
+          "pos": "n."
+        },
+        {
+          "en": "treacherous",
+          "zh": "adj. 奸诈的，叛逆的，背叛的；危险的；不牢靠的",
+          "pos": "adj."
+        },
+        {
+          "en": "tread",
+          "zh": "\"n. 踏；胎面；步态；鞋底；踏板；梯级",
+          "pos": "n."
+        },
+        {
+          "en": "treatment",
+          "zh": "n. 治疗，疗法；处理；对待",
+          "pos": "n."
+        },
+        {
+          "en": "tremble",
+          "zh": "\"n. 颤抖；战栗；摇晃",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radianite Colossus",
+      "hp": 300,
+      "words": [
+        {
+          "en": "tremendous",
+          "zh": "adj. 极大的，巨大的；惊人的；极好的",
+          "pos": "adj."
+        },
+        {
+          "en": "trend",
+          "zh": "\"n. 趋势，倾向；走向",
+          "pos": "n."
+        },
+        {
+          "en": "trespasser",
+          "zh": "n. 侵害者；侵入者；违反者",
+          "pos": "n."
+        },
+        {
+          "en": "trial",
+          "zh": "\"n. 试验；审讯；努力；磨炼",
+          "pos": "n."
+        },
+        {
+          "en": "tribe",
+          "zh": "n. 部落；族；宗族；一伙",
+          "pos": "n."
+        },
+        {
+          "en": "trickery",
+          "zh": "n. 欺骗；诡计；奸计",
+          "pos": "n."
+        },
+        {
+          "en": "tricky",
+          "zh": "adj. 狡猾的；机警的",
+          "pos": "adj."
+        },
+        {
+          "en": "triumphant",
+          "zh": "adj. 成功的；得意洋洋的；狂欢的",
+          "pos": "adj."
+        },
+        {
+          "en": "trivial",
+          "zh": "adj. 不重要的，琐碎的；琐细的",
+          "pos": "adj."
+        },
+        {
+          "en": "tropic",
+          "zh": "\"n. 热带；回归线",
+          "pos": "n."
+        },
+        {
+          "en": "trot",
+          "zh": "\"n. （人）慢跑；马小跑的步态；小跑的马蹄声；刚学步的小孩；老太婆；腹泻；（学生作弊用的）译文对照本",
+          "pos": "n."
+        },
+        {
+          "en": "trouble",
+          "zh": "\"n. 麻烦；烦恼；故障；动乱",
+          "pos": "n."
+        },
+        {
+          "en": "trust",
+          "zh": "\"n. 信任，信赖；责任；托拉斯",
+          "pos": "n."
+        },
+        {
+          "en": "truth",
+          "zh": "n. 真理；事实；诚实；实质",
+          "pos": "n."
+        },
+        {
+          "en": "try",
+          "zh": "\"n. 尝试；努力；试验",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

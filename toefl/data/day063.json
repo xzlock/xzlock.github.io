@@ -1,0 +1,304 @@
+{
+  "day": 63,
+  "title": "Day 063 · outcome → painting",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "outlast",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Skye Pup",
+      "hp": 100,
+      "words": [
+        {
+          "en": "outcome",
+          "zh": "n. 成果，后果",
+          "pos": "n."
+        },
+        {
+          "en": "outcry",
+          "zh": "n. 大声疾呼；强烈抗议",
+          "pos": "n."
+        },
+        {
+          "en": "outdoors",
+          "zh": "adv. 在户外，在野外",
+          "pos": "adv."
+        },
+        {
+          "en": "outermost",
+          "zh": "adj. 最外面的，离中心最远的",
+          "pos": "adj."
+        },
+        {
+          "en": "outfit",
+          "zh": "n. 服装",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "KAY/O Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "outgoing",
+          "zh": "adj. 好交际的，外向的",
+          "pos": "adj."
+        },
+        {
+          "en": "outgrow",
+          "zh": "vt. 生长速度超过…，长得比…快",
+          "pos": "vt."
+        },
+        {
+          "en": "outgrowth",
+          "zh": "n. 长出；结果；副产物",
+          "pos": "n."
+        },
+        {
+          "en": "outlast",
+          "zh": "vt. 比…长久，比…活得长",
+          "pos": "vt."
+        },
+        {
+          "en": "outlet",
+          "zh": "n. （河流、烟等）出口",
+          "pos": "n."
+        },
+        {
+          "en": "outlook",
+          "zh": "n. 观点，见解",
+          "pos": "n."
+        },
+        {
+          "en": "outlying",
+          "zh": "adj. 边远的，偏僻的",
+          "pos": "adj."
+        },
+        {
+          "en": "outmoded",
+          "zh": "adj. 不再流行的，过时的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "output",
+          "zh": "n. 输出，产品；生产量",
+          "pos": "n."
+        },
+        {
+          "en": "outrage",
+          "zh": "n. 暴行",
+          "pos": "n."
+        },
+        {
+          "en": "outright",
+          "zh": "adv. 彻底地，完全地",
+          "pos": "adv."
+        },
+        {
+          "en": "outset",
+          "zh": "n. 开始，开端",
+          "pos": "n."
+        },
+        {
+          "en": "outspoken",
+          "zh": "adj. 坦率直言的",
+          "pos": "adj."
+        },
+        {
+          "en": "outweigh",
+          "zh": "vt. 比…重；比…更重要",
+          "pos": "vt."
+        },
+        {
+          "en": "oval",
+          "zh": "adj. 卵形的，椭圆的",
+          "pos": "adj."
+        },
+        {
+          "en": "overall",
+          "zh": "adj. 全部的，全面的",
+          "pos": "adj."
+        },
+        {
+          "en": "overburden",
+          "zh": "v. 装载过多；负担过多",
+          "pos": "v."
+        },
+        {
+          "en": "overcharge",
+          "zh": "v. 索价过高",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "outlast",
+          "zh": "vt. 比…长久，比…活得长",
+          "pos": "vt."
+        },
+        {
+          "en": "overhaul",
+          "zh": "v. 彻底检查，大修",
+          "pos": "v."
+        },
+        {
+          "en": "overlap",
+          "zh": "vt. 部分重叠，与…交搭，迭盖",
+          "pos": "vt."
+        },
+        {
+          "en": "overlapping",
+          "zh": "adj./n. 交迭（的）",
+          "pos": "adj."
+        },
+        {
+          "en": "overlook",
+          "zh": "vt. 忽略，没注意到",
+          "pos": "vt."
+        },
+        {
+          "en": "oversee",
+          "zh": "vt. 监督，管理",
+          "pos": "vt."
+        },
+        {
+          "en": "oversight",
+          "zh": "n. 勘漏, 失察, 疏忽",
+          "pos": "n."
+        },
+        {
+          "en": "overt",
+          "zh": "adj. 明显的；公然的",
+          "pos": "adj."
+        },
+        {
+          "en": "overtime",
+          "zh": "n. 超时，加班 adv. 加班地",
+          "pos": "n."
+        },
+        {
+          "en": "overtire",
+          "zh": "vt. 使过度疲劳",
+          "pos": "vt."
+        },
+        {
+          "en": "overtax",
+          "zh": "vt. 课税过重",
+          "pos": "vt."
+        },
+        {
+          "en": "overtaxed",
+          "zh": "adj. 课税过重的，负担过重的",
+          "pos": "adj."
+        },
+        {
+          "en": "overturn",
+          "zh": "n./vt. 推翻；翻倒；倾覆",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "overwhelm",
+          "zh": "vt. 战胜；压倒",
+          "pos": "vt."
+        },
+        {
+          "en": "overwhelmingly",
+          "zh": "adv. 压倒性地；不可抵抗地",
+          "pos": "adv."
+        },
+        {
+          "en": "oxen",
+          "zh": "n. （pl）公牛",
+          "pos": "n."
+        },
+        {
+          "en": "oxygen",
+          "zh": "n. 氧气",
+          "pos": "n."
+        },
+        {
+          "en": "oyster",
+          "zh": "n. [动]牡蛎, 蚝",
+          "pos": "n."
+        },
+        {
+          "en": "pack",
+          "zh": "vt. 装；将…挤入，塞满",
+          "pos": "vt."
+        },
+        {
+          "en": "packed",
+          "zh": "adj. 压紧的，压实的",
+          "pos": "adj."
+        },
+        {
+          "en": "package",
+          "zh": "n. 包裹，包",
+          "pos": "n."
+        },
+        {
+          "en": "packaging",
+          "zh": "n. 包装",
+          "pos": "n."
+        },
+        {
+          "en": "packer",
+          "zh": "n. 包装工人，打包机",
+          "pos": "n."
+        },
+        {
+          "en": "backpack",
+          "zh": "n. 背包",
+          "pos": "n."
+        },
+        {
+          "en": "unpack",
+          "zh": "vt. 打开包裹（或行李），卸货",
+          "pos": "vt."
+        },
+        {
+          "en": "paddler",
+          "zh": "n. 划独木舟者",
+          "pos": "n."
+        },
+        {
+          "en": "painstaking",
+          "zh": "adj. 辛苦的，辛勤的",
+          "pos": "adj."
+        },
+        {
+          "en": "painting",
+          "zh": "n. 绘画，油画",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

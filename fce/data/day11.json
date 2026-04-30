@@ -1,0 +1,304 @@
+{
+  "day": 11,
+  "title": "Day 11 · deal with → destruction",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "despise",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "KAY/O Unit",
+      "hp": 100,
+      "words": [
+        {
+          "en": "deal with",
+          "zh": "\"na. 办理；对待；与…交涉；与…交易",
+          "pos": ""
+        },
+        {
+          "en": "deathly",
+          "zh": "\"adj. 死一般的；致命的",
+          "pos": "adj."
+        },
+        {
+          "en": "decade",
+          "zh": "n. 十年，十年期；十",
+          "pos": "n."
+        },
+        {
+          "en": "decay",
+          "zh": "\"n. 衰退， 衰减；腐烂，腐朽",
+          "pos": "n."
+        },
+        {
+          "en": "decide",
+          "zh": "\"vi. 决定，下决心",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "KAY/O Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "decipher",
+          "zh": "\"n. 密电译文",
+          "pos": "n."
+        },
+        {
+          "en": "deck out",
+          "zh": "\"v. 打扮",
+          "pos": "v."
+        },
+        {
+          "en": "declare",
+          "zh": "\"vt. 宣布，声明；断言，宣称",
+          "pos": "vt."
+        },
+        {
+          "en": "decorate",
+          "zh": "\"vt. 装饰；布置；授勋给",
+          "pos": "vt."
+        },
+        {
+          "en": "decrease",
+          "zh": "\"n. 减少，减小；减少量",
+          "pos": "n."
+        },
+        {
+          "en": "dedicate",
+          "zh": "vt. 致力；献身；题献",
+          "pos": "vt."
+        },
+        {
+          "en": "deduction",
+          "zh": "n. 扣除，减除；推论；减除额",
+          "pos": "n."
+        },
+        {
+          "en": "deep",
+          "zh": "\"n. 深处；深渊",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "defect",
+          "zh": "\"n. 缺点，缺陷；不足之处",
+          "pos": "n."
+        },
+        {
+          "en": "defend",
+          "zh": "\"vi. 保卫；防守",
+          "pos": "vi."
+        },
+        {
+          "en": "defer",
+          "zh": "\"vt. 使推迟；使延期",
+          "pos": "vt."
+        },
+        {
+          "en": "define",
+          "zh": "vt. 定义；使明确；规定",
+          "pos": "vt."
+        },
+        {
+          "en": "definite",
+          "zh": "adj. 一定的；确切的",
+          "pos": "adj."
+        },
+        {
+          "en": "definitive",
+          "zh": "\"n. 限定词",
+          "pos": "n."
+        },
+        {
+          "en": "degree",
+          "zh": "n. 程度，等级；度；学位；阶层",
+          "pos": "n."
+        },
+        {
+          "en": "delay",
+          "zh": "\"n. 延期；耽搁；被耽搁或推迟的时间",
+          "pos": "n."
+        },
+        {
+          "en": "deliberate",
+          "zh": "\"adj. 故意的；深思熟虑的；从容的",
+          "pos": "adj."
+        },
+        {
+          "en": "delicious-looking",
+          "zh": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "delight",
+          "zh": "\"n. 高兴",
+          "pos": "n."
+        },
+        {
+          "en": "deliver",
+          "zh": "\"n. 投球",
+          "pos": "n."
+        },
+        {
+          "en": "demand",
+          "zh": "\"n. 需求；要求；需要",
+          "pos": "n."
+        },
+        {
+          "en": "democracy",
+          "zh": "n. 民主，民主主义；民主政治",
+          "pos": "n."
+        },
+        {
+          "en": "demonstrate",
+          "zh": "\"vt. 证明；展示；论证",
+          "pos": "vt."
+        },
+        {
+          "en": "demystify",
+          "zh": "vt. 使非神秘化；阐明；启发",
+          "pos": "vt."
+        },
+        {
+          "en": "dense",
+          "zh": "adj. 稠密的；浓厚的；愚钝的",
+          "pos": "adj."
+        },
+        {
+          "en": "dent",
+          "zh": "\"n. 凹痕；削弱；减少；齿",
+          "pos": "n."
+        },
+        {
+          "en": "deny",
+          "zh": "\"vi. 否认；拒绝",
+          "pos": "vi."
+        },
+        {
+          "en": "despise",
+          "zh": "vt. 轻视，鄙视",
+          "pos": "vt."
+        },
+        {
+          "en": "depart",
+          "zh": "\"adj. 逝世的",
+          "pos": "adj."
+        },
+        {
+          "en": "department",
+          "zh": "n. 部；部门；系；科；局",
+          "pos": "n."
+        },
+        {
+          "en": "depend",
+          "zh": "vi. 依赖，依靠；取决于；相信，信赖",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "depict",
+          "zh": "vt. 描述；描画",
+          "pos": "vt."
+        },
+        {
+          "en": "deprivation",
+          "zh": "n. 剥夺；损失；免职；匮乏；贫困",
+          "pos": "n."
+        },
+        {
+          "en": "descendant",
+          "zh": "\"n. 后裔；子孙",
+          "pos": "n."
+        },
+        {
+          "en": "describe",
+          "zh": "vt. 描述，形容；描绘",
+          "pos": "vt."
+        },
+        {
+          "en": "deserve",
+          "zh": "\"vi. 应受，应得",
+          "pos": "vi."
+        },
+        {
+          "en": "design",
+          "zh": "\"n. 设计；图案",
+          "pos": "n."
+        },
+        {
+          "en": "desire",
+          "zh": "\"n. 欲望；要求，心愿；性欲",
+          "pos": "n."
+        },
+        {
+          "en": "desolation",
+          "zh": "n. 荒芜；忧伤；孤寂；废墟",
+          "pos": "n."
+        },
+        {
+          "en": "desperate",
+          "zh": "adj. 不顾一切的；令人绝望的；极度渴望的",
+          "pos": "adj."
+        },
+        {
+          "en": "despise",
+          "zh": "vt. 轻视，鄙视",
+          "pos": "vt."
+        },
+        {
+          "en": "despite",
+          "zh": "\"prep. 尽管，不管",
+          "pos": "prep."
+        },
+        {
+          "en": "destination",
+          "zh": "n. 目的地，终点",
+          "pos": "n."
+        },
+        {
+          "en": "destiny",
+          "zh": "n. 命运，定数，天命",
+          "pos": "n."
+        },
+        {
+          "en": "destroy",
+          "zh": "vt. 破坏；消灭；毁坏",
+          "pos": "vt."
+        },
+        {
+          "en": "destruction",
+          "zh": "n. 破坏，毁灭；摧毁",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

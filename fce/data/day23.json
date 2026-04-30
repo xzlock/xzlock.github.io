@@ -1,0 +1,304 @@
+{
+  "day": 23,
+  "title": "Day 23 · injure → invade",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "insulate",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Clove Mist",
+      "hp": 100,
+      "words": [
+        {
+          "en": "injure",
+          "zh": "vt. 伤害，损害",
+          "pos": "vt."
+        },
+        {
+          "en": "innate",
+          "zh": "adj. 先天的；固有的；与生俱来的",
+          "pos": "adj."
+        },
+        {
+          "en": "innocently",
+          "zh": "adv. 纯洁地；无罪地",
+          "pos": "adv."
+        },
+        {
+          "en": "innovative",
+          "zh": "adj. 革新的，创新的；新颖的；有创新精神的",
+          "pos": "adj."
+        },
+        {
+          "en": "input",
+          "zh": "\"n. 投入；输入电路",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Chamber Bullet",
+      "hp": 150,
+      "words": [
+        {
+          "en": "inquiry",
+          "zh": "n. 探究；调查；质询",
+          "pos": "n."
+        },
+        {
+          "en": "inscribe",
+          "zh": "vt. 题写；题献；铭记；雕",
+          "pos": "vt."
+        },
+        {
+          "en": "insert",
+          "zh": "\"n. 插入物；管芯；镶块；刀片",
+          "pos": "n."
+        },
+        {
+          "en": "inside",
+          "zh": "\"prep. 少于；在…之内",
+          "pos": "prep."
+        },
+        {
+          "en": "insist",
+          "zh": "\"vi. 坚持，强调",
+          "pos": "vi."
+        },
+        {
+          "en": "inspire",
+          "zh": "vt. 激发；鼓舞；启示；产生；使生灵感",
+          "pos": "vt."
+        },
+        {
+          "en": "install",
+          "zh": "vt. 安装；任命；安顿",
+          "pos": "vt."
+        },
+        {
+          "en": "instance",
+          "zh": "\"n. 实例；情况；建议",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "instant",
+          "zh": "\"n. 瞬间；立即；片刻",
+          "pos": "n."
+        },
+        {
+          "en": "instead",
+          "zh": "adv. 代替；反而；相反",
+          "pos": "adv."
+        },
+        {
+          "en": "instinct",
+          "zh": "\"n. 本能，直觉；天性",
+          "pos": "n."
+        },
+        {
+          "en": "institution",
+          "zh": "n. 制度；建立；（社会或宗教等）公共机构；习俗",
+          "pos": "n."
+        },
+        {
+          "en": "instruction",
+          "zh": "n. 指令，命令；指示；教导；用法说明",
+          "pos": "n."
+        },
+        {
+          "en": "instrument",
+          "zh": "n. 仪器；工具；乐器；手段；器械",
+          "pos": "n."
+        },
+        {
+          "en": "insulate",
+          "zh": "vt. 隔离，使孤立；使绝缘，使隔热",
+          "pos": "vt."
+        },
+        {
+          "en": "insult",
+          "zh": "\"n. 侮辱；凌辱；无礼",
+          "pos": "n."
+        },
+        {
+          "en": "insure",
+          "zh": "\"vt. 确保，保证；给…保险",
+          "pos": "vt."
+        },
+        {
+          "en": "intact",
+          "zh": "adj. 完整的；原封不动的；未受损伤的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Wraith",
+      "hp": 250,
+      "words": [
+        {
+          "en": "intelligent",
+          "zh": "adj. 智能的；聪明的；理解力强的",
+          "pos": "adj."
+        },
+        {
+          "en": "intend",
+          "zh": "\"vi. 有打算",
+          "pos": "vi."
+        },
+        {
+          "en": "intense",
+          "zh": "adj. 强烈的；紧张的；非常的；热情的",
+          "pos": "adj."
+        },
+        {
+          "en": "intention",
+          "zh": "n. 意图；目的；意向；愈合",
+          "pos": "n."
+        },
+        {
+          "en": "interact",
+          "zh": "\"n. 幕间剧；幕间休息",
+          "pos": "n."
+        },
+        {
+          "en": "interchange",
+          "zh": "\"n. 互换；立体交叉道",
+          "pos": "n."
+        },
+        {
+          "en": "insulate",
+          "zh": "vt. 隔离，使孤立；使绝缘，使隔热",
+          "pos": "vt."
+        },
+        {
+          "en": "interest",
+          "zh": "\"n. 兴趣，爱好；利息；趣味；同行",
+          "pos": "n."
+        },
+        {
+          "en": "interested",
+          "zh": "\"v. 使…感兴趣（interest的过去分词）",
+          "pos": "v."
+        },
+        {
+          "en": "interesting",
+          "zh": "adj. 有趣的；引起兴趣的，令人关注的",
+          "pos": "adj."
+        },
+        {
+          "en": "interfere",
+          "zh": "\"vi. 干涉；妨碍；打扰",
+          "pos": "vi."
+        },
+        {
+          "en": "intermediate",
+          "zh": "\"n. 中间物；媒介",
+          "pos": "n."
+        },
+        {
+          "en": "international",
+          "zh": "\"n. 国际组织；国际体育比赛；外国居留者；国际股票",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "Internet",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "interpersonal",
+          "zh": "adj. 人际的；人与人之间的",
+          "pos": "adj."
+        },
+        {
+          "en": "interpret",
+          "zh": "\"vi. 解释；翻译",
+          "pos": "vi."
+        },
+        {
+          "en": "interrupt",
+          "zh": "\"n. 中断",
+          "pos": "n."
+        },
+        {
+          "en": "interval",
+          "zh": "n. 间隔；间距；幕间休息",
+          "pos": "n."
+        },
+        {
+          "en": "intervening",
+          "zh": "\"v. 介入（intervene的ing形式）",
+          "pos": "v."
+        },
+        {
+          "en": "interview",
+          "zh": "\"n. 接见，采访；面试，面谈",
+          "pos": "n."
+        },
+        {
+          "en": "intimate",
+          "zh": "\"n. 知己；至交",
+          "pos": "n."
+        },
+        {
+          "en": "intimidate",
+          "zh": "vt. 恐吓，威胁；胁迫",
+          "pos": "vt."
+        },
+        {
+          "en": "intrepid",
+          "zh": "adj. 无畏的；勇敢的；勇猛的",
+          "pos": "adj."
+        },
+        {
+          "en": "intricate",
+          "zh": "adj. 复杂的；错综的，缠结的",
+          "pos": "adj."
+        },
+        {
+          "en": "intriguing",
+          "zh": "\"adj. 有趣的；迷人的",
+          "pos": "adj."
+        },
+        {
+          "en": "introduce",
+          "zh": "vt. 介绍；引进；提出；采用",
+          "pos": "vt."
+        },
+        {
+          "en": "intrude",
+          "zh": "\"vi. 闯入；侵入；侵扰",
+          "pos": "vi."
+        },
+        {
+          "en": "invade",
+          "zh": "\"vt. 侵略；侵袭；侵扰；涌入",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

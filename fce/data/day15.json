@@ -1,0 +1,304 @@
+{
+  "day": 15,
+  "title": "Day 15 · erode → expose",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "evidence",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Skye Pup",
+      "hp": 100,
+      "words": [
+        {
+          "en": "erode",
+          "zh": "\"vt. 腐蚀，侵蚀",
+          "pos": "vt."
+        },
+        {
+          "en": "errand",
+          "zh": "n. 使命；差事；差使",
+          "pos": "n."
+        },
+        {
+          "en": "error",
+          "zh": "n. 误差；错误；过失",
+          "pos": "n."
+        },
+        {
+          "en": "escalate",
+          "zh": "\"vt. 使逐步上升",
+          "pos": "vt."
+        },
+        {
+          "en": "escape",
+          "zh": "\"n. 逃跑；逃亡；逃走；逃跑工具或方法；野生种；泄漏",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Jett Blitz",
+      "hp": 150,
+      "words": [
+        {
+          "en": "especially",
+          "zh": "adv. 特别；尤其；格外",
+          "pos": "adv."
+        },
+        {
+          "en": "essential",
+          "zh": "\"n. 本质；要素；要点；必需品",
+          "pos": "n."
+        },
+        {
+          "en": "establish",
+          "zh": "\"vi. 植物定植",
+          "pos": "vi."
+        },
+        {
+          "en": "estate",
+          "zh": "n. 房地产；财产；身份",
+          "pos": "n."
+        },
+        {
+          "en": "estimate",
+          "zh": "\"n. 估计，估价；判断，看法",
+          "pos": "n."
+        },
+        {
+          "en": "eternity",
+          "zh": "n. 来世，来生；不朽；永世；永恒",
+          "pos": "n."
+        },
+        {
+          "en": "evaluate",
+          "zh": "\"vt. 评价；估价；求…的值",
+          "pos": "vt."
+        },
+        {
+          "en": "even",
+          "zh": "\"adj. 偶数的；平坦的；相等的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "event",
+          "zh": "n. 事件，大事；项目；结果",
+          "pos": "n."
+        },
+        {
+          "en": "eventually",
+          "zh": "adv. 最后，终于",
+          "pos": "adv."
+        },
+        {
+          "en": "evidence",
+          "zh": "\"n. 证据，证明；迹象；明显",
+          "pos": "n."
+        },
+        {
+          "en": "evident",
+          "zh": "adj. 明显的；明白的",
+          "pos": "adj."
+        },
+        {
+          "en": "evolve",
+          "zh": "\"vi. 发展，进展；进化；逐步形成",
+          "pos": "vi."
+        },
+        {
+          "en": "exactly",
+          "zh": "adv. 恰好地；正是；精确地；正确地",
+          "pos": "adv."
+        },
+        {
+          "en": "examine",
+          "zh": "\"vt. 检查；调查； 检测；考试",
+          "pos": "vt."
+        },
+        {
+          "en": "example",
+          "zh": "\"n. 例子；榜样",
+          "pos": "n."
+        },
+        {
+          "en": "exceed",
+          "zh": "\"vt. 超过；胜过",
+          "pos": "vt."
+        },
+        {
+          "en": "excel",
+          "zh": "\"vt. 超过；擅长",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Wraith",
+      "hp": 250,
+      "words": [
+        {
+          "en": "evidence",
+          "zh": "\"n. 证据，证明；迹象；明显",
+          "pos": "n."
+        },
+        {
+          "en": "excellent",
+          "zh": "adj. 卓越的；极好的；杰出的",
+          "pos": "adj."
+        },
+        {
+          "en": "except",
+          "zh": "\"conj. 除了；要不是",
+          "pos": "conj."
+        },
+        {
+          "en": "excess",
+          "zh": "\"n. 超过，超额；过度，过量；无节制",
+          "pos": "n."
+        },
+        {
+          "en": "exchange",
+          "zh": "\"n. 交换；交流；交易所；兑换",
+          "pos": "n."
+        },
+        {
+          "en": "excite",
+          "zh": "\"vt. 激起；刺激…，使…兴奋",
+          "pos": "vt."
+        },
+        {
+          "en": "exclamation",
+          "zh": "n. 感叹；惊叫；惊叹词",
+          "pos": "n."
+        },
+        {
+          "en": "exclude",
+          "zh": "vt. 排除；排斥；拒绝接纳；逐出",
+          "pos": "vt."
+        },
+        {
+          "en": "exclusive",
+          "zh": "\"n. 独家新闻；独家经营的项目；排外者",
+          "pos": "n."
+        },
+        {
+          "en": "executive",
+          "zh": "\"n. 总经理；执行委员会；执行者；经理主管人员",
+          "pos": "n."
+        },
+        {
+          "en": "exercise",
+          "zh": "\"n. 运动；练习；运用；操练；礼拜；典礼",
+          "pos": "n."
+        },
+        {
+          "en": "exhaust",
+          "zh": "\"n. 排气；废气；排气装置",
+          "pos": "n."
+        },
+        {
+          "en": "exhilarate",
+          "zh": "vt. 使高兴，使振奋；使愉快",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "exist",
+          "zh": "vi. 存在；生存；生活；继续存在",
+          "pos": "vi."
+        },
+        {
+          "en": "exotic",
+          "zh": "adj. 异国的；外来的；异国情调的",
+          "pos": "adj."
+        },
+        {
+          "en": "expand",
+          "zh": "\"vt. 扩张；使膨胀；详述",
+          "pos": "vt."
+        },
+        {
+          "en": "expect",
+          "zh": "\"vi. 期待；预期",
+          "pos": "vi."
+        },
+        {
+          "en": "expedition",
+          "zh": "n. 远征；探险队；迅速",
+          "pos": "n."
+        },
+        {
+          "en": "expense",
+          "zh": "\"n. 损失，代价；消费；开支",
+          "pos": "n."
+        },
+        {
+          "en": "expensive",
+          "zh": "adj. 昂贵的；花钱的",
+          "pos": "adj."
+        },
+        {
+          "en": "experience",
+          "zh": "\"n. 经验；经历；体验",
+          "pos": "n."
+        },
+        {
+          "en": "experiment",
+          "zh": "\"n. 实验，试验；尝试",
+          "pos": "n."
+        },
+        {
+          "en": "expert",
+          "zh": "\"n. 专家；行家；能手",
+          "pos": "n."
+        },
+        {
+          "en": "explain",
+          "zh": "v. 说明；解释",
+          "pos": "v."
+        },
+        {
+          "en": "explore",
+          "zh": "\"vi. 探索；探测；探险",
+          "pos": "vi."
+        },
+        {
+          "en": "explosive",
+          "zh": "\"n. 炸药；爆炸物",
+          "pos": "n."
+        },
+        {
+          "en": "export",
+          "zh": "\"n. 输出，出口；出口商品",
+          "pos": "n."
+        },
+        {
+          "en": "expose",
+          "zh": "vt. 揭露，揭发；使曝光；显示",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

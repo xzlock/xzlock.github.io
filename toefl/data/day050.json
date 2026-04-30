@@ -1,0 +1,304 @@
+{
+  "day": 50,
+  "title": "Day 050 · inspect → interference",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "inspiring",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Neon Flicker",
+      "hp": 100,
+      "words": [
+        {
+          "en": "inspect",
+          "zh": "vt. 检查；审查",
+          "pos": "vt."
+        },
+        {
+          "en": "inspection",
+          "zh": "n. 检查，细看",
+          "pos": "n."
+        },
+        {
+          "en": "inspector",
+          "zh": "n. 检查员，巡视员",
+          "pos": "n."
+        },
+        {
+          "en": "inspire",
+          "zh": "vt. 鼓舞；给…以灵感",
+          "pos": "vt."
+        },
+        {
+          "en": "inspiring",
+          "zh": "adj. 使人振奋的，鼓舞的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "inspiration",
+          "zh": "n. 灵感",
+          "pos": "n."
+        },
+        {
+          "en": "install",
+          "zh": "vt. 安装，设置",
+          "pos": "vt."
+        },
+        {
+          "en": "installment",
+          "zh": "n. 分期付款",
+          "pos": "n."
+        },
+        {
+          "en": "instantaneous",
+          "zh": "adj. 瞬间的，即刻的",
+          "pos": "adj."
+        },
+        {
+          "en": "instinct",
+          "zh": "n. 本能，直觉",
+          "pos": "n."
+        },
+        {
+          "en": "instinctive",
+          "zh": "adj. 天生的，本能的",
+          "pos": "adj."
+        },
+        {
+          "en": "instinctively",
+          "zh": "adv. 本能地；凭直觉地",
+          "pos": "adv."
+        },
+        {
+          "en": "institute",
+          "zh": "n. 学院；学会，协会",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "institution",
+          "zh": "n. 机构；惯例",
+          "pos": "n."
+        },
+        {
+          "en": "institutionalize",
+          "zh": "v. 使制度化",
+          "pos": "v."
+        },
+        {
+          "en": "instructive",
+          "zh": "adj. 有益的；教育性的",
+          "pos": "adj."
+        },
+        {
+          "en": "instruct",
+          "zh": "vt. 教；命令",
+          "pos": "vt."
+        },
+        {
+          "en": "instruction",
+          "zh": "n. 命令，指示；教学",
+          "pos": "n."
+        },
+        {
+          "en": "instrument",
+          "zh": "n. 仪器；工具；乐器",
+          "pos": "n."
+        },
+        {
+          "en": "instrumental",
+          "zh": "adj. 有帮助的，可作为手段的",
+          "pos": "adj."
+        },
+        {
+          "en": "instrumentalist",
+          "zh": "n. 器乐家，器乐演奏者",
+          "pos": "n."
+        },
+        {
+          "en": "insulation",
+          "zh": "n. 绝缘；隔离；孤立",
+          "pos": "n."
+        },
+        {
+          "en": "insulin",
+          "zh": "n. 胰岛素",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "insult",
+          "zh": "vt. 侮辱，凌辱",
+          "pos": "vt."
+        },
+        {
+          "en": "insulting",
+          "zh": "adj. 侮辱性的，欺负人的",
+          "pos": "adj."
+        },
+        {
+          "en": "insurmountable",
+          "zh": "adj. 不能克服的，不能超越的",
+          "pos": "adj."
+        },
+        {
+          "en": "intact",
+          "zh": "adj. 尚未被人碰到的，完整的",
+          "pos": "adj."
+        },
+        {
+          "en": "integral",
+          "zh": "adj. 整体的；构成整体所需的",
+          "pos": "adj."
+        },
+        {
+          "en": "integrate",
+          "zh": "vt. 使成为整体，使一体化",
+          "pos": "vt."
+        },
+        {
+          "en": "inspiring",
+          "zh": "adj. 使人振奋的，鼓舞的",
+          "pos": "adj."
+        },
+        {
+          "en": "integrated",
+          "zh": "adj. 整合的，一体化的",
+          "pos": "adj."
+        },
+        {
+          "en": "integrity",
+          "zh": "n. 完整性；正直，诚实",
+          "pos": "n."
+        },
+        {
+          "en": "intellect",
+          "zh": "n. 智力",
+          "pos": "n."
+        },
+        {
+          "en": "intellectual",
+          "zh": "n. 知识分子 adj. 智力的",
+          "pos": "n."
+        },
+        {
+          "en": "intelligent",
+          "zh": "adj. 聪明的，有才智的",
+          "pos": "adj."
+        },
+        {
+          "en": "intelligence",
+          "zh": "n. 智力；聪明",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "intelligible",
+          "zh": "adj. 明了的，可理解的",
+          "pos": "adj."
+        },
+        {
+          "en": "intense",
+          "zh": "adj. 强烈的，剧烈的",
+          "pos": "adj."
+        },
+        {
+          "en": "intensify",
+          "zh": "vt. 加强；扩大",
+          "pos": "vt."
+        },
+        {
+          "en": "intensive",
+          "zh": "adj. 加强的；集中的，密集的",
+          "pos": "adj."
+        },
+        {
+          "en": "intentionally",
+          "zh": "adv. 有意地，特意地",
+          "pos": "adv."
+        },
+        {
+          "en": "intention",
+          "zh": "n. 意图，目的=intent",
+          "pos": "n."
+        },
+        {
+          "en": "interaction",
+          "zh": "n. 相互作用",
+          "pos": "n."
+        },
+        {
+          "en": "interact",
+          "zh": "vi. 互相作用，互相影响",
+          "pos": "vi."
+        },
+        {
+          "en": "interactive",
+          "zh": "adj. 交互式的",
+          "pos": "adj."
+        },
+        {
+          "en": "interconnected",
+          "zh": "adj. 相互连接的",
+          "pos": "adj."
+        },
+        {
+          "en": "interconnecting",
+          "zh": "adj. 相互连接的",
+          "pos": "adj."
+        },
+        {
+          "en": "interdependence",
+          "zh": "n. 互相依赖",
+          "pos": "n."
+        },
+        {
+          "en": "interest",
+          "zh": "n. 兴趣；利息",
+          "pos": "n."
+        },
+        {
+          "en": "interfere",
+          "zh": "vi. 妨碍；干涉",
+          "pos": "vi."
+        },
+        {
+          "en": "interference",
+          "zh": "n. 冲突；干涉",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

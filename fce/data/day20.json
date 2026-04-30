@@ -1,0 +1,304 @@
+{
+  "day": 20,
+  "title": "Day 20 · half → homework",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "happy",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Yoru Shadow",
+      "hp": 100,
+      "words": [
+        {
+          "en": "half",
+          "zh": "\"n. 一半；半场；半学年",
+          "pos": "n."
+        },
+        {
+          "en": "halfway",
+          "zh": "\"adj. 中途的；不彻底的",
+          "pos": "adj."
+        },
+        {
+          "en": "halt",
+          "zh": "\"n. 停止；立定；休息",
+          "pos": "n."
+        },
+        {
+          "en": "hand",
+          "zh": "\"n. 手，手艺；帮助；指针；插手",
+          "pos": "n."
+        },
+        {
+          "en": "handle",
+          "zh": "\"n. 把手；柄；手感；口实",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Neon Pulse",
+      "hp": 150,
+      "words": [
+        {
+          "en": "handout",
+          "zh": "n. 散发材料（免费发给的新闻通报）；上课老师发的印刷品；文字资料 （会议上分发的）；施舍物",
+          "pos": "n."
+        },
+        {
+          "en": "handwritten",
+          "zh": "\"adj. 手写的",
+          "pos": "adj."
+        },
+        {
+          "en": "handy",
+          "zh": "adj. 便利的；手边的，就近的；容易取得的；敏捷的",
+          "pos": "adj."
+        },
+        {
+          "en": "hang",
+          "zh": "\"n. 悬挂；暂停，中止",
+          "pos": "n."
+        },
+        {
+          "en": "happen",
+          "zh": "vi. 发生；碰巧；偶然遇到",
+          "pos": "vi."
+        },
+        {
+          "en": "happy",
+          "zh": "adj. 幸福的；高兴的；巧妙的",
+          "pos": "adj."
+        },
+        {
+          "en": "hard",
+          "zh": "\"adj. 努力的；硬的；困难的；辛苦的；确实的；严厉的；猛烈的；冷酷无情的",
+          "pos": "adj."
+        },
+        {
+          "en": "hard-working",
+          "zh": "adj. 勤勉的；勤奋的；勤劳的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "harm",
+          "zh": "\"n. 伤害；损害",
+          "pos": "n."
+        },
+        {
+          "en": "harmful",
+          "zh": "adj. 有害的；能造成损害的",
+          "pos": "adj."
+        },
+        {
+          "en": "harmony",
+          "zh": "n. 协调；和睦；融洽；调和",
+          "pos": "n."
+        },
+        {
+          "en": "harness",
+          "zh": "\"n. 马具；甲胄；挽具状带子；降落伞背带；日常工作",
+          "pos": "n."
+        },
+        {
+          "en": "harry",
+          "zh": "vt. 折磨；掠夺；骚扰；使苦恼",
+          "pos": "vt."
+        },
+        {
+          "en": "harvest",
+          "zh": "\"n. 收获；产量；结果",
+          "pos": "n."
+        },
+        {
+          "en": "hatch",
+          "zh": "\"n. 孵化；舱口",
+          "pos": "n."
+        },
+        {
+          "en": "hazard",
+          "zh": "\"n. 危险，冒险；冒险的事",
+          "pos": "n."
+        },
+        {
+          "en": "head",
+          "zh": "\"n. 头；头痛；上端；最前的部分；理解力",
+          "pos": "n."
+        },
+        {
+          "en": "headline",
+          "zh": "\"n. 大标题；内容提要；栏外标题；头版头条新闻",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Clove Revive",
+      "hp": 250,
+      "words": [
+        {
+          "en": "happy",
+          "zh": "adj. 幸福的；高兴的；巧妙的",
+          "pos": "adj."
+        },
+        {
+          "en": "headquarters",
+          "zh": "n. 总部；指挥部；司令部",
+          "pos": "n."
+        },
+        {
+          "en": "health",
+          "zh": "n. 健康；卫生；保健；兴旺",
+          "pos": "n."
+        },
+        {
+          "en": "hear",
+          "zh": "\"vi. 听；听见",
+          "pos": "vi."
+        },
+        {
+          "en": "heart",
+          "zh": "\"n. 心脏；感情；勇气；心形；要点",
+          "pos": "n."
+        },
+        {
+          "en": "heat",
+          "zh": "\"n. 高温；压力；热度；热烈",
+          "pos": "n."
+        },
+        {
+          "en": "heavy",
+          "zh": "\"n. 重物；严肃角色",
+          "pos": "n."
+        },
+        {
+          "en": "hectic",
+          "zh": "\"n. 脸红；患肺结核",
+          "pos": "n."
+        },
+        {
+          "en": "height",
+          "zh": "n. 高地；高度；身高；顶点",
+          "pos": "n."
+        },
+        {
+          "en": "help",
+          "zh": "\"n. 帮助；补救办法；帮忙者；有益的东西",
+          "pos": "n."
+        },
+        {
+          "en": "hesitate",
+          "zh": "\"vt. 踌躇，犹豫；有疑虑，不愿意",
+          "pos": "vt."
+        },
+        {
+          "en": "hidden",
+          "zh": "\"adj. 隐藏的",
+          "pos": "adj."
+        },
+        {
+          "en": "high",
+          "zh": "\"n. 高水平；天空；由麻醉品引起的快感；高压地带",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "high-altitude",
+          "zh": "adj. 高空的；高海拔的",
+          "pos": "adj."
+        },
+        {
+          "en": "highlight",
+          "zh": "\"n. 最精彩的部分；最重要的事情；加亮区",
+          "pos": "n."
+        },
+        {
+          "en": "high-quality",
+          "zh": "adj. 高质量的",
+          "pos": "adj."
+        },
+        {
+          "en": "hilarious",
+          "zh": "adj. 欢闹的；非常滑稽的；喜不自禁的",
+          "pos": "adj."
+        },
+        {
+          "en": "hint",
+          "zh": "\"n. 暗示；线索",
+          "pos": "n."
+        },
+        {
+          "en": "hire",
+          "zh": "\"n. 雇用，租用；租金，工钱",
+          "pos": "n."
+        },
+        {
+          "en": "hiss",
+          "zh": "\"n. 嘘声；嘶嘶声",
+          "pos": "n."
+        },
+        {
+          "en": "history",
+          "zh": "n. 历史，历史学；历史记录；来历",
+          "pos": "n."
+        },
+        {
+          "en": "hit",
+          "zh": "\"n. 打；打击；（演出等）成功；讽刺",
+          "pos": "n."
+        },
+        {
+          "en": "hive",
+          "zh": "\"n. 蜂房，蜂巢；热闹的场所；熙攘喧闹的人群",
+          "pos": "n."
+        },
+        {
+          "en": "hold",
+          "zh": "\"n. 控制；保留",
+          "pos": "n."
+        },
+        {
+          "en": "homecoming",
+          "zh": "n. 归国；同学会；省亲回家",
+          "pos": "n."
+        },
+        {
+          "en": "homeless",
+          "zh": "\"adj. 无家可归的",
+          "pos": "adj."
+        },
+        {
+          "en": "hometown",
+          "zh": "n. 家乡；故乡",
+          "pos": "n."
+        },
+        {
+          "en": "homework",
+          "zh": "n. 家庭作业，课外作业",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

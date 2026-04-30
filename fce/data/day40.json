@@ -1,0 +1,304 @@
+{
+  "day": 40,
+  "title": "Day 40 · sincerely → solve",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "slender",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "KAY/O Unit",
+      "hp": 100,
+      "words": [
+        {
+          "en": "sincerely",
+          "zh": "adv. 真诚地；由衷地，诚恳地",
+          "pos": "adv."
+        },
+        {
+          "en": "single",
+          "zh": "\"n. 一个；单打；单程票",
+          "pos": "n."
+        },
+        {
+          "en": "singular",
+          "zh": "\"n. 单数",
+          "pos": "n."
+        },
+        {
+          "en": "sink",
+          "zh": "\"n. 水槽；洗涤槽；污水坑",
+          "pos": "n."
+        },
+        {
+          "en": "sip",
+          "zh": "\"n. 抿；小口喝；单列直插式组件",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Fade Nightmare",
+      "hp": 150,
+      "words": [
+        {
+          "en": "sit",
+          "zh": "\"vi. 坐；位于",
+          "pos": "vi."
+        },
+        {
+          "en": "site",
+          "zh": "\"n. 地点；位置；场所",
+          "pos": "n."
+        },
+        {
+          "en": "situate",
+          "zh": "\"adj. 位于…的",
+          "pos": "adj."
+        },
+        {
+          "en": "situation",
+          "zh": "n. 情况；形势；处境；位置",
+          "pos": "n."
+        },
+        {
+          "en": "sketch",
+          "zh": "\"n. 素描；略图；梗概",
+          "pos": "n."
+        },
+        {
+          "en": "skill",
+          "zh": "n. 技能，技巧；本领，技术",
+          "pos": "n."
+        },
+        {
+          "en": "skimp",
+          "zh": "\"vi. 节省；不够用心",
+          "pos": "vi."
+        },
+        {
+          "en": "skyline",
+          "zh": "\"n. 地平线；空中轮廓线；架空索",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "skyscraper",
+          "zh": "n. 摩天楼，超高层大楼；特别高的东西",
+          "pos": "n."
+        },
+        {
+          "en": "slam",
+          "zh": "\"n. 猛击；砰然声",
+          "pos": "n."
+        },
+        {
+          "en": "slang",
+          "zh": "\"n. 俚语；行话",
+          "pos": "n."
+        },
+        {
+          "en": "sleep",
+          "zh": "\"n. 睡眠",
+          "pos": "n."
+        },
+        {
+          "en": "sleepless",
+          "zh": "adj. 失眠的；不休息的；警觉的；永不停息的",
+          "pos": "adj."
+        },
+        {
+          "en": "slender",
+          "zh": "adj. 细长的；苗条的；微薄的",
+          "pos": "adj."
+        },
+        {
+          "en": "slide",
+          "zh": "\"n. 滑动；幻灯片；滑梯；雪崩",
+          "pos": "n."
+        },
+        {
+          "en": "slightly",
+          "zh": "adv. 些微地，轻微地；纤细地",
+          "pos": "adv."
+        },
+        {
+          "en": "slip",
+          "zh": "\"n. 滑，滑倒；片，纸片；错误；下跌；事故",
+          "pos": "n."
+        },
+        {
+          "en": "slope",
+          "zh": "\"n. 斜坡；倾斜；斜率；扛枪姿势",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Wraith",
+      "hp": 250,
+      "words": [
+        {
+          "en": "slot",
+          "zh": "\"n. 位置；狭槽；水沟；硬币投币口",
+          "pos": "n."
+        },
+        {
+          "en": "slouch",
+          "zh": "\"n. 下垂；笨拙的人，懒散的人；懒散的样子",
+          "pos": "n."
+        },
+        {
+          "en": "slow",
+          "zh": "\"adj. 慢的；减速的；迟钝的",
+          "pos": "adj."
+        },
+        {
+          "en": "slowdown",
+          "zh": "n. 减速；怠工；降低速度",
+          "pos": "n."
+        },
+        {
+          "en": "slump",
+          "zh": "\"vt. 使降低；使衰落；使倒下",
+          "pos": "vt."
+        },
+        {
+          "en": "smartly",
+          "zh": "adv. 刺痛地；漂亮地；潇洒地；火辣辣地",
+          "pos": "adv."
+        },
+        {
+          "en": "smash",
+          "zh": "\"n. 破碎；扣球；冲突；大败",
+          "pos": "n."
+        },
+        {
+          "en": "smell",
+          "zh": "\"n. 气味，嗅觉；臭味",
+          "pos": "n."
+        },
+        {
+          "en": "smile",
+          "zh": "\"n. 微笑；笑容；喜色",
+          "pos": "n."
+        },
+        {
+          "en": "smoothly",
+          "zh": "adv. 平稳地，平滑地；流畅地，流利地",
+          "pos": "adv."
+        },
+        {
+          "en": "slender",
+          "zh": "adj. 细长的；苗条的；微薄的",
+          "pos": "adj."
+        },
+        {
+          "en": "snatch",
+          "zh": "\"n. 抢夺；抓举；小量",
+          "pos": "n."
+        },
+        {
+          "en": "so",
+          "zh": "\"conj. 所以；因此",
+          "pos": "conj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "soak",
+          "zh": "\"n. 浸；湿透；大雨",
+          "pos": "n."
+        },
+        {
+          "en": "so-called",
+          "zh": "adj. 所谓的；号称的",
+          "pos": "adj."
+        },
+        {
+          "en": "sociable",
+          "zh": "\"n. 联谊会",
+          "pos": "n."
+        },
+        {
+          "en": "social",
+          "zh": "\"n. 联谊会；联欢会",
+          "pos": "n."
+        },
+        {
+          "en": "socialize",
+          "zh": "\"vt. 使社会化；使社会主义化；使适应社会生活",
+          "pos": "vt."
+        },
+        {
+          "en": "society",
+          "zh": "n. 社会；交往；社团；社交界",
+          "pos": "n."
+        },
+        {
+          "en": "sociology",
+          "zh": "n. 社会学；群体生态学",
+          "pos": "n."
+        },
+        {
+          "en": "softly",
+          "zh": "adv. 温柔地；柔和地；柔软地；静静地",
+          "pos": "adv."
+        },
+        {
+          "en": "software",
+          "zh": "n. 软件",
+          "pos": "n."
+        },
+        {
+          "en": "solar",
+          "zh": "\"n. 日光浴室",
+          "pos": "n."
+        },
+        {
+          "en": "solemnity",
+          "zh": "n. 严肃；庄严；一本正经",
+          "pos": "n."
+        },
+        {
+          "en": "solid",
+          "zh": "\"n. 固体；立方体",
+          "pos": "n."
+        },
+        {
+          "en": "solitude",
+          "zh": "n. 孤独；隐居；荒僻的地方",
+          "pos": "n."
+        },
+        {
+          "en": "solo",
+          "zh": "\"n. 独奏；独唱；独奏曲",
+          "pos": "n."
+        },
+        {
+          "en": "solve",
+          "zh": "\"vt. 解决；解答；溶解",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

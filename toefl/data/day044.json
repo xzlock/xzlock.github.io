@@ -1,0 +1,304 @@
+{
+  "day": 44,
+  "title": "Day 044 · greedy → haunted",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "gull",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Skye Pup",
+      "hp": 100,
+      "words": [
+        {
+          "en": "greedy",
+          "zh": "adj. 贪婪的",
+          "pos": "adj."
+        },
+        {
+          "en": "grind",
+          "zh": "vt. 磨碎，碾碎",
+          "pos": "vt."
+        },
+        {
+          "en": "grip",
+          "zh": "v. 紧握，紧抓",
+          "pos": "v."
+        },
+        {
+          "en": "grope",
+          "zh": "vi. 摸索，探索",
+          "pos": "vi."
+        },
+        {
+          "en": "grumble",
+          "zh": "n./v. 抱怨",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "guarantee",
+          "zh": "vt. 保证，担保",
+          "pos": "vt."
+        },
+        {
+          "en": "gulf",
+          "zh": "n. 海湾",
+          "pos": "n."
+        },
+        {
+          "en": "gull",
+          "zh": "n. 鸥，海鸥",
+          "pos": "n."
+        },
+        {
+          "en": "gulp",
+          "zh": "n./vt. 吞；吞咽",
+          "pos": "n."
+        },
+        {
+          "en": "gush",
+          "zh": "vi. 喷涌，涌流",
+          "pos": "vi."
+        },
+        {
+          "en": "gust",
+          "zh": "n. 一阵强风",
+          "pos": "n."
+        },
+        {
+          "en": "gymnastic",
+          "zh": "adj. 体操的，体育的",
+          "pos": "adj."
+        },
+        {
+          "en": "gymnastics",
+          "zh": "n. 体操，体育",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "gyration",
+          "zh": "n. 旋转",
+          "pos": "n."
+        },
+        {
+          "en": "habitat",
+          "zh": "n. 产地，栖息地",
+          "pos": "n."
+        },
+        {
+          "en": "hail",
+          "zh": "n. 冰雹",
+          "pos": "n."
+        },
+        {
+          "en": "hallmark",
+          "zh": "n. 标志，特征",
+          "pos": "n."
+        },
+        {
+          "en": "halt",
+          "zh": "n./vt. （使）停止",
+          "pos": "n."
+        },
+        {
+          "en": "hamburger",
+          "zh": "n. 汉堡包",
+          "pos": "n."
+        },
+        {
+          "en": "hamper",
+          "zh": "vt. 妨碍，使困难",
+          "pos": "vt."
+        },
+        {
+          "en": "handicap",
+          "zh": "n. 残疾",
+          "pos": "n."
+        },
+        {
+          "en": "handicraft",
+          "zh": "n. 手工艺品",
+          "pos": "n."
+        },
+        {
+          "en": "handy",
+          "zh": "adj. 便利的，容易取得的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "gull",
+          "zh": "n. 鸥，海鸥",
+          "pos": "n."
+        },
+        {
+          "en": "handful",
+          "zh": "n. 一把, 少数",
+          "pos": "n."
+        },
+        {
+          "en": "haphazard",
+          "zh": "adj. 偶然的；随便的",
+          "pos": "adj."
+        },
+        {
+          "en": "harbor",
+          "zh": "n. 海港",
+          "pos": "n."
+        },
+        {
+          "en": "harden",
+          "zh": "v. 使变硬",
+          "pos": "v."
+        },
+        {
+          "en": "hardy",
+          "zh": "adj. 能吃苦耐劳的，强壮的",
+          "pos": "adj."
+        },
+        {
+          "en": "harmful",
+          "zh": "adj. 有害的；伤害的",
+          "pos": "adj."
+        },
+        {
+          "en": "harmless",
+          "zh": "adj. 无害的",
+          "pos": "adj."
+        },
+        {
+          "en": "harmonize",
+          "zh": "v. （使）协调，（使）和谐",
+          "pos": "v."
+        },
+        {
+          "en": "harmony",
+          "zh": "n. 协调，融洽",
+          "pos": "n."
+        },
+        {
+          "en": "harmonious",
+          "zh": "adj. 和谐的",
+          "pos": "adj."
+        },
+        {
+          "en": "harmonic",
+          "zh": "adj. 和声的",
+          "pos": "adj."
+        },
+        {
+          "en": "harmonica",
+          "zh": "n. 口琴",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "philharmonic",
+          "zh": "n. 交响乐团",
+          "pos": "n."
+        },
+        {
+          "en": "harness",
+          "zh": "vt. 利用（河流、瀑布等）产生动力",
+          "pos": "vt."
+        },
+        {
+          "en": "harsh",
+          "zh": "adj. 粗糙的；刺耳的，刻薄的",
+          "pos": "adj."
+        },
+        {
+          "en": "harshness",
+          "zh": "n. 严酷，恶劣",
+          "pos": "n."
+        },
+        {
+          "en": "harvest",
+          "zh": "v. 收获，收割",
+          "pos": "v."
+        },
+        {
+          "en": "haste",
+          "zh": "n. 匆忙，急忙；草率",
+          "pos": "n."
+        },
+        {
+          "en": "hasten",
+          "zh": "vt. 加速",
+          "pos": "vt."
+        },
+        {
+          "en": "hatch",
+          "zh": "vt. 孵化",
+          "pos": "vt."
+        },
+        {
+          "en": "hatchling",
+          "zh": "n. 人工孵化的鱼苗或小鸟",
+          "pos": "n."
+        },
+        {
+          "en": "hatchery",
+          "zh": "n. 孵卵所",
+          "pos": "n."
+        },
+        {
+          "en": "hatchet",
+          "zh": "n. 短柄斧",
+          "pos": "n."
+        },
+        {
+          "en": "thatch",
+          "zh": "vt. 用茅草覆盖屋顶",
+          "pos": "vt."
+        },
+        {
+          "en": "haul",
+          "zh": "v. 拖",
+          "pos": "v."
+        },
+        {
+          "en": "haunt",
+          "zh": "vt. （思想、回忆等）萦绕心头",
+          "pos": "vt."
+        },
+        {
+          "en": "haunted",
+          "zh": "adj. 闹鬼的,鬼魂出没的,受到折磨的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

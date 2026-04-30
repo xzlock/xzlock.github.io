@@ -1,0 +1,304 @@
+{
+  "day": 26,
+  "title": "Day 026 · degrade → depredation",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "immobilize",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Reyna Mote",
+      "hp": 100,
+      "words": [
+        {
+          "en": "degrade",
+          "zh": "v. 使降级，贬低",
+          "pos": "v."
+        },
+        {
+          "en": "degradation",
+          "zh": "n. 退化；降级，降格",
+          "pos": "n."
+        },
+        {
+          "en": "dehydrate",
+          "zh": "vt. 使脱水",
+          "pos": "vt."
+        },
+        {
+          "en": "dehydrated",
+          "zh": "adj. 干燥的，脱水的",
+          "pos": "adj."
+        },
+        {
+          "en": "dehydration",
+          "zh": "n. 脱水，干燥",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "deign",
+          "zh": "vi. 屈尊",
+          "pos": "vi."
+        },
+        {
+          "en": "deity",
+          "zh": "n. 神，被奉若神明的人或物",
+          "pos": "n."
+        },
+        {
+          "en": "delay",
+          "zh": "vt./n. 推迟，耽搁",
+          "pos": "vt."
+        },
+        {
+          "en": "delectable",
+          "zh": "adj. 美味的",
+          "pos": "adj."
+        },
+        {
+          "en": "delegate",
+          "zh": "n. 代表",
+          "pos": "n."
+        },
+        {
+          "en": "deliberate",
+          "zh": "adj. 故意的，早有准备的",
+          "pos": "adj."
+        },
+        {
+          "en": "deliberately",
+          "zh": "adv. 故意地",
+          "pos": "adv."
+        },
+        {
+          "en": "delicate",
+          "zh": "adj. 脆的，易损的；娇弱的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "delicious",
+          "zh": "adj. 美味的，可口的",
+          "pos": "adj."
+        },
+        {
+          "en": "delirium",
+          "zh": "n. 精神错乱，发狂",
+          "pos": "n."
+        },
+        {
+          "en": "delta",
+          "zh": "n. 三角洲",
+          "pos": "n."
+        },
+        {
+          "en": "demobilize",
+          "zh": "vt. 遣散，使复员",
+          "pos": "vt."
+        },
+        {
+          "en": "immobilize",
+          "zh": "vt. 使固定不动",
+          "pos": "vt."
+        },
+        {
+          "en": "democracy",
+          "zh": "n. 民主政治，民主主义",
+          "pos": "n."
+        },
+        {
+          "en": "demolish",
+          "zh": "vt. 破坏，摧毁",
+          "pos": "vt."
+        },
+        {
+          "en": "demolition",
+          "zh": "n. 破坏，拆除",
+          "pos": "n."
+        },
+        {
+          "en": "demonstrate",
+          "zh": "vt. 演示；论证",
+          "pos": "vt."
+        },
+        {
+          "en": "demonstration",
+          "zh": "n. 实证；示范",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "denomination",
+          "zh": "n. 宗派，教派",
+          "pos": "n."
+        },
+        {
+          "en": "denote",
+          "zh": "vt. 指示，表示",
+          "pos": "vt."
+        },
+        {
+          "en": "denounce",
+          "zh": "vt. （公开）谴责，斥责",
+          "pos": "vt."
+        },
+        {
+          "en": "dense",
+          "zh": "adj. 密集的，浓厚的",
+          "pos": "adj."
+        },
+        {
+          "en": "density",
+          "zh": "n. 密度",
+          "pos": "n."
+        },
+        {
+          "en": "immobilize",
+          "zh": "vt. 使固定不动",
+          "pos": "vt."
+        },
+        {
+          "en": "dent",
+          "zh": "n. 缺口，凹痕",
+          "pos": "n."
+        },
+        {
+          "en": "indent",
+          "zh": "vt. 使凹进",
+          "pos": "vt."
+        },
+        {
+          "en": "indenture",
+          "zh": "vt. 以契约束缚（学徒等）",
+          "pos": "vt."
+        },
+        {
+          "en": "edentate",
+          "zh": "n. 贫齿类动物",
+          "pos": "n."
+        },
+        {
+          "en": "dentistry",
+          "zh": "n. 牙科",
+          "pos": "n."
+        },
+        {
+          "en": "dental",
+          "zh": "adj. 牙齿的",
+          "pos": "adj."
+        },
+        {
+          "en": "dentist",
+          "zh": "n. 牙科医生",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "deny",
+          "zh": "vt. 否认，否定",
+          "pos": "vt."
+        },
+        {
+          "en": "depart",
+          "zh": "vi. 离开，出发",
+          "pos": "vi."
+        },
+        {
+          "en": "departure",
+          "zh": "n. 离开，出发",
+          "pos": "n."
+        },
+        {
+          "en": "dependent",
+          "zh": "adj. 依赖的；从属的，由…而定的",
+          "pos": "adj."
+        },
+        {
+          "en": "dependence",
+          "zh": "n. 依赖，信赖",
+          "pos": "n."
+        },
+        {
+          "en": "dependable",
+          "zh": "adj. 可靠的，可信赖的",
+          "pos": "adj."
+        },
+        {
+          "en": "independent",
+          "zh": "adj. 独立自主的，不受约束的",
+          "pos": "adj."
+        },
+        {
+          "en": "interdependent",
+          "zh": "adj. 相互依赖的，互助的",
+          "pos": "adj."
+        },
+        {
+          "en": "depict",
+          "zh": "vt. 描绘；描写，描述",
+          "pos": "vt."
+        },
+        {
+          "en": "deplete",
+          "zh": "vt. 耗尽，使衰竭",
+          "pos": "vt."
+        },
+        {
+          "en": "deposit",
+          "zh": "vt. 堆积，沉淀",
+          "pos": "vt."
+        },
+        {
+          "en": "depositor",
+          "zh": "n. 存款人",
+          "pos": "n."
+        },
+        {
+          "en": "depot",
+          "zh": "n. 货站，仓库",
+          "pos": "n."
+        },
+        {
+          "en": "depreciation",
+          "zh": "n. 贬值",
+          "pos": "n."
+        },
+        {
+          "en": "depredation",
+          "zh": "n. 劫掠，蹂躏",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

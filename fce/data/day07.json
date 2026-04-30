@@ -1,0 +1,304 @@
+{
+  "day": 7,
+  "title": "Day 07 · championship → cognitive",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "cluster",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Sova Scout",
+      "hp": 100,
+      "words": [
+        {
+          "en": "championship",
+          "zh": "n. 锦标赛；冠军称号；冠军的地位",
+          "pos": "n."
+        },
+        {
+          "en": "chance",
+          "zh": "\"n. 机会，际遇；运气，侥幸；可能性",
+          "pos": "n."
+        },
+        {
+          "en": "change",
+          "zh": "\"n. 变化；找回的零钱",
+          "pos": "n."
+        },
+        {
+          "en": "channel",
+          "zh": "\"n. 通道；频道；海峡",
+          "pos": "n."
+        },
+        {
+          "en": "chant",
+          "zh": "\"n. 圣歌；赞美诗",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Raze Bomber",
+      "hp": 150,
+      "words": [
+        {
+          "en": "chaotic",
+          "zh": "adj. 混沌的；混乱的，无秩序的",
+          "pos": "adj."
+        },
+        {
+          "en": "character",
+          "zh": "\"n. 性格，品质；特性；角色； 字符",
+          "pos": "n."
+        },
+        {
+          "en": "charge",
+          "zh": "\"n. 费用；电荷；掌管；控告；命令；负载",
+          "pos": "n."
+        },
+        {
+          "en": "charity",
+          "zh": "n. 慈善；施舍；慈善团体；宽容；施舍物",
+          "pos": "n."
+        },
+        {
+          "en": "chase",
+          "zh": "\"n. 追逐；追赶；追击",
+          "pos": "n."
+        },
+        {
+          "en": "chat",
+          "zh": "\"n. 聊天；闲谈",
+          "pos": "n."
+        },
+        {
+          "en": "cheat",
+          "zh": "\"n. 欺骗，作弊；骗子",
+          "pos": "n."
+        },
+        {
+          "en": "check",
+          "zh": "\"n. <美>支票；制止，抑制；检验，核对",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "check-in",
+          "zh": "n. 签到；投宿登记手续；验票并领取登机卡",
+          "pos": "n."
+        },
+        {
+          "en": "checkout",
+          "zh": "n. 检验；签出；结账台；检出",
+          "pos": "n."
+        },
+        {
+          "en": "chemical",
+          "zh": "\"n. 化学制品，化学药品",
+          "pos": "n."
+        },
+        {
+          "en": "cherish",
+          "zh": "\"vt. 珍爱",
+          "pos": "vt."
+        },
+        {
+          "en": "chill",
+          "zh": "\"n. 寒冷；寒意；寒心",
+          "pos": "n."
+        },
+        {
+          "en": "choice",
+          "zh": "\"n. 选择；选择权；精选品",
+          "pos": "n."
+        },
+        {
+          "en": "choke",
+          "zh": "\"n. 窒息；噎； 阻气门",
+          "pos": "n."
+        },
+        {
+          "en": "choose",
+          "zh": "\"vt. 选择，决定",
+          "pos": "vt."
+        },
+        {
+          "en": "circle",
+          "zh": "\"n. 循环，周期；圆；圈子；圆形物",
+          "pos": "n."
+        },
+        {
+          "en": "circuit",
+          "zh": "\"n. 电路，回路；巡回；一圈；环道",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Wraith",
+      "hp": 250,
+      "words": [
+        {
+          "en": "circular",
+          "zh": "\"n. 通知，传单",
+          "pos": "n."
+        },
+        {
+          "en": "cluster",
+          "zh": "\"n. 群；簇；丛；串",
+          "pos": "n."
+        },
+        {
+          "en": "circulation",
+          "zh": "n. 流通，传播；循环；发行量",
+          "pos": "n."
+        },
+        {
+          "en": "circumstance",
+          "zh": "n. 环境，情况；事件；境遇",
+          "pos": "n."
+        },
+        {
+          "en": "citizen",
+          "zh": "n. 公民；市民；老百姓",
+          "pos": "n."
+        },
+        {
+          "en": "civil",
+          "zh": "adj. 公民的；民间的；文职的；有礼貌的；根据民法的",
+          "pos": "adj."
+        },
+        {
+          "en": "civilization",
+          "zh": "n. 文明；文化",
+          "pos": "n."
+        },
+        {
+          "en": "claim",
+          "zh": "\"n. 要求；声称；索赔；断言；值得",
+          "pos": "n."
+        },
+        {
+          "en": "clarify",
+          "zh": "\"vt. 澄清；阐明",
+          "pos": "vt."
+        },
+        {
+          "en": "classical",
+          "zh": "\"n. 古典音乐",
+          "pos": "n."
+        },
+        {
+          "en": "classify",
+          "zh": "vt. 分类；分等",
+          "pos": "vt."
+        },
+        {
+          "en": "clean",
+          "zh": "\"n. 打扫",
+          "pos": "n."
+        },
+        {
+          "en": "clean-up",
+          "zh": "n. 清除；净化；打扫卫生",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radianite Colossus",
+      "hp": 300,
+      "words": [
+        {
+          "en": "clear",
+          "zh": "\"n. 清除；空隙",
+          "pos": "n."
+        },
+        {
+          "en": "clearly",
+          "zh": "adv. 清晰地；明显地；无疑地；明净地",
+          "pos": "adv."
+        },
+        {
+          "en": "click",
+          "zh": "\"n. 单击；滴答声",
+          "pos": "n."
+        },
+        {
+          "en": "climb",
+          "zh": "\"n. 爬；攀登",
+          "pos": "n."
+        },
+        {
+          "en": "clinch",
+          "zh": "\"n. 拥吻；钉牢",
+          "pos": "n."
+        },
+        {
+          "en": "cling",
+          "zh": "vi. 坚持，墨守；紧贴；附着",
+          "pos": "vi."
+        },
+        {
+          "en": "clip",
+          "zh": "\"vi. 剪；修剪；剪下报刊上的文章（或新闻、图片等）；迅速行动；用别针别在某物上，用夹子夹在某物上",
+          "pos": "vi."
+        },
+        {
+          "en": "clog",
+          "zh": "\"n. 障碍；木底鞋",
+          "pos": "n."
+        },
+        {
+          "en": "close",
+          "zh": "\"n. 结束",
+          "pos": "n."
+        },
+        {
+          "en": "clue",
+          "zh": "\"n. 线索；（故事等的）情节",
+          "pos": "n."
+        },
+        {
+          "en": "clumsy",
+          "zh": "\"adj. 笨拙的",
+          "pos": "adj."
+        },
+        {
+          "en": "cluster",
+          "zh": "\"n. 群；簇；丛；串",
+          "pos": "n."
+        },
+        {
+          "en": "coast",
+          "zh": "\"n. 海岸；滑坡",
+          "pos": "n."
+        },
+        {
+          "en": "coexist",
+          "zh": "vi. 共存；和平共处",
+          "pos": "vi."
+        },
+        {
+          "en": "cognitive",
+          "zh": "adj. 认知的，认识的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

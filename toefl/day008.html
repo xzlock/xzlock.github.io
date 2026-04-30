@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DAY 8 · Operation Lexicon</title>
+  <meta name="description" content="词汇征服战役 · Day 008" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="06cb22f2-6983-4e15-8624-90f22f2db00f"></script>  
+</head>
+<body>
+  <div class="container">
+
+    <!-- ===== 顶部导航（紧凑版） ===== -->
+    <header class="site-header">
+      <div class="logo">
+        <span class="logo-mark">⬢</span>
+        <span class="logo-text">OPERATION <strong>LEXICON</strong></span>
+      </div>
+      <nav class="nav">
+        <a href="index.html">← 战役地图</a>
+        <a href="#" id="prev-day">上一关</a>
+        <a href="#" id="next-day">下一关</a>
+      </nav>
+    </header>
+
+    <!-- ===== 战役标题（精简） ===== -->
+    <section class="hero" style="padding: 20px 0;">
+      <p class="hero-tag">// MISSION · DAY 8</p>
+      <h1 class="hero-title" style="font-size: clamp(28px, 4vw, 42px);">
+        DAY 008
+        <span class="accent" style="font-size: 0.6em; letter-spacing: 0.1em;">击败 5 只词汇怪物</span>
+      </h1>
+    </section>
+
+    <!-- ===== 关卡进度条 ===== -->
+    <section class="section" style="padding: 8px 0;">
+      <div class="progress-wrap">
+        <div class="progress-label">
+          <span>关卡进度</span>
+          <span id="stage-progress-text">怪物 1 / 5</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-fill" id="stage-progress-fill" style="width: 0%"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 战斗舞台 ===== -->
+    <section class="battle-stage" id="battle-stage">
+
+      <div class="monster-card">
+        <p class="hero-tag" id="monster-tier">// TIER I · INITIATE</p>
+        <h2 class="monster-name" id="monster-name">Viper Spawn</h2>
+
+        <div class="monster-avatar" id="monster-avatar">
+          <div class="svg-scroll-wrapper" id="monster-svg-wrap"></div>
+        </div>
+
+        <div class="hp-bar">
+          <div class="hp-fill" id="hp-fill" style="width: 100%"></div>
+          <div class="hp-text" id="hp-text">100 / 100</div>
+        </div>
+      </div>
+
+      <div class="word-prompt">
+        <p style="color: var(--val-gray); font-size: var(--fs-sm); letter-spacing: 0.2em;">
+          请根据中文写出英文
+          <span id="review-tag" class="review-tag" style="display: none;">⚡ 复习</span>
+        </p>
+        <h3 id="word-chinese" style="font-size: var(--fs-2xl); color: var(--val-ink); margin: 12px 0;">
+          加载中...
+        </h3>
+        <p id="word-pos" style="color: var(--val-gray); font-size: var(--fs-sm);">—</p>
+
+        <div id="retry-banner" class="retry-banner" style="display: none;">
+          <span class="retry-icon">⚠</span>
+          <span>请重新正确拼写这个单词才能继续</span>
+        </div>
+
+        <p id="format-hint" class="format-hint" style="display: none;"></p>
+      </div>
+
+      <!-- ===== 紧凑输入区（替代虚拟键盘） ===== -->
+      <div class="battle-input-area">
+        <input
+          type="text"
+          id="answer-input"
+          class="battle-input"
+          placeholder="输入英文..."
+          autocomplete="off"
+          autocorrect="off"
+          autocapitalize="off"
+          spellcheck="false"
+          data-lpignore="true"
+          data-form-type="other"
+          inputmode="text"
+          maxlength="40"
+        />
+        <button class="battle-sound-btn" id="sound-btn" type="button" title="听发音">🔊</button>
+        <button class="battle-attack-btn" id="kb-submit" type="button">⚔ 攻击</button>
+      </div>
+
+      <p class="battle-hint">💡 回车键攻击 · 大小写不敏感 · 空格/短划线可输入</p>
+
+      <p id="feedback" style="margin-top: 12px; font-weight: 700; min-height: 24px; text-align: center;"></p>
+
+      <details style="margin-top: 16px; text-align: left; max-width: 520px; margin-left: auto; margin-right: auto;">
+        <summary style="cursor: pointer; color: var(--val-gray); font-size: var(--fs-sm);">📜 战斗日志</summary>
+        <ul id="battle-log" style="font-size: var(--fs-sm); color: var(--val-gray); max-height: 180px; overflow-y: auto; padding-left: 20px;"></ul>
+      </details>
+    </section>
+
+    <section class="section" id="victory-screen" style="display: none; text-align: center;">
+      <h2 style="font-size: var(--fs-3xl);">🏆 VICTORY</h2>
+      <p class="section-desc">你击败了今日所有怪物！</p>
+      <div class="hero-cta">
+        <a href="index.html" class="btn btn-ghost">返回战役地图</a>
+        <a href="#" id="next-day-btn" class="btn btn-primary">▶ 挑战下一天</a>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <p>Day 8 / 60 · Operation Lexicon</p>
+    </footer>
+
+  </div>
+
+  <script src="/assets/monsters.js"></script>
+  <script src="/assets/cloud-sync.js"></script>
+
+  <script>
+    'use strict';
+
+    var DAY_NUM = 8;
+    var DAY_KEY = 'day' + String(DAY_NUM).padStart(3, '0');
+    var SECTION = 'fce'; // 'fce' 或 'toefl'（TOEFL 生成脚本会替换）
+
+    var MONSTER_HP = [100, 150, 200, 250, 300];
+    var MONSTER_TIERS = [
+      { tier: 'I · INITIATE' },
+      { tier: 'II · DUELIST' },
+      { tier: 'III · SENTINEL' },
+      { tier: 'IV · CONTROLLER' },
+      { tier: 'V · BOSS' }
+    ];
+
+    var DAMAGE = 20;
+    var HEAL = 15;
+
+    // 状态
+    var dayData = null;
+    var currentMonsterIdx = 0;
+    var currentHP = MONSTER_HP[0];
+    var wordQueue = [];
+    var currentWordIndex = 0;
+    var mustRetry = false;
+    var retryWord = null;
+    var isAttacking = false;
+    var seenWordsInMonster = {};
+
+    // 🆕 输入监控：防止输入法自动完成
+    var lastInputLength = 0;
+
+    function normalize(str) {
+      if (!str) return '';
+      return String(str).toLowerCase().replace(/\s+/g, ' ').trim();
+    }
+
+    function detectSpecialChars(word) {
+      var hints = [];
+      if (/\s/.test(word)) hints.push('含空格');
+      if (/-/.test(word)) hints.push('含短划线');
+      if (/[A-Z]/.test(word) && word !== word.toUpperCase()) hints.push('含大写（不区分）');
+      if (/'/.test(word)) hints.push('含撇号');
+      if (/\./.test(word)) hints.push('含句点');
+      return hints;
+    }
+
+    fetch('data/' + DAY_KEY + '.json')
+      .then(function (r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
+      .then(function (data) {
+        dayData = data;
+        startMonster(0);
+      })
+      .catch(function (err) {
+        document.getElementById('word-chinese').textContent = '⚠ 数据加载失败：' + err.message;
+      });
+
+    // ========== 🆕 输入监控（核心防作弊） ==========
+    var inputEl = document.getElementById('answer-input');
+
+    inputEl.addEventListener('input', function (e) {
+      if (isAttacking) {
+        e.target.value = '';
+        return;
+      }
+
+      var value = e.target.value;
+      var delta = value.length - lastInputLength;
+
+      // 检测异常输入（输入法补全/粘贴/拖入）
+      // 正常打字：一次最多增加 1 个字符
+      // 异常：一次增加 2 个或以上（输入法候选词）
+      if (delta > 1) {
+        // 找出是否确实是人为快速输入（双字符组合如 "th"）
+        // 如果增加了 3 个以上，基本确定是自动补全 → 拒绝
+        if (delta > 2) {
+          console.warn('[Lexicon] 检测到疑似自动补全，已拒绝：+' + delta + '字符');
+          e.target.value = value.slice(0, lastInputLength);
+          showAntiCheatWarning();
+          return;
+        }
+      }
+
+      // 过滤非法字符（只允许字母、空格、短划线、撇号、点）
+      var cleaned = value.replace(/[^a-zA-Z\s\-'.]/g, '');
+      if (cleaned !== value) {
+        e.target.value = cleaned;
+      }
+
+      lastInputLength = e.target.value.length;
+    });
+
+    // 监控粘贴事件
+    inputEl.addEventListener('paste', function (e) {
+      e.preventDefault();
+      showAntiCheatWarning('不许粘贴哦，亲自打才能记住！');
+    });
+
+    // 监控拖入事件
+    inputEl.addEventListener('drop', function (e) {
+      e.preventDefault();
+      showAntiCheatWarning('拒绝拖入！');
+    });
+
+    function showAntiCheatWarning(msg) {
+      msg = msg || '⚠ 请勿使用自动补全';
+      var feedback = document.getElementById('feedback');
+      feedback.textContent = msg;
+      feedback.style.color = 'var(--warn)';
+      var input = document.getElementById('answer-input');
+      input.classList.add('is-error');
+      setTimeout(function () {
+        input.classList.remove('is-error');
+      }, 400);
+    }
+
+    // ========== 攻击锁 ==========
+    function setAttackLock(locked) {
+      isAttacking = locked;
+      var submitBtn = document.getElementById('kb-submit');
+      var input = document.getElementById('answer-input');
+      submitBtn.disabled = locked;
+      input.disabled = locked;
+    }
+
+    // ========== 物理键盘 Enter 攻击 ==========
+    inputEl.addEventListener('keydown', function (e) {
+      if (isAttacking) {
+        if (e.key !== 'Tab') e.preventDefault();
+        return;
+      }
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        attack();
+      }
+    });
+
+    function shuffle(arr) {
+      var a = arr.slice();
+      for (var i = a.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tmp = a[i]; a[i] = a[j]; a[j] = tmp;
+      }
+      return a;
+    }
+
+    function startMonster(idx) {
+      currentMonsterIdx = idx;
+      currentHP = MONSTER_HP[idx];
+      var tier = MONSTER_TIERS[idx];
+      var monster = dayData.monsters[idx];
+
+      document.getElementById('monster-tier').textContent = '// TIER ' + tier.tier;
+      document.getElementById('monster-name').textContent = monster.name;
+
+      var svgWrap = document.getElementById('monster-svg-wrap');
+      svgWrap.innerHTML = buildMonster(monster.tier, DAY_NUM, idx);
+
+      var avatar = document.getElementById('monster-avatar');
+      avatar.style.cssText = '';
+      svgWrap.style.cssText = '';
+      avatar.classList.remove('is-hit');
+
+      document.getElementById('stage-progress-text').textContent = '怪物 ' + (idx + 1) + ' / 5';
+      document.getElementById('stage-progress-fill').style.width = (idx / 5 * 100) + '%';
+
+      wordQueue = shuffle(monster.words || []);
+      currentWordIndex = 0;
+      mustRetry = false;
+      retryWord = null;
+      seenWordsInMonster = {};
+
+      setAttackLock(false);
+      updateHP();
+      nextWord();
+    }
+
+    function updateHP() {
+      var maxHP = MONSTER_HP[currentMonsterIdx];
+      currentHP = Math.max(0, Math.min(maxHP, currentHP));
+      var pct = (currentHP / maxHP) * 100;
+      document.getElementById('hp-fill').style.width = pct + '%';
+      document.getElementById('hp-text').textContent = currentHP + ' / ' + maxHP;
+    }
+
+    function nextWord() {
+      if (mustRetry && retryWord) {
+        dayData._currentWord = retryWord;
+        showCurrentWord();
+        setAttackLock(false);
+        return;
+      }
+
+      var pool = dayData.monsters[currentMonsterIdx].words;
+      if (!pool || pool.length === 0) {
+        document.getElementById('word-chinese').textContent = '⚠ 无单词数据';
+        return;
+      }
+
+      if (currentWordIndex >= wordQueue.length) {
+        wordQueue = shuffle(pool);
+        currentWordIndex = 0;
+      }
+
+      var word = wordQueue[currentWordIndex];
+      currentWordIndex++;
+
+      dayData._currentWord = word;
+      showCurrentWord();
+      setAttackLock(false);
+    }
+
+    function showCurrentWord() {
+      var word = dayData._currentWord;
+      document.getElementById('word-chinese').textContent = word.zh;
+      document.getElementById('word-pos').textContent = word.pos || '';
+
+      // 清空输入
+      var input = document.getElementById('answer-input');
+      input.value = '';
+      input.classList.remove('is-error', 'is-success');
+      lastInputLength = 0;
+      // 自动聚焦
+      setTimeout(function () { input.focus(); }, 100);
+
+      var reviewTag = document.getElementById('review-tag');
+      var wordKey = normalize(word.en);
+      if (seenWordsInMonster[wordKey]) {
+        reviewTag.style.display = 'inline-block';
+      } else {
+        reviewTag.style.display = 'none';
+      }
+
+      var hints = detectSpecialChars(word.en);
+      var hintEl = document.getElementById('format-hint');
+      if (hints.length > 0) {
+        hintEl.textContent = '💡 ' + hints.join(' · ');
+        hintEl.style.display = 'block';
+      } else {
+        hintEl.style.display = 'none';
+      }
+
+      var retryBanner = document.getElementById('retry-banner');
+      retryBanner.style.display = mustRetry ? 'flex' : 'none';
+    }
+
+    function attack() {
+      if (isAttacking) return;
+      var input = normalize(document.getElementById('answer-input').value);
+      if (!input) return;
+
+      setAttackLock(true);
+
+      var correct = normalize(dayData._currentWord.en);
+      var correctRaw = dayData._currentWord.en;
+      var feedback = document.getElementById('feedback');
+      var avatar = document.getElementById('monster-avatar');
+      var svgWrap = document.getElementById('monster-svg-wrap');
+      var inputEl = document.getElementById('answer-input');
+      var isBoss = currentMonsterIdx === 4;
+
+      if (input === correct) {
+        currentHP -= DAMAGE;
+        feedback.textContent = '✓ 命中！-' + DAMAGE + ' HP';
+        feedback.style.color = 'var(--success)';
+        showDamage(DAMAGE, true);
+
+        avatar.classList.add('is-hit');
+        setTimeout(function () { avatar.classList.remove('is-hit'); }, 400);
+
+        inputEl.classList.add('is-success');
+        setTimeout(function () { inputEl.classList.remove('is-success'); }, 400);
+
+        MonsterFX.shatter(svgWrap);
+        seenWordsInMonster[correct] = true;
+
+        if (mustRetry) {
+          logBattle('✓ 重做成功：' + correctRaw + ' → -' + DAMAGE + ' HP');
+          mustRetry = false;
+          retryWord = null;
+        } else {
+          logBattle('✓ ' + correctRaw + ' → -' + DAMAGE + ' HP');
+        }
+
+        updateHP();
+
+        if (currentHP <= 0) {
+          var tier = dayData.monsters[currentMonsterIdx].tier;
+          var paletteKey = TIER_PALETTES[tier][0];
+          var color = PALETTES[paletteKey].primary;
+          MonsterFX.explode(svgWrap, color);
+
+          setTimeout(function () {
+            if (currentMonsterIdx < 4) {
+              feedback.textContent = '💀 击败 ' + dayData.monsters[currentMonsterIdx].name + '！下一只怪物登场...';
+              setTimeout(function () { startMonster(currentMonsterIdx + 1); }, 1500);
+            } else {
+              victory();
+            }
+          }, 1000);
+        } else {
+          setTimeout(function () { nextWord(); }, 800);
+        }
+
+      } else {
+        currentHP = Math.min(MONSTER_HP[currentMonsterIdx], currentHP + HEAL);
+        feedback.textContent = '✗ 错误！正确答案：' + correctRaw + '（请重新拼写）';
+        feedback.style.color = 'var(--danger)';
+        showDamage(HEAL, false);
+
+        inputEl.classList.add('is-error');
+        setTimeout(function () { inputEl.classList.remove('is-error'); }, 400);
+
+        if (isBoss && Math.random() < 0.4) {
+          MonsterFX.bossRage();
+        }
+
+        logBattle('✗ 你写:"' + document.getElementById('answer-input').value + '" 正确:"' + correctRaw + '" → +' + HEAL + ' HP（需重做）');
+
+        mustRetry = true;
+        retryWord = dayData._currentWord;
+
+        updateHP();
+
+        setTimeout(function () {
+          showCurrentWord();
+          feedback.textContent = '⚠ 请正确拼写才能继续';
+          feedback.style.color = 'var(--warn)';
+          setAttackLock(false);
+        }, 1200);
+      }
+    }
+
+    function showDamage(num, isHit) {
+      var stage = document.getElementById('battle-stage');
+      var el = document.createElement('div');
+      el.className = 'damage-num';
+      el.textContent = (isHit ? '-' : '+') + num;
+      el.style.color = isHit ? 'var(--val-red)' : 'var(--warn)';
+      el.style.left = (40 + Math.random() * 20) + '%';
+      el.style.top = '30%';
+      stage.appendChild(el);
+      setTimeout(function () { el.remove(); }, 1000);
+    }
+
+    function logBattle(msg) {
+      var log = document.getElementById('battle-log');
+      var li = document.createElement('li');
+      li.textContent = msg;
+      log.insertBefore(li, log.firstChild);
+      while (log.children.length > 50) {
+        log.removeChild(log.lastChild);
+      }
+    }
+
+    function victory() {
+      document.getElementById('battle-stage').style.display = 'none';
+      document.getElementById('victory-screen').style.display = 'block';
+      document.getElementById('stage-progress-fill').style.width = '100%';
+
+      var progressData = {
+        completed: true,
+        date: new Date().toISOString()
+      };
+
+      if (window.CloudSync) {
+        CloudSync.saveDay(SECTION, DAY_KEY, progressData);
+      } else {
+        var localKey = SECTION === 'fce' ? 'toefl-progress' : 'toefl-progress';
+        var progress = JSON.parse(localStorage.getItem(localKey) || '{}');
+        progress[DAY_KEY] = progressData;
+        localStorage.setItem(localKey, JSON.stringify(progress));
+      }
+
+      if (DAY_NUM < 108) {
+        var nextKey = 'day' + String(DAY_NUM + 1).padStart(3, '0');
+        document.getElementById('next-day-btn').href = nextKey + '.html';
+      } else {
+        document.getElementById('next-day-btn').textContent = '🎉 战役完成';
+        document.getElementById('next-day-btn').href = 'index.html';
+      }
+    }
+
+    function speakWord() {
+      if (!dayData || !dayData._currentWord) return;
+      var utter = new SpeechSynthesisUtterance(dayData._currentWord.en);
+      utter.lang = 'en-GB';
+      utter.rate = 0.9;
+      speechSynthesis.cancel();
+      speechSynthesis.speak(utter);
+    }
+
+    document.getElementById('kb-submit').addEventListener('click', attack);
+    document.getElementById('sound-btn').addEventListener('click', speakWord);
+
+    var prevNum = DAY_NUM - 1;
+    var nextNum = DAY_NUM + 1;
+    var prevLink = document.getElementById('prev-day');
+    var nextLink = document.getElementById('next-day');
+
+    if (prevNum >= 1) {
+      prevLink.href = 'day' + String(prevNum).padStart(3, '0') + '.html';
+    } else {
+      prevLink.style.opacity = '0.3';
+      prevLink.style.pointerEvents = 'none';
+    }
+
+    if (nextNum <= 108) {
+      nextLink.href = 'day' + String(nextNum).padStart(3, '0') + '.html';
+    } else {
+      nextLink.style.opacity = '0.3';
+      nextLink.style.pointerEvents = 'none';
+    }
+  </script>
+</body>
+</html>

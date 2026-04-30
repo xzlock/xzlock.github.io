@@ -1,0 +1,304 @@
+{
+  "day": 86,
+  "title": "Day 086 · starch → strenuously",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "stipulate",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Phoenix Ember",
+      "hp": 100,
+      "words": [
+        {
+          "en": "starch",
+          "zh": "n. 淀粉；淀粉食物",
+          "pos": "n."
+        },
+        {
+          "en": "stardom",
+          "zh": "n. 明星的身份或地位",
+          "pos": "n."
+        },
+        {
+          "en": "starfish",
+          "zh": "n. 海星",
+          "pos": "n."
+        },
+        {
+          "en": "stark",
+          "zh": "adj. 光秃秃的；荒凉的",
+          "pos": "adj."
+        },
+        {
+          "en": "starve",
+          "zh": "v. 挨饿",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "starvation",
+          "zh": "n. 饥饿，饿死",
+          "pos": "n."
+        },
+        {
+          "en": "stash",
+          "zh": "vt. 藏或贮存于一秘密处所",
+          "pos": "vt."
+        },
+        {
+          "en": "stately",
+          "zh": "adj. 庄严的，堂皇的",
+          "pos": "adj."
+        },
+        {
+          "en": "stationary",
+          "zh": "adj. 固定的；静止的",
+          "pos": "adj."
+        },
+        {
+          "en": "stationery",
+          "zh": "n. 文具",
+          "pos": "n."
+        },
+        {
+          "en": "statistics",
+          "zh": "n. 统计学",
+          "pos": "n."
+        },
+        {
+          "en": "stature",
+          "zh": "n. 身高，身材；声望，地位",
+          "pos": "n."
+        },
+        {
+          "en": "status",
+          "zh": "n. 状况；身份，地位",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "steadfast",
+          "zh": "adj. 坚定的，坚信的",
+          "pos": "adj."
+        },
+        {
+          "en": "steady",
+          "zh": "adj. 稳的，牢固的",
+          "pos": "adj."
+        },
+        {
+          "en": "steak",
+          "zh": "n. (供煎, 烤等的)肉, 牛排",
+          "pos": "n."
+        },
+        {
+          "en": "steep",
+          "zh": "adj. 险峻的，陡峭的",
+          "pos": "adj."
+        },
+        {
+          "en": "steer",
+          "zh": "v. 驾驶，掌舵",
+          "pos": "v."
+        },
+        {
+          "en": "stellar",
+          "zh": "adj. 星的，星球的",
+          "pos": "adj."
+        },
+        {
+          "en": "stem",
+          "zh": "n. （植物的）茎",
+          "pos": "n."
+        },
+        {
+          "en": "sterile",
+          "zh": "adj. 贫瘠的；不育的",
+          "pos": "adj."
+        },
+        {
+          "en": "stern",
+          "zh": "adj. 苛刻的，严格的；严厉的",
+          "pos": "adj."
+        },
+        {
+          "en": "stick",
+          "zh": "n. 棍，棒；手杖",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "sticky",
+          "zh": "adj. 粘的，粘性的",
+          "pos": "adj."
+        },
+        {
+          "en": "matchstick",
+          "zh": "n. 火柴杆",
+          "pos": "n."
+        },
+        {
+          "en": "yardstick",
+          "zh": "n. <美> 码尺, 准绳",
+          "pos": "n."
+        },
+        {
+          "en": "stickpin",
+          "zh": "n. 领带夹",
+          "pos": "n."
+        },
+        {
+          "en": "stiff",
+          "zh": "adj. 硬的，僵直的",
+          "pos": "adj."
+        },
+        {
+          "en": "stipulate",
+          "zh": "vt. 约定，规定",
+          "pos": "vt."
+        },
+        {
+          "en": "stiffen",
+          "zh": "vt. 使硬，使僵硬",
+          "pos": "vt."
+        },
+        {
+          "en": "stifle",
+          "zh": "vt. 使窒息；扼杀，抑制",
+          "pos": "vt."
+        },
+        {
+          "en": "stimulate",
+          "zh": "vt. 刺激，激励，激发",
+          "pos": "vt."
+        },
+        {
+          "en": "stimulation",
+          "zh": "n. 激励，鼓舞，刺激",
+          "pos": "n."
+        },
+        {
+          "en": "stimulus",
+          "zh": "n. 刺激；刺激物",
+          "pos": "n."
+        },
+        {
+          "en": "stimuli",
+          "zh": "n. stimulus复数",
+          "pos": "n."
+        },
+        {
+          "en": "stimulant",
+          "zh": "n. 刺激物，兴奋剂",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "sting",
+          "zh": "v. 刺；刺痛",
+          "pos": "v."
+        },
+        {
+          "en": "stipend",
+          "zh": "n. 薪贴；奖学金；养老金",
+          "pos": "n."
+        },
+        {
+          "en": "stipulate",
+          "zh": "vt. 约定，规定",
+          "pos": "vt."
+        },
+        {
+          "en": "stipulation",
+          "zh": "n. 规定，条款",
+          "pos": "n."
+        },
+        {
+          "en": "stitch",
+          "zh": "v. 缝",
+          "pos": "v."
+        },
+        {
+          "en": "stocky",
+          "zh": "adj. (人或动物)矮而结实的，粗壮的",
+          "pos": "adj."
+        },
+        {
+          "en": "stout",
+          "zh": "adj. 结实的，勇敢坚定的",
+          "pos": "adj."
+        },
+        {
+          "en": "strain",
+          "zh": "n. 过度的疲劳，紧张",
+          "pos": "n."
+        },
+        {
+          "en": "strand",
+          "zh": "n. 绳、线之一股",
+          "pos": "n."
+        },
+        {
+          "en": "strap",
+          "zh": "n. 带，皮带",
+          "pos": "n."
+        },
+        {
+          "en": "strata",
+          "zh": "n. 地层（复数）",
+          "pos": "n."
+        },
+        {
+          "en": "stratum",
+          "zh": "n. 地层（单数）；阶层",
+          "pos": "n."
+        },
+        {
+          "en": "strengthen",
+          "zh": "vt. 加强，巩固",
+          "pos": "vt."
+        },
+        {
+          "en": "strenuous",
+          "zh": "adj. 费力的；艰辛的",
+          "pos": "adj."
+        },
+        {
+          "en": "strenuously",
+          "zh": "adv. 奋发地，费力地",
+          "pos": "adv."
+        }
+      ]
+    }
+  ]
+}

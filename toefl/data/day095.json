@@ -1,0 +1,304 @@
+{
+  "day": 95,
+  "title": "Day 095 · uproot → vehicle",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "utilize",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "uproot",
+          "zh": "v. 连根拔起，拔除",
+          "pos": "v."
+        },
+        {
+          "en": "upset",
+          "zh": "adj. 心烦意乱的",
+          "pos": "adj."
+        },
+        {
+          "en": "upside-down",
+          "zh": "adj. 颠倒的",
+          "pos": "adj."
+        },
+        {
+          "en": "urbane",
+          "zh": "adj. 温文尔雅的",
+          "pos": "adj."
+        },
+        {
+          "en": "urbanism",
+          "zh": "n. 都市生活, 都市化",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Clove Dash",
+      "hp": 150,
+      "words": [
+        {
+          "en": "urbanite",
+          "zh": "n. 都市人",
+          "pos": "n."
+        },
+        {
+          "en": "urbanize",
+          "zh": "vt. 使都市化，使文雅",
+          "pos": "vt."
+        },
+        {
+          "en": "urbanization",
+          "zh": "n. 都市化，文雅化",
+          "pos": "n."
+        },
+        {
+          "en": "urge",
+          "zh": "v. 催促；力劝，恳求",
+          "pos": "v."
+        },
+        {
+          "en": "urgent",
+          "zh": "adj. 紧急的，迫切的",
+          "pos": "adj."
+        },
+        {
+          "en": "urgency",
+          "zh": "n. 紧急情况",
+          "pos": "n."
+        },
+        {
+          "en": "utilitarian",
+          "zh": "adj. 功利的；实利的",
+          "pos": "adj."
+        },
+        {
+          "en": "utility",
+          "zh": "n. 公用事业公司；公用事业设备",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "utilize",
+          "zh": "v. 利用",
+          "pos": "v."
+        },
+        {
+          "en": "utilization",
+          "zh": "n. 利用",
+          "pos": "n."
+        },
+        {
+          "en": "utopian",
+          "zh": "adj. 乌托邦式的，空想的",
+          "pos": "adj."
+        },
+        {
+          "en": "utter",
+          "zh": "v. 做声；发表",
+          "pos": "v."
+        },
+        {
+          "en": "utterance",
+          "zh": "n. 说话，说话的方式",
+          "pos": "n."
+        },
+        {
+          "en": "utterly",
+          "zh": "adv. 完全地，绝对地",
+          "pos": "adv."
+        },
+        {
+          "en": "butterfly",
+          "zh": "n. [动]蝴蝶",
+          "pos": "n."
+        },
+        {
+          "en": "vacant",
+          "zh": "adj. 空的，未被占用的",
+          "pos": "adj."
+        },
+        {
+          "en": "vacancy",
+          "zh": "n. 空白，空缺",
+          "pos": "n."
+        },
+        {
+          "en": "vacation",
+          "zh": "n. 度假，休假",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "vacate",
+          "zh": "vt. 腾出，空出",
+          "pos": "vt."
+        },
+        {
+          "en": "vaccine",
+          "zh": "n. 疫苗",
+          "pos": "n."
+        },
+        {
+          "en": "vaccinate",
+          "zh": "v. 进行预防接种",
+          "pos": "v."
+        },
+        {
+          "en": "vacuum",
+          "zh": "n. 真空",
+          "pos": "n."
+        },
+        {
+          "en": "vague",
+          "zh": "adj. 模糊的；含糊的",
+          "pos": "adj."
+        },
+        {
+          "en": "valid",
+          "zh": "adj. 有效的；有根据的，正确的",
+          "pos": "adj."
+        },
+        {
+          "en": "validity",
+          "zh": "n. 有效性，合法性",
+          "pos": "n."
+        },
+        {
+          "en": "valve",
+          "zh": "n. 活门，阀",
+          "pos": "n."
+        },
+        {
+          "en": "vanish",
+          "zh": "vi. 消失；灭绝",
+          "pos": "vi."
+        },
+        {
+          "en": "vapor",
+          "zh": "n. 水汽，水蒸气",
+          "pos": "n."
+        },
+        {
+          "en": "utilize",
+          "zh": "v. 利用",
+          "pos": "v."
+        },
+        {
+          "en": "vaporize",
+          "zh": "v. （使）蒸发",
+          "pos": "v."
+        },
+        {
+          "en": "vaporization",
+          "zh": "n. 蒸发",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "variable",
+          "zh": "n. [数]变数, 变量",
+          "pos": "n."
+        },
+        {
+          "en": "variation",
+          "zh": "n. 变异；变种",
+          "pos": "n."
+        },
+        {
+          "en": "variety",
+          "zh": "n. 变化，多样性",
+          "pos": "n."
+        },
+        {
+          "en": "variance",
+          "zh": "n. 分歧；差异",
+          "pos": "n."
+        },
+        {
+          "en": "varied",
+          "zh": "adj. 杂色的，各式各样的",
+          "pos": "adj."
+        },
+        {
+          "en": "various",
+          "zh": "adj. 各种的",
+          "pos": "adj."
+        },
+        {
+          "en": "varnish",
+          "zh": "vt. 涂上清漆，修饰",
+          "pos": "vt."
+        },
+        {
+          "en": "vast",
+          "zh": "adj. 巨大的，大量的；范围广的",
+          "pos": "adj."
+        },
+        {
+          "en": "vastness",
+          "zh": "n. 巨大",
+          "pos": "n."
+        },
+        {
+          "en": "vault",
+          "zh": "n. 拱顶；地下室",
+          "pos": "n."
+        },
+        {
+          "en": "vaulted",
+          "zh": "adj. 拱状的",
+          "pos": "adj."
+        },
+        {
+          "en": "vegetation",
+          "zh": "n. 植物，草木，植被",
+          "pos": "n."
+        },
+        {
+          "en": "vegetable",
+          "zh": "n. 蔬菜",
+          "pos": "n."
+        },
+        {
+          "en": "vegetarian",
+          "zh": "n. 素食者",
+          "pos": "n."
+        },
+        {
+          "en": "vehicle",
+          "zh": "n. 交通工具, 车辆",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

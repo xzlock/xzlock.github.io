@@ -1,0 +1,304 @@
+{
+  "day": 93,
+  "title": "Day 093 · trove → ultraviolet",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "trench",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Phoenix Ember",
+      "hp": 100,
+      "words": [
+        {
+          "en": "trove",
+          "zh": "n. 被发现的东西，收藏的东西",
+          "pos": "n."
+        },
+        {
+          "en": "treatment",
+          "zh": "n. 待遇，对待",
+          "pos": "n."
+        },
+        {
+          "en": "tremendous",
+          "zh": "adj. 巨大的，惊人的",
+          "pos": "adj."
+        },
+        {
+          "en": "trench",
+          "zh": "n. 沟，壕沟",
+          "pos": "n."
+        },
+        {
+          "en": "trend",
+          "zh": "n. 倾向，趋势",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Chamber Bullet",
+      "hp": 150,
+      "words": [
+        {
+          "en": "trespass",
+          "zh": "vt. 侵犯，闯入私人领地",
+          "pos": "vt."
+        },
+        {
+          "en": "trespasser",
+          "zh": "n. 侵犯（他人土地）者",
+          "pos": "n."
+        },
+        {
+          "en": "trial",
+          "zh": "n. 实验",
+          "pos": "n."
+        },
+        {
+          "en": "tribal",
+          "zh": "adj. 部落的，宗族的",
+          "pos": "adj."
+        },
+        {
+          "en": "tribe",
+          "zh": "n. 部落，部族",
+          "pos": "n."
+        },
+        {
+          "en": "tributary",
+          "zh": "adj. 辅助的，支流的",
+          "pos": "adj."
+        },
+        {
+          "en": "tribute",
+          "zh": "n. 贡品，礼物",
+          "pos": "n."
+        },
+        {
+          "en": "trickle",
+          "zh": "vi. 滴；细流",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "trigger",
+          "zh": "vt. 引发，引起，触发",
+          "pos": "vt."
+        },
+        {
+          "en": "trilogy",
+          "zh": "n. 三部剧，三部曲",
+          "pos": "n."
+        },
+        {
+          "en": "trim",
+          "zh": "vt. 修剪，整饰",
+          "pos": "vt."
+        },
+        {
+          "en": "triumph",
+          "zh": "n. 胜利",
+          "pos": "n."
+        },
+        {
+          "en": "trivial",
+          "zh": "adj. 微不足道的，琐碎的",
+          "pos": "adj."
+        },
+        {
+          "en": "tropical",
+          "zh": "adj. 热带的",
+          "pos": "adj."
+        },
+        {
+          "en": "troublesome",
+          "zh": "adj. 讨厌的，麻烦的",
+          "pos": "adj."
+        },
+        {
+          "en": "troubling",
+          "zh": "adj. 令人不安的，令人忧虑的",
+          "pos": "adj."
+        },
+        {
+          "en": "troupe",
+          "zh": "n. 剧团",
+          "pos": "n."
+        },
+        {
+          "en": "trumpet",
+          "zh": "n. 喇叭",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "trumpeter",
+          "zh": "n. 喇叭手，号兵",
+          "pos": "n."
+        },
+        {
+          "en": "trustworthy",
+          "zh": "adj. 可信赖的",
+          "pos": "adj."
+        },
+        {
+          "en": "tub",
+          "zh": "n. 桶，浴盆",
+          "pos": "n."
+        },
+        {
+          "en": "tube",
+          "zh": "n. 管子；电子管，显像管",
+          "pos": "n."
+        },
+        {
+          "en": "tuition",
+          "zh": "n. 学费",
+          "pos": "n."
+        },
+        {
+          "en": "tumble",
+          "zh": "v. 翻滚 n. 平脚杯",
+          "pos": "v."
+        },
+        {
+          "en": "tundra",
+          "zh": "n. 苔原，冻土地带",
+          "pos": "n."
+        },
+        {
+          "en": "tunnel",
+          "zh": "n. 隧道",
+          "pos": "n."
+        },
+        {
+          "en": "trench",
+          "zh": "n. 沟，壕沟",
+          "pos": "n."
+        },
+        {
+          "en": "turbulent",
+          "zh": "adj. 吵闹的；狂暴的",
+          "pos": "adj."
+        },
+        {
+          "en": "turbulence",
+          "zh": "n. 喧嚣，骚乱",
+          "pos": "n."
+        },
+        {
+          "en": "turnpike",
+          "zh": "n. 公路，收费高速公路",
+          "pos": "n."
+        },
+        {
+          "en": "turquoise",
+          "zh": "n. 绿宝石",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Ascendant Warlord",
+      "hp": 300,
+      "words": [
+        {
+          "en": "tutor",
+          "zh": "vt. 辅导；当…的家庭教师",
+          "pos": "vt."
+        },
+        {
+          "en": "tutorial",
+          "zh": "n. 个别指导",
+          "pos": "n."
+        },
+        {
+          "en": "twig",
+          "zh": "n. 细枝，嫩枝",
+          "pos": "n."
+        },
+        {
+          "en": "twine",
+          "zh": "v. 搓，织，编饰；(使)缠绕",
+          "pos": "v."
+        },
+        {
+          "en": "twist",
+          "zh": "n./v. 扭曲，拧",
+          "pos": "n."
+        },
+        {
+          "en": "tycoon",
+          "zh": "n. 大企业家，大亨",
+          "pos": "n."
+        },
+        {
+          "en": "typify",
+          "zh": "vt. 代表，为…之典型",
+          "pos": "vt."
+        },
+        {
+          "en": "typical",
+          "zh": "adj. 典型的；有代表性的",
+          "pos": "adj."
+        },
+        {
+          "en": "prototypical",
+          "zh": "adj. 原型的",
+          "pos": "adj."
+        },
+        {
+          "en": "tyrannical",
+          "zh": "adj. 暴虐的，残暴的",
+          "pos": "adj."
+        },
+        {
+          "en": "ultimate",
+          "zh": "adj. 最终的，最后的",
+          "pos": "adj."
+        },
+        {
+          "en": "ultimatum",
+          "zh": "n. 最后通牒",
+          "pos": "n."
+        },
+        {
+          "en": "ultrasonic",
+          "zh": "adj. 超音速的，超声（波）的",
+          "pos": "adj."
+        },
+        {
+          "en": "ultrasonics",
+          "zh": "n. 超音波学",
+          "pos": "n."
+        },
+        {
+          "en": "ultraviolet",
+          "zh": "adj. 紫外线的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

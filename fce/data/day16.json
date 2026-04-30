@@ -1,0 +1,304 @@
+{
+  "day": 16,
+  "title": "Day 16 · express → figure",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "fact",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Chamber Pawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "express",
+          "zh": "\"n. 快车，快递，专使；捷运公司",
+          "pos": "n."
+        },
+        {
+          "en": "exquisitely",
+          "zh": "adv. 精致地；精巧地；敏锐地",
+          "pos": "adv."
+        },
+        {
+          "en": "extend",
+          "zh": "\"vt. 延伸；扩大；推广；伸出；给予；使竭尽全力；对…估价",
+          "pos": "vt."
+        },
+        {
+          "en": "extensive",
+          "zh": "adj. 广泛的；大量的；广阔的",
+          "pos": "adj."
+        },
+        {
+          "en": "extent",
+          "zh": "n. 程度；范围；长度",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "extinction",
+          "zh": "n. 灭绝；消失；消灭；废止",
+          "pos": "n."
+        },
+        {
+          "en": "extra",
+          "zh": "\"n. 临时演员；号外；额外的事物；上等产品",
+          "pos": "n."
+        },
+        {
+          "en": "extract",
+          "zh": "\"n. 汁；摘录；榨出物；选粹",
+          "pos": "n."
+        },
+        {
+          "en": "extraordinary",
+          "zh": "adj. 非凡的；特别的；离奇的；临时的；特派的",
+          "pos": "adj."
+        },
+        {
+          "en": "extreme",
+          "zh": "\"n. 极端；末端；最大程度；极端的事物",
+          "pos": "n."
+        },
+        {
+          "en": "fabric",
+          "zh": "n. 织物；布；组织；构造；建筑物",
+          "pos": "n."
+        },
+        {
+          "en": "fabulous",
+          "zh": "adj. 难以置信的；传说的，寓言中的；极好的",
+          "pos": "adj."
+        },
+        {
+          "en": "face up to",
+          "zh": "\"na. 大胆面向；正面对付；同“face”",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "facility",
+          "zh": "n. 设施；设备；容易；灵巧",
+          "pos": "n."
+        },
+        {
+          "en": "fact",
+          "zh": "n. 事实；实际；真相",
+          "pos": "n."
+        },
+        {
+          "en": "factor",
+          "zh": "\"n. 因素；要素； 因数；代理人",
+          "pos": "n."
+        },
+        {
+          "en": "fail",
+          "zh": "\"n. 不及格",
+          "pos": "n."
+        },
+        {
+          "en": "fair",
+          "zh": "\"n. 展览会；市集；美人",
+          "pos": "n."
+        },
+        {
+          "en": "faithfully",
+          "zh": "adv. 忠实地；如实地；诚心诚意地；深信着地",
+          "pos": "adv."
+        },
+        {
+          "en": "fake",
+          "zh": "\"n. 假货；骗子；假动作",
+          "pos": "n."
+        },
+        {
+          "en": "fall",
+          "zh": "\"n. 下降；秋天；瀑布",
+          "pos": "n."
+        },
+        {
+          "en": "false",
+          "zh": "\"adj. 错误的；虚伪的；伪造的",
+          "pos": "adj."
+        },
+        {
+          "en": "familiar",
+          "zh": "\"n. 常客；密友",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "fanatic",
+          "zh": "\"n. 狂热入迷者；盲信者；盲信",
+          "pos": "n."
+        },
+        {
+          "en": "fancy",
+          "zh": "\"n. 幻想；想象力；爱好",
+          "pos": "n."
+        },
+        {
+          "en": "fantastic",
+          "zh": "\"n. 古怪的人",
+          "pos": "n."
+        },
+        {
+          "en": "far",
+          "zh": "\"n. 远方",
+          "pos": "n."
+        },
+        {
+          "en": "fare",
+          "zh": "\"n. 票价；费用；旅客；食物",
+          "pos": "n."
+        },
+        {
+          "en": "farm",
+          "zh": "\"n. 农场；农家；畜牧场",
+          "pos": "n."
+        },
+        {
+          "en": "farmhouse",
+          "zh": "n. 农家， 农舍",
+          "pos": "n."
+        },
+        {
+          "en": "fact",
+          "zh": "n. 事实；实际；真相",
+          "pos": "n."
+        },
+        {
+          "en": "fascinate",
+          "zh": "\"vt. 使着迷，使神魂颠倒",
+          "pos": "vt."
+        },
+        {
+          "en": "fashion",
+          "zh": "\"n. 时尚；时装；样式；时髦人物",
+          "pos": "n."
+        },
+        {
+          "en": "fasten",
+          "zh": "\"vt. 使固定；集中于；扎牢；强加于",
+          "pos": "vt."
+        },
+        {
+          "en": "fat",
+          "zh": "\"n. 脂肪，肥肉",
+          "pos": "n."
+        },
+        {
+          "en": "fate",
+          "zh": "\"n. 命运",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "fault",
+          "zh": "\"n. 故障； 断层；错误；缺点；毛病；（网球等）发球失误",
+          "pos": "n."
+        },
+        {
+          "en": "favour",
+          "zh": "\"n. 偏爱；赞同；善行",
+          "pos": "n."
+        },
+        {
+          "en": "fear",
+          "zh": "\"n. 害怕；恐惧；敬畏；担心",
+          "pos": "n."
+        },
+        {
+          "en": "feature",
+          "zh": "\"n. 特色，特征；容貌；特写或专题节目",
+          "pos": "n."
+        },
+        {
+          "en": "fed up",
+          "zh": "\"adj. 厌烦；厌倦；不愉快",
+          "pos": "adj."
+        },
+        {
+          "en": "feedback",
+          "zh": "n. 反馈；成果，资料；回复",
+          "pos": "n."
+        },
+        {
+          "en": "feeding",
+          "zh": "\"n. 饲养；吃；输送",
+          "pos": "n."
+        },
+        {
+          "en": "feel",
+          "zh": "\"n. 感觉；触摸",
+          "pos": "n."
+        },
+        {
+          "en": "fellow",
+          "zh": "\"n. 家伙；朋友；同事；会员",
+          "pos": "n."
+        },
+        {
+          "en": "female",
+          "zh": "\"n. 女人； 雌性动物",
+          "pos": "n."
+        },
+        {
+          "en": "fertile",
+          "zh": "adj. 富饶的，肥沃的；能生育的",
+          "pos": "adj."
+        },
+        {
+          "en": "festival",
+          "zh": "\"n. 节日；庆祝，纪念活动；欢乐",
+          "pos": "n."
+        },
+        {
+          "en": "few and far between",
+          "zh": "\"na. 少之又少",
+          "pos": ""
+        },
+        {
+          "en": "field",
+          "zh": "\"n. 领域；牧场；旷野；战场；运动场",
+          "pos": "n."
+        },
+        {
+          "en": "figure",
+          "zh": "\"n. 数字；人物；图形；价格；（人的）体形；画像",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

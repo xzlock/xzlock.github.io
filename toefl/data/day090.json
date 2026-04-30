@@ -1,0 +1,304 @@
+{
+  "day": 90,
+  "title": "Day 090 · syrup → tentacle",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "tapering",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "syrup",
+          "zh": "n. 糖浆，果汁",
+          "pos": "n."
+        },
+        {
+          "en": "system",
+          "zh": "n. 系统，体系",
+          "pos": "n."
+        },
+        {
+          "en": "systematic",
+          "zh": "adj. 系统的，体系的",
+          "pos": "adj."
+        },
+        {
+          "en": "systematize",
+          "zh": "v. 使系统化；将…分类",
+          "pos": "v."
+        },
+        {
+          "en": "tableland",
+          "zh": "n. 高原",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Fade Nightmare",
+      "hp": 150,
+      "words": [
+        {
+          "en": "tactics",
+          "zh": "n. 战术；策略",
+          "pos": "n."
+        },
+        {
+          "en": "tactile",
+          "zh": "adj. 触觉的；可触觉的",
+          "pos": "adj."
+        },
+        {
+          "en": "tag",
+          "zh": "vt. 给…加标签；添加，附加",
+          "pos": "vt."
+        },
+        {
+          "en": "taint",
+          "zh": "n. 污点，瑕疵",
+          "pos": "n."
+        },
+        {
+          "en": "talent",
+          "zh": "n. 才能；天才",
+          "pos": "n."
+        },
+        {
+          "en": "talented",
+          "zh": "adj. 有天才的，有才能的",
+          "pos": "adj."
+        },
+        {
+          "en": "tally",
+          "zh": "v. 符合，吻合",
+          "pos": "v."
+        },
+        {
+          "en": "tame",
+          "zh": "vt. 驯养，驯服",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "untamed",
+          "zh": "adj. 未驯服的",
+          "pos": "adj."
+        },
+        {
+          "en": "tap",
+          "zh": "vt. 开发，利用",
+          "pos": "vt."
+        },
+        {
+          "en": "untapped",
+          "zh": "adj. 未使用的",
+          "pos": "adj."
+        },
+        {
+          "en": "tapering",
+          "zh": "adj. 尖端细的",
+          "pos": "adj."
+        },
+        {
+          "en": "tapeworm",
+          "zh": "n. [动]绦虫",
+          "pos": "n."
+        },
+        {
+          "en": "tapestry",
+          "zh": "n. 织锦, 挂毯",
+          "pos": "n."
+        },
+        {
+          "en": "tardy",
+          "zh": "adj. 迟到的；缓慢的",
+          "pos": "adj."
+        },
+        {
+          "en": "tardiness",
+          "zh": "n. 迟到；缓慢",
+          "pos": "n."
+        },
+        {
+          "en": "tariff",
+          "zh": "n. 关税",
+          "pos": "n."
+        },
+        {
+          "en": "tarnish",
+          "zh": "n. 晦暗，污点",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "taste",
+          "zh": "v. 品尝，辨味",
+          "pos": "v."
+        },
+        {
+          "en": "tapering",
+          "zh": "adj. 尖端细的",
+          "pos": "adj."
+        },
+        {
+          "en": "tasty",
+          "zh": "adj. 美味的，可口的",
+          "pos": "adj."
+        },
+        {
+          "en": "tasteless",
+          "zh": "adj. 没味道的",
+          "pos": "adj."
+        },
+        {
+          "en": "tavern",
+          "zh": "n. 小酒店；客栈",
+          "pos": "n."
+        },
+        {
+          "en": "tectonics",
+          "zh": "n. [地]构造地质学",
+          "pos": "n."
+        },
+        {
+          "en": "tedium",
+          "zh": "n. 单调乏味",
+          "pos": "n."
+        },
+        {
+          "en": "tedious",
+          "zh": "adj. 单调乏味的，沉闷的",
+          "pos": "adj."
+        },
+        {
+          "en": "temper",
+          "zh": "n. 脾气，性情",
+          "pos": "n."
+        },
+        {
+          "en": "temperate",
+          "zh": "adj. （气候等）温和的",
+          "pos": "adj."
+        },
+        {
+          "en": "temperance",
+          "zh": "n. 节制，自制；戒酒；禁酒",
+          "pos": "n."
+        },
+        {
+          "en": "temperature",
+          "zh": "n. 温度",
+          "pos": "n."
+        },
+        {
+          "en": "temple",
+          "zh": "n. 寺庙，教堂",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "temporary",
+          "zh": "adj. 短暂的，暂时的",
+          "pos": "adj."
+        },
+        {
+          "en": "temporarily",
+          "zh": "adv. 临时",
+          "pos": "adv."
+        },
+        {
+          "en": "tempt",
+          "zh": "vt. 诱使",
+          "pos": "vt."
+        },
+        {
+          "en": "tempting",
+          "zh": "adj. 诱惑人的",
+          "pos": "adj."
+        },
+        {
+          "en": "tenant",
+          "zh": "n. 承租人，房客",
+          "pos": "n."
+        },
+        {
+          "en": "tendency",
+          "zh": "n. 趋势，倾向",
+          "pos": "n."
+        },
+        {
+          "en": "tender",
+          "zh": "adj. 嫩的，柔软的",
+          "pos": "adj."
+        },
+        {
+          "en": "tenderness",
+          "zh": "n. 亲切，温柔",
+          "pos": "n."
+        },
+        {
+          "en": "tenement",
+          "zh": "n. 出租给房客的住房；(穷人)公寓",
+          "pos": "n."
+        },
+        {
+          "en": "tense",
+          "zh": "adj. 紧张的，拉紧的",
+          "pos": "adj."
+        },
+        {
+          "en": "tension",
+          "zh": "n. 紧张（状态），压力",
+          "pos": "n."
+        },
+        {
+          "en": "utensil",
+          "zh": "n. 器具",
+          "pos": "n."
+        },
+        {
+          "en": "tensile",
+          "zh": "adj. 可拉长的, 可伸长的",
+          "pos": "adj."
+        },
+        {
+          "en": "pretense",
+          "zh": "n. 矫饰，做作",
+          "pos": "n."
+        },
+        {
+          "en": "tentacle",
+          "zh": "n. 触角，触须，触手",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

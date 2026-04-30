@@ -1,0 +1,304 @@
+{
+  "day": 77,
+  "title": "Day 077 · restrictive → ripe",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "revise",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Raze Cub",
+      "hp": 100,
+      "words": [
+        {
+          "en": "restrictive",
+          "zh": "adj. 限制性的",
+          "pos": "adj."
+        },
+        {
+          "en": "unrestricted",
+          "zh": "adj. 无限制的，自由的",
+          "pos": "adj."
+        },
+        {
+          "en": "retail",
+          "zh": "adj. 零售的",
+          "pos": "adj."
+        },
+        {
+          "en": "retailer",
+          "zh": "n. 零售商",
+          "pos": "n."
+        },
+        {
+          "en": "tailor",
+          "zh": "n. 裁缝师",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "retain",
+          "zh": "vt. 保持，保留",
+          "pos": "vt."
+        },
+        {
+          "en": "retentive",
+          "zh": "vt. 保留的，有记忆的",
+          "pos": "vt."
+        },
+        {
+          "en": "retire",
+          "zh": "vi. 退休，引退",
+          "pos": "vi."
+        },
+        {
+          "en": "retirement",
+          "zh": "n. 退休",
+          "pos": "n."
+        },
+        {
+          "en": "retool",
+          "zh": "vt. 将机械重新整备，重组",
+          "pos": "vt."
+        },
+        {
+          "en": "retract",
+          "zh": "vt. 缩回，撤回",
+          "pos": "vt."
+        },
+        {
+          "en": "retreat",
+          "zh": "n. 消退，退却",
+          "pos": "n."
+        },
+        {
+          "en": "retrieve",
+          "zh": "v. 重新找回，取回；找回猎物",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "retriever",
+          "zh": "n. 能把猎物找回来的猎狗的一种",
+          "pos": "n."
+        },
+        {
+          "en": "retrospect",
+          "zh": "n. 反顾，回顾",
+          "pos": "n."
+        },
+        {
+          "en": "retrospective",
+          "zh": "adj. 回顾的，怀旧的",
+          "pos": "adj."
+        },
+        {
+          "en": "reveal",
+          "zh": "vt. 展现；揭露",
+          "pos": "vt."
+        },
+        {
+          "en": "revere",
+          "zh": "vt. 尊崇，尊敬",
+          "pos": "vt."
+        },
+        {
+          "en": "revered",
+          "zh": "adj. 可敬的，尊敬的",
+          "pos": "adj."
+        },
+        {
+          "en": "reverently",
+          "zh": "adv. 虔诚地",
+          "pos": "adv."
+        },
+        {
+          "en": "reverse",
+          "zh": "vt. 颠倒，翻转",
+          "pos": "vt."
+        },
+        {
+          "en": "reversible",
+          "zh": "adj. 可逆的，可翻转的",
+          "pos": "adj."
+        },
+        {
+          "en": "revise",
+          "zh": "vt. 修改，修订",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "revision",
+          "zh": "n. 修订，校订",
+          "pos": "n."
+        },
+        {
+          "en": "revitalization",
+          "zh": "n. 新生，复兴",
+          "pos": "n."
+        },
+        {
+          "en": "revive",
+          "zh": "vt. 使复活；使振奋",
+          "pos": "vt."
+        },
+        {
+          "en": "revival",
+          "zh": "n. 复兴，复活",
+          "pos": "n."
+        },
+        {
+          "en": "revolt",
+          "zh": "n./v. 反抗，起义，反叛",
+          "pos": "n."
+        },
+        {
+          "en": "revolutionize",
+          "zh": "vt. 大事改革；在…方面发动革命",
+          "pos": "vt."
+        },
+        {
+          "en": "revolution",
+          "zh": "n. 革命",
+          "pos": "n."
+        },
+        {
+          "en": "revolutionary",
+          "zh": "adj. 革命的",
+          "pos": "adj."
+        },
+        {
+          "en": "rhetoric",
+          "zh": "n. 修辞；修辞学",
+          "pos": "n."
+        },
+        {
+          "en": "rhythm",
+          "zh": "n. 节奏，韵律",
+          "pos": "n."
+        },
+        {
+          "en": "rhythmic",
+          "zh": "adj. 有节奏的，有韵律的",
+          "pos": "adj."
+        },
+        {
+          "en": "rhythmical",
+          "zh": "adj. 有韵律的，有节奏的",
+          "pos": "adj."
+        },
+        {
+          "en": "revise",
+          "zh": "vt. 修改，修订",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Kingdom Titan",
+      "hp": 300,
+      "words": [
+        {
+          "en": "ridge",
+          "zh": "n. 脊，山脊",
+          "pos": "n."
+        },
+        {
+          "en": "ridiculous",
+          "zh": "adj. 荒唐的，可笑的",
+          "pos": "adj."
+        },
+        {
+          "en": "ridicule",
+          "zh": "v. 嘲笑",
+          "pos": "v."
+        },
+        {
+          "en": "rifle",
+          "zh": "n. 来复枪，步枪",
+          "pos": "n."
+        },
+        {
+          "en": "rift",
+          "zh": "n. 裂缝；断裂，长峡谷",
+          "pos": "n."
+        },
+        {
+          "en": "rigid",
+          "zh": "adj. 坚硬的，不易弯曲的",
+          "pos": "adj."
+        },
+        {
+          "en": "rigidity",
+          "zh": "n. 僵化，死板",
+          "pos": "n."
+        },
+        {
+          "en": "rigorous",
+          "zh": "adj. 严格的",
+          "pos": "adj."
+        },
+        {
+          "en": "rigor",
+          "zh": "n. 严酷；严格，严厉",
+          "pos": "n."
+        },
+        {
+          "en": "rinse",
+          "zh": "v. 用清水冲洗；漱",
+          "pos": "v."
+        },
+        {
+          "en": "riot",
+          "zh": "n. 暴动，骚乱",
+          "pos": "n."
+        },
+        {
+          "en": "rip",
+          "zh": "vt. 撕，撕裂",
+          "pos": "vt."
+        },
+        {
+          "en": "drip",
+          "zh": "n. 水滴； v. （使）滴下",
+          "pos": "n."
+        },
+        {
+          "en": "dripstone",
+          "zh": "n. 滴水石；滤石",
+          "pos": "n."
+        },
+        {
+          "en": "ripe",
+          "zh": "adj. 熟的；成熟的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

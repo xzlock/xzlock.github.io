@@ -1,0 +1,304 @@
+{
+  "day": 75,
+  "title": "Day 075 · relaxed → represent",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "replace",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Cypher Eye",
+      "hp": 100,
+      "words": [
+        {
+          "en": "relaxed",
+          "zh": "adj. 不拘束的；悠闲的",
+          "pos": "adj."
+        },
+        {
+          "en": "relaxation",
+          "zh": "n. 松弛，缓和",
+          "pos": "n."
+        },
+        {
+          "en": "relay",
+          "zh": "vt. 分程传递；传播",
+          "pos": "vt."
+        },
+        {
+          "en": "release",
+          "zh": "v./n. 释放",
+          "pos": "v."
+        },
+        {
+          "en": "relevant",
+          "zh": "adj. 有关的，切题的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "KAY/O Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "relevance",
+          "zh": "n. 相关",
+          "pos": "n."
+        },
+        {
+          "en": "nonrelevant",
+          "zh": "adj. 非关联的，非相关的",
+          "pos": "adj."
+        },
+        {
+          "en": "reliable",
+          "zh": "adj. 可靠的，可信赖的",
+          "pos": "adj."
+        },
+        {
+          "en": "reliant",
+          "zh": "adj. 依靠的，信赖自己的",
+          "pos": "adj."
+        },
+        {
+          "en": "reliance",
+          "zh": "n. 依靠；依靠的人或物",
+          "pos": "n."
+        },
+        {
+          "en": "reliability",
+          "zh": "n. 可靠性",
+          "pos": "n."
+        },
+        {
+          "en": "relic",
+          "zh": "n. 遗迹，纪念物",
+          "pos": "n."
+        },
+        {
+          "en": "relieve",
+          "zh": "vt. 减轻",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "relieved",
+          "zh": "adj. 放心的；免除的",
+          "pos": "adj."
+        },
+        {
+          "en": "religion",
+          "zh": "n. 宗教",
+          "pos": "n."
+        },
+        {
+          "en": "religious",
+          "zh": "adj. 信奉宗教的，虔诚的",
+          "pos": "adj."
+        },
+        {
+          "en": "reluctant",
+          "zh": "adj. 不情愿的，勉强的",
+          "pos": "adj."
+        },
+        {
+          "en": "remainder",
+          "zh": "n. 残余，剩余物",
+          "pos": "n."
+        },
+        {
+          "en": "remaining",
+          "zh": "n. 剩余，残余",
+          "pos": "n."
+        },
+        {
+          "en": "remark",
+          "zh": "n. 评论，注释",
+          "pos": "n."
+        },
+        {
+          "en": "remarkable",
+          "zh": "adj. 显著的，值得注意的",
+          "pos": "adj."
+        },
+        {
+          "en": "remarkably",
+          "zh": "adv. 显著地，引人注目地",
+          "pos": "adv."
+        },
+        {
+          "en": "remedy",
+          "zh": "n. 药物",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "remind",
+          "zh": "vt. 提醒，使记得",
+          "pos": "vt."
+        },
+        {
+          "en": "reminder",
+          "zh": "n. 提醒者",
+          "pos": "n."
+        },
+        {
+          "en": "remnant",
+          "zh": "n. 残余，遗迹",
+          "pos": "n."
+        },
+        {
+          "en": "romote",
+          "zh": "adj. 遥远的，偏僻的",
+          "pos": "adj."
+        },
+        {
+          "en": "renaissance",
+          "zh": "n. 复活；文艺复兴",
+          "pos": "n."
+        },
+        {
+          "en": "render",
+          "zh": "vt. 给予，提供",
+          "pos": "vt."
+        },
+        {
+          "en": "replace",
+          "zh": "vt. 代替，取代",
+          "pos": "vt."
+        },
+        {
+          "en": "rendering",
+          "zh": "n. 表现，描写",
+          "pos": "n."
+        },
+        {
+          "en": "surrender",
+          "zh": "v. 交出，放弃；投降",
+          "pos": "v."
+        },
+        {
+          "en": "rendition",
+          "zh": "n. 表演，演唱",
+          "pos": "n."
+        },
+        {
+          "en": "renew",
+          "zh": "vt. 使更新，使恢复；重新开始",
+          "pos": "vt."
+        },
+        {
+          "en": "renewal",
+          "zh": "n. 更新；复兴",
+          "pos": "n."
+        },
+        {
+          "en": "renewable",
+          "zh": "adj. 可更新的，可恢复的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radianite Colossus",
+      "hp": 300,
+      "words": [
+        {
+          "en": "renunciation",
+          "zh": "n. 放弃；宣布终止",
+          "pos": "n."
+        },
+        {
+          "en": "renovate",
+          "zh": "vt. 革新；修理，修复",
+          "pos": "vt."
+        },
+        {
+          "en": "renovation",
+          "zh": "n. 修复，整修",
+          "pos": "n."
+        },
+        {
+          "en": "rent",
+          "zh": "n. 租金，租费",
+          "pos": "n."
+        },
+        {
+          "en": "rentable",
+          "zh": "adj. 可出租的",
+          "pos": "adj."
+        },
+        {
+          "en": "rental",
+          "zh": "n. 租金额；租赁，出租",
+          "pos": "n."
+        },
+        {
+          "en": "reorient",
+          "zh": "v. 重新确定方向；再教育",
+          "pos": "v."
+        },
+        {
+          "en": "repel",
+          "zh": "vt. 击退，驱逐",
+          "pos": "vt."
+        },
+        {
+          "en": "repertoire",
+          "zh": "n. （剧团等）常备剧目，保留剧目",
+          "pos": "n."
+        },
+        {
+          "en": "repertory",
+          "zh": "n. 全部剧目；储备，库存；仓库",
+          "pos": "n."
+        },
+        {
+          "en": "replace",
+          "zh": "vt. 代替，取代",
+          "pos": "vt."
+        },
+        {
+          "en": "replenish",
+          "zh": "vt. 补充，把…再备足",
+          "pos": "vt."
+        },
+        {
+          "en": "replica",
+          "zh": "n. 复制品",
+          "pos": "n."
+        },
+        {
+          "en": "replicate",
+          "zh": "vi. 复制",
+          "pos": "vi."
+        },
+        {
+          "en": "represent",
+          "zh": "vt. 代表；描绘，表现",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

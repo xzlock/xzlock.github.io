@@ -1,0 +1,304 @@
+{
+  "day": 22,
+  "title": "Day 022 · contrary → counseling",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "conversion",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "KAY/O Unit",
+      "hp": 100,
+      "words": [
+        {
+          "en": "contrary",
+          "zh": "adj. 相反的；对抗的",
+          "pos": "adj."
+        },
+        {
+          "en": "contrast",
+          "zh": "n. （对比，对照的）差异",
+          "pos": "n."
+        },
+        {
+          "en": "controversy",
+          "zh": "n. 争论，辩论",
+          "pos": "n."
+        },
+        {
+          "en": "controversial",
+          "zh": "adj. 引起或可能引起争论的",
+          "pos": "adj."
+        },
+        {
+          "en": "convenient",
+          "zh": "adj. 方便的；近便的，容易到达的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Sova Arrow",
+      "hp": 150,
+      "words": [
+        {
+          "en": "inconvenient",
+          "zh": "adj. 不便的，有困难的",
+          "pos": "adj."
+        },
+        {
+          "en": "convenience",
+          "zh": "n. 便利，方便",
+          "pos": "n."
+        },
+        {
+          "en": "convention",
+          "zh": "n. 会议；传统",
+          "pos": "n."
+        },
+        {
+          "en": "conventional",
+          "zh": "adj. 传统的，习俗的",
+          "pos": "adj."
+        },
+        {
+          "en": "conventionally",
+          "zh": "adv. 按照惯例地，照常套地",
+          "pos": "adv."
+        },
+        {
+          "en": "unconventional",
+          "zh": "adj. 非传统的",
+          "pos": "adj."
+        },
+        {
+          "en": "converge",
+          "zh": "vi. 聚合，集中于一点，会聚",
+          "pos": "vi."
+        },
+        {
+          "en": "conversation",
+          "zh": "n. 会话，非正式会谈",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "conversational",
+          "zh": "adj. 对话的，会话的",
+          "pos": "adj."
+        },
+        {
+          "en": "converse",
+          "zh": "vi. 谈话，交谈",
+          "pos": "vi."
+        },
+        {
+          "en": "conversant",
+          "zh": "adj. 亲切的，熟悉的",
+          "pos": "adj."
+        },
+        {
+          "en": "conversion",
+          "zh": "n. 转变；改变信仰",
+          "pos": "n."
+        },
+        {
+          "en": "convert",
+          "zh": "vt. 转换；转变信仰",
+          "pos": "vt."
+        },
+        {
+          "en": "converter",
+          "zh": "n. 炼钢转炉",
+          "pos": "n."
+        },
+        {
+          "en": "convex",
+          "zh": "adj. 凸出的",
+          "pos": "adj."
+        },
+        {
+          "en": "convict",
+          "zh": "vt. 证明…有罪，宣告…有罪",
+          "pos": "vt."
+        },
+        {
+          "en": "conviction",
+          "zh": "n. 确信，深信，坚信",
+          "pos": "n."
+        },
+        {
+          "en": "convincing",
+          "zh": "adj. 令人信服的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "conversion",
+          "zh": "n. 转变；改变信仰",
+          "pos": "n."
+        },
+        {
+          "en": "unconvincing",
+          "zh": "adj. 不足以令人相信的",
+          "pos": "adj."
+        },
+        {
+          "en": "convinced",
+          "zh": "adj. 确信的，深信的",
+          "pos": "adj."
+        },
+        {
+          "en": "convivial",
+          "zh": "adj. 欢乐的，快乐的",
+          "pos": "adj."
+        },
+        {
+          "en": "cooperate",
+          "zh": "vi. 合作",
+          "pos": "vi."
+        },
+        {
+          "en": "cooperation",
+          "zh": "n. 合作，协作",
+          "pos": "n."
+        },
+        {
+          "en": "cooperative",
+          "zh": "adj. 合作的，协力的",
+          "pos": "adj."
+        },
+        {
+          "en": "coordinate",
+          "zh": "vt. 使…协调，相配合",
+          "pos": "vt."
+        },
+        {
+          "en": "coordinated",
+          "zh": "adj. 协调的，配合的",
+          "pos": "adj."
+        },
+        {
+          "en": "coordination",
+          "zh": "n. 调和",
+          "pos": "n."
+        },
+        {
+          "en": "copper",
+          "zh": "n. 铜",
+          "pos": "n."
+        },
+        {
+          "en": "reef",
+          "zh": "n. 礁，暗礁",
+          "pos": "n."
+        },
+        {
+          "en": "core",
+          "zh": "n. 中心，核心；地核",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "crust",
+          "zh": "n. 地壳；外壳",
+          "pos": "n."
+        },
+        {
+          "en": "mantle",
+          "zh": "n. 地幔",
+          "pos": "n."
+        },
+        {
+          "en": "corps",
+          "zh": "n. 军团，兵团",
+          "pos": "n."
+        },
+        {
+          "en": "correlate",
+          "zh": "vt. 使相互关联；使相互影响",
+          "pos": "vt."
+        },
+        {
+          "en": "correlated",
+          "zh": "adj. 有相互关系的",
+          "pos": "adj."
+        },
+        {
+          "en": "correspondence",
+          "zh": "n. 通信；信件",
+          "pos": "n."
+        },
+        {
+          "en": "corrosion",
+          "zh": "n. 腐蚀，侵蚀",
+          "pos": "n."
+        },
+        {
+          "en": "corrosive",
+          "zh": "adj. 腐蚀的，腐蚀性的",
+          "pos": "adj."
+        },
+        {
+          "en": "rodent",
+          "zh": "n. 啮齿类动物",
+          "pos": "n."
+        },
+        {
+          "en": "corruption",
+          "zh": "n. 腐败，贪污，堕落",
+          "pos": "n."
+        },
+        {
+          "en": "cosmic",
+          "zh": "adj. 宇宙的",
+          "pos": "adj."
+        },
+        {
+          "en": "cosmopolitan",
+          "zh": "adj. 世界性的，全球的",
+          "pos": "adj."
+        },
+        {
+          "en": "costume",
+          "zh": "n. 服装",
+          "pos": "n."
+        },
+        {
+          "en": "counsel",
+          "zh": "n./vt. 劝告",
+          "pos": "n."
+        },
+        {
+          "en": "counseling",
+          "zh": "n. 咨询服务",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

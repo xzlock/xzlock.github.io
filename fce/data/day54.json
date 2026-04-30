@@ -1,0 +1,304 @@
+{
+  "day": 54,
+  "title": "Day 54 · evergreen → tree-top",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "sedge warbler",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Yoru Shadow",
+      "hp": 100,
+      "words": [
+        {
+          "en": "evergreen",
+          "zh": "\"n. 常绿树；常绿植物",
+          "pos": "n."
+        },
+        {
+          "en": "fibre",
+          "zh": "n. 纤维；纤维制品",
+          "pos": "n."
+        },
+        {
+          "en": "flipper",
+          "zh": "\"n. 鳍状肢；鳍；烤饼；胖听罐头",
+          "pos": "n."
+        },
+        {
+          "en": "fur",
+          "zh": "\"n. 皮，皮子；毛皮；软毛",
+          "pos": "n."
+        },
+        {
+          "en": "gingko",
+          "zh": "n. 银杏，白果",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "giraffe",
+          "zh": "n. 长颈鹿",
+          "pos": "n."
+        },
+        {
+          "en": "gorilla",
+          "zh": "n. 大猩猩",
+          "pos": "n."
+        },
+        {
+          "en": "hamster",
+          "zh": "n. 仓鼠；仓鼠毛皮",
+          "pos": "n."
+        },
+        {
+          "en": "heathy",
+          "zh": "\"a. 石南的, 灌木丛生的\"",
+          "pos": ""
+        },
+        {
+          "en": "herbivore",
+          "zh": "n. 食草动物",
+          "pos": "n."
+        },
+        {
+          "en": "herd",
+          "zh": "\"n. 兽群，畜群；放牧人",
+          "pos": "n."
+        },
+        {
+          "en": "horseback",
+          "zh": "\"n. 马背；峻峭的山脊",
+          "pos": "n."
+        },
+        {
+          "en": "husky",
+          "zh": "\"adj. 声音沙哑的；有壳的；强壮的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "insect",
+          "zh": "n. 昆虫；卑鄙的人",
+          "pos": "n."
+        },
+        {
+          "en": "jellyfish",
+          "zh": "n. 水母； 海蜇；软弱无能的人",
+          "pos": "n."
+        },
+        {
+          "en": "joey",
+          "zh": "n. 幼兽",
+          "pos": "n."
+        },
+        {
+          "en": "kangaroo",
+          "zh": "n. 袋鼠",
+          "pos": "n."
+        },
+        {
+          "en": "kitten",
+          "zh": "\"n. 小猫；小动物",
+          "pos": "n."
+        },
+        {
+          "en": "lamb",
+          "zh": "\"n. 羔羊，小羊；羔羊肉",
+          "pos": "n."
+        },
+        {
+          "en": "livestock",
+          "zh": "n. 牲畜；家畜",
+          "pos": "n."
+        },
+        {
+          "en": "lizard",
+          "zh": "n. 蜥蜴；类蜥蜴爬行动物",
+          "pos": "n."
+        },
+        {
+          "en": "mammal",
+          "zh": "n. 哺乳动物",
+          "pos": "n."
+        },
+        {
+          "en": "manatee",
+          "zh": "n. 海牛",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "mosquito",
+          "zh": "n. 蚊子",
+          "pos": "n."
+        },
+        {
+          "en": "nest",
+          "zh": "\"n. 巢，窝；安乐窝；温床",
+          "pos": "n."
+        },
+        {
+          "en": "octopus",
+          "zh": "\"n. 章鱼",
+          "pos": "n."
+        },
+        {
+          "en": "olive tree",
+          "zh": "\"na. 橄榄树",
+          "pos": ""
+        },
+        {
+          "en": "ostrich",
+          "zh": "n. 鸵鸟；鸵鸟般的人",
+          "pos": "n."
+        },
+        {
+          "en": "oystercatcher",
+          "zh": "n. （美）蛎鹬",
+          "pos": "n."
+        },
+        {
+          "en": "sedge warbler",
+          "zh": "水蒲苇莺；稻田苇莺",
+          "pos": ""
+        },
+        {
+          "en": "palm tree",
+          "zh": "\"n. 棕榈",
+          "pos": "n."
+        },
+        {
+          "en": "parrot",
+          "zh": "\"n. 鹦鹉；学舌者，应声虫；机械模仿别人的人",
+          "pos": "n."
+        },
+        {
+          "en": "paw",
+          "zh": "\"n. 爪子；手",
+          "pos": "n."
+        },
+        {
+          "en": "penguin",
+          "zh": "n. 企鹅；空军地勤人员",
+          "pos": "n."
+        },
+        {
+          "en": "pesticide",
+          "zh": "n. 杀虫剂",
+          "pos": "n."
+        },
+        {
+          "en": "pine",
+          "zh": "\"n. 松树；凤梨，菠萝",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "plankton",
+          "zh": "n. 浮游生物（总称）",
+          "pos": "n."
+        },
+        {
+          "en": "polar bear",
+          "zh": "\"n. 北极熊；白熊",
+          "pos": "n."
+        },
+        {
+          "en": "pony",
+          "zh": "\"n. 矮种马；小型马",
+          "pos": "n."
+        },
+        {
+          "en": "poultry",
+          "zh": "\"n. 家禽",
+          "pos": "n."
+        },
+        {
+          "en": "puffin",
+          "zh": "n. 善知鸟；海鹦；海鸭之类",
+          "pos": "n."
+        },
+        {
+          "en": "puma",
+          "zh": "n. 美洲狮",
+          "pos": "n."
+        },
+        {
+          "en": "scorpion",
+          "zh": "n. 蝎子；蝎尾鞭；心黑的人",
+          "pos": "n."
+        },
+        {
+          "en": "sea creature",
+          "zh": "\"un. 海洋生物",
+          "pos": "n."
+        },
+        {
+          "en": "sedge warbler",
+          "zh": "水蒲苇莺；稻田苇莺",
+          "pos": ""
+        },
+        {
+          "en": "seed pods",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "squawk",
+          "zh": "\"n. 抗议；叫声；诉苦；故障",
+          "pos": "n."
+        },
+        {
+          "en": "sting",
+          "zh": "\"n. 刺痛；讽刺，刺激；刺毛",
+          "pos": "n."
+        },
+        {
+          "en": "tail",
+          "zh": "\"n. 尾巴；踪迹；辫子；燕尾服",
+          "pos": "n."
+        },
+        {
+          "en": "thorny",
+          "zh": "adj. 多刺的；痛苦的；令人苦恼的",
+          "pos": "adj."
+        },
+        {
+          "en": "tree-top",
+          "zh": "树顶",
+          "pos": ""
+        }
+      ]
+    }
+  ]
+}

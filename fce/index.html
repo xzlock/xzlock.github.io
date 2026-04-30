@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FCE 60天挑战 · Operation Lexicon</title>
+  <meta name="description" content="60天FCE词汇征服战役" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="06cb22f2-6983-4e15-8624-90f22f2db00f"></script>    
+</head>
+<body>
+  <div class="container">
+
+    <!-- ===== 顶部导航 ===== -->
+    <header class="site-header">
+      <div class="logo">
+        <span class="logo-mark">⬢</span>
+        <span class="logo-text">FCE <strong>CAMPAIGN</strong></span>
+      </div>
+      <nav class="nav">
+        <a href="/">← 返回主页</a>
+        <a href="#campaign">战役地图</a>
+        <a href="#stats">作战数据</a>
+        <a href="#rules">战斗手册</a>
+      </nav>
+    </header>
+
+    <!-- ===== 云端同步面板 ===== -->
+    <section class="cloud-panel">
+      <div class="cloud-panel-inner">
+        <div class="cloud-status">
+          <span class="cloud-icon" id="cloud-icon">📱</span>
+          <div class="cloud-info">
+            <p class="cloud-label">战役代号</p>
+            <p class="cloud-code" id="cloud-code">未设置（仅本机保存）</p>
+          </div>
+        </div>
+        <button class="btn btn-ghost cloud-btn" id="cloud-btn" type="button">设置代号</button>
+      </div>
+    </section>
+
+    <!-- 代号设置弹窗 -->
+    <div class="cloud-modal" id="cloud-modal" style="display: none;">
+      <div class="cloud-modal-bg" id="cloud-modal-bg"></div>
+      <div class="cloud-modal-card">
+        <h3>🎯 战役代号</h3>
+        <p class="section-desc" style="font-size: 14px; margin-bottom: 12px;">
+          设置代号后可跨设备同步 FCE 和 TOEFL 所有进度。一个代号通吃所有项目。
+        </p>
+        <input type="text" id="code-input" placeholder="3-64字符，字母数字 - _" autocomplete="off" />
+        <div style="display: flex; gap: 8px; margin-top: 16px; flex-wrap: wrap;">
+          <button class="btn btn-ghost" id="code-random" type="button">🎲 随机生成</button>
+          <button class="btn btn-primary" id="code-save" type="button">✓ 保存</button>
+          <button class="btn btn-ghost" id="code-cancel" type="button">取消</button>
+        </div>
+        <p id="code-msg" style="margin-top: 12px; font-size: 14px; min-height: 20px;"></p>
+      </div>
+    </div>
+
+    <!-- ===== Hero 英雄区 ===== -->
+    <section class="hero">
+      <div class="hero-bg-lines" aria-hidden="true"></div>
+      <p class="hero-tag">// AGENT BRIEFING · FCE CAMPAIGN</p>
+      <h1 class="hero-title">
+        60 天<br />
+        <span class="accent">FCE 词汇征服战役</span>
+      </h1>
+      <p class="hero-sub">
+        每日 5 只词汇怪物 · 击败最终 BOSS · 征服 3000 核心词汇
+      </p>
+      <div class="hero-cta">
+        <a href="day01.html" class="btn btn-primary" id="cta-start">▶ 开始第一天作战</a>
+        <a href="#rules" class="btn btn-ghost">阅读战斗手册</a>
+      </div>
+
+      <div class="progress-wrap">
+        <div class="progress-label">
+          <span>战役进度</span>
+          <span id="overall-progress-text">0 / 60 DAYS</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-fill" id="overall-progress-fill" style="width: 0%"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 作战数据面板 ===== -->
+    <section id="stats" class="stats-panel">
+      <div class="stat-card">
+        <div class="stat-num" id="stat-days">0</div>
+        <div class="stat-label">已通关天数</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num" id="stat-words">0</div>
+        <div class="stat-label">已掌握单词</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num" id="stat-kills">0</div>
+        <div class="stat-label">击杀怪物数</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num" id="stat-streak">0</div>
+        <div class="stat-label">连续打卡(天)</div>
+      </div>
+    </section>
+
+    <!-- ===== 战役地图 ===== -->
+    <section id="campaign" class="section">
+      <div class="section-head">
+        <h2>战役地图 · Campaign Map</h2>
+        <p class="section-desc">60 天 · 每天 5 关 · 最终 BOSS 等你挑战</p>
+      </div>
+      <div class="campaign-grid" id="campaign-grid"></div>
+    </section>
+
+    <!-- ===== 战斗手册 ===== -->
+    <section id="rules" class="section">
+      <div class="section-head">
+        <h2>战斗手册 · Combat Manual</h2>
+        <p class="section-desc">新人特工请先阅读</p>
+      </div>
+      <div class="rule-grid">
+        <div class="rule-card">
+          <div class="rule-icon">🎯</div>
+          <h3>每日 5 只怪</h3>
+          <p>血量依次 100 / 150 / 200 / 250 / 300(BOSS)，难度层层递进。</p>
+        </div>
+        <div class="rule-card">
+          <div class="rule-icon">⚔️</div>
+          <h3>攻击机制</h3>
+          <p>看中文写英文。<strong class="accent">答对 -20 HP</strong>，<strong class="danger">答错 +15 HP 并重做</strong>。</p>
+        </div>
+        <div class="rule-card">
+          <div class="rule-icon">🔊</div>
+          <h3>听音辅助</h3>
+          <p>点击扬声器按钮即可听到标准英式发音，强化听写记忆。</p>
+        </div>
+        <div class="rule-card">
+          <div class="rule-icon">🏆</div>
+          <h3>BOSS 战</h3>
+          <p>击败当日 BOSS 后解锁次日关卡，连续通关获得成就徽章。</p>
+        </div>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <p>© 2026 FCE Campaign · Part of Xinzhe's Space</p>
+      <p class="footer-sub"><a href="/">← 返回主页</a></p>
+    </footer>
+
+  </div>
+
+  <script src="/assets/cloud-sync.js"></script>
+  <script>
+    'use strict';
+
+    var TOTAL_DAYS = 60;
+    var WORDS_PER_DAY = 50;
+    var SECTION = 'fce';
+
+    // ========== 战役地图渲染 ==========
+    function renderCampaign(progress) {
+      var grid = document.getElementById('campaign-grid');
+      if (!grid) return;
+      grid.innerHTML = '';
+      var completed = 0;
+
+      for (var i = 1; i <= TOTAL_DAYS; i++) {
+        var dayKey = 'day' + String(i).padStart(2, '0');
+        if (progress[dayKey] && progress[dayKey].completed) completed++;
+      }
+
+      for (var j = 1; j <= TOTAL_DAYS; j++) {
+        var dayKey2 = 'day' + String(j).padStart(2, '0');
+        var done = progress[dayKey2] && progress[dayKey2].completed;
+        var isCurrent = j === completed + 1 && !done;
+
+        var cell = document.createElement('a');
+        cell.href = dayKey2 + '.html';
+        cell.className = 'campaign-cell' +
+          (done ? ' is-done' : '') +
+          (isCurrent ? ' is-current' : '');
+        cell.innerHTML =
+          '<span class="cell-day">DAY</span>' +
+          '<span class="cell-num">' + String(j).padStart(2, '0') + '</span>' +
+          '<span class="cell-status">' +
+          (done ? '✓ 已通关' : (isCurrent ? '◉ 进行中' : '○ 未解锁')) +
+          '</span>';
+        grid.appendChild(cell);
+      }
+
+      var pct = Math.round((completed / TOTAL_DAYS) * 100);
+      document.getElementById('overall-progress-fill').style.width = pct + '%';
+      document.getElementById('overall-progress-text').textContent = completed + ' / ' + TOTAL_DAYS + ' DAYS';
+      document.getElementById('stat-days').textContent = completed;
+      document.getElementById('stat-words').textContent = completed * WORDS_PER_DAY;
+      document.getElementById('stat-kills').textContent = completed * 5;
+      document.getElementById('stat-streak').textContent = completed;
+      // 🆕 更新"开始作战"按钮
+      updateCTAButton(progress, completed);
+    }
+
+    function updateCTAButton(progress, completed) {
+      var cta = document.getElementById('cta-start');
+      if (!cta) return;
+
+      if (completed === 0) {
+        // 状态1：新手
+        cta.href = 'day01.html';
+        cta.innerHTML = '▶ 开始第一天作战';
+        cta.classList.remove('btn-gold');
+        cta.classList.add('btn-primary');
+      } else if (completed >= TOTAL_DAYS) {
+        // 状态3：全部通关
+        cta.href = '#campaign';
+        cta.innerHTML = '🎉 战役已完成 · 查看地图';
+        cta.classList.remove('btn-primary');
+        cta.classList.add('btn-gold');
+      } else {
+        // 状态2：进行中
+        var nextDay = completed + 1;
+        var dayKey = 'day' + String(nextDay).padStart(2, '0');
+        var dayNum = String(nextDay).padStart(2, '0');
+        cta.href = dayKey + '.html';
+        cta.innerHTML = '▶ 继续作战 · DAY ' + dayNum;
+        cta.classList.remove('btn-gold');
+        cta.classList.add('btn-primary');
+      }
+    }
+    // ========== 云端同步 UI ==========
+    function updateCloudUI() {
+      var code = (window.CloudSync && window.CloudSync.getCode()) || '';
+      document.getElementById('cloud-code').textContent = code || '未设置（仅本机保存）';
+      document.getElementById('cloud-icon').textContent = code ? '☁️' : '📱';
+      document.getElementById('cloud-btn').textContent = code ? '修改代号' : '设置代号';
+    }
+
+    function openModal() {
+      var input = document.getElementById('code-input');
+      if (input) input.value = (window.CloudSync && window.CloudSync.getCode()) || '';
+      document.getElementById('code-msg').textContent = '';
+      document.getElementById('cloud-modal').style.display = 'flex';
+    }
+
+    function closeModal() {
+      document.getElementById('cloud-modal').style.display = 'none';
+    }
+
+    // ========== 初始化 ==========
+    document.addEventListener('DOMContentLoaded', function () {
+      // 1. 本地数据先渲染
+      var localProgress = JSON.parse(localStorage.getItem('fce-progress') || '{}');
+      renderCampaign(localProgress);
+      updateCloudUI();
+
+      // 2. 绑定事件
+      document.getElementById('cloud-btn').addEventListener('click', openModal);
+      document.getElementById('code-cancel').addEventListener('click', closeModal);
+      document.getElementById('cloud-modal-bg').addEventListener('click', closeModal);
+
+      document.getElementById('code-random').addEventListener('click', function () {
+        if (window.CloudSync) {
+          document.getElementById('code-input').value = window.CloudSync.generateCode();
+        }
+      });
+
+      document.getElementById('code-save').addEventListener('click', async function () {
+        var code = document.getElementById('code-input').value.trim();
+        var msg = document.getElementById('code-msg');
+        if (!window.CloudSync) return;
+        try {
+          window.CloudSync.setCode(code);
+          msg.textContent = '⏳ 同步中...';
+          msg.style.color = 'var(--val-gray)';
+          var merged = await window.CloudSync.initSection(SECTION);
+          renderCampaign(merged || {});
+          updateCloudUI();
+          msg.textContent = '✓ 保存成功！';
+          msg.style.color = 'var(--success)';
+          setTimeout(closeModal, 1500);
+        } catch (err) {
+          msg.textContent = '✗ ' + err.message;
+          msg.style.color = 'var(--danger)';
+        }
+      });
+
+      // 3. 如果已有代号，异步拉取云端数据
+      if (window.CloudSync && window.CloudSync.getCode()) {
+        window.CloudSync.initSection(SECTION).then(function (merged) {
+          if (merged) renderCampaign(merged);
+        }).catch(function (err) {
+          console.warn('[FCE] Cloud sync failed:', err);
+        });
+      }
+    });
+  </script>
+</body>
+</html>

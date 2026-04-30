@@ -1,0 +1,304 @@
+{
+  "day": 85,
+  "title": "Day 085 · spoilage → staple",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "springwater",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Deadlock Wire",
+      "hp": 100,
+      "words": [
+        {
+          "en": "spoilage",
+          "zh": "n. （食物等）变质，损坏",
+          "pos": "n."
+        },
+        {
+          "en": "unspoiled",
+          "zh": "adj. 未损坏的",
+          "pos": "adj."
+        },
+        {
+          "en": "sponge",
+          "zh": "n. 海绵",
+          "pos": "n."
+        },
+        {
+          "en": "spontaneous",
+          "zh": "adj. 自发的，自然产生的",
+          "pos": "adj."
+        },
+        {
+          "en": "spontaneously",
+          "zh": "adv. 自然地, 本能地",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Skye Falcon",
+      "hp": 150,
+      "words": [
+        {
+          "en": "spontaneity",
+          "zh": "n. 自然，自发",
+          "pos": "n."
+        },
+        {
+          "en": "spoon",
+          "zh": "n. 匙，勺子",
+          "pos": "n."
+        },
+        {
+          "en": "spot",
+          "zh": "n. 地点，场所",
+          "pos": "n."
+        },
+        {
+          "en": "spotless",
+          "zh": "adj. 没有污点的",
+          "pos": "adj."
+        },
+        {
+          "en": "spotlight",
+          "zh": "v. 强调，突出 n. 重点",
+          "pos": "v."
+        },
+        {
+          "en": "sprawl",
+          "zh": "vi. 散乱地延伸",
+          "pos": "vi."
+        },
+        {
+          "en": "spring",
+          "zh": "n. 泉；弹簧",
+          "pos": "n."
+        },
+        {
+          "en": "springtime",
+          "zh": "n. 春天，春季",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "springwater",
+          "zh": "n. 天然泉水",
+          "pos": "n."
+        },
+        {
+          "en": "mainspring",
+          "zh": "n. (钟表的)主发条",
+          "pos": "n."
+        },
+        {
+          "en": "sprout",
+          "zh": "vi. 长出，萌芽",
+          "pos": "vi."
+        },
+        {
+          "en": "spur",
+          "zh": "n. 踢马刺",
+          "pos": "n."
+        },
+        {
+          "en": "squarely",
+          "zh": "adv. 坚实的，坚固地",
+          "pos": "adv."
+        },
+        {
+          "en": "squash",
+          "zh": "n. 南瓜",
+          "pos": "n."
+        },
+        {
+          "en": "squeeze",
+          "zh": "vt. 榨；挤进，塞进",
+          "pos": "vt."
+        },
+        {
+          "en": "squirrel",
+          "zh": "n. 松鼠",
+          "pos": "n."
+        },
+        {
+          "en": "squirt",
+          "zh": "vi. 喷出，溅进",
+          "pos": "vi."
+        },
+        {
+          "en": "stable",
+          "zh": "adj. 稳定的，相对固定的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "stability",
+          "zh": "n. 稳定性",
+          "pos": "n."
+        },
+        {
+          "en": "stabilize",
+          "zh": "vt. 使稳定，使坚固",
+          "pos": "vt."
+        },
+        {
+          "en": "stack",
+          "zh": "vt. 堆积",
+          "pos": "vt."
+        },
+        {
+          "en": "springwater",
+          "zh": "n. 天然泉水",
+          "pos": "n."
+        },
+        {
+          "en": "staff",
+          "zh": "n. 全体人员或职员",
+          "pos": "n."
+        },
+        {
+          "en": "stagecoach",
+          "zh": "n. 公共马车",
+          "pos": "n."
+        },
+        {
+          "en": "coach",
+          "zh": "n. 教练",
+          "pos": "n."
+        },
+        {
+          "en": "stagger",
+          "zh": "vi. 蹒跚，摇晃",
+          "pos": "vi."
+        },
+        {
+          "en": "staggering",
+          "zh": "adj. 巨大的，惊人的",
+          "pos": "adj."
+        },
+        {
+          "en": "stagnant",
+          "zh": "adj. 停滞的, 迟钝的",
+          "pos": "adj."
+        },
+        {
+          "en": "stain",
+          "zh": "n. 污点，瑕疵",
+          "pos": "n."
+        },
+        {
+          "en": "stained",
+          "zh": "adj. 污染的，玷污的",
+          "pos": "adj."
+        },
+        {
+          "en": "sustain",
+          "zh": "vt. 支撑；维持，持续",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "staircase",
+          "zh": "n. 楼梯",
+          "pos": "n."
+        },
+        {
+          "en": "stalk",
+          "zh": "vt. 隐伏跟踪（猎物）",
+          "pos": "vt."
+        },
+        {
+          "en": "stamina",
+          "zh": "n. 体力，耐力",
+          "pos": "n."
+        },
+        {
+          "en": "stand",
+          "zh": "vt. 站立；忍受，容忍",
+          "pos": "vt."
+        },
+        {
+          "en": "withstand",
+          "zh": "vt. 抵挡，经受住",
+          "pos": "vt."
+        },
+        {
+          "en": "standpoint",
+          "zh": "n. 立场，观点",
+          "pos": "n."
+        },
+        {
+          "en": "newsstand",
+          "zh": "n. 报摊，杂志摊",
+          "pos": "n."
+        },
+        {
+          "en": "standard",
+          "zh": "n./adj. 标准（的）",
+          "pos": "n."
+        },
+        {
+          "en": "standardize",
+          "zh": "vt. 使符合标准，使标准化",
+          "pos": "vt."
+        },
+        {
+          "en": "standardized",
+          "zh": "adj. 标准化的",
+          "pos": "adj."
+        },
+        {
+          "en": "standing",
+          "zh": "adj. 固定的，常设的",
+          "pos": "adj."
+        },
+        {
+          "en": "long-standing",
+          "zh": "adj. 长期存在的",
+          "pos": "adj."
+        },
+        {
+          "en": "outstanding",
+          "zh": "adj. 杰出的，显著的",
+          "pos": "adj."
+        },
+        {
+          "en": "stanza",
+          "zh": "n. （诗）节，段",
+          "pos": "n."
+        },
+        {
+          "en": "staple",
+          "zh": "n. 主要产品，日常必需品",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

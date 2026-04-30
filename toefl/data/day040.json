@@ -1,0 +1,304 @@
+{
+  "day": 40,
+  "title": "Day 040 · foggy → fossil",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "formerly",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "foggy",
+          "zh": "adj. 雾深的, 模糊的",
+          "pos": "adj."
+        },
+        {
+          "en": "fold",
+          "zh": "v. 折叠",
+          "pos": "v."
+        },
+        {
+          "en": "folding",
+          "zh": "adj. 可折叠的",
+          "pos": "adj."
+        },
+        {
+          "en": "scaffolding",
+          "zh": "n. 脚手架",
+          "pos": "n."
+        },
+        {
+          "en": "thousandfold",
+          "zh": "adj. 千倍的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "unfold",
+          "zh": "v. 打开，显露",
+          "pos": "v."
+        },
+        {
+          "en": "foliage",
+          "zh": "n. 树叶，植物",
+          "pos": "n."
+        },
+        {
+          "en": "folklore",
+          "zh": "n. 民间传说",
+          "pos": "n."
+        },
+        {
+          "en": "folly",
+          "zh": "n. 愚笨，愚蠢，荒唐事",
+          "pos": "n."
+        },
+        {
+          "en": "foment",
+          "zh": "v. 煽动，助长",
+          "pos": "v."
+        },
+        {
+          "en": "foolish",
+          "zh": "adj. 愚蠢的",
+          "pos": "adj."
+        },
+        {
+          "en": "footnote",
+          "zh": "n. 脚注",
+          "pos": "n."
+        },
+        {
+          "en": "forage",
+          "zh": "v. 搜寻（食物）",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "foray",
+          "zh": "n. 突袭，偷袭",
+          "pos": "n."
+        },
+        {
+          "en": "forbid",
+          "zh": "v. 禁止",
+          "pos": "v."
+        },
+        {
+          "en": "forbidding",
+          "zh": "adj. 可怕的，令人难以亲近的，令人生畏的",
+          "pos": "adj."
+        },
+        {
+          "en": "ford",
+          "zh": "n. 浅滩，水浅可涉处",
+          "pos": "n."
+        },
+        {
+          "en": "Ford",
+          "zh": "n. 福特汽车公司",
+          "pos": "n."
+        },
+        {
+          "en": "forefather",
+          "zh": "n. 祖先，祖宗",
+          "pos": "n."
+        },
+        {
+          "en": "forefront",
+          "zh": "n. 最前沿",
+          "pos": "n."
+        },
+        {
+          "en": "foremost",
+          "zh": "adj. 最重要的；最先的",
+          "pos": "adj."
+        },
+        {
+          "en": "forerunner",
+          "zh": "n. 先驱，前身；预兆",
+          "pos": "n."
+        },
+        {
+          "en": "foresee",
+          "zh": "vt. 预见，预知",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "foresight",
+          "zh": "n. 远见，深谋远虑",
+          "pos": "n."
+        },
+        {
+          "en": "foreshadow",
+          "zh": "vt. 成为先兆，预示",
+          "pos": "vt."
+        },
+        {
+          "en": "forestall",
+          "zh": "vt. 预防，预先阻止",
+          "pos": "vt."
+        },
+        {
+          "en": "foretell",
+          "zh": "v. 预示，预测",
+          "pos": "v."
+        },
+        {
+          "en": "forge",
+          "zh": "v. 铸造，伪造",
+          "pos": "v."
+        },
+        {
+          "en": "formal",
+          "zh": "adj. 正式的；形式的；合乎礼仪的",
+          "pos": "adj."
+        },
+        {
+          "en": "formalized",
+          "zh": "adj. 形式化的，使程序化的",
+          "pos": "adj."
+        },
+        {
+          "en": "formerly",
+          "zh": "adv. 从前，以前",
+          "pos": "adv."
+        },
+        {
+          "en": "informal",
+          "zh": "adj. 非正式的；不拘礼的",
+          "pos": "adj."
+        },
+        {
+          "en": "format",
+          "zh": "n. 模式，格式",
+          "pos": "n."
+        },
+        {
+          "en": "formation",
+          "zh": "n. 形成，构成",
+          "pos": "n."
+        },
+        {
+          "en": "transformation",
+          "zh": "n. 变化，转化；改革",
+          "pos": "n."
+        },
+        {
+          "en": "formative",
+          "zh": "adj. 形成中的，发展中的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "informative",
+          "zh": "adj. 提供消息的，见闻广博的",
+          "pos": "adj."
+        },
+        {
+          "en": "former",
+          "zh": "adj. 从前的，以前的",
+          "pos": "adj."
+        },
+        {
+          "en": "formerly",
+          "zh": "adv. 从前，以前",
+          "pos": "adv."
+        },
+        {
+          "en": "formidable",
+          "zh": "adj. 令人敬畏的，可怕的",
+          "pos": "adj."
+        },
+        {
+          "en": "formula",
+          "zh": "n. 公式；规则",
+          "pos": "n."
+        },
+        {
+          "en": "formulate",
+          "zh": "vt. 系统地阐述（或提出）",
+          "pos": "vt."
+        },
+        {
+          "en": "fort",
+          "zh": "n. 要塞，堡垒",
+          "pos": "n."
+        },
+        {
+          "en": "fortress",
+          "zh": "n. 要塞；城堡",
+          "pos": "n."
+        },
+        {
+          "en": "fortify",
+          "zh": "vt. 加强，巩固",
+          "pos": "vt."
+        },
+        {
+          "en": "fortuitous",
+          "zh": "adj. 偶然的，意外的",
+          "pos": "adj."
+        },
+        {
+          "en": "fortuitously",
+          "zh": "adv. 偶然地，意外地",
+          "pos": "adv."
+        },
+        {
+          "en": "fortunate",
+          "zh": "adj. 幸运的",
+          "pos": "adj."
+        },
+        {
+          "en": "fortune",
+          "zh": "n. 财富；运气",
+          "pos": "n."
+        },
+        {
+          "en": "misfortune",
+          "zh": "n. 不幸，灾祸",
+          "pos": "n."
+        },
+        {
+          "en": "fossil",
+          "zh": "n. 化石；僵化的事物",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

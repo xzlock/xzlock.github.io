@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TOEFL 108天挑战 · Operation Lexicon</title>
+  <meta name="description" content="108天TOEFL词汇征服战役" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="06cb22f2-6983-4e15-8624-90f22f2db00f"></script>    
+</head>
+<body>
+  <div class="container">
+
+    <!-- ===== 顶部导航 ===== -->
+    <header class="site-header">
+      <div class="logo">
+        <span class="logo-mark">⬡</span>
+        <span class="logo-text">TOEFL <strong>CAMPAIGN</strong></span>
+      </div>
+      <nav class="nav">
+        <a href="/">← 返回主页</a>
+        <a href="#campaign">战役地图</a>
+        <a href="#stats">作战数据</a>
+        <a href="#rules">战斗手册</a>
+      </nav>
+    </header>
+
+    <!-- ===== 云端同步面板 ===== -->
+    <section class="cloud-panel">
+      <div class="cloud-panel-inner">
+        <div class="cloud-status">
+          <span class="cloud-icon" id="cloud-icon">📱</span>
+          <div class="cloud-info">
+            <p class="cloud-label">战役代号</p>
+            <p class="cloud-code" id="cloud-code">未设置（仅本机保存）</p>
+          </div>
+        </div>
+        <button class="btn btn-ghost cloud-btn" id="cloud-btn" type="button">设置代号</button>
+      </div>
+    </section>
+
+    <div class="cloud-modal" id="cloud-modal" style="display: none;">
+      <div class="cloud-modal-bg" id="cloud-modal-bg"></div>
+      <div class="cloud-modal-card">
+        <h3>🎯 战役代号</h3>
+        <p class="section-desc" style="font-size: 14px; margin-bottom: 12px;">
+          设置代号后可跨设备同步 FCE 和 TOEFL 所有进度。一个代号通吃所有项目。
+        </p>
+        <input type="text" id="code-input" placeholder="3-64字符，字母数字 - _" autocomplete="off" />
+        <div style="display: flex; gap: 8px; margin-top: 16px; flex-wrap: wrap;">
+          <button class="btn btn-ghost" id="code-random" type="button">🎲 随机生成</button>
+          <button class="btn btn-primary" id="code-save" type="button">✓ 保存</button>
+          <button class="btn btn-ghost" id="code-cancel" type="button">取消</button>
+        </div>
+        <p id="code-msg" style="margin-top: 12px; font-size: 14px; min-height: 20px;"></p>
+      </div>
+    </div>
+
+    <!-- ===== Hero ===== -->
+    <section class="hero">
+      <div class="hero-bg-lines" aria-hidden="true"></div>
+      <p class="hero-tag">// AGENT BRIEFING · TOEFL CAMPAIGN</p>
+      <h1 class="hero-title">
+        108 天<br />
+        <span class="accent">TOEFL 词汇征服战役</span>
+      </h1>
+      <p class="hero-sub">
+        先学习后战斗 · 每日 50 词 · 征服 5400 托福词汇
+      </p>
+      <!-- 新代码 -->
+      <div class="hero-cta">
+        <a href="study001.html" class="btn btn-primary" id="cta-start">📚 开始第一天学习</a>
+        <a href="#rules" class="btn btn-ghost">阅读战斗手册</a>
+      </div>
+
+      <div class="progress-wrap">
+        <div class="progress-label">
+          <span>战役进度</span>
+          <span id="overall-progress-text">0 / 108 DAYS</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-fill" id="overall-progress-fill" style="width: 0%"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 数据面板 ===== -->
+    <section id="stats" class="stats-panel">
+      <div class="stat-card">
+        <div class="stat-num" id="stat-days">0</div>
+        <div class="stat-label">已通关天数</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num" id="stat-words">0</div>
+        <div class="stat-label">已掌握单词</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num" id="stat-kills">0</div>
+        <div class="stat-label">击杀怪物数</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num" id="stat-streak">0</div>
+        <div class="stat-label">连续打卡(天)</div>
+      </div>
+    </section>
+
+    <!-- ===== 战役地图（学习+战斗双按钮） ===== -->
+    <section id="campaign" class="section">
+      <div class="section-head">
+        <h2>战役地图 · Campaign Map</h2>
+        <p class="section-desc">108 天 · 先学习后战斗 · 5400 词的漫长征途</p>
+      </div>
+      <div class="campaign-grid campaign-grid-study" id="campaign-grid"></div>
+    </section>
+
+    <!-- ===== 战斗手册 ===== -->
+    <section id="rules" class="section">
+      <div class="section-head">
+        <h2>战斗手册 · Combat Manual</h2>
+        <p class="section-desc">新人特工请先阅读</p>
+      </div>
+      <div class="rule-grid">
+        <div class="rule-card">
+          <div class="rule-icon">📚</div>
+          <h3>学习阶段</h3>
+          <p>先浏览 50 词（卡片翻转）→ 4 选 1 自测 → 解锁战斗。符合记忆规律。</p>
+        </div>
+        <div class="rule-card">
+          <div class="rule-icon">⚔️</div>
+          <h3>战斗阶段</h3>
+          <p>看中文写英文。<strong class="accent">答对 -20 HP</strong>，<strong class="danger">答错 +15 HP 并重做</strong>。</p>
+        </div>
+        <div class="rule-card">
+          <div class="rule-icon">🔊</div>
+          <h3>听音辅助</h3>
+          <p>每个新词自动播放发音，建立"音-形-义"三位一体记忆。</p>
+        </div>
+        <div class="rule-card">
+          <div class="rule-icon">🏆</div>
+          <h3>坚持 108 天</h3>
+          <p>连续通关 108 天 = 征服 5400 托福核心词汇，为未来留学打下坚实基础。</p>
+        </div>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <p>© 2026 TOEFL Campaign · Part of Xinzhe's Space</p>
+      <p class="footer-sub"><a href="/">← 返回主页</a></p>
+    </footer>
+
+  </div>
+
+  <script src="/assets/cloud-sync.js"></script>
+  <script>
+    'use strict';
+
+    var TOTAL_DAYS = 108;
+    var WORDS_PER_DAY = 50;
+    var SECTION = 'toefl';
+
+    function renderCampaign(progress) {
+      var grid = document.getElementById('campaign-grid');
+      if (!grid) return;
+      grid.innerHTML = '';
+      var completed = 0;
+      var studyData = JSON.parse(localStorage.getItem('toefl-study') || '{}');
+
+      for (var i = 1; i <= TOTAL_DAYS; i++) {
+        var dayKey = 'day' + String(i).padStart(3, '0');
+        if (progress[dayKey] && progress[dayKey].completed) completed++;
+      }
+
+      for (var j = 1; j <= TOTAL_DAYS; j++) {
+        var dayKey2 = 'day' + String(j).padStart(3, '0');
+        var done = progress[dayKey2] && progress[dayKey2].completed;
+        var isCurrent = j === completed + 1 && !done;
+        var studied = studyData[dayKey2] && studyData[dayKey2].last_studied;
+
+        var cellWrap = document.createElement('div');
+        cellWrap.className = 'campaign-cell-wrap' +
+          (done ? ' is-done' : '') +
+          (isCurrent ? ' is-current' : '');
+
+        var dayNum = String(j).padStart(3, '0');
+        cellWrap.innerHTML =
+          '<div class="cell-header">' +
+          '  <span class="cell-day">DAY</span>' +
+          '  <span class="cell-num">' + dayNum + '</span>' +
+          '  <span class="cell-status">' +
+          (done ? '✓' : (isCurrent ? '◉' : '○')) +
+          '  </span>' +
+          '</div>' +
+          '<div class="cell-actions">' +
+          '  <a href="study' + dayNum + '.html" class="cell-btn cell-btn-study' +
+          (studied ? ' is-done' : '') + '">' +
+          '📚 学习</a>' +
+          '  <a href="day' + dayNum + '.html" class="cell-btn cell-btn-battle' +
+          (done ? ' is-done' : '') + '">' +
+          '⚔ 战斗</a>' +
+          '</div>';
+        grid.appendChild(cellWrap);
+      }
+
+      var pct = Math.round((completed / TOTAL_DAYS) * 100);
+      document.getElementById('overall-progress-fill').style.width = pct + '%';
+      document.getElementById('overall-progress-text').textContent = completed + ' / ' + TOTAL_DAYS + ' DAYS';
+      document.getElementById('stat-days').textContent = completed;
+      document.getElementById('stat-words').textContent = completed * WORDS_PER_DAY;
+      document.getElementById('stat-kills').textContent = completed * 5;
+      document.getElementById('stat-streak').textContent = completed;
+      updateCTAButton(progress, completed, studyData);
+    }
+
+    function updateCTAButton(progress, completed, studyData) {
+      var cta = document.getElementById('cta-start');
+      if (!cta) return;
+
+      studyData = studyData || {};
+
+      if (completed === 0) {
+        // 状态1：新手
+        // 判断是否已经学了 Day 001 但还没通关
+        var hasStudiedDay1 = studyData['day001'] && studyData['day001'].last_studied;
+        if (hasStudiedDay1) {
+          cta.href = 'day001.html';
+          cta.innerHTML = '⚔ 进入 Day 001 战斗';
+        } else {
+          cta.href = 'study001.html';
+          cta.innerHTML = '📚 开始第一天学习';
+        }
+        cta.classList.remove('btn-gold');
+        cta.classList.add('btn-primary');
+      } else if (completed >= TOTAL_DAYS) {
+        // 状态3：全部通关
+        cta.href = '#campaign';
+        cta.innerHTML = '🎉 战役已完成 · 查看地图';
+        cta.classList.remove('btn-primary');
+        cta.classList.add('btn-gold');
+      } else {
+        // 状态2：进行中
+        var nextDay = completed + 1;
+        var dayNum = String(nextDay).padStart(3, '0');
+        var dayKey = 'day' + dayNum;
+        // 如果已经学过该天但没通关，直接去战斗
+        var hasStudied = studyData[dayKey] && studyData[dayKey].last_studied;
+        if (hasStudied) {
+          cta.href = 'day' + dayNum + '.html';
+          cta.innerHTML = '⚔ 继续战斗 · DAY ' + dayNum;
+        } else {
+          cta.href = 'study' + dayNum + '.html';
+          cta.innerHTML = '📚 继续学习 · DAY ' + dayNum;
+        }
+        cta.classList.remove('btn-gold');
+        cta.classList.add('btn-primary');
+      }
+    }    
+
+    function updateCloudUI() {
+      var code = (window.CloudSync && window.CloudSync.getCode()) || '';
+      document.getElementById('cloud-code').textContent = code || '未设置（仅本机保存）';
+      document.getElementById('cloud-icon').textContent = code ? '☁️' : '📱';
+      document.getElementById('cloud-btn').textContent = code ? '修改代号' : '设置代号';
+    }
+
+    function openModal() {
+      var input = document.getElementById('code-input');
+      if (input) input.value = (window.CloudSync && window.CloudSync.getCode()) || '';
+      document.getElementById('code-msg').textContent = '';
+      document.getElementById('cloud-modal').style.display = 'flex';
+    }
+
+    function closeModal() {
+      document.getElementById('cloud-modal').style.display = 'none';
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+      var localProgress = JSON.parse(localStorage.getItem('toefl-progress') || '{}');
+      renderCampaign(localProgress);
+      updateCloudUI();
+
+      document.getElementById('cloud-btn').addEventListener('click', openModal);
+      document.getElementById('code-cancel').addEventListener('click', closeModal);
+      document.getElementById('cloud-modal-bg').addEventListener('click', closeModal);
+
+      document.getElementById('code-random').addEventListener('click', function () {
+        if (window.CloudSync) {
+          document.getElementById('code-input').value = window.CloudSync.generateCode();
+        }
+      });
+
+      document.getElementById('code-save').addEventListener('click', async function () {
+        var code = document.getElementById('code-input').value.trim();
+        var msg = document.getElementById('code-msg');
+        if (!window.CloudSync) return;
+        try {
+          window.CloudSync.setCode(code);
+          msg.textContent = '⏳ 同步中...';
+          msg.style.color = 'var(--val-gray)';
+
+          // 同步 toefl 和 toefl_study 两个 section
+          var merged = await window.CloudSync.initSection(SECTION);
+          await window.CloudSync.initSection('toefl_study');
+
+          renderCampaign(merged || {});
+          updateCloudUI();
+          msg.textContent = '✓ 保存成功！';
+          msg.style.color = 'var(--success)';
+          setTimeout(closeModal, 1500);
+        } catch (err) {
+          msg.textContent = '✗ ' + err.message;
+          msg.style.color = 'var(--danger)';
+        }
+      });
+
+      if (window.CloudSync && window.CloudSync.getCode()) {
+        window.CloudSync.initSection(SECTION).then(function (merged) {
+          if (merged) renderCampaign(merged);
+        }).catch(console.warn);
+
+        // 同时同步学习数据
+        window.CloudSync.initSection('toefl_study').then(function () {
+          // 重新渲染以更新"已学习"标记
+          var currentProgress = JSON.parse(localStorage.getItem('toefl-progress') || '{}');
+          renderCampaign(currentProgress);
+        }).catch(console.warn);
+      }
+    });
+  </script>
+</body>
+</html>

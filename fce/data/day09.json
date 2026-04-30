@@ -1,0 +1,304 @@
+{
+  "day": 9,
+  "title": "Day 09 · conflict → counter",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "consider",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "KAY/O Unit",
+      "hp": 100,
+      "words": [
+        {
+          "en": "conflict",
+          "zh": "\"n. 冲突，矛盾；斗争；争执",
+          "pos": "n."
+        },
+        {
+          "en": "conform",
+          "zh": "\"adj. 一致的；顺从的",
+          "pos": "adj."
+        },
+        {
+          "en": "confuse",
+          "zh": "vt. 使混乱；使困惑",
+          "pos": "vt."
+        },
+        {
+          "en": "congested",
+          "zh": "\"adj. 堵塞的，拥挤的",
+          "pos": "adj."
+        },
+        {
+          "en": "congratulation",
+          "zh": "n. 祝贺；贺辞",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Fade Nightmare",
+      "hp": 150,
+      "words": [
+        {
+          "en": "connect",
+          "zh": "\"vt. 连接；联合；关连",
+          "pos": "vt."
+        },
+        {
+          "en": "conquer",
+          "zh": "\"vt. 战胜，征服；攻克，攻取",
+          "pos": "vt."
+        },
+        {
+          "en": "conscious",
+          "zh": "adj. 意识到的；故意的；神志清醒的",
+          "pos": "adj."
+        },
+        {
+          "en": "consequence",
+          "zh": "n. 结果；重要性；推论",
+          "pos": "n."
+        },
+        {
+          "en": "consequently",
+          "zh": "adv. 因此；结果；所以",
+          "pos": "adv."
+        },
+        {
+          "en": "conservation",
+          "zh": "n. 保存，保持；保护",
+          "pos": "n."
+        },
+        {
+          "en": "consider",
+          "zh": "\"vi. 考虑；认为；细想",
+          "pos": "vi."
+        },
+        {
+          "en": "considerable",
+          "zh": "adj. 相当大的；重要的，值得考虑的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "consist",
+          "zh": "vi. 由…组成；在于；符合",
+          "pos": "vi."
+        },
+        {
+          "en": "console",
+          "zh": "\"n. 控制台； 操纵台",
+          "pos": "n."
+        },
+        {
+          "en": "consolidation",
+          "zh": "n. 巩固；合并；团结",
+          "pos": "n."
+        },
+        {
+          "en": "constant",
+          "zh": "\"n. 常数；恒量",
+          "pos": "n."
+        },
+        {
+          "en": "construct",
+          "zh": "\"n. 构想，概念",
+          "pos": "n."
+        },
+        {
+          "en": "consult",
+          "zh": "\"vi. 请教；商议；当顾问",
+          "pos": "vi."
+        },
+        {
+          "en": "consume",
+          "zh": "\"vt. 消耗，消费；使…着迷；挥霍",
+          "pos": "vt."
+        },
+        {
+          "en": "contact",
+          "zh": "\"n. 接触，联系",
+          "pos": "n."
+        },
+        {
+          "en": "contain",
+          "zh": "\"vi. 含有；自制",
+          "pos": "vi."
+        },
+        {
+          "en": "contemporary",
+          "zh": "\"n. 同时代的人；同时期的东西",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "content",
+          "zh": "\"n. 内容，目录；满足；容量",
+          "pos": "n."
+        },
+        {
+          "en": "context",
+          "zh": "n. 环境；上下文；来龙去脉",
+          "pos": "n."
+        },
+        {
+          "en": "continent",
+          "zh": "\"n. 大陆，洲，陆地",
+          "pos": "n."
+        },
+        {
+          "en": "continually",
+          "zh": "adv. 不断地；频繁地",
+          "pos": "adv."
+        },
+        {
+          "en": "continue",
+          "zh": "\"vt. 继续说…；使…继续；使…延长",
+          "pos": "vt."
+        },
+        {
+          "en": "contract",
+          "zh": "\"n. 合同；婚约",
+          "pos": "n."
+        },
+        {
+          "en": "contradict",
+          "zh": "\"vt. 反驳；否定；与…矛盾；与…抵触",
+          "pos": "vt."
+        },
+        {
+          "en": "contrast",
+          "zh": "\"n. 对比；差别；对照物",
+          "pos": "n."
+        },
+        {
+          "en": "contribute",
+          "zh": "\"vt. 贡献，出力；投稿；捐献",
+          "pos": "vt."
+        },
+        {
+          "en": "control",
+          "zh": "\"n. 控制；管理；抑制；操纵装置",
+          "pos": "n."
+        },
+        {
+          "en": "consider",
+          "zh": "\"vi. 考虑；认为；细想",
+          "pos": "vi."
+        },
+        {
+          "en": "convenient",
+          "zh": "adj. 方便的；适当的；近便的；实用的",
+          "pos": "adj."
+        },
+        {
+          "en": "convention",
+          "zh": "n. 大会； 惯例； 约定； 协定；习俗",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "conversation",
+          "zh": "n. 交谈，会话；社交；交往，交际；会谈；（人与计算机的）人机对话",
+          "pos": "n."
+        },
+        {
+          "en": "convert",
+          "zh": "\"n. 皈依者；改变宗教信仰者",
+          "pos": "n."
+        },
+        {
+          "en": "convince",
+          "zh": "vt. 说服；使确信，使信服",
+          "pos": "vt."
+        },
+        {
+          "en": "convinced",
+          "zh": "\"v. 使确信（convince的过去分词）；说服",
+          "pos": "v."
+        },
+        {
+          "en": "cook",
+          "zh": "\"n. 厨师，厨子",
+          "pos": "n."
+        },
+        {
+          "en": "cool",
+          "zh": "\"n. 凉爽；凉爽的空气",
+          "pos": "n."
+        },
+        {
+          "en": "cooperative",
+          "zh": "\"n. 合作社",
+          "pos": "n."
+        },
+        {
+          "en": "cope",
+          "zh": "\"n. 长袍",
+          "pos": "n."
+        },
+        {
+          "en": "copy",
+          "zh": "\"n. 副本；一册；摹仿",
+          "pos": "n."
+        },
+        {
+          "en": "correspondence",
+          "zh": "n. 通信；一致；相当",
+          "pos": "n."
+        },
+        {
+          "en": "cosmopolitan",
+          "zh": "\"n. 四海为家者；世界主义者；世界各地都有的东西",
+          "pos": "n."
+        },
+        {
+          "en": "cost",
+          "zh": "\"n. 费用，代价，成本；损失",
+          "pos": "n."
+        },
+        {
+          "en": "council",
+          "zh": "n. 委员会；会议；理事会；地方议会；顾问班子",
+          "pos": "n."
+        },
+        {
+          "en": "count",
+          "zh": "\"n. 计数；计算；伯爵",
+          "pos": "n."
+        },
+        {
+          "en": "counter",
+          "zh": "\"n. 柜台；对立面；计数器；（某些棋盘游戏的）筹码",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

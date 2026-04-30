@@ -1,0 +1,304 @@
+{
+  "day": 72,
+  "title": "Day 072 · pupil → ranching",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "puzzling",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Viper Spawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "pupil",
+          "zh": "n. 瞳孔",
+          "pos": "n."
+        },
+        {
+          "en": "purple",
+          "zh": "n. 紫色",
+          "pos": "n."
+        },
+        {
+          "en": "purify",
+          "zh": "vt. 提炼，精炼",
+          "pos": "vt."
+        },
+        {
+          "en": "purified",
+          "zh": "adj. 纯净的",
+          "pos": "adj."
+        },
+        {
+          "en": "purification",
+          "zh": "n. 纯化，净化",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Iso Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "puzzle",
+          "zh": "n. 难题，谜",
+          "pos": "n."
+        },
+        {
+          "en": "puzzling",
+          "zh": "adj. 使迷惑的，使莫名其妙的",
+          "pos": "adj."
+        },
+        {
+          "en": "quail",
+          "zh": "n. 鹌鹑",
+          "pos": "n."
+        },
+        {
+          "en": "quaint",
+          "zh": "adj. 奇怪的，离奇有趣的",
+          "pos": "adj."
+        },
+        {
+          "en": "acquainted",
+          "zh": "adj. 有知识的，知晓的",
+          "pos": "adj."
+        },
+        {
+          "en": "qualified",
+          "zh": "adj. 合格的",
+          "pos": "adj."
+        },
+        {
+          "en": "qualification",
+          "zh": "n. 资格，条件",
+          "pos": "n."
+        },
+        {
+          "en": "quantitative",
+          "zh": "adj. 定量的；数量的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "quantum theory",
+          "zh": "n. （物理）量子论",
+          "pos": "n."
+        },
+        {
+          "en": "quarry",
+          "zh": "n. 采石场，露天矿场",
+          "pos": "n."
+        },
+        {
+          "en": "quarter",
+          "zh": "n. 四分之一",
+          "pos": "n."
+        },
+        {
+          "en": "quarterly",
+          "zh": "adv. 每季地",
+          "pos": "adv."
+        },
+        {
+          "en": "headquarters",
+          "zh": "n. 司令部，总部",
+          "pos": "n."
+        },
+        {
+          "en": "quartz",
+          "zh": "n. 石英",
+          "pos": "n."
+        },
+        {
+          "en": "quench",
+          "zh": "vt. 淬火",
+          "pos": "vt."
+        },
+        {
+          "en": "quest",
+          "zh": "n. 寻找，探索",
+          "pos": "n."
+        },
+        {
+          "en": "questionable",
+          "zh": "adj. 可疑的",
+          "pos": "adj."
+        },
+        {
+          "en": "questionnaire",
+          "zh": "n. 调查表, 问卷",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "unquestioning",
+          "zh": "adj. 不加疑问的,不犹豫的",
+          "pos": "adj."
+        },
+        {
+          "en": "unquestionably",
+          "zh": "adv. 无疑地，无可非议地",
+          "pos": "adv."
+        },
+        {
+          "en": "puzzling",
+          "zh": "adj. 使迷惑的，使莫名其妙的",
+          "pos": "adj."
+        },
+        {
+          "en": "request",
+          "zh": "v./n. 请求，要求",
+          "pos": "v."
+        },
+        {
+          "en": "sequester",
+          "zh": "vt. 使退隐，使隔绝",
+          "pos": "vt."
+        },
+        {
+          "en": "equestrian",
+          "zh": "adj. 骑马的, 骑士阶层的",
+          "pos": "adj."
+        },
+        {
+          "en": "quiescent",
+          "zh": "adj. 静止的，寂静的",
+          "pos": "adj."
+        },
+        {
+          "en": "quilt",
+          "zh": "n. 棉被",
+          "pos": "n."
+        },
+        {
+          "en": "quilter",
+          "zh": "n. 缝被子的人",
+          "pos": "n."
+        },
+        {
+          "en": "quota",
+          "zh": "n. 配额；定量，定额",
+          "pos": "n."
+        },
+        {
+          "en": "quotation",
+          "zh": "n. 引用语",
+          "pos": "n."
+        },
+        {
+          "en": "radar",
+          "zh": "n. 雷达",
+          "pos": "n."
+        },
+        {
+          "en": "radiant",
+          "zh": "adj. 发光的；荣光焕发的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "radiate",
+          "zh": "v. 放射；辐射",
+          "pos": "v."
+        },
+        {
+          "en": "irradiate",
+          "zh": "vt. 照射",
+          "pos": "vt."
+        },
+        {
+          "en": "radiation",
+          "zh": "n. 辐射，发光，放热",
+          "pos": "n."
+        },
+        {
+          "en": "radical",
+          "zh": "adj. 根本的；激进的",
+          "pos": "adj."
+        },
+        {
+          "en": "radically",
+          "zh": "adv. 根本上",
+          "pos": "adv."
+        },
+        {
+          "en": "sporadically",
+          "zh": "adv. 偶发地, 零星地",
+          "pos": "adv."
+        },
+        {
+          "en": "raft",
+          "zh": "n. 筏，救生艇",
+          "pos": "n."
+        },
+        {
+          "en": "rage",
+          "zh": "n. 风尚，风靡一时的事物",
+          "pos": "n."
+        },
+        {
+          "en": "sewerage",
+          "zh": "n. 排水设备，污水",
+          "pos": "n."
+        },
+        {
+          "en": "ragged",
+          "zh": "adj. 褴褛的，破烂的",
+          "pos": "adj."
+        },
+        {
+          "en": "ragtime",
+          "zh": "n. 拉格泰姆音乐",
+          "pos": "n."
+        },
+        {
+          "en": "raid",
+          "zh": "n. 袭击",
+          "pos": "n."
+        },
+        {
+          "en": "rainfall",
+          "zh": "n. 降雨；降雨量",
+          "pos": "n."
+        },
+        {
+          "en": "ranch",
+          "zh": "n. 农场，牧场",
+          "pos": "n."
+        },
+        {
+          "en": "ranching",
+          "zh": "adj. 放牧的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

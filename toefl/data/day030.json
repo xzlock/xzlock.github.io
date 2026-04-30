@@ -1,0 +1,304 @@
+{
+  "day": 30,
+  "title": "Day 030 · distill → dominate",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "domesticate",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Cypher Eye",
+      "hp": 100,
+      "words": [
+        {
+          "en": "distill",
+          "zh": "vt. 蒸馏，提取",
+          "pos": "vt."
+        },
+        {
+          "en": "distinction",
+          "zh": "n. 差别，特性",
+          "pos": "n."
+        },
+        {
+          "en": "distinct",
+          "zh": "adj. 明确的，确实的；不同的",
+          "pos": "adj."
+        },
+        {
+          "en": "distinctly",
+          "zh": "adv. 清楚地，显然",
+          "pos": "adv."
+        },
+        {
+          "en": "distinctive",
+          "zh": "adj. 有特色的，出众的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Breach Quake",
+      "hp": 150,
+      "words": [
+        {
+          "en": "distinctively",
+          "zh": "adv. 特殊地，区别地",
+          "pos": "adv."
+        },
+        {
+          "en": "distinguish",
+          "zh": "vt. 区别，辨认",
+          "pos": "vt."
+        },
+        {
+          "en": "distinguished",
+          "zh": "adj. 卓著的",
+          "pos": "adj."
+        },
+        {
+          "en": "distort",
+          "zh": "vt. 弄歪（形状等）；歪曲",
+          "pos": "vt."
+        },
+        {
+          "en": "undistorted",
+          "zh": "adj. 未失真的",
+          "pos": "adj."
+        },
+        {
+          "en": "distortion",
+          "zh": "n. 扭曲；歪曲",
+          "pos": "n."
+        },
+        {
+          "en": "distract",
+          "zh": "vt. 使…分心，分散注意力",
+          "pos": "vt."
+        },
+        {
+          "en": "distress",
+          "zh": "n. 悲痛，不幸，穷困",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "distribute",
+          "zh": "vt. 分配；分发，散布",
+          "pos": "vt."
+        },
+        {
+          "en": "distribution",
+          "zh": "n. 分发，分配",
+          "pos": "n."
+        },
+        {
+          "en": "district",
+          "zh": "n. 区域，地区",
+          "pos": "n."
+        },
+        {
+          "en": "disturb",
+          "zh": "vt. 打扰，扰乱",
+          "pos": "vt."
+        },
+        {
+          "en": "undisturbed",
+          "zh": "adj. 没受干扰的，安静的",
+          "pos": "adj."
+        },
+        {
+          "en": "disturbance",
+          "zh": "n. 骚动，动乱",
+          "pos": "n."
+        },
+        {
+          "en": "dive",
+          "zh": "vi. 潜水；跳水",
+          "pos": "vi."
+        },
+        {
+          "en": "diver",
+          "zh": "n. 潜水者，跳水运动员",
+          "pos": "n."
+        },
+        {
+          "en": "divergent",
+          "zh": "adj. 有分歧的，有差异的",
+          "pos": "adj."
+        },
+        {
+          "en": "divergence",
+          "zh": "n. 分歧，岔开",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "diverse",
+          "zh": "adj. 不同的；变化多的",
+          "pos": "adj."
+        },
+        {
+          "en": "diversity",
+          "zh": "n. 差异，多样",
+          "pos": "n."
+        },
+        {
+          "en": "diversify",
+          "zh": "vt. 使多样化",
+          "pos": "vt."
+        },
+        {
+          "en": "diversified",
+          "zh": "adj. 多样化的",
+          "pos": "adj."
+        },
+        {
+          "en": "diversification",
+          "zh": "n. 多样化",
+          "pos": "n."
+        },
+        {
+          "en": "domesticate",
+          "zh": "vt. 驯养，驯化",
+          "pos": "vt."
+        },
+        {
+          "en": "diversion",
+          "zh": "n. 消遣，娱乐",
+          "pos": "n."
+        },
+        {
+          "en": "divert",
+          "zh": "vt. 转移，（使）转向",
+          "pos": "vt."
+        },
+        {
+          "en": "divide",
+          "zh": "vt. 划分，分开；分裂",
+          "pos": "vt."
+        },
+        {
+          "en": "divorce",
+          "zh": "vt. 离婚",
+          "pos": "vt."
+        },
+        {
+          "en": "dizzy",
+          "zh": "adj. 眩晕的",
+          "pos": "adj."
+        },
+        {
+          "en": "dizzying",
+          "zh": "adj. 令人昏乱的；灿烂的",
+          "pos": "adj."
+        },
+        {
+          "en": "dizziness",
+          "zh": "n. 头昏眼花，眩晕",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "doctrine",
+          "zh": "n. 教义，教旨",
+          "pos": "n."
+        },
+        {
+          "en": "documentation",
+          "zh": "n. 文件",
+          "pos": "n."
+        },
+        {
+          "en": "document",
+          "zh": "vt. 证明；文件记录",
+          "pos": "vt."
+        },
+        {
+          "en": "documentary",
+          "zh": "adj. 文件的 n. 纪录片",
+          "pos": "adj."
+        },
+        {
+          "en": "dogged",
+          "zh": "adj. 顽强的，顽固的",
+          "pos": "adj."
+        },
+        {
+          "en": "dogma",
+          "zh": "n. 教条，教义",
+          "pos": "n."
+        },
+        {
+          "en": "doll",
+          "zh": "n. 洋娃娃，玩偶",
+          "pos": "n."
+        },
+        {
+          "en": "dolphin",
+          "zh": "n. 海豚",
+          "pos": "n."
+        },
+        {
+          "en": "domain",
+          "zh": "n. 领域，范围",
+          "pos": "n."
+        },
+        {
+          "en": "domestic",
+          "zh": "adj. 家里的；家养的",
+          "pos": "adj."
+        },
+        {
+          "en": "domesticate",
+          "zh": "vt. 驯养，驯化",
+          "pos": "vt."
+        },
+        {
+          "en": "domesticated",
+          "zh": "adj. 驯养的，家养的",
+          "pos": "adj."
+        },
+        {
+          "en": "dominant",
+          "zh": "adj. 支配的，占优势的",
+          "pos": "adj."
+        },
+        {
+          "en": "predominantly",
+          "zh": "adv. 占主导地位地",
+          "pos": "adv."
+        },
+        {
+          "en": "dominate",
+          "zh": "vt. 统治，支配，控制",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

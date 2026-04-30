@@ -1,0 +1,304 @@
+{
+  "day": 36,
+  "title": "Day 36 · remaining → revenue",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "remaining",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Sova Scout",
+      "hp": 100,
+      "words": [
+        {
+          "en": "remaining",
+          "zh": "adj. 剩下的，剩余的",
+          "pos": "adj."
+        },
+        {
+          "en": "remark",
+          "zh": "\"n. 注意；言辞",
+          "pos": "n."
+        },
+        {
+          "en": "remarkable",
+          "zh": "adj. 卓越的；非凡的；值得注意的",
+          "pos": "adj."
+        },
+        {
+          "en": "remember",
+          "zh": "\"vi. 记得，记起",
+          "pos": "vi."
+        },
+        {
+          "en": "remind",
+          "zh": "vt. 提醒；使想起",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Jett Blitz",
+      "hp": 150,
+      "words": [
+        {
+          "en": "remnant",
+          "zh": "\"n. 剩余",
+          "pos": "n."
+        },
+        {
+          "en": "remodel",
+          "zh": "vt. 改造；改变；改型",
+          "pos": "vt."
+        },
+        {
+          "en": "remote",
+          "zh": "\"n. 远程",
+          "pos": "n."
+        },
+        {
+          "en": "remove",
+          "zh": "\"n. 移动；距离；搬家",
+          "pos": "n."
+        },
+        {
+          "en": "renovate",
+          "zh": "vt. 更新；修复；革新；刷新",
+          "pos": "vt."
+        },
+        {
+          "en": "renowned",
+          "zh": "\"v. 使有声誉（renown的过去分词）",
+          "pos": "v."
+        },
+        {
+          "en": "rent",
+          "zh": "\"n. 租金",
+          "pos": "n."
+        },
+        {
+          "en": "repair",
+          "zh": "\"n. 修理，修补；修补部位",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "repeat",
+          "zh": "\"n. 重复；副本",
+          "pos": "n."
+        },
+        {
+          "en": "repetitive",
+          "zh": "adj. 重复的",
+          "pos": "adj."
+        },
+        {
+          "en": "replace",
+          "zh": "vt. 取代，代替；替换，更换；归还，偿还；把…放回原处",
+          "pos": "vt."
+        },
+        {
+          "en": "replicate",
+          "zh": "\"n. 复制品；八音阶间隔的反覆音",
+          "pos": "n."
+        },
+        {
+          "en": "reply",
+          "zh": "\"n. 回答； 答辩",
+          "pos": "n."
+        },
+        {
+          "en": "report",
+          "zh": "\"n. 报告；报道；成绩单",
+          "pos": "n."
+        },
+        {
+          "en": "represent",
+          "zh": "\"vt. 代表；表现；描绘；回忆；再赠送",
+          "pos": "vt."
+        },
+        {
+          "en": "reputation",
+          "zh": "n. 名声，名誉；声望",
+          "pos": "n."
+        },
+        {
+          "en": "request",
+          "zh": "\"n. 请求；需要",
+          "pos": "n."
+        },
+        {
+          "en": "require",
+          "zh": "vt. 需要；要求；命令",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "re-register",
+          "zh": "\"vt. 再定位, 再对准, 再配准\"",
+          "pos": "vt."
+        },
+        {
+          "en": "rescue",
+          "zh": "\"n. 营救；援救；解救",
+          "pos": "n."
+        },
+        {
+          "en": "research",
+          "zh": "\"n. 研究；调查",
+          "pos": "n."
+        },
+        {
+          "en": "resemble",
+          "zh": "vt. 类似，像",
+          "pos": "vt."
+        },
+        {
+          "en": "resent",
+          "zh": "vt. 怨恨；愤恨；厌恶",
+          "pos": "vt."
+        },
+        {
+          "en": "reservoir",
+          "zh": "n. 水库；蓄水池",
+          "pos": "n."
+        },
+        {
+          "en": "reside",
+          "zh": "vi. 住，居住；属于",
+          "pos": "vi."
+        },
+        {
+          "en": "resign",
+          "zh": "\"n. 辞去职务",
+          "pos": "n."
+        },
+        {
+          "en": "remaining",
+          "zh": "adj. 剩下的，剩余的",
+          "pos": "adj."
+        },
+        {
+          "en": "resist",
+          "zh": "\"n. 抗蚀剂；防染剂",
+          "pos": "n."
+        },
+        {
+          "en": "resistant",
+          "zh": "\"n. 抵抗者",
+          "pos": "n."
+        },
+        {
+          "en": "resort",
+          "zh": "\"n. 凭借，手段；度假胜地；常去之地",
+          "pos": "n."
+        },
+        {
+          "en": "resource",
+          "zh": "n. 资源，财力；办法；智谋",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radianite Colossus",
+      "hp": 300,
+      "words": [
+        {
+          "en": "respect",
+          "zh": "\"n. 尊敬，尊重；方面；敬意",
+          "pos": "n."
+        },
+        {
+          "en": "respond",
+          "zh": "\"n. 应答；唱和",
+          "pos": "n."
+        },
+        {
+          "en": "responsible",
+          "zh": "adj. 负责的，可靠的；有责任的",
+          "pos": "adj."
+        },
+        {
+          "en": "rest",
+          "zh": "\"n. 休息，静止；休息时间；剩余部分；支架",
+          "pos": "n."
+        },
+        {
+          "en": "restore",
+          "zh": "\"vi. 恢复；还原",
+          "pos": "vi."
+        },
+        {
+          "en": "restriction",
+          "zh": "n. 限制；约束；束缚",
+          "pos": "n."
+        },
+        {
+          "en": "result",
+          "zh": "\"n. 结果；成绩；答案；比赛结果",
+          "pos": "n."
+        },
+        {
+          "en": "resume",
+          "zh": "\"n. 摘要； 履历，简历",
+          "pos": "n."
+        },
+        {
+          "en": "retain",
+          "zh": "vt. 保持；雇；记住",
+          "pos": "vt."
+        },
+        {
+          "en": "retention",
+          "zh": "n. 保留；扣留，滞留；记忆力；闭尿",
+          "pos": "n."
+        },
+        {
+          "en": "retire",
+          "zh": "\"n. 退休；退隐；退兵信号",
+          "pos": "n."
+        },
+        {
+          "en": "return",
+          "zh": "\"vi. 返回；报答",
+          "pos": "vi."
+        },
+        {
+          "en": "reuse",
+          "zh": "\"n. 重新使用，再用",
+          "pos": "n."
+        },
+        {
+          "en": "reveal",
+          "zh": "\"n. 揭露；暴露；门侧，窗侧",
+          "pos": "n."
+        },
+        {
+          "en": "revenue",
+          "zh": "n. 税收，国家的收入；收益",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

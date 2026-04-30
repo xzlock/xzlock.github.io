@@ -1,0 +1,304 @@
+{
+  "day": 31,
+  "title": "Day 031 · predominate → duplicate",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "overdue",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Chamber Pawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "predominate",
+          "zh": "vi. 占主导地位，占优势",
+          "pos": "vi."
+        },
+        {
+          "en": "donate",
+          "zh": "vt. 捐赠",
+          "pos": "vt."
+        },
+        {
+          "en": "donation",
+          "zh": "n. 捐赠，捐款",
+          "pos": "n."
+        },
+        {
+          "en": "donor",
+          "zh": "n. 捐助者",
+          "pos": "n."
+        },
+        {
+          "en": "dormant",
+          "zh": "adj. 静止的，休眠的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "dormitory",
+          "zh": "n. 宿舍",
+          "pos": "n."
+        },
+        {
+          "en": "dorsal",
+          "zh": "adj. 背部的，背脊的",
+          "pos": "adj."
+        },
+        {
+          "en": "dot",
+          "zh": "vt. 星罗棋布于",
+          "pos": "vt."
+        },
+        {
+          "en": "endotoxin",
+          "zh": "n. 内毒素",
+          "pos": "n."
+        },
+        {
+          "en": "endotherm",
+          "zh": "n. 温血动物，恒温动物",
+          "pos": "n."
+        },
+        {
+          "en": "doubt",
+          "zh": "n./vt. 怀疑",
+          "pos": "n."
+        },
+        {
+          "en": "doubtful",
+          "zh": "adj. 可疑的；疑心的",
+          "pos": "adj."
+        },
+        {
+          "en": "downtown",
+          "zh": "adv./adj. 在市区（的），往市区（的）",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "draft",
+          "zh": "n. 草图，草稿",
+          "pos": "n."
+        },
+        {
+          "en": "drag",
+          "zh": "vt. 拖动",
+          "pos": "vt."
+        },
+        {
+          "en": "dragonfly",
+          "zh": "n. 蜻蜓",
+          "pos": "n."
+        },
+        {
+          "en": "drain",
+          "zh": "v. （使）流走，（使）排光",
+          "pos": "v."
+        },
+        {
+          "en": "drainage",
+          "zh": "n. 排水，排出物",
+          "pos": "n."
+        },
+        {
+          "en": "drama",
+          "zh": "n. 戏剧",
+          "pos": "n."
+        },
+        {
+          "en": "dramatize",
+          "zh": "vt. 改编成戏剧，编写剧本",
+          "pos": "vt."
+        },
+        {
+          "en": "melodrama",
+          "zh": "n. 情节剧",
+          "pos": "n."
+        },
+        {
+          "en": "dramatically",
+          "zh": "adv. 戏剧性地；引人注目地",
+          "pos": "adv."
+        },
+        {
+          "en": "dramatic",
+          "zh": "adj. 戏剧性的；引人注目的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Wraith",
+      "hp": 250,
+      "words": [
+        {
+          "en": "drastic",
+          "zh": "adj. 猛烈的",
+          "pos": "adj."
+        },
+        {
+          "en": "draw",
+          "zh": "vt. 吸引",
+          "pos": "vt."
+        },
+        {
+          "en": "drawing",
+          "zh": "n. 图画，制图",
+          "pos": "n."
+        },
+        {
+          "en": "overdue",
+          "zh": "adj. 迟到的，过期的",
+          "pos": "adj."
+        },
+        {
+          "en": "drawback",
+          "zh": "n. 弊端，缺点",
+          "pos": "n."
+        },
+        {
+          "en": "drawer",
+          "zh": "n. 抽屉",
+          "pos": "n."
+        },
+        {
+          "en": "dread",
+          "zh": "n. 畏惧，恐怖",
+          "pos": "n."
+        },
+        {
+          "en": "dreadful",
+          "zh": "adj. 可怕的",
+          "pos": "adj."
+        },
+        {
+          "en": "dreadfully",
+          "zh": "adv. 可怕地",
+          "pos": "adv."
+        },
+        {
+          "en": "dreary",
+          "zh": "adj. 沉闷的，阴郁的",
+          "pos": "adj."
+        },
+        {
+          "en": "drift",
+          "zh": "vi. 漂流；漂泊",
+          "pos": "vi."
+        },
+        {
+          "en": "driftwood",
+          "zh": "n. 浮木",
+          "pos": "n."
+        },
+        {
+          "en": "snowdrift",
+          "zh": "n. 雪堆",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "drill",
+          "zh": "vt. 钻孔，打眼",
+          "pos": "vt."
+        },
+        {
+          "en": "drought",
+          "zh": "n. 干旱",
+          "pos": "n."
+        },
+        {
+          "en": "drowsy",
+          "zh": "adj. 昏昏欲睡的",
+          "pos": "adj."
+        },
+        {
+          "en": "drudgery",
+          "zh": "n. 苦工，苦差事",
+          "pos": "n."
+        },
+        {
+          "en": "ductile",
+          "zh": "adj. 易延展的；柔软的",
+          "pos": "adj."
+        },
+        {
+          "en": "due",
+          "zh": "adj. 预定的；到期的",
+          "pos": "adj."
+        },
+        {
+          "en": "overdue",
+          "zh": "adj. 迟到的，过期的",
+          "pos": "adj."
+        },
+        {
+          "en": "dues",
+          "zh": "n. 应付款",
+          "pos": "n."
+        },
+        {
+          "en": "subdue",
+          "zh": "vt. 征服",
+          "pos": "vt."
+        },
+        {
+          "en": "residue",
+          "zh": "n. 残滓，剩余",
+          "pos": "n."
+        },
+        {
+          "en": "dull",
+          "zh": "adj. 钝的；感觉或理解迟钝的",
+          "pos": "adj."
+        },
+        {
+          "en": "dumb",
+          "zh": "adj. 哑的",
+          "pos": "adj."
+        },
+        {
+          "en": "dumbbell-like",
+          "zh": "adj. 哑铃状的",
+          "pos": "adj."
+        },
+        {
+          "en": "dump",
+          "zh": "vt. 倾泻，倾倒",
+          "pos": "vt."
+        },
+        {
+          "en": "duplicate",
+          "zh": "vt. 复写，复制",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 19,
+  "title": "Day 019 · computation → confirmation",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "confinement",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Fade Whisper",
+      "hp": 100,
+      "words": [
+        {
+          "en": "computation",
+          "zh": "n. 计算，估计",
+          "pos": "n."
+        },
+        {
+          "en": "concave",
+          "zh": "adj. 凹的",
+          "pos": "adj."
+        },
+        {
+          "en": "conceal",
+          "zh": "vt. 隐藏，隐瞒",
+          "pos": "vt."
+        },
+        {
+          "en": "concede",
+          "zh": "v. 承认",
+          "pos": "v."
+        },
+        {
+          "en": "conceive",
+          "zh": "vt. 构思；设想",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "concentric",
+          "zh": "adj. 同心的",
+          "pos": "adj."
+        },
+        {
+          "en": "concept",
+          "zh": "n. 概念，观念",
+          "pos": "n."
+        },
+        {
+          "en": "conception",
+          "zh": "n. 观念，认识",
+          "pos": "n."
+        },
+        {
+          "en": "misconception",
+          "zh": "n. 误解",
+          "pos": "n."
+        },
+        {
+          "en": "conceptual",
+          "zh": "adj. 概念上的",
+          "pos": "adj."
+        },
+        {
+          "en": "concert",
+          "zh": "n. 音乐会",
+          "pos": "n."
+        },
+        {
+          "en": "concerted",
+          "zh": "adj. 商议好的，协定的",
+          "pos": "adj."
+        },
+        {
+          "en": "concerto",
+          "zh": "n. 协奏曲",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "concise",
+          "zh": "adj. 简洁的，简明的",
+          "pos": "adj."
+        },
+        {
+          "en": "conciseness",
+          "zh": "n. 简洁，简短",
+          "pos": "n."
+        },
+        {
+          "en": "conclude",
+          "zh": "v. 推断；作出结论",
+          "pos": "v."
+        },
+        {
+          "en": "conclusive",
+          "zh": "adj. 最后的，决定性的",
+          "pos": "adj."
+        },
+        {
+          "en": "inconclusive",
+          "zh": "adj. 非决定的",
+          "pos": "adj."
+        },
+        {
+          "en": "concomitant",
+          "zh": "adj. 伴随的 n. 伴随物",
+          "pos": "adj."
+        },
+        {
+          "en": "concrete",
+          "zh": "n. 水泥",
+          "pos": "n."
+        },
+        {
+          "en": "concurrent",
+          "zh": "adj. 同时发生的",
+          "pos": "adj."
+        },
+        {
+          "en": "condemn",
+          "zh": "vt. 谴责",
+          "pos": "vt."
+        },
+        {
+          "en": "condemnation",
+          "zh": "n. 谴责",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "condensation",
+          "zh": "n. 压缩，浓缩",
+          "pos": "n."
+        },
+        {
+          "en": "condense",
+          "zh": "vt. 使浓缩；精简",
+          "pos": "vt."
+        },
+        {
+          "en": "confinement",
+          "zh": "n. 限制，禁闭",
+          "pos": "n."
+        },
+        {
+          "en": "condenser",
+          "zh": "n. 冷凝器",
+          "pos": "n."
+        },
+        {
+          "en": "condiment",
+          "zh": "n. 调味品",
+          "pos": "n."
+        },
+        {
+          "en": "condition",
+          "zh": "n. 条件；状况；健康状况",
+          "pos": "n."
+        },
+        {
+          "en": "conditioning",
+          "zh": "n. （心理）条件作用，训练",
+          "pos": "n."
+        },
+        {
+          "en": "condor",
+          "zh": "n. 秃鹰",
+          "pos": "n."
+        },
+        {
+          "en": "conduct",
+          "zh": "vt. 做（试验、研究等）；引导，带领",
+          "pos": "vt."
+        },
+        {
+          "en": "conductivity",
+          "zh": "n. 导电率；传导率",
+          "pos": "n."
+        },
+        {
+          "en": "conductor",
+          "zh": "n. 导体",
+          "pos": "n."
+        },
+        {
+          "en": "cone",
+          "zh": "n. 圆锥，松果",
+          "pos": "n."
+        },
+        {
+          "en": "confederate",
+          "zh": "n. 同盟者，盟友",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "confederacy",
+          "zh": "n. 联盟",
+          "pos": "n."
+        },
+        {
+          "en": "confer",
+          "zh": "v. 颁给，赋予",
+          "pos": "v."
+        },
+        {
+          "en": "conference",
+          "zh": "n. 会议；协商会，讨论会",
+          "pos": "n."
+        },
+        {
+          "en": "confess",
+          "zh": "vt. 坦白承认",
+          "pos": "vt."
+        },
+        {
+          "en": "confession",
+          "zh": "n. 承认，招供",
+          "pos": "n."
+        },
+        {
+          "en": "confide",
+          "zh": "vt. 吐露（心事），倾诉",
+          "pos": "vt."
+        },
+        {
+          "en": "confident",
+          "zh": "adj. 有信心的，自信的",
+          "pos": "adj."
+        },
+        {
+          "en": "confidence",
+          "zh": "n. 信心",
+          "pos": "n."
+        },
+        {
+          "en": "overconfident",
+          "zh": "adj. 过于自信的，自负的",
+          "pos": "adj."
+        },
+        {
+          "en": "configuration",
+          "zh": "n. 轮廓，构型",
+          "pos": "n."
+        },
+        {
+          "en": "confine",
+          "zh": "vt. 限制",
+          "pos": "vt."
+        },
+        {
+          "en": "confining",
+          "zh": "adj. 狭窄的",
+          "pos": "adj."
+        },
+        {
+          "en": "confinement",
+          "zh": "n. 限制，禁闭",
+          "pos": "n."
+        },
+        {
+          "en": "confirm",
+          "zh": "vt. 证实，使…更坚定",
+          "pos": "vt."
+        },
+        {
+          "en": "confirmation",
+          "zh": "n. 确认，证实",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

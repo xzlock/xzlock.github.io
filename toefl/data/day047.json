@@ -1,0 +1,304 @@
+{
+  "day": 47,
+  "title": "Day 047 · identification → implement",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "illusion",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Fade Whisper",
+      "hp": 100,
+      "words": [
+        {
+          "en": "identification",
+          "zh": "n. 辨认；鉴定",
+          "pos": "n."
+        },
+        {
+          "en": "identifiable",
+          "zh": "adj. 可辨认的",
+          "pos": "adj."
+        },
+        {
+          "en": "identity",
+          "zh": "n. 身份",
+          "pos": "n."
+        },
+        {
+          "en": "ideology",
+          "zh": "n. 意识形态",
+          "pos": "n."
+        },
+        {
+          "en": "ideological",
+          "zh": "adj. 意识形态的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "idiom",
+          "zh": "n. 方言，土语；习惯用语",
+          "pos": "n."
+        },
+        {
+          "en": "idiomatic",
+          "zh": "adj. 惯用的，通顺的",
+          "pos": "adj."
+        },
+        {
+          "en": "idyllic",
+          "zh": "adj. 田园诗的",
+          "pos": "adj."
+        },
+        {
+          "en": "igneous",
+          "zh": "adj. （地理）火的，火成的",
+          "pos": "adj."
+        },
+        {
+          "en": "ignite",
+          "zh": "v. 点燃，使燃着",
+          "pos": "v."
+        },
+        {
+          "en": "ignorant",
+          "zh": "adj. 无知的；不了解的",
+          "pos": "adj."
+        },
+        {
+          "en": "ignorance",
+          "zh": "n. 无知，不了解",
+          "pos": "n."
+        },
+        {
+          "en": "ignore",
+          "zh": "vt. 忽视；不顾，不理会",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "illegible",
+          "zh": "adj. 难以辨认的，（字迹）模糊的",
+          "pos": "adj."
+        },
+        {
+          "en": "illiterate",
+          "zh": "adj. 文盲的；缺乏教育的",
+          "pos": "adj."
+        },
+        {
+          "en": "illuminate",
+          "zh": "v. 照明，照亮",
+          "pos": "v."
+        },
+        {
+          "en": "illumination",
+          "zh": "n. 照明；启发",
+          "pos": "n."
+        },
+        {
+          "en": "illusion",
+          "zh": "n. 幻觉；错觉",
+          "pos": "n."
+        },
+        {
+          "en": "illusive",
+          "zh": "adj. 迷惑人的；错觉的",
+          "pos": "adj."
+        },
+        {
+          "en": "illustrate",
+          "zh": "vt. （用图或例子）说明，阐明",
+          "pos": "vt."
+        },
+        {
+          "en": "illustration",
+          "zh": "n. 例证；插图",
+          "pos": "n."
+        },
+        {
+          "en": "image",
+          "zh": "n. 图像，肖像；形象",
+          "pos": "n."
+        },
+        {
+          "en": "imaginative",
+          "zh": "adj. 富于想象力的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "imaginary",
+          "zh": "adj. 想象中的，虚构的",
+          "pos": "adj."
+        },
+        {
+          "en": "imagery",
+          "zh": "n. （艺术、文学）肖像，形象；形象化的比喻",
+          "pos": "n."
+        },
+        {
+          "en": "imbibe",
+          "zh": "v. 吸；吸收",
+          "pos": "v."
+        },
+        {
+          "en": "imitate",
+          "zh": "vt. 仿效，模仿",
+          "pos": "vt."
+        },
+        {
+          "en": "imitation",
+          "zh": "n. 模仿；仿制品",
+          "pos": "n."
+        },
+        {
+          "en": "immediate",
+          "zh": "adj. 立即的；（在时空上、关系上）最接近的；目前的",
+          "pos": "adj."
+        },
+        {
+          "en": "immediately",
+          "zh": "adv. 立即，马上",
+          "pos": "adv."
+        },
+        {
+          "en": "immense",
+          "zh": "adj. 巨大的；无边的",
+          "pos": "adj."
+        },
+        {
+          "en": "immigrant",
+          "zh": "n. （自外国移入）移民",
+          "pos": "n."
+        },
+        {
+          "en": "immigration",
+          "zh": "n. 外来的移民, 移居入境",
+          "pos": "n."
+        },
+        {
+          "en": "illusion",
+          "zh": "n. 幻觉；错觉",
+          "pos": "n."
+        },
+        {
+          "en": "immobile",
+          "zh": "adj. 固定的，不动的",
+          "pos": "adj."
+        },
+        {
+          "en": "immune",
+          "zh": "adj. （对…）免疫的，不受影响的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "immunity",
+          "zh": "n. 免疫，免疫性",
+          "pos": "n."
+        },
+        {
+          "en": "impact",
+          "zh": "n. 影响",
+          "pos": "n."
+        },
+        {
+          "en": "impair",
+          "zh": "vt. 损害，使弱",
+          "pos": "vt."
+        },
+        {
+          "en": "impart",
+          "zh": "vt. 传授；传递，传达",
+          "pos": "vt."
+        },
+        {
+          "en": "impartial",
+          "zh": "adj. 公正的，无偏见的",
+          "pos": "adj."
+        },
+        {
+          "en": "impede",
+          "zh": "vt. 妨碍，阻碍",
+          "pos": "vt."
+        },
+        {
+          "en": "impediment",
+          "zh": "n. 妨碍，阻碍（物）",
+          "pos": "n."
+        },
+        {
+          "en": "impending",
+          "zh": "adj. 即将发生的，逼近的",
+          "pos": "adj."
+        },
+        {
+          "en": "imperative",
+          "zh": "adj. 必要的；强制的",
+          "pos": "adj."
+        },
+        {
+          "en": "impermeable",
+          "zh": "adj. 不可渗透的；不透水的",
+          "pos": "adj."
+        },
+        {
+          "en": "impersonal",
+          "zh": "adj. 不受个人感情支配的，客观的，无私的",
+          "pos": "adj."
+        },
+        {
+          "en": "impersonate",
+          "zh": "vt. 模仿，扮演",
+          "pos": "vt."
+        },
+        {
+          "en": "impersonation",
+          "zh": "n. 模仿，扮演",
+          "pos": "n."
+        },
+        {
+          "en": "impetus",
+          "zh": "n. 推动力；激励物",
+          "pos": "n."
+        },
+        {
+          "en": "implement",
+          "zh": "n. 工具，器具",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

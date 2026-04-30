@@ -1,0 +1,304 @@
+{
+  "day": 56,
+  "title": "Day 56 · hiking → trolley",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "torch",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Deadlock Wire",
+      "hp": 100,
+      "words": [
+        {
+          "en": "hiking",
+          "zh": "n. 徒步旅行",
+          "pos": "n."
+        },
+        {
+          "en": "hitchhiker",
+          "zh": "n. 搭便车的旅行者；顺便插入的广告",
+          "pos": "n."
+        },
+        {
+          "en": "hostel",
+          "zh": "n. 旅社，招待所（尤指青年旅社）",
+          "pos": "n."
+        },
+        {
+          "en": "in the mountains",
+          "zh": "山中；在山里；在山上",
+          "pos": ""
+        },
+        {
+          "en": "inn",
+          "zh": "\"n. 客栈；旅馆",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Jett Blitz",
+      "hp": 150,
+      "words": [
+        {
+          "en": "itinerary",
+          "zh": "\"n. 旅程，路线； 旅行日程",
+          "pos": "n."
+        },
+        {
+          "en": "lane",
+          "zh": "n. 小巷； 航线；车道；罚球区",
+          "pos": "n."
+        },
+        {
+          "en": "luggage",
+          "zh": "n. 行李；皮箱",
+          "pos": "n."
+        },
+        {
+          "en": "make a raft out of tree trunks",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "mosque",
+          "zh": "n. 清真寺",
+          "pos": "n."
+        },
+        {
+          "en": "mountain biking",
+          "zh": "山地自行车；山地自行车运动；山地车",
+          "pos": ""
+        },
+        {
+          "en": "mountaineer",
+          "zh": "\"n. 登山家，登山运动员；山地人",
+          "pos": "n."
+        },
+        {
+          "en": "mountaineering",
+          "zh": "\"n. 登山；登山运动；爬山",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "outback",
+          "zh": "\"n. 内地",
+          "pos": "n."
+        },
+        {
+          "en": "outpost",
+          "zh": "n. 前哨；警戒部队；边区村落",
+          "pos": "n."
+        },
+        {
+          "en": "paddock",
+          "zh": "n. 围场；小牧场",
+          "pos": "n."
+        },
+        {
+          "en": "paragliding",
+          "zh": "n. 高崖跳伞运动；滑翔伞运动",
+          "pos": "n."
+        },
+        {
+          "en": "parasailing",
+          "zh": "\"n. （驾降落伞由汽艇等牵引的）帆伞运动",
+          "pos": "n."
+        },
+        {
+          "en": "pictorial guidebook",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "postcard",
+          "zh": "n. 明信片",
+          "pos": "n."
+        },
+        {
+          "en": "pyramid",
+          "zh": "\"n. 金字塔；角锥体",
+          "pos": "n."
+        },
+        {
+          "en": "reserve",
+          "zh": "\"n. 储备，储存；自然保护区；预备队；缄默； 储备金",
+          "pos": "n."
+        },
+        {
+          "en": "rock climbing",
+          "zh": "\"n. 攀岩（运动）",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "room service",
+          "zh": "\"n. （旅馆）客房送餐服务",
+          "pos": "n."
+        },
+        {
+          "en": "rucksack",
+          "zh": "n. 帆布背包",
+          "pos": "n."
+        },
+        {
+          "en": "safari",
+          "zh": "n. 旅行；狩猎远征；旅行队",
+          "pos": "n."
+        },
+        {
+          "en": "safari guide",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "safari park",
+          "zh": "\"n. 野生动物园",
+          "pos": "n."
+        },
+        {
+          "en": "sail off the coast",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "torch",
+          "zh": "\"n. 火把，火炬；手电筒；启发之物",
+          "pos": "n."
+        },
+        {
+          "en": "scenic vistas",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "sightsee",
+          "zh": "\"vt. 观光；游览",
+          "pos": "vt."
+        },
+        {
+          "en": "signpost",
+          "zh": "n. 路标；指示牌",
+          "pos": "n."
+        },
+        {
+          "en": "single room",
+          "zh": "\"un. 单人房间",
+          "pos": "n."
+        },
+        {
+          "en": "sleeping bag",
+          "zh": "\"n. 睡袋",
+          "pos": "n."
+        },
+        {
+          "en": "southern",
+          "zh": "\"n. 南方人",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Kingdom Titan",
+      "hp": 300,
+      "words": [
+        {
+          "en": "south-west",
+          "zh": "n. 西南",
+          "pos": "n."
+        },
+        {
+          "en": "souvenir shop",
+          "zh": "\"n. 纪念品商店",
+          "pos": "n."
+        },
+        {
+          "en": "space capsule",
+          "zh": "\"n. 密闭太空舱",
+          "pos": "n."
+        },
+        {
+          "en": "stunning mountains",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "suitcase",
+          "zh": "n. 手提箱；衣箱",
+          "pos": "n."
+        },
+        {
+          "en": "sunbathing",
+          "zh": "\"n. 日光浴",
+          "pos": "n."
+        },
+        {
+          "en": "take a trip",
+          "zh": "\"na. 旅行",
+          "pos": ""
+        },
+        {
+          "en": "taxi rank",
+          "zh": "\"n. 出租汽车站；出租车停车处",
+          "pos": "n."
+        },
+        {
+          "en": "tea plantation",
+          "zh": "\"na. 茶园",
+          "pos": ""
+        },
+        {
+          "en": "temple",
+          "zh": "n. 庙宇；寺院；神殿；太阳穴",
+          "pos": "n."
+        },
+        {
+          "en": "time difference",
+          "zh": "\"na. 时差",
+          "pos": ""
+        },
+        {
+          "en": "torch",
+          "zh": "\"n. 火把，火炬；手电筒；启发之物",
+          "pos": "n."
+        },
+        {
+          "en": "trek",
+          "zh": "\"n. 艰苦跋涉",
+          "pos": "n."
+        },
+        {
+          "en": "trekker",
+          "zh": "n. 特雷克牌汽车",
+          "pos": "n."
+        },
+        {
+          "en": "trolley",
+          "zh": "\"n. 手推车；（美）有轨电车（等于trolley car）；（英）无轨电车（等于trolleybus）；空中吊运车",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 26,
+  "title": "Day 26 · lovely → medicine",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "mechanical",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Skye Pup",
+      "hp": 100,
+      "words": [
+        {
+          "en": "lovely",
+          "zh": "\"adj. 可爱的；令人愉快的；爱恋的；秀丽的，优美的",
+          "pos": "adj."
+        },
+        {
+          "en": "low",
+          "zh": "\"adj. 低的，浅的；卑贱的；粗俗的；消沉的",
+          "pos": "adj."
+        },
+        {
+          "en": "loyal",
+          "zh": "\"adj. 忠诚的，忠心的；忠贞的",
+          "pos": "adj."
+        },
+        {
+          "en": "luck",
+          "zh": "\"n. 运气；幸运；带来好运的东西",
+          "pos": "n."
+        },
+        {
+          "en": "lumber",
+          "zh": "\"vi. 伐木；喧闹地向前走；笨重地行动，缓慢地移动",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Skye Falcon",
+      "hp": 150,
+      "words": [
+        {
+          "en": "luxury",
+          "zh": "\"n. 奢侈，奢华；奢侈品；享受",
+          "pos": "n."
+        },
+        {
+          "en": "machine",
+          "zh": "\"n. 机械，机器；机构；机械般工作的人",
+          "pos": "n."
+        },
+        {
+          "en": "mad",
+          "zh": "\"adj. 疯狂的；发疯的；愚蠢的；着迷的",
+          "pos": "adj."
+        },
+        {
+          "en": "magic",
+          "zh": "\"n. 巫术；魔法；戏法",
+          "pos": "n."
+        },
+        {
+          "en": "magnetic",
+          "zh": "adj. 地磁的；有磁性的；有吸引力的",
+          "pos": "adj."
+        },
+        {
+          "en": "magnificent",
+          "zh": "adj. 高尚的；壮丽的；华丽的；宏伟的",
+          "pos": "adj."
+        },
+        {
+          "en": "mail",
+          "zh": "\"n. 邮件；邮政，邮递；盔甲",
+          "pos": "n."
+        },
+        {
+          "en": "main",
+          "zh": "\"n. 主要部分，要点；体力；总管道",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "maintain",
+          "zh": "vt. 维持；继续；维修；主张；供养",
+          "pos": "vt."
+        },
+        {
+          "en": "majestic",
+          "zh": "adj. 庄严的；宏伟的",
+          "pos": "adj."
+        },
+        {
+          "en": "major",
+          "zh": "\"adj. 主要的；重要的；主修的；较多的",
+          "pos": "adj."
+        },
+        {
+          "en": "make",
+          "zh": "\"vt. 使得；进行；布置，准备，整理；制造；认为；获得；形成；安排；引起；构成",
+          "pos": "vt."
+        },
+        {
+          "en": "makeshift",
+          "zh": "\"n. 权宜之计；凑合；临时措施；将就",
+          "pos": "n."
+        },
+        {
+          "en": "male",
+          "zh": "\"adj. 男性的；雄性的；有力的",
+          "pos": "adj."
+        },
+        {
+          "en": "manage",
+          "zh": "\"vt. 管理；经营；控制；设法",
+          "pos": "vt."
+        },
+        {
+          "en": "manipulate",
+          "zh": "vt. 操纵；操作；巧妙地处理；篡改",
+          "pos": "vt."
+        },
+        {
+          "en": "man-made",
+          "zh": "adj. 人造的；人工的；合成的",
+          "pos": "adj."
+        },
+        {
+          "en": "manned",
+          "zh": "\"adj. 有人驾驶的；有人操纵的；配备齐船员的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "mechanical",
+          "zh": "adj. 机械的；力学的；呆板的；无意识的；手工操作的",
+          "pos": "adj."
+        },
+        {
+          "en": "manner",
+          "zh": "n. 方式；习惯；种类；规矩；风俗",
+          "pos": "n."
+        },
+        {
+          "en": "manoeuvre",
+          "zh": "\"vi. 调动；演习；用策略",
+          "pos": "vi."
+        },
+        {
+          "en": "manual",
+          "zh": "\"adj. 手工的；体力的",
+          "pos": "adj."
+        },
+        {
+          "en": "manufacture",
+          "zh": "\"n. 制造；产品；制造业",
+          "pos": "n."
+        },
+        {
+          "en": "manuscript",
+          "zh": "\"n. 手稿；原稿",
+          "pos": "n."
+        },
+        {
+          "en": "march",
+          "zh": "n. 三月",
+          "pos": "n."
+        },
+        {
+          "en": "marine",
+          "zh": "\"adj. 船舶的；海生的；海产的；航海的，海运的",
+          "pos": "adj."
+        },
+        {
+          "en": "mark",
+          "zh": "\"n. 标志；马克；符号；痕迹；分数",
+          "pos": "n."
+        },
+        {
+          "en": "marvel",
+          "zh": "\"n. 奇迹",
+          "pos": "n."
+        },
+        {
+          "en": "massive",
+          "zh": "adj. 大量的；巨大的，厚重的；魁伟的",
+          "pos": "adj."
+        },
+        {
+          "en": "master",
+          "zh": "\"vt. 控制；精通；征服",
+          "pos": "vt."
+        },
+        {
+          "en": "match",
+          "zh": "\"vt. 使比赛；使相配；敌得过，比得上；相配；与…竞争",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "mate",
+          "zh": "\"n. 助手，大副；配偶；同事；配对物",
+          "pos": "n."
+        },
+        {
+          "en": "material",
+          "zh": "\"adj. 重要的；物质的，实质性的；肉体的",
+          "pos": "adj."
+        },
+        {
+          "en": "maternity leave",
+          "zh": "\"n. 产假",
+          "pos": "n."
+        },
+        {
+          "en": "matter",
+          "zh": "\"n. 物质；事件",
+          "pos": "n."
+        },
+        {
+          "en": "maximize",
+          "zh": "\"vt. 取…最大值；对…极为重视",
+          "pos": "vt."
+        },
+        {
+          "en": "maximum",
+          "zh": "\"n. 极大，最大限度；最大量",
+          "pos": "n."
+        },
+        {
+          "en": "meal",
+          "zh": "\"n. 一餐，一顿饭；膳食",
+          "pos": "n."
+        },
+        {
+          "en": "mean",
+          "zh": "\"adj. 平均的；卑鄙的；低劣的；吝啬的",
+          "pos": "adj."
+        },
+        {
+          "en": "means",
+          "zh": "\"n. 手段；方法；财产",
+          "pos": "n."
+        },
+        {
+          "en": "meanwhile",
+          "zh": "\"adv. 同时，其间",
+          "pos": "adv."
+        },
+        {
+          "en": "measure",
+          "zh": "\"n. 测量；措施；程度；尺寸",
+          "pos": "n."
+        },
+        {
+          "en": "mechanical",
+          "zh": "adj. 机械的；力学的；呆板的；无意识的；手工操作的",
+          "pos": "adj."
+        },
+        {
+          "en": "medal",
+          "zh": "n. 勋章，奖章；纪念章",
+          "pos": "n."
+        },
+        {
+          "en": "medical",
+          "zh": "\"adj. 医学的；药的；内科的",
+          "pos": "adj."
+        },
+        {
+          "en": "medicine",
+          "zh": "\"n. 药；医学；内科；巫术",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

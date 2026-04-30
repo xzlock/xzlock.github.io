@@ -1,0 +1,304 @@
+{
+  "day": 33,
+  "title": "Day 33 · prejudice → proscription",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "property",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Reyna Mote",
+      "hp": 100,
+      "words": [
+        {
+          "en": "prejudice",
+          "zh": "\"n. 偏见；侵害",
+          "pos": "n."
+        },
+        {
+          "en": "preoccupation",
+          "zh": "n. 全神贯注，入神；当务之急；关注的事物；抢先占据；成见",
+          "pos": "n."
+        },
+        {
+          "en": "prepare",
+          "zh": "\"vt. 准备；使适合；装备；起草",
+          "pos": "vt."
+        },
+        {
+          "en": "prescribe",
+          "zh": "\"vt. 规定；开处方",
+          "pos": "vt."
+        },
+        {
+          "en": "present",
+          "zh": "\"n. 现在；礼物；瞄准",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Raze Bomber",
+      "hp": 150,
+      "words": [
+        {
+          "en": "present-day",
+          "zh": "adj. 现代的；当今的；现在的；现时的",
+          "pos": "adj."
+        },
+        {
+          "en": "preserve",
+          "zh": "\"n. 保护区；禁猎地；加工成的食品",
+          "pos": "n."
+        },
+        {
+          "en": "press",
+          "zh": "\"n. 压；按；新闻；出版社； 印刷机",
+          "pos": "n."
+        },
+        {
+          "en": "pretend",
+          "zh": "\"vt. 假装，伪装，模拟",
+          "pos": "vt."
+        },
+        {
+          "en": "pretty",
+          "zh": "\"n. 有吸引力的事物（尤指饰品）；漂亮的人",
+          "pos": "n."
+        },
+        {
+          "en": "prevent",
+          "zh": "\"vt. 预防，防止；阻止",
+          "pos": "vt."
+        },
+        {
+          "en": "previous",
+          "zh": "\"adj. 以前的；早先的；过早的",
+          "pos": "adj."
+        },
+        {
+          "en": "prey",
+          "zh": "\"n. 捕食；牺牲者；被捕食的动物",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "pricey",
+          "zh": "adj. 高价的，过分昂贵的",
+          "pos": "adj."
+        },
+        {
+          "en": "pride",
+          "zh": "\"n. 自豪；骄傲；自尊心",
+          "pos": "n."
+        },
+        {
+          "en": "primary",
+          "zh": "\"n. 原色；最主要者",
+          "pos": "n."
+        },
+        {
+          "en": "primitive",
+          "zh": "\"n. 原始人",
+          "pos": "n."
+        },
+        {
+          "en": "princess",
+          "zh": "n. 公主；王妃；女巨头",
+          "pos": "n."
+        },
+        {
+          "en": "principle",
+          "zh": "n. 原理，原则；主义，道义；本质，本义；根源，源泉",
+          "pos": "n."
+        },
+        {
+          "en": "print",
+          "zh": "\"n. 印刷业；印花布；印刷字体；印章；印记",
+          "pos": "n."
+        },
+        {
+          "en": "prior",
+          "zh": "\"adj. 优先的；在先的，在前的",
+          "pos": "adj."
+        },
+        {
+          "en": "prison",
+          "zh": "\"n. 监狱；监禁；拘留所",
+          "pos": "n."
+        },
+        {
+          "en": "private",
+          "zh": "\"n. 列兵；二等兵",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "privilege",
+          "zh": "\"n. 特权；优待",
+          "pos": "n."
+        },
+        {
+          "en": "prize",
+          "zh": "\"n. 奖品；奖赏；战利品",
+          "pos": "n."
+        },
+        {
+          "en": "proactive",
+          "zh": "adj. 前摄的（前一活动中的因素对后一活动造成影响的）；有前瞻性的，先行一步的；积极主动的",
+          "pos": "adj."
+        },
+        {
+          "en": "probably",
+          "zh": "adv. 大概；或许；很可能",
+          "pos": "adv."
+        },
+        {
+          "en": "problem",
+          "zh": "\"n. 难题；引起麻烦的人",
+          "pos": "n."
+        },
+        {
+          "en": "procedure",
+          "zh": "n. 程序，手续；步骤",
+          "pos": "n."
+        },
+        {
+          "en": "proceed",
+          "zh": "\"vi. 开始；继续进行；发生；行进",
+          "pos": "vi."
+        },
+        {
+          "en": "process",
+          "zh": "\"n. 过程，进行；方法，步骤；作用；程序；推移",
+          "pos": "n."
+        },
+        {
+          "en": "property",
+          "zh": "n. 性质，性能；财产；所有权",
+          "pos": "n."
+        },
+        {
+          "en": "produce",
+          "zh": "\"n. 农产品，产品",
+          "pos": "n."
+        },
+        {
+          "en": "product",
+          "zh": "n. 产品；结果； 乘积；作品",
+          "pos": "n."
+        },
+        {
+          "en": "profession",
+          "zh": "n. 职业，专业；声明，宣布，表白",
+          "pos": "n."
+        },
+        {
+          "en": "professional",
+          "zh": "\"n. 专业人员；职业运动员",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "profit",
+          "zh": "\"n. 利润；利益",
+          "pos": "n."
+        },
+        {
+          "en": "programme",
+          "zh": "\"n. 计划，规划；节目；程序",
+          "pos": "n."
+        },
+        {
+          "en": "progress",
+          "zh": "\"n. 进步，发展；前进",
+          "pos": "n."
+        },
+        {
+          "en": "project",
+          "zh": "\"n. 工程；计划；事业",
+          "pos": "n."
+        },
+        {
+          "en": "prominent",
+          "zh": "adj. 突出的，显著的；杰出的；卓越的",
+          "pos": "adj."
+        },
+        {
+          "en": "promise",
+          "zh": "\"n. 许诺，允诺；希望",
+          "pos": "n."
+        },
+        {
+          "en": "promote",
+          "zh": "\"vi. 成为王后或其他大于卒的子",
+          "pos": "vi."
+        },
+        {
+          "en": "prompt",
+          "zh": "\"n. 提示；付款期限；DOS命令：改变DOS系统提示符的风格",
+          "pos": "n."
+        },
+        {
+          "en": "pronounce",
+          "zh": "\"vt. 发音；宣判；断言",
+          "pos": "vt."
+        },
+        {
+          "en": "propel",
+          "zh": "vt. 推进；驱使；激励；驱策",
+          "pos": "vt."
+        },
+        {
+          "en": "proper",
+          "zh": "\"adj. 适当的；本身的；特有的；正派的",
+          "pos": "adj."
+        },
+        {
+          "en": "property",
+          "zh": "n. 性质，性能；财产；所有权",
+          "pos": "n."
+        },
+        {
+          "en": "proposal",
+          "zh": "n. 提议，建议；求婚",
+          "pos": "n."
+        },
+        {
+          "en": "propose",
+          "zh": "\"vi. 建议；求婚；打算",
+          "pos": "vi."
+        },
+        {
+          "en": "proscription",
+          "zh": "n. 禁止；放逐；剥夺人权",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

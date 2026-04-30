@@ -1,0 +1,304 @@
+{
+  "day": 3,
+  "title": "Day 03 · apart from → attainable",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "assume",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Gekko Slime",
+      "hp": 100,
+      "words": [
+        {
+          "en": "apart from",
+          "zh": "\"prep. 除了…外（都）；要不是；除了…外（还）；此外",
+          "pos": "prep."
+        },
+        {
+          "en": "apartment",
+          "zh": "n. 公寓；房间",
+          "pos": "n."
+        },
+        {
+          "en": "apologize",
+          "zh": "\"vi. 道歉；辩解；赔不是",
+          "pos": "vi."
+        },
+        {
+          "en": "apology",
+          "zh": "n. 道歉；谢罪；辩护；勉强的替代物",
+          "pos": "n."
+        },
+        {
+          "en": "apparently",
+          "zh": "adv. 显然地；似乎，表面上",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Fade Nightmare",
+      "hp": 150,
+      "words": [
+        {
+          "en": "appeal",
+          "zh": "\"n. 呼吁，请求；吸引力，感染力；上诉；诉诸裁判",
+          "pos": "n."
+        },
+        {
+          "en": "appear",
+          "zh": "vi. 出现；显得；似乎；出庭；登场",
+          "pos": "vi."
+        },
+        {
+          "en": "appendix",
+          "zh": "n. 附录；阑尾；附加物",
+          "pos": "n."
+        },
+        {
+          "en": "appetite",
+          "zh": "n. 食欲；嗜好",
+          "pos": "n."
+        },
+        {
+          "en": "appliance",
+          "zh": "n. 器具；器械；装置",
+          "pos": "n."
+        },
+        {
+          "en": "apply",
+          "zh": "\"vi. 申请；涂，敷；适用；请求",
+          "pos": "vi."
+        },
+        {
+          "en": "appoint",
+          "zh": "\"vt. 任命；指定；约定",
+          "pos": "vt."
+        },
+        {
+          "en": "appreciate",
+          "zh": "\"vi. 增值；涨价",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "apprehensive",
+          "zh": "adj. 忧虑的；不安的；敏悟的；知晓的",
+          "pos": "adj."
+        },
+        {
+          "en": "apprentice",
+          "zh": "\"n. 学徒；生手",
+          "pos": "n."
+        },
+        {
+          "en": "approach",
+          "zh": "\"n. 方法；途径；接近",
+          "pos": "n."
+        },
+        {
+          "en": "appropriate",
+          "zh": "\"adj. 适当的；恰当的；合适的",
+          "pos": "adj."
+        },
+        {
+          "en": "approve",
+          "zh": "\"vi. 批准；赞成；满意",
+          "pos": "vi."
+        },
+        {
+          "en": "approximately",
+          "zh": "adv. 大约，近似地；近于",
+          "pos": "adv."
+        },
+        {
+          "en": "architecture",
+          "zh": "n. 建筑学；建筑风格；建筑式样；架构",
+          "pos": "n."
+        },
+        {
+          "en": "area",
+          "zh": "n. 区域，地区；面积；范围",
+          "pos": "n."
+        },
+        {
+          "en": "arena",
+          "zh": "n. 舞台；竞技场",
+          "pos": "n."
+        },
+        {
+          "en": "argument",
+          "zh": "n. 论证；论据；争吵；内容提要",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "arise",
+          "zh": "vi. 出现；上升；起立",
+          "pos": "vi."
+        },
+        {
+          "en": "aristocrat",
+          "zh": "n. 贵族",
+          "pos": "n."
+        },
+        {
+          "en": "around",
+          "zh": "\"prep. 四处；在…周围",
+          "pos": "prep."
+        },
+        {
+          "en": "arrange",
+          "zh": "\"vi. 安排；排列；协商",
+          "pos": "vi."
+        },
+        {
+          "en": "arrest",
+          "zh": "\"n. 逮捕；监禁",
+          "pos": "n."
+        },
+        {
+          "en": "arrive",
+          "zh": "vi. 到达；成功；达成；出生",
+          "pos": "vi."
+        },
+        {
+          "en": "arrogant",
+          "zh": "adj. 自大的，傲慢的",
+          "pos": "adj."
+        },
+        {
+          "en": "art",
+          "zh": "\"n. 艺术；美术；艺术品",
+          "pos": "n."
+        },
+        {
+          "en": "article",
+          "zh": "\"n. 文章；物品；条款； 冠词",
+          "pos": "n."
+        },
+        {
+          "en": "artistic",
+          "zh": "adj. 艺术的；风雅的；有美感的",
+          "pos": "adj."
+        },
+        {
+          "en": "assume",
+          "zh": "\"vt. 僭取；篡夺；夺取；擅用；侵占",
+          "pos": "vt."
+        },
+        {
+          "en": "ascent",
+          "zh": "n. 上升；上坡路；登高",
+          "pos": "n."
+        },
+        {
+          "en": "aspect",
+          "zh": "n. 方面；方向；形势；外貌",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "aspiring",
+          "zh": "\"v. 立志（aspire的ing形式）",
+          "pos": "v."
+        },
+        {
+          "en": "assemble",
+          "zh": "\"vt. 集合，聚集；装配；收集",
+          "pos": "vt."
+        },
+        {
+          "en": "assess",
+          "zh": "vt. 评定；估价；对…征税",
+          "pos": "vt."
+        },
+        {
+          "en": "assign",
+          "zh": "\"vt. 分配；指派； 赋值",
+          "pos": "vt."
+        },
+        {
+          "en": "assistance",
+          "zh": "n. 援助，帮助；辅助设备",
+          "pos": "n."
+        },
+        {
+          "en": "assistant",
+          "zh": "\"n. 助手，助理，助教",
+          "pos": "n."
+        },
+        {
+          "en": "associate",
+          "zh": "\"n. 同事，伙伴；关联的事物",
+          "pos": "n."
+        },
+        {
+          "en": "assume",
+          "zh": "\"vt. 僭取；篡夺；夺取；擅用；侵占",
+          "pos": "vt."
+        },
+        {
+          "en": "assure",
+          "zh": "vt. 保证；担保；使确信；弄清楚",
+          "pos": "vt."
+        },
+        {
+          "en": "astonished",
+          "zh": "adj. 吃惊的",
+          "pos": "adj."
+        },
+        {
+          "en": "astonishing",
+          "zh": "\"adj. 惊人的；令人惊讶的",
+          "pos": "adj."
+        },
+        {
+          "en": "atmosphere",
+          "zh": "n. 气氛；大气；空气",
+          "pos": "n."
+        },
+        {
+          "en": "attach",
+          "zh": "\"vi. 附加；附属；伴随",
+          "pos": "vi."
+        },
+        {
+          "en": "attack",
+          "zh": "\"n. 攻击；抨击；疾病发作",
+          "pos": "n."
+        },
+        {
+          "en": "attainable",
+          "zh": "adj. 可得到的；可达到的；可到达的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

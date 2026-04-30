@@ -1,0 +1,304 @@
+{
+  "day": 29,
+  "title": "Day 029 · subdiscipline → distasteful",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "distant",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Neon Flicker",
+      "hp": 100,
+      "words": [
+        {
+          "en": "subdiscipline",
+          "zh": "n. （学科的）分支，分科",
+          "pos": "n."
+        },
+        {
+          "en": "disciplined",
+          "zh": "adj. 遵守纪律的",
+          "pos": "adj."
+        },
+        {
+          "en": "discomfort",
+          "zh": "n. 不适",
+          "pos": "n."
+        },
+        {
+          "en": "discontented",
+          "zh": "adj. 不满意，不满足",
+          "pos": "adj."
+        },
+        {
+          "en": "discontent",
+          "zh": "n. 不满",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Chamber Bullet",
+      "hp": 150,
+      "words": [
+        {
+          "en": "discount",
+          "zh": "n. 折扣",
+          "pos": "n."
+        },
+        {
+          "en": "discourage",
+          "zh": "v. 使气馁；阻碍",
+          "pos": "v."
+        },
+        {
+          "en": "discouraging",
+          "zh": "adj. 令人气馁的",
+          "pos": "adj."
+        },
+        {
+          "en": "discourse",
+          "zh": "n. 讲道，演讲",
+          "pos": "n."
+        },
+        {
+          "en": "discrete",
+          "zh": "adj. 独立的；不连续的，离散的",
+          "pos": "adj."
+        },
+        {
+          "en": "discreet",
+          "zh": "adj. 小心的，谨慎的",
+          "pos": "adj."
+        },
+        {
+          "en": "disgust",
+          "zh": "n. 厌恶，嫌恶",
+          "pos": "n."
+        },
+        {
+          "en": "disgusted",
+          "zh": "adj. 厌烦的；厌恶的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "disillusion",
+          "zh": "v. 使醒悟",
+          "pos": "v."
+        },
+        {
+          "en": "disintegrate",
+          "zh": "v. （使）瓦解，（使）碎裂",
+          "pos": "v."
+        },
+        {
+          "en": "disinterested",
+          "zh": "adj. 无个人利害关系的;无私的,公平的",
+          "pos": "adj."
+        },
+        {
+          "en": "dismal",
+          "zh": "adj. 暗的，凄凉的；忧郁的，沮丧的",
+          "pos": "adj."
+        },
+        {
+          "en": "dismay",
+          "zh": "vt. 使惊慌；使沮丧",
+          "pos": "vt."
+        },
+        {
+          "en": "dismember",
+          "zh": "vt. 肢解，分割",
+          "pos": "vt."
+        },
+        {
+          "en": "dismembered",
+          "zh": "adj. 肢解的",
+          "pos": "adj."
+        },
+        {
+          "en": "dismiss",
+          "zh": "vt. 解散；摒除（思想、感情等）",
+          "pos": "vt."
+        },
+        {
+          "en": "disorganize",
+          "zh": "vt. 扰乱，使混乱",
+          "pos": "vt."
+        },
+        {
+          "en": "dispatch",
+          "zh": "vt. （紧急）派遣；分配",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "dispense",
+          "zh": "vt. 分配，分发",
+          "pos": "vt."
+        },
+        {
+          "en": "disperse",
+          "zh": "vt. 分散，散开",
+          "pos": "vt."
+        },
+        {
+          "en": "dispersal",
+          "zh": "n. 疏散，散开",
+          "pos": "n."
+        },
+        {
+          "en": "displace",
+          "zh": "vt. 移置，转移；取代，替代",
+          "pos": "vt."
+        },
+        {
+          "en": "displacement",
+          "zh": "n. 移置，转移",
+          "pos": "n."
+        },
+        {
+          "en": "display",
+          "zh": "vt. 陈列；显示",
+          "pos": "vt."
+        },
+        {
+          "en": "disposal",
+          "zh": "n. 垃圾倾倒；处置",
+          "pos": "n."
+        },
+        {
+          "en": "distant",
+          "zh": "adj. 远离的，遥远的",
+          "pos": "adj."
+        },
+        {
+          "en": "disposed",
+          "zh": "adj. 有…倾向的",
+          "pos": "adj."
+        },
+        {
+          "en": "disposition",
+          "zh": "n. 性情；倾向",
+          "pos": "n."
+        },
+        {
+          "en": "disproportionate",
+          "zh": "adj. 不成比例的",
+          "pos": "adj."
+        },
+        {
+          "en": "dispute",
+          "zh": "n. 争论，纠纷",
+          "pos": "n."
+        },
+        {
+          "en": "disregard",
+          "zh": "n./v. 不理会；漠视",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "disrepute",
+          "zh": "n. 坏名声，不光彩",
+          "pos": "n."
+        },
+        {
+          "en": "disrupt",
+          "zh": "vt. 使混乱，使中断",
+          "pos": "vt."
+        },
+        {
+          "en": "disseminate",
+          "zh": "vt. 传播，宣传",
+          "pos": "vt."
+        },
+        {
+          "en": "dissenter",
+          "zh": "n. 不同意者，反对者",
+          "pos": "n."
+        },
+        {
+          "en": "dissenting",
+          "zh": "adj. 不同意的",
+          "pos": "adj."
+        },
+        {
+          "en": "dissertation",
+          "zh": "n. 论文",
+          "pos": "n."
+        },
+        {
+          "en": "dissimilar",
+          "zh": "adj. 不同的, 相异的",
+          "pos": "adj."
+        },
+        {
+          "en": "dissipate",
+          "zh": "vi. 消失；消散",
+          "pos": "vi."
+        },
+        {
+          "en": "dissipated",
+          "zh": "adj. 沉迷于酒色的, 浪荡的",
+          "pos": "adj."
+        },
+        {
+          "en": "dissolve",
+          "zh": "vt. 使溶解",
+          "pos": "vt."
+        },
+        {
+          "en": "distant",
+          "zh": "adj. 远离的，遥远的",
+          "pos": "adj."
+        },
+        {
+          "en": "distance",
+          "zh": "n. 距离；远处",
+          "pos": "n."
+        },
+        {
+          "en": "distend",
+          "zh": "vt./vi. （使）扩大，（使）扩张",
+          "pos": "vt."
+        },
+        {
+          "en": "distent",
+          "zh": "adj. 膨胀的，扩张的",
+          "pos": "adj."
+        },
+        {
+          "en": "distasteful",
+          "zh": "adj. （令人）不愉快的，讨厌的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

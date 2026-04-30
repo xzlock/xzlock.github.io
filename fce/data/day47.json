@@ -1,0 +1,304 @@
+{
+  "day": 47,
+  "title": "Day 47 · up → watch",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "waste",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Chamber Pawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "up",
+          "zh": "\"prep. 在…之上；向…的较高处",
+          "pos": "prep."
+        },
+        {
+          "en": "up-and-coming",
+          "zh": "adj. 积极进取的，很有前途的；日见重要的",
+          "pos": "adj."
+        },
+        {
+          "en": "update",
+          "zh": "\"n. 更新；现代化",
+          "pos": "n."
+        },
+        {
+          "en": "upper",
+          "zh": "adj. 上面的，上部的；较高的",
+          "pos": "adj."
+        },
+        {
+          "en": "upright",
+          "zh": "\"n. 垂直；竖立",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "upscale",
+          "zh": "\"adj. 迎合高层次消费者的；质优价高的",
+          "pos": "adj."
+        },
+        {
+          "en": "upset",
+          "zh": "\"n. 混乱；翻倒；颠覆",
+          "pos": "n."
+        },
+        {
+          "en": "upside-down",
+          "zh": "adj. 颠倒的；乱七八糟的",
+          "pos": "adj."
+        },
+        {
+          "en": "urban",
+          "zh": "adj. 城市的；住在都市的",
+          "pos": "adj."
+        },
+        {
+          "en": "urgent",
+          "zh": "adj. 紧急的；急迫的",
+          "pos": "adj."
+        },
+        {
+          "en": "use",
+          "zh": "\"n. 使用；用途；发挥",
+          "pos": "n."
+        },
+        {
+          "en": "user-friendly",
+          "zh": "adj. 容易使用的",
+          "pos": "adj."
+        },
+        {
+          "en": "usual",
+          "zh": "adj. 通常的，惯例的；平常的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "utter",
+          "zh": "\"adj. 完全的；彻底的；无条件的",
+          "pos": "adj."
+        },
+        {
+          "en": "vacancy",
+          "zh": "n. 空缺；空位；空白；空虚",
+          "pos": "n."
+        },
+        {
+          "en": "vacuum",
+          "zh": "\"n. 真空；空间；真空吸尘器",
+          "pos": "n."
+        },
+        {
+          "en": "vague",
+          "zh": "adj. 模糊的；含糊的；不明确的；暧昧的",
+          "pos": "adj."
+        },
+        {
+          "en": "value",
+          "zh": "\"n. 值；价值；价格；重要性；确切涵义",
+          "pos": "n."
+        },
+        {
+          "en": "variety",
+          "zh": "n. 多样；种类；杂耍；变化，多样化",
+          "pos": "n."
+        },
+        {
+          "en": "vary",
+          "zh": "\"vi. 变化；变异；违反",
+          "pos": "vi."
+        },
+        {
+          "en": "vast",
+          "zh": "\"n. 浩瀚；广阔无垠的空间",
+          "pos": "n."
+        },
+        {
+          "en": "veer off",
+          "zh": "n. （方向、位置的）改变; （从…）突然改变方向，猛然转向; （谈话、行为或思想）离开主题（或常轨等）",
+          "pos": "n."
+        },
+        {
+          "en": "veiled",
+          "zh": "\"adj. 隐藏的；含蓄的；蒙上面纱的；不清楚的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "venture",
+          "zh": "\"n. 企业；风险；冒险",
+          "pos": "n."
+        },
+        {
+          "en": "venue",
+          "zh": "n. 审判地；犯罪地点；发生地点；集合地点",
+          "pos": "n."
+        },
+        {
+          "en": "verify",
+          "zh": "vt. 核实；查证",
+          "pos": "vt."
+        },
+        {
+          "en": "version",
+          "zh": "n. 版本；译文；倒转术",
+          "pos": "n."
+        },
+        {
+          "en": "vertical",
+          "zh": "\"n. 垂直线，垂直面",
+          "pos": "n."
+        },
+        {
+          "en": "waste",
+          "zh": "\"n. 浪费；废物；荒地；损耗；地面风化物",
+          "pos": "n."
+        },
+        {
+          "en": "via",
+          "zh": "prep. 渠道，通过；经由",
+          "pos": "prep."
+        },
+        {
+          "en": "vibration",
+          "zh": "n. 振动；犹豫；心灵感应",
+          "pos": "n."
+        },
+        {
+          "en": "vicious",
+          "zh": "adj. 恶毒的；恶意的；堕落的；有错误的；品性不端的；剧烈的",
+          "pos": "adj."
+        },
+        {
+          "en": "victory",
+          "zh": "n. 胜利；成功；克服",
+          "pos": "n."
+        },
+        {
+          "en": "view",
+          "zh": "\"n. 观察；视野；意见；风景",
+          "pos": "n."
+        },
+        {
+          "en": "village",
+          "zh": "n. 村庄；村民；（动物的）群落",
+          "pos": "n."
+        },
+        {
+          "en": "violent",
+          "zh": "adj. 暴力的；猛烈的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "virtually",
+          "zh": "adv. 事实上，几乎；实质上",
+          "pos": "adv."
+        },
+        {
+          "en": "visible",
+          "zh": "\"n. 可见物；进出口贸易中的有形项目",
+          "pos": "n."
+        },
+        {
+          "en": "vision",
+          "zh": "\"n. 视力；美景；眼力；幻象；想象力；幻视（漫威漫画旗下超级英雄）",
+          "pos": "n."
+        },
+        {
+          "en": "visit",
+          "zh": "\"n. 访问；参观；逗留",
+          "pos": "n."
+        },
+        {
+          "en": "visual",
+          "zh": "adj. 视觉的，视力的；栩栩如生的",
+          "pos": "adj."
+        },
+        {
+          "en": "vital",
+          "zh": "adj. 至关重要的；生死攸关的；有活力的",
+          "pos": "adj."
+        },
+        {
+          "en": "voluntary",
+          "zh": "\"n. 志愿者；自愿行动",
+          "pos": "n."
+        },
+        {
+          "en": "volunteer",
+          "zh": "\"n. 志愿者；志愿兵",
+          "pos": "n."
+        },
+        {
+          "en": "vulnerable",
+          "zh": "adj. 易受攻击的，易受…的攻击；易受伤害的；有弱点的",
+          "pos": "adj."
+        },
+        {
+          "en": "wait",
+          "zh": "\"n. 等待；等候",
+          "pos": "n."
+        },
+        {
+          "en": "wander",
+          "zh": "\"vi. 徘徊；漫步；迷路；离题",
+          "pos": "vi."
+        },
+        {
+          "en": "warm",
+          "zh": "\"n. 取暖；加热",
+          "pos": "n."
+        },
+        {
+          "en": "warn",
+          "zh": "\"vt. 警告，提醒；通知",
+          "pos": "vt."
+        },
+        {
+          "en": "waste",
+          "zh": "\"n. 浪费；废物；荒地；损耗；地面风化物",
+          "pos": "n."
+        },
+        {
+          "en": "watch",
+          "zh": "\"n. 手表；监视；守护；值班人",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

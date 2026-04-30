@@ -1,0 +1,304 @@
+{
+  "day": 94,
+  "title": "Day 094 · unanimity → upland",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "unity",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Chamber Pawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "unanimity",
+          "zh": "n. 全体一致，一致同意",
+          "pos": "n."
+        },
+        {
+          "en": "unanimous",
+          "zh": "adj. 全体意见一致的",
+          "pos": "adj."
+        },
+        {
+          "en": "unbridgeable",
+          "zh": "adj. 不能架桥的, 不能逾越的",
+          "pos": "adj."
+        },
+        {
+          "en": "unbridled",
+          "zh": "adj. 放纵的，无约束的",
+          "pos": "adj."
+        },
+        {
+          "en": "unbroken",
+          "zh": "adj. 完整的；持续的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Neon Pulse",
+      "hp": 150,
+      "words": [
+        {
+          "en": "uncharted",
+          "zh": "adj. 地图上没标明的",
+          "pos": "adj."
+        },
+        {
+          "en": "uncover",
+          "zh": "v. 发现，揭示",
+          "pos": "v."
+        },
+        {
+          "en": "underdeveloped",
+          "zh": "adj. 不发达的",
+          "pos": "adj."
+        },
+        {
+          "en": "undergo",
+          "zh": "v. 经历，遭受",
+          "pos": "v."
+        },
+        {
+          "en": "undergraduate",
+          "zh": "n. (尚未取得学位的)大学生",
+          "pos": "n."
+        },
+        {
+          "en": "graduate",
+          "zh": "n. (大学)毕业生, 研究生",
+          "pos": "n."
+        },
+        {
+          "en": "underground",
+          "zh": "adj. 地下的，地面下的",
+          "pos": "adj."
+        },
+        {
+          "en": "underlying",
+          "zh": "adj. 基础的；在下面的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "underlie",
+          "zh": "vt. 位于...之下, 成为...的基础",
+          "pos": "vt."
+        },
+        {
+          "en": "undermine",
+          "zh": "v. 渐渐破坏，暗地里破坏",
+          "pos": "v."
+        },
+        {
+          "en": "underscore",
+          "zh": "v. 划线于…下，强调",
+          "pos": "v."
+        },
+        {
+          "en": "undertake",
+          "zh": "v. 从事，承担",
+          "pos": "v."
+        },
+        {
+          "en": "undertaking",
+          "zh": "n. 任务；事业",
+          "pos": "n."
+        },
+        {
+          "en": "underwater",
+          "zh": "adj. 在水下的，在水中的",
+          "pos": "adj."
+        },
+        {
+          "en": "undo",
+          "zh": "v. 解开，松开",
+          "pos": "v."
+        },
+        {
+          "en": "undoubtedly",
+          "zh": "adv. 毋庸置疑地，确凿地",
+          "pos": "adv."
+        },
+        {
+          "en": "unearth",
+          "zh": "vt. 发觉，挖出；揭露",
+          "pos": "vt."
+        },
+        {
+          "en": "unemployed",
+          "zh": "adj. 失业的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Clove Revive",
+      "hp": 250,
+      "words": [
+        {
+          "en": "unevenly",
+          "zh": "adv. 不平坦地；不均衡地",
+          "pos": "adv."
+        },
+        {
+          "en": "unexplored",
+          "zh": "adj. 未开发的，未探索的",
+          "pos": "adj."
+        },
+        {
+          "en": "unfair",
+          "zh": "adj. 不公平的",
+          "pos": "adj."
+        },
+        {
+          "en": "unfertilized",
+          "zh": "adj. 未施肥的，未受精的",
+          "pos": "adj."
+        },
+        {
+          "en": "unfortunately",
+          "zh": "adv. 不幸地",
+          "pos": "adv."
+        },
+        {
+          "en": "uniform",
+          "zh": "n. 制服",
+          "pos": "n."
+        },
+        {
+          "en": "uniformity",
+          "zh": "n. 同样，一式",
+          "pos": "n."
+        },
+        {
+          "en": "unify",
+          "zh": "vt. 统一，使成一体",
+          "pos": "vt."
+        },
+        {
+          "en": "unimaginable",
+          "zh": "adj. 不可想象的",
+          "pos": "adj."
+        },
+        {
+          "en": "unity",
+          "zh": "n. 结合，一致",
+          "pos": "n."
+        },
+        {
+          "en": "uninhabited",
+          "zh": "adj. 无人居住的",
+          "pos": "adj."
+        },
+        {
+          "en": "unique",
+          "zh": "adj. 独一无二的；独特的",
+          "pos": "adj."
+        },
+        {
+          "en": "uniqueness",
+          "zh": "n. 独特，独一无二",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "unity",
+          "zh": "n. 结合，一致",
+          "pos": "n."
+        },
+        {
+          "en": "universal",
+          "zh": "adj. 宇宙的",
+          "pos": "adj."
+        },
+        {
+          "en": "universe",
+          "zh": "n. 宇宙",
+          "pos": "n."
+        },
+        {
+          "en": "unmatched",
+          "zh": "adj. 无可匹敌的",
+          "pos": "adj."
+        },
+        {
+          "en": "unpredictable",
+          "zh": "adj. 不可预知的",
+          "pos": "adj."
+        },
+        {
+          "en": "unravel",
+          "zh": "v. 弄清楚（秘密）",
+          "pos": "v."
+        },
+        {
+          "en": "unscrupulous",
+          "zh": "adj. 肆无忌惮的, 无道德原则的",
+          "pos": "adj."
+        },
+        {
+          "en": "unselfish",
+          "zh": "adj. 不自私的, 慷慨的",
+          "pos": "adj."
+        },
+        {
+          "en": "unstable",
+          "zh": "adj. 不稳定的",
+          "pos": "adj."
+        },
+        {
+          "en": "untouched",
+          "zh": "adj. 未触及的",
+          "pos": "adj."
+        },
+        {
+          "en": "unwieldy",
+          "zh": "adj. 笨拙的；(因太大、太重、形状奇特等)不易被移动的，笨重的",
+          "pos": "adj."
+        },
+        {
+          "en": "upgrade",
+          "zh": "v. 使升级，提升",
+          "pos": "v."
+        },
+        {
+          "en": "upheaval",
+          "zh": "n. 剧变",
+          "pos": "n."
+        },
+        {
+          "en": "uphold",
+          "zh": "v. 维护，支持",
+          "pos": "v."
+        },
+        {
+          "en": "upland",
+          "zh": "n. 丘陵地带，高地",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

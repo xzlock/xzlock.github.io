@@ -1,0 +1,304 @@
+{
+  "day": 52,
+  "title": "Day 052 · irrigate → kerosene",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "jar",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "KAY/O Unit",
+      "hp": 100,
+      "words": [
+        {
+          "en": "irrigate",
+          "zh": "vt. 灌溉",
+          "pos": "vt."
+        },
+        {
+          "en": "irrigation",
+          "zh": "n. 灌溉",
+          "pos": "n."
+        },
+        {
+          "en": "irritate",
+          "zh": "vt. 激怒；使过敏",
+          "pos": "vt."
+        },
+        {
+          "en": "irritable",
+          "zh": "adj. 易怒的，急躁的",
+          "pos": "adj."
+        },
+        {
+          "en": "irritating",
+          "zh": "adj. 刺激的；使人愤怒的，气人的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "isolate",
+          "zh": "vt. 使隔离，使孤立",
+          "pos": "vt."
+        },
+        {
+          "en": "isolated",
+          "zh": "adj. 与世隔绝的，偏僻的；孤独的",
+          "pos": "adj."
+        },
+        {
+          "en": "isolation",
+          "zh": "n. 隔离；孤立",
+          "pos": "n."
+        },
+        {
+          "en": "issue",
+          "zh": "n. 问题",
+          "pos": "n."
+        },
+        {
+          "en": "itinerary",
+          "zh": "n. 路线",
+          "pos": "n."
+        },
+        {
+          "en": "itinerant",
+          "zh": "adj. 巡回的",
+          "pos": "adj."
+        },
+        {
+          "en": "jar",
+          "zh": "n. 罐，广口瓶",
+          "pos": "n."
+        },
+        {
+          "en": "jealousy",
+          "zh": "n. 妒忌，羡慕",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "jelly",
+          "zh": "n. 果冻，胶状物",
+          "pos": "n."
+        },
+        {
+          "en": "jellyfish",
+          "zh": "n. 水母",
+          "pos": "n."
+        },
+        {
+          "en": "jewel",
+          "zh": "n. 宝石",
+          "pos": "n."
+        },
+        {
+          "en": "jewelry",
+          "zh": "n. 珠宝",
+          "pos": "n."
+        },
+        {
+          "en": "jeweler",
+          "zh": "n. 宝石商，宝石匠",
+          "pos": "n."
+        },
+        {
+          "en": "jog",
+          "zh": "vi. 慢跑",
+          "pos": "vi."
+        },
+        {
+          "en": "jogging",
+          "zh": "n. 慢跑",
+          "pos": "n."
+        },
+        {
+          "en": "jolt",
+          "zh": "n. 震动，颠簸",
+          "pos": "n."
+        },
+        {
+          "en": "jolting",
+          "zh": "adj. 令人震惊的",
+          "pos": "adj."
+        },
+        {
+          "en": "journal",
+          "zh": "n. 期刊，杂志",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "journalist",
+          "zh": "n. 新闻记者",
+          "pos": "n."
+        },
+        {
+          "en": "journalistic",
+          "zh": "adj. 新闻事业的，新闻工作的",
+          "pos": "adj."
+        },
+        {
+          "en": "journalism",
+          "zh": "n. 新闻业, 报章杂志",
+          "pos": "n."
+        },
+        {
+          "en": "jar",
+          "zh": "n. 罐，广口瓶",
+          "pos": "n."
+        },
+        {
+          "en": "jubilant",
+          "zh": "adj. 欢腾的，喜气洋洋的",
+          "pos": "adj."
+        },
+        {
+          "en": "judgement",
+          "zh": "n. 判断",
+          "pos": "n."
+        },
+        {
+          "en": "judicious",
+          "zh": "adj. 明智的；有判断力的",
+          "pos": "adj."
+        },
+        {
+          "en": "juice",
+          "zh": "n. （水果）汁，液",
+          "pos": "n."
+        },
+        {
+          "en": "juicy",
+          "zh": "adj. 多汁液的",
+          "pos": "adj."
+        },
+        {
+          "en": "jumble",
+          "zh": "vt. 使混乱，混杂",
+          "pos": "vt."
+        },
+        {
+          "en": "junction",
+          "zh": "n. 连接；汇合处",
+          "pos": "n."
+        },
+        {
+          "en": "juncture",
+          "zh": "n. 接合，接缝",
+          "pos": "n."
+        },
+        {
+          "en": "jungle",
+          "zh": "n. 丛林",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radianite Colossus",
+      "hp": 300,
+      "words": [
+        {
+          "en": "jury",
+          "zh": "n. 陪审团",
+          "pos": "n."
+        },
+        {
+          "en": "injury",
+          "zh": "n. 伤害，侮辱",
+          "pos": "n."
+        },
+        {
+          "en": "verdict",
+          "zh": "n. [律](陪审团的)裁决",
+          "pos": "n."
+        },
+        {
+          "en": "sentence",
+          "zh": "n./v. 宣判",
+          "pos": "n."
+        },
+        {
+          "en": "justify",
+          "zh": "vt. 证明…是正当的或有理的；为…辩护",
+          "pos": "vt."
+        },
+        {
+          "en": "justice",
+          "zh": "n. 正义，公平，公正",
+          "pos": "n."
+        },
+        {
+          "en": "injustice",
+          "zh": "n. 不公平，不讲道义",
+          "pos": "n."
+        },
+        {
+          "en": "justly",
+          "zh": "adv. 公正地，正当地",
+          "pos": "adv."
+        },
+        {
+          "en": "juvenile",
+          "zh": "n./adj. 青少年（的）",
+          "pos": "n."
+        },
+        {
+          "en": "juxtaposition",
+          "zh": "n. 毗邻，并置，并列",
+          "pos": "n."
+        },
+        {
+          "en": "keen",
+          "zh": "adj. （感觉、观察、理解等）敏锐的，敏捷的",
+          "pos": "adj."
+        },
+        {
+          "en": "ken",
+          "zh": "n. 视野，知识领域",
+          "pos": "n."
+        },
+        {
+          "en": "kennel",
+          "zh": "n. 狗舍，狗窝",
+          "pos": "n."
+        },
+        {
+          "en": "kernel",
+          "zh": "n. 仁，核心；(去壳的)麦粒，谷粒",
+          "pos": "n."
+        },
+        {
+          "en": "kerosene",
+          "zh": "n. 煤油",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

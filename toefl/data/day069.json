@@ -1,0 +1,304 @@
+{
+  "day": 69,
+  "title": "Day 069 · precaution → primate",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "precipitate",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Sova Scout",
+      "hp": 100,
+      "words": [
+        {
+          "en": "precaution",
+          "zh": "n. 预防措施，警惕",
+          "pos": "n."
+        },
+        {
+          "en": "precede",
+          "zh": "vt. 在…之前，早于；优先于",
+          "pos": "vt."
+        },
+        {
+          "en": "precedent",
+          "zh": "n. 先例",
+          "pos": "n."
+        },
+        {
+          "en": "unprecedented",
+          "zh": "adj. 空前的",
+          "pos": "adj."
+        },
+        {
+          "en": "preceding",
+          "zh": "adj. 在前的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "precious",
+          "zh": "adj. 宝贵的，珍贵的",
+          "pos": "adj."
+        },
+        {
+          "en": "precipitate",
+          "zh": "vt. 促成；加速",
+          "pos": "vt."
+        },
+        {
+          "en": "precipitation",
+          "zh": "n. 仓促，降雨量",
+          "pos": "n."
+        },
+        {
+          "en": "precipitous",
+          "zh": "adj. 陡峭的",
+          "pos": "adj."
+        },
+        {
+          "en": "precision",
+          "zh": "n. 精确，精密度",
+          "pos": "n."
+        },
+        {
+          "en": "precursor",
+          "zh": "n. 先驱，先行者；先兆",
+          "pos": "n."
+        },
+        {
+          "en": "predatory",
+          "zh": "adj. 掠夺的；食肉的",
+          "pos": "adj."
+        },
+        {
+          "en": "predator",
+          "zh": "n. 食肉动物",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Wall",
+      "hp": 200,
+      "words": [
+        {
+          "en": "predecessor",
+          "zh": "n. 前辈，前任",
+          "pos": "n."
+        },
+        {
+          "en": "predict",
+          "zh": "vt. 预言，预告",
+          "pos": "vt."
+        },
+        {
+          "en": "predictive",
+          "zh": "adj. 预言性的，成为先兆的",
+          "pos": "adj."
+        },
+        {
+          "en": "predictable",
+          "zh": "adj. 可预见的",
+          "pos": "adj."
+        },
+        {
+          "en": "predictability",
+          "zh": "n. 可预言",
+          "pos": "n."
+        },
+        {
+          "en": "predominant",
+          "zh": "adj. 支配的，主要的",
+          "pos": "adj."
+        },
+        {
+          "en": "prefabricated",
+          "zh": "adj. 预制的",
+          "pos": "adj."
+        },
+        {
+          "en": "preferable",
+          "zh": "adj. 更可取的，更好的",
+          "pos": "adj."
+        },
+        {
+          "en": "preference",
+          "zh": "n. 偏爱；优先；优先权",
+          "pos": "n."
+        },
+        {
+          "en": "pregnant",
+          "zh": "adj. 怀孕的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "precipitate",
+          "zh": "vt. 促成；加速",
+          "pos": "vt."
+        },
+        {
+          "en": "prehistoric",
+          "zh": "adj. 史前的",
+          "pos": "adj."
+        },
+        {
+          "en": "preliminary",
+          "zh": "adj. 预备的，初步的",
+          "pos": "adj."
+        },
+        {
+          "en": "premature",
+          "zh": "adj. 早熟的，不成熟的；过早的",
+          "pos": "adj."
+        },
+        {
+          "en": "premium",
+          "zh": "n. 保险金；奖金",
+          "pos": "n."
+        },
+        {
+          "en": "preoccupation",
+          "zh": "n. 主要考虑因素；全神贯注，抢先占据",
+          "pos": "n."
+        },
+        {
+          "en": "preponderance",
+          "zh": "n. （数量或力量上的）优势",
+          "pos": "n."
+        },
+        {
+          "en": "prerequisite",
+          "zh": "n. 先决条件",
+          "pos": "n."
+        },
+        {
+          "en": "prescribe",
+          "zh": "vt. 指示，规定",
+          "pos": "vt."
+        },
+        {
+          "en": "prescribed",
+          "zh": "adj. 规定的",
+          "pos": "adj."
+        },
+        {
+          "en": "prescription",
+          "zh": "n. 药方，处方",
+          "pos": "n."
+        },
+        {
+          "en": "presence",
+          "zh": "n. 出席，到场",
+          "pos": "n."
+        },
+        {
+          "en": "preserve",
+          "zh": "vt. 保存",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "preservative",
+          "zh": "n. 防腐剂",
+          "pos": "n."
+        },
+        {
+          "en": "preservation",
+          "zh": "n. 保存，贮藏；保护",
+          "pos": "n."
+        },
+        {
+          "en": "presidency",
+          "zh": "n. 总统职位；总统任期",
+          "pos": "n."
+        },
+        {
+          "en": "pressure",
+          "zh": "n. 压力；压迫",
+          "pos": "n."
+        },
+        {
+          "en": "prestige",
+          "zh": "n. 威望，声望",
+          "pos": "n."
+        },
+        {
+          "en": "prestigious",
+          "zh": "adj. 有名望的，有威信的",
+          "pos": "adj."
+        },
+        {
+          "en": "presumably",
+          "zh": "adv. 推测起来, 大概",
+          "pos": "adv."
+        },
+        {
+          "en": "pretension",
+          "zh": "n. 要求；自命，自称；自负",
+          "pos": "n."
+        },
+        {
+          "en": "prevailing",
+          "zh": "adj. 流行的，盛行的",
+          "pos": "adj."
+        },
+        {
+          "en": "prevail",
+          "zh": "vi. 盛行，居主导地位",
+          "pos": "vi."
+        },
+        {
+          "en": "prevalent",
+          "zh": "adj. 普遍的；流行的",
+          "pos": "adj."
+        },
+        {
+          "en": "prey",
+          "zh": "n. 被掠食者，牺牲者，食物",
+          "pos": "n."
+        },
+        {
+          "en": "osprey",
+          "zh": "n. 鱼鹰",
+          "pos": "n."
+        },
+        {
+          "en": "primal",
+          "zh": "adj. 原始的；最初的",
+          "pos": "adj."
+        },
+        {
+          "en": "primate",
+          "zh": "n. 灵长目动物",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

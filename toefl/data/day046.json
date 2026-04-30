@@ -1,0 +1,304 @@
+{
+  "day": 46,
+  "title": "Day 046 · homespun → identify",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "horned",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Sova Scout",
+      "hp": 100,
+      "words": [
+        {
+          "en": "homespun",
+          "zh": "adj. 朴素的；家里纺织的",
+          "pos": "adj."
+        },
+        {
+          "en": "homogenize",
+          "zh": "vt. 使均匀",
+          "pos": "vt."
+        },
+        {
+          "en": "horde",
+          "zh": "n. 一大群",
+          "pos": "n."
+        },
+        {
+          "en": "horizon",
+          "zh": "n. 地平线；眼界，视野",
+          "pos": "n."
+        },
+        {
+          "en": "horizontal",
+          "zh": "adj. 水平的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Chamber Bullet",
+      "hp": 150,
+      "words": [
+        {
+          "en": "horn",
+          "zh": "n. （牛羊等的）角",
+          "pos": "n."
+        },
+        {
+          "en": "horned",
+          "zh": "adj. 有角的，角状的",
+          "pos": "adj."
+        },
+        {
+          "en": "hornbill",
+          "zh": "n. 犀鸟，犀鸟科",
+          "pos": "n."
+        },
+        {
+          "en": "hornet",
+          "zh": "n. 大黄蜂类",
+          "pos": "n."
+        },
+        {
+          "en": "pronghorn",
+          "zh": "n. (墨西哥和美国西部产的)叉角羚",
+          "pos": "n."
+        },
+        {
+          "en": "thorn",
+          "zh": "n. （植物的）刺，棘",
+          "pos": "n."
+        },
+        {
+          "en": "thorny",
+          "zh": "adj. 多刺的",
+          "pos": "adj."
+        },
+        {
+          "en": "horror",
+          "zh": "n. 惊骇；恐怖",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "hospitable",
+          "zh": "adj. 好客的",
+          "pos": "adj."
+        },
+        {
+          "en": "hostile",
+          "zh": "adj. 敌对的，不友好的",
+          "pos": "adj."
+        },
+        {
+          "en": "hostility",
+          "zh": "n. 敌意，敌对",
+          "pos": "n."
+        },
+        {
+          "en": "house",
+          "zh": "vt. 给…提供住所",
+          "pos": "vt."
+        },
+        {
+          "en": "hover",
+          "zh": "vi. 翱翔；徘徊",
+          "pos": "vi."
+        },
+        {
+          "en": "hub",
+          "zh": "n. 轮轴",
+          "pos": "n."
+        },
+        {
+          "en": "huddle",
+          "zh": "vi. 缩成一团；挤成一团",
+          "pos": "vi."
+        },
+        {
+          "en": "hue",
+          "zh": "n. 颜色，色彩",
+          "pos": "n."
+        },
+        {
+          "en": "humanity",
+          "zh": "n. 人性；博爱，仁慈",
+          "pos": "n."
+        },
+        {
+          "en": "humanitarian",
+          "zh": "n./adj. 人道主义者；人道主义的",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "nonhuman",
+          "zh": "adj. 非人类的",
+          "pos": "adj."
+        },
+        {
+          "en": "humanistic",
+          "zh": "adj. 人性的；人文主义的",
+          "pos": "adj."
+        },
+        {
+          "en": "humanist",
+          "zh": "n. 人道主义者，人文主义者",
+          "pos": "n."
+        },
+        {
+          "en": "humble",
+          "zh": "adj. 卑贱的；谦逊的",
+          "pos": "adj."
+        },
+        {
+          "en": "horned",
+          "zh": "adj. 有角的，角状的",
+          "pos": "adj."
+        },
+        {
+          "en": "humid",
+          "zh": "adj. 潮湿的",
+          "pos": "adj."
+        },
+        {
+          "en": "humidity",
+          "zh": "n. 湿气，湿度",
+          "pos": "n."
+        },
+        {
+          "en": "humiliate",
+          "zh": "vt. 羞辱，使丢脸",
+          "pos": "vt."
+        },
+        {
+          "en": "humility",
+          "zh": "n. 谦卑",
+          "pos": "n."
+        },
+        {
+          "en": "hummingbird",
+          "zh": "n. 蜂鸟",
+          "pos": "n."
+        },
+        {
+          "en": "humorous",
+          "zh": "adj. 幽默的，滑稽的",
+          "pos": "adj."
+        },
+        {
+          "en": "hump",
+          "zh": "n. 驼背；峰，圆形隆起之物",
+          "pos": "n."
+        },
+        {
+          "en": "hunger",
+          "zh": "n. 饥饿",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Ascendant Warlord",
+      "hp": 300,
+      "words": [
+        {
+          "en": "hurl",
+          "zh": "vt. 用力投掷",
+          "pos": "vt."
+        },
+        {
+          "en": "hurricane",
+          "zh": "n. 飓风，暴风雨",
+          "pos": "n."
+        },
+        {
+          "en": "husk",
+          "zh": "n. （果类或谷物）外壳；皮",
+          "pos": "n."
+        },
+        {
+          "en": "hustle",
+          "zh": "n. 挤，推，拥挤喧嚷",
+          "pos": "n."
+        },
+        {
+          "en": "hydrogen",
+          "zh": "n. 氢",
+          "pos": "n."
+        },
+        {
+          "en": "hygiene",
+          "zh": "n. 卫生",
+          "pos": "n."
+        },
+        {
+          "en": "hypersensitive",
+          "zh": "adj. 高灵敏度的；感觉过敏的",
+          "pos": "adj."
+        },
+        {
+          "en": "hypothesis",
+          "zh": "n. 假设，假说",
+          "pos": "n."
+        },
+        {
+          "en": "hypothesize",
+          "zh": "vt. 假设，假定",
+          "pos": "vt."
+        },
+        {
+          "en": "iceberg",
+          "zh": "n. 冰山",
+          "pos": "n."
+        },
+        {
+          "en": "icicle",
+          "zh": "n. 冰柱，冰垂",
+          "pos": "n."
+        },
+        {
+          "en": "icon",
+          "zh": "n. 圣像，偶像",
+          "pos": "n."
+        },
+        {
+          "en": "iconographic",
+          "zh": "adj. 图解的",
+          "pos": "adj."
+        },
+        {
+          "en": "identical",
+          "zh": "adj. 同一的；完全相同的",
+          "pos": "adj."
+        },
+        {
+          "en": "identify",
+          "zh": "vt. 识别，认出；鉴定",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

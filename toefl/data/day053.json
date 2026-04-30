@@ -1,0 +1,304 @@
+{
+  "day": 53,
+  "title": "Day 053 · kiln → pledge",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "landing",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Fade Whisper",
+      "hp": 100,
+      "words": [
+        {
+          "en": "kiln",
+          "zh": "n. （砖、石灰等）窑，炉",
+          "pos": "n."
+        },
+        {
+          "en": "kinetic",
+          "zh": "adj. 运动的；动力学的",
+          "pos": "adj."
+        },
+        {
+          "en": "kingdom",
+          "zh": "n. 王国",
+          "pos": "n."
+        },
+        {
+          "en": "laborious",
+          "zh": "adj. 费力的，艰难的",
+          "pos": "adj."
+        },
+        {
+          "en": "laboriously",
+          "zh": "adv. 费力地，艰难地",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Sova Arrow",
+      "hp": 150,
+      "words": [
+        {
+          "en": "laborer",
+          "zh": "n. 劳动者",
+          "pos": "n."
+        },
+        {
+          "en": "labyrinth",
+          "zh": "n. 迷宫；错综复杂的事件",
+          "pos": "n."
+        },
+        {
+          "en": "lace",
+          "zh": "n. 饰带，花边",
+          "pos": "n."
+        },
+        {
+          "en": "lag",
+          "zh": "vi. 落后",
+          "pos": "vi."
+        },
+        {
+          "en": "lament",
+          "zh": "vt. 为…悲痛，痛惜",
+          "pos": "vt."
+        },
+        {
+          "en": "landing",
+          "zh": "n. 着陆，降落",
+          "pos": "n."
+        },
+        {
+          "en": "landmass",
+          "zh": "n. 大片陆地",
+          "pos": "n."
+        },
+        {
+          "en": "landscape",
+          "zh": "n. 风景，山水；风景画",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "landslide",
+          "zh": "n. 山崩",
+          "pos": "n."
+        },
+        {
+          "en": "largely",
+          "zh": "adv. 大量地，大半地",
+          "pos": "adv."
+        },
+        {
+          "en": "larvae",
+          "zh": "n. 幼虫",
+          "pos": "n."
+        },
+        {
+          "en": "larynx",
+          "zh": "n. [解] 喉",
+          "pos": "n."
+        },
+        {
+          "en": "laser",
+          "zh": "n. 激光",
+          "pos": "n."
+        },
+        {
+          "en": "lash",
+          "zh": "n. 鞭子",
+          "pos": "n."
+        },
+        {
+          "en": "splash",
+          "zh": "v. 溅，泼",
+          "pos": "v."
+        },
+        {
+          "en": "lasting",
+          "zh": "adj. 持久的；永恒的，耐力的",
+          "pos": "adj."
+        },
+        {
+          "en": "long-lasting",
+          "zh": "adj. 持久的，永久的",
+          "pos": "adj."
+        },
+        {
+          "en": "everlasting",
+          "zh": "adj. 永恒的，持久的，无止境的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "latent",
+          "zh": "adj. 潜伏的，隐藏的",
+          "pos": "adj."
+        },
+        {
+          "en": "lateral",
+          "zh": "adj. 侧面的，旁边的",
+          "pos": "adj."
+        },
+        {
+          "en": "launch",
+          "zh": "vt. 发动",
+          "pos": "vt."
+        },
+        {
+          "en": "laundry",
+          "zh": "n. 洗衣店, 要洗的衣服",
+          "pos": "n."
+        },
+        {
+          "en": "laurels",
+          "zh": "n. 桂冠，荣誉",
+          "pos": "n."
+        },
+        {
+          "en": "lava",
+          "zh": "n. 熔岩，岩浆",
+          "pos": "n."
+        },
+        {
+          "en": "volcano",
+          "zh": "n. 火山",
+          "pos": "n."
+        },
+        {
+          "en": "landing",
+          "zh": "n. 着陆，降落",
+          "pos": "n."
+        },
+        {
+          "en": "lave",
+          "zh": "vt. 为沐浴, 洗",
+          "pos": "vt."
+        },
+        {
+          "en": "lavish",
+          "zh": "adj. 过分丰富的；浪费的",
+          "pos": "adj."
+        },
+        {
+          "en": "slavish",
+          "zh": "adj. 卑屈的；盲从的",
+          "pos": "adj."
+        },
+        {
+          "en": "lawn",
+          "zh": "n. 草地，草坪，草场",
+          "pos": "n."
+        },
+        {
+          "en": "lawsuit",
+          "zh": "n. 诉讼",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "lay",
+          "zh": "vt. 产卵，下蛋",
+          "pos": "vt."
+        },
+        {
+          "en": "layer",
+          "zh": "n. 层，层次；阶层",
+          "pos": "n."
+        },
+        {
+          "en": "layering",
+          "zh": "n. 分层堆积",
+          "pos": "n."
+        },
+        {
+          "en": "layman",
+          "zh": "n. 俗人，犯人；外行",
+          "pos": "n."
+        },
+        {
+          "en": "layout",
+          "zh": "n. 规划，设计",
+          "pos": "n."
+        },
+        {
+          "en": "leading",
+          "zh": "adj. 最主要的",
+          "pos": "adj."
+        },
+        {
+          "en": "mislead",
+          "zh": "vt. 误导",
+          "pos": "vt."
+        },
+        {
+          "en": "leadership",
+          "zh": "n. 领导能力，领导阶层",
+          "pos": "n."
+        },
+        {
+          "en": "league",
+          "zh": "n. 同盟，联盟；联合会",
+          "pos": "n."
+        },
+        {
+          "en": "leak",
+          "zh": "vt. 漏；渗",
+          "pos": "vt."
+        },
+        {
+          "en": "leaky",
+          "zh": "adj. 漏的",
+          "pos": "adj."
+        },
+        {
+          "en": "leap",
+          "zh": "n./vi. 跳跃",
+          "pos": "n."
+        },
+        {
+          "en": "lease",
+          "zh": "n. 租约",
+          "pos": "n."
+        },
+        {
+          "en": "ledge",
+          "zh": "n. 壁架, 架状突出物, 暗礁, 矿层",
+          "pos": "n."
+        },
+        {
+          "en": "pledge",
+          "zh": "n. 誓言 vt. 保证",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

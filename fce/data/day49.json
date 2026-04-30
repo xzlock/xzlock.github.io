@@ -1,0 +1,304 @@
+{
+  "day": 49,
+  "title": "Day 49 · wrap → Kenya",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "Japan",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "wrap",
+          "zh": "\"n. 外套；围巾",
+          "pos": "n."
+        },
+        {
+          "en": "write",
+          "zh": "\"vi. 写，写字；写作，作曲；写信",
+          "pos": "vi."
+        },
+        {
+          "en": "write-up",
+          "zh": "n. 捧场文章；帐面价值的提高",
+          "pos": "n."
+        },
+        {
+          "en": "yet",
+          "zh": "\"conj. 但是；然而",
+          "pos": "conj."
+        },
+        {
+          "en": "zigzag",
+          "zh": "\"n. 之字形；Z字形",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "zoom",
+          "zh": "\"vi. 嗡嗡作响; 急速上升",
+          "pos": "vi."
+        },
+        {
+          "en": "Africa",
+          "zh": "n. 非洲",
+          "pos": "n."
+        },
+        {
+          "en": "African",
+          "zh": "\"n. 非洲人",
+          "pos": "n."
+        },
+        {
+          "en": "America",
+          "zh": "n. 美洲（包括北美和南美洲）；美国",
+          "pos": "n."
+        },
+        {
+          "en": "American",
+          "zh": "\"n. 美国人，美洲人；美国英语",
+          "pos": "n."
+        },
+        {
+          "en": "Arabic",
+          "zh": "\"n. 阿拉伯语",
+          "pos": "n."
+        },
+        {
+          "en": "Argentina",
+          "zh": "n. 阿根廷（位于拉丁美洲）",
+          "pos": "n."
+        },
+        {
+          "en": "Asia",
+          "zh": "n. 亚洲",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "Asian",
+          "zh": "\"n. 亚洲人",
+          "pos": "n."
+        },
+        {
+          "en": "Athens",
+          "zh": "n. 雅典（希腊首都）",
+          "pos": "n."
+        },
+        {
+          "en": "Atlantic",
+          "zh": "\"n. 大西洋",
+          "pos": "n."
+        },
+        {
+          "en": "Australia",
+          "zh": "n. 澳大利亚，澳洲",
+          "pos": "n."
+        },
+        {
+          "en": "Australian",
+          "zh": "\"adj. 澳大利亚的，澳大利亚人的",
+          "pos": "adj."
+        },
+        {
+          "en": "Austria",
+          "zh": "n. 奥地利",
+          "pos": "n."
+        },
+        {
+          "en": "Austrian",
+          "zh": "\"n. 奥地利人",
+          "pos": "n."
+        },
+        {
+          "en": "Bari",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "Boston",
+          "zh": "n. 波士顿（美国城市）",
+          "pos": "n."
+        },
+        {
+          "en": "Brazil",
+          "zh": "n. 巴西（拉丁美洲国家）",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "California",
+          "zh": "n. 加利福尼亚（美国一个州）",
+          "pos": "n."
+        },
+        {
+          "en": "Canada",
+          "zh": "n. 加拿大（北美洲国家）",
+          "pos": "n."
+        },
+        {
+          "en": "Canadian",
+          "zh": "\"n. 加拿大人",
+          "pos": "n."
+        },
+        {
+          "en": "Caribbean",
+          "zh": "\"n. 加勒比海",
+          "pos": "n."
+        },
+        {
+          "en": "China",
+          "zh": "\"n. 中国",
+          "pos": "n."
+        },
+        {
+          "en": "Chinese",
+          "zh": "\"n. 中文，汉语；中国人",
+          "pos": "n."
+        },
+        {
+          "en": "Confederation",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "Danish",
+          "zh": "\"n. 丹麦语",
+          "pos": "n."
+        },
+        {
+          "en": "Japan",
+          "zh": "n. 日本（东亚国家名）",
+          "pos": "n."
+        },
+        {
+          "en": "Delhi",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "Denmark",
+          "zh": "n. 丹麦（欧洲国家）",
+          "pos": "n."
+        },
+        {
+          "en": "Egypt",
+          "zh": "n. 埃及（非洲国家）",
+          "pos": "n."
+        },
+        {
+          "en": "Europe",
+          "zh": "n. 欧洲",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "European",
+          "zh": "\"n. 欧洲人",
+          "pos": "n."
+        },
+        {
+          "en": "France",
+          "zh": "n. 法国；法郎士（姓氏）",
+          "pos": "n."
+        },
+        {
+          "en": "French",
+          "zh": "\"n. 法国人；法语",
+          "pos": "n."
+        },
+        {
+          "en": "German",
+          "zh": "\"n. 德语；德国人",
+          "pos": "n."
+        },
+        {
+          "en": "Germany",
+          "zh": "n. 德国",
+          "pos": "n."
+        },
+        {
+          "en": "Greece",
+          "zh": "希腊（欧洲南部国家）",
+          "pos": ""
+        },
+        {
+          "en": "Greenland",
+          "zh": "n. 格陵兰（北美东北的一大岛名，属丹麦）",
+          "pos": "n."
+        },
+        {
+          "en": "Hawaii Islands",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "India",
+          "zh": "n. 印度（南亚国家）",
+          "pos": "n."
+        },
+        {
+          "en": "Indian",
+          "zh": "\"n. 印度人；印第安人；印第安语",
+          "pos": "n."
+        },
+        {
+          "en": "Italian",
+          "zh": "\"n. 意大利人；意大利语",
+          "pos": "n."
+        },
+        {
+          "en": "Italy",
+          "zh": "n. 意大利（欧洲南部国家）",
+          "pos": "n."
+        },
+        {
+          "en": "Japan",
+          "zh": "n. 日本（东亚国家名）",
+          "pos": "n."
+        },
+        {
+          "en": "Japanese",
+          "zh": "\"n. 日本人；日语",
+          "pos": "n."
+        },
+        {
+          "en": "Kenya",
+          "zh": "n. 肯尼亚（东非国家）",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

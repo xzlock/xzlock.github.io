@@ -1,0 +1,304 @@
+{
+  "day": 88,
+  "title": "Day 088 · succinct → surmount",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "sunlight",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "succinct",
+          "zh": "adj. 简明的，简洁的",
+          "pos": "adj."
+        },
+        {
+          "en": "succumb",
+          "zh": "vi. 屈服，屈从",
+          "pos": "vi."
+        },
+        {
+          "en": "sue",
+          "zh": "v. 向…请求，请愿",
+          "pos": "v."
+        },
+        {
+          "en": "pursue",
+          "zh": "vt. 追赶，追踪；从事",
+          "pos": "vt."
+        },
+        {
+          "en": "tissue",
+          "zh": "n. 薄的纱织品；薄纸，棉纸；组织",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Raze Bomber",
+      "hp": 150,
+      "words": [
+        {
+          "en": "sufficient",
+          "zh": "adj. 足够的，充足的",
+          "pos": "adj."
+        },
+        {
+          "en": "insufficient",
+          "zh": "adj. 不足的，不够的",
+          "pos": "adj."
+        },
+        {
+          "en": "suit",
+          "zh": "vt. 适合，适应",
+          "pos": "vt."
+        },
+        {
+          "en": "suited",
+          "zh": "adj. 适合的，匹配的",
+          "pos": "adj."
+        },
+        {
+          "en": "suitable",
+          "zh": "adj. 适当的，相配的",
+          "pos": "adj."
+        },
+        {
+          "en": "suite",
+          "zh": "n. 一批，一套，组",
+          "pos": "n."
+        },
+        {
+          "en": "suitcase",
+          "zh": "n. 手提箱, 衣箱",
+          "pos": "n."
+        },
+        {
+          "en": "summit",
+          "zh": "n. 山顶，顶点",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "sumptuous",
+          "zh": "adj. 奢侈的，华丽的",
+          "pos": "adj."
+        },
+        {
+          "en": "sunlight",
+          "zh": "n. 日光，阳光",
+          "pos": "n."
+        },
+        {
+          "en": "sunlit",
+          "zh": "adj. 被日光照射了的, 阳光照射的",
+          "pos": "adj."
+        },
+        {
+          "en": "sunflower",
+          "zh": "n. 向日葵",
+          "pos": "n."
+        },
+        {
+          "en": "sunrise",
+          "zh": "n. 日出",
+          "pos": "n."
+        },
+        {
+          "en": "sunset",
+          "zh": "n. 日落",
+          "pos": "n."
+        },
+        {
+          "en": "sunburn",
+          "zh": "n. 晒斑, 晒黑",
+          "pos": "n."
+        },
+        {
+          "en": "sundial",
+          "zh": "n. (通过太阳知道时间的)日规, 日晷",
+          "pos": "n."
+        },
+        {
+          "en": "sunglasses",
+          "zh": "n. 太阳镜；墨镜",
+          "pos": "n."
+        },
+        {
+          "en": "superb",
+          "zh": "adj. 极好的，超级的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Clove Revive",
+      "hp": 250,
+      "words": [
+        {
+          "en": "superficial",
+          "zh": "adj. 肤浅的，表面（上）的",
+          "pos": "adj."
+        },
+        {
+          "en": "superficially",
+          "zh": "adv. 浅薄地",
+          "pos": "adv."
+        },
+        {
+          "en": "superintendent",
+          "zh": "n. 主管，负责人",
+          "pos": "n."
+        },
+        {
+          "en": "superior",
+          "zh": "adj. 级别或地位更高的；质量或价值更好的",
+          "pos": "adj."
+        },
+        {
+          "en": "supernatural",
+          "zh": "adj. 超自然的，神奇的",
+          "pos": "adj."
+        },
+        {
+          "en": "supervise",
+          "zh": "vt. 监督，指导",
+          "pos": "vt."
+        },
+        {
+          "en": "sunlight",
+          "zh": "n. 日光，阳光",
+          "pos": "n."
+        },
+        {
+          "en": "supervision",
+          "zh": "n. 监督，管理",
+          "pos": "n."
+        },
+        {
+          "en": "supervisor",
+          "zh": "n. 主管，管理人",
+          "pos": "n."
+        },
+        {
+          "en": "supplant",
+          "zh": "vt. 排挤；取代",
+          "pos": "vt."
+        },
+        {
+          "en": "supple",
+          "zh": "adj. 柔软的，灵活的；柔顺的",
+          "pos": "adj."
+        },
+        {
+          "en": "supplement",
+          "zh": "vt. 增补，补充",
+          "pos": "vt."
+        },
+        {
+          "en": "supplementary",
+          "zh": "adj. 补充的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "supplementation",
+          "zh": "n. 增补，补充",
+          "pos": "n."
+        },
+        {
+          "en": "suppose",
+          "zh": "vt. 推想，假设",
+          "pos": "vt."
+        },
+        {
+          "en": "supposedly",
+          "zh": "adv. 按说，应该i",
+          "pos": "adv."
+        },
+        {
+          "en": "supposition",
+          "zh": "n. 假定",
+          "pos": "n."
+        },
+        {
+          "en": "suppress",
+          "zh": "vt. 镇压，抑制",
+          "pos": "vt."
+        },
+        {
+          "en": "supreme",
+          "zh": "adj. (权力、级别或地位)至高的；最重要的",
+          "pos": "adj."
+        },
+        {
+          "en": "supremely",
+          "zh": "adv. 无上地，崇高地",
+          "pos": "adv."
+        },
+        {
+          "en": "supremacy",
+          "zh": "n. 至高无上的权力",
+          "pos": "n."
+        },
+        {
+          "en": "surcharge",
+          "zh": "n. 增付的费用，附加费",
+          "pos": "n."
+        },
+        {
+          "en": "surface",
+          "zh": "n./adj. 表面（的）",
+          "pos": "n."
+        },
+        {
+          "en": "surge",
+          "zh": "n. 汹涌，澎湃，喷发",
+          "pos": "n."
+        },
+        {
+          "en": "surging",
+          "zh": "n. 汹涌",
+          "pos": "n."
+        },
+        {
+          "en": "surgeon",
+          "zh": "n. 外科医生",
+          "pos": "n."
+        },
+        {
+          "en": "surgery",
+          "zh": "n. 外科；手术室",
+          "pos": "n."
+        },
+        {
+          "en": "surmount",
+          "zh": "vt. 克服；登上；越过",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

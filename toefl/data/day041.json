@@ -1,0 +1,304 @@
+{
+  "day": 41,
+  "title": "Day 041 · fossilize → furious",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "freight",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Breach Fist",
+      "hp": 100,
+      "words": [
+        {
+          "en": "fossilize",
+          "zh": "vt. 使成化石",
+          "pos": "vt."
+        },
+        {
+          "en": "fossilized",
+          "zh": "adj. 变成化石的",
+          "pos": "adj."
+        },
+        {
+          "en": "foster",
+          "zh": "vt. 鼓励，促进",
+          "pos": "vt."
+        },
+        {
+          "en": "foul",
+          "zh": "adj. 污秽的，肮脏的",
+          "pos": "adj."
+        },
+        {
+          "en": "founder",
+          "zh": "n. 创建者，创始人",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "fraction",
+          "zh": "n. 小部分，少量",
+          "pos": "n."
+        },
+        {
+          "en": "refraction",
+          "zh": "n. 折光，折射",
+          "pos": "n."
+        },
+        {
+          "en": "fracture",
+          "zh": "n. 骨折；破裂",
+          "pos": "n."
+        },
+        {
+          "en": "fragment",
+          "zh": "n. 碎片，破片",
+          "pos": "n."
+        },
+        {
+          "en": "fragrant",
+          "zh": "adj. 香的，芬芳的",
+          "pos": "adj."
+        },
+        {
+          "en": "fragrance",
+          "zh": "n. 芬芳，香味",
+          "pos": "n."
+        },
+        {
+          "en": "framework",
+          "zh": "n. 构架；骨架",
+          "pos": "n."
+        },
+        {
+          "en": "frame",
+          "zh": "n. 框架",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Wall",
+      "hp": 200,
+      "words": [
+        {
+          "en": "frank",
+          "zh": "adj. 坦白的，直率的",
+          "pos": "adj."
+        },
+        {
+          "en": "fray",
+          "zh": "vi. 磨损，磨破",
+          "pos": "vi."
+        },
+        {
+          "en": "freight",
+          "zh": "n. 货物，货运",
+          "pos": "n."
+        },
+        {
+          "en": "freighter",
+          "zh": "n. 货车",
+          "pos": "n."
+        },
+        {
+          "en": "frenetic",
+          "zh": "adj. 狂乱的，发狂的",
+          "pos": "adj."
+        },
+        {
+          "en": "frenzy",
+          "zh": "n. 狂暴；狂怒",
+          "pos": "n."
+        },
+        {
+          "en": "fresco",
+          "zh": "n. 壁画",
+          "pos": "n."
+        },
+        {
+          "en": "freshly",
+          "zh": "adv. 新近，最近",
+          "pos": "adv."
+        },
+        {
+          "en": "freshness",
+          "zh": "n. 新鲜；活力",
+          "pos": "n."
+        },
+        {
+          "en": "friction",
+          "zh": "n. 摩擦",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "frightening",
+          "zh": "adj. 令人恐惧的，引起突然惊恐的",
+          "pos": "adj."
+        },
+        {
+          "en": "frigid",
+          "zh": "adj. 寒冷的",
+          "pos": "adj."
+        },
+        {
+          "en": "fringe",
+          "zh": "n. 边缘；边界",
+          "pos": "n."
+        },
+        {
+          "en": "freight",
+          "zh": "n. 货物，货运",
+          "pos": "n."
+        },
+        {
+          "en": "frivolity",
+          "zh": "n. 轻浮",
+          "pos": "n."
+        },
+        {
+          "en": "frost",
+          "zh": "n. 霜；霜冻",
+          "pos": "n."
+        },
+        {
+          "en": "defrost",
+          "zh": "vt. 解冻，将…除霜",
+          "pos": "vt."
+        },
+        {
+          "en": "frown",
+          "zh": "vi. 皱眉；不赞成，反对",
+          "pos": "vi."
+        },
+        {
+          "en": "frugal",
+          "zh": "adj. 节约的，节俭的",
+          "pos": "adj."
+        },
+        {
+          "en": "frugality",
+          "zh": "n. 节约，俭省",
+          "pos": "n."
+        },
+        {
+          "en": "fruitful",
+          "zh": "adj. 硕果累累的；成功的",
+          "pos": "adj."
+        },
+        {
+          "en": "fruitfulness",
+          "zh": "n. 硕果累累；多产",
+          "pos": "n."
+        },
+        {
+          "en": "fruitless",
+          "zh": "adj. 不结果实的，无收获的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "fruitlessly",
+          "zh": "adv. 徒劳地",
+          "pos": "adv."
+        },
+        {
+          "en": "frustrate",
+          "zh": "v. 挫败，破坏",
+          "pos": "v."
+        },
+        {
+          "en": "frustration",
+          "zh": "n. 挫败，挫折",
+          "pos": "n."
+        },
+        {
+          "en": "frustrating",
+          "zh": "adj. 令人沮丧胆",
+          "pos": "adj."
+        },
+        {
+          "en": "fume",
+          "zh": "n. 烟，气体",
+          "pos": "n."
+        },
+        {
+          "en": "perfume",
+          "zh": "n. 香味；香水",
+          "pos": "n."
+        },
+        {
+          "en": "fumigate",
+          "zh": "vt. 烟熏；用香薰",
+          "pos": "vt."
+        },
+        {
+          "en": "functional",
+          "zh": "adj. 功能的；有用的",
+          "pos": "adj."
+        },
+        {
+          "en": "malfunctional",
+          "zh": "adj. 多功能的",
+          "pos": "adj."
+        },
+        {
+          "en": "functioning",
+          "zh": "n. 运转，操作",
+          "pos": "n."
+        },
+        {
+          "en": "fund",
+          "zh": "n. 资金；基金",
+          "pos": "n."
+        },
+        {
+          "en": "funding",
+          "zh": "n. 拨款",
+          "pos": "n."
+        },
+        {
+          "en": "fundamental",
+          "zh": "adj. 基础的，基本的",
+          "pos": "adj."
+        },
+        {
+          "en": "fungi",
+          "zh": "n. （fungus的复数）真菌",
+          "pos": "n."
+        },
+        {
+          "en": "furious",
+          "zh": "adj. 狂怒的；狂暴的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

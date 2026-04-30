@@ -1,0 +1,304 @@
+{
+  "day": 38,
+  "title": "Day 038 · infancy → fierce",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "fierce",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "infancy",
+          "zh": "n. 幼年",
+          "pos": "n."
+        },
+        {
+          "en": "fantastic",
+          "zh": "adj. （非正式）极…的；奇异的",
+          "pos": "adj."
+        },
+        {
+          "en": "fantasy",
+          "zh": "n. 幻想；白日梦",
+          "pos": "n."
+        },
+        {
+          "en": "far-reaching",
+          "zh": "adj. 影响深远的",
+          "pos": "adj."
+        },
+        {
+          "en": "farce",
+          "zh": "n. 闹剧，滑稽剧",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Neon Pulse",
+      "hp": 150,
+      "words": [
+        {
+          "en": "fascinate",
+          "zh": "vt. 使着迷，使神魂颠倒",
+          "pos": "vt."
+        },
+        {
+          "en": "fascinating",
+          "zh": "adj. 迷人的，醉人的",
+          "pos": "adj."
+        },
+        {
+          "en": "fascination",
+          "zh": "n. 入迷，迷恋；魅力",
+          "pos": "n."
+        },
+        {
+          "en": "fashionable",
+          "zh": "adj. 流行的，时髦的，上流社会的",
+          "pos": "adj."
+        },
+        {
+          "en": "fashion",
+          "zh": "n. 流行，风尚，流行式样",
+          "pos": "n."
+        },
+        {
+          "en": "fasten",
+          "zh": "vt. 使固定，系",
+          "pos": "vt."
+        },
+        {
+          "en": "fatal",
+          "zh": "adj. 致命的",
+          "pos": "adj."
+        },
+        {
+          "en": "fateful",
+          "zh": "adj. 重大的，决定性的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "fatigue",
+          "zh": "n. 疲乏，劳累",
+          "pos": "n."
+        },
+        {
+          "en": "faucet",
+          "zh": "n. 水龙头",
+          "pos": "n."
+        },
+        {
+          "en": "fault",
+          "zh": "n. （地质学）断层",
+          "pos": "n."
+        },
+        {
+          "en": "fauna",
+          "zh": "n. 动物群，动物区系",
+          "pos": "n."
+        },
+        {
+          "en": "flora",
+          "zh": "n. 植物群",
+          "pos": "n."
+        },
+        {
+          "en": "floral",
+          "zh": "adj. 花的，植物的",
+          "pos": "adj."
+        },
+        {
+          "en": "favorable",
+          "zh": "adj. 有利的；有助的；赢得赞扬的",
+          "pos": "adj."
+        },
+        {
+          "en": "favored",
+          "zh": "adj. 首选的；受到优待的；受优惠的",
+          "pos": "adj."
+        },
+        {
+          "en": "unfavorable",
+          "zh": "adj. 不宜的；相反的",
+          "pos": "adj."
+        },
+        {
+          "en": "feasible",
+          "zh": "adj. 切实可行的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "feat",
+          "zh": "n. 功绩，壮举",
+          "pos": "n."
+        },
+        {
+          "en": "feeble",
+          "zh": "adj. 微弱的；衰弱的",
+          "pos": "adj."
+        },
+        {
+          "en": "feed",
+          "zh": "v. 喂养，饲养；吃草，靠…为生",
+          "pos": "v."
+        },
+        {
+          "en": "feeder",
+          "zh": "n. 进料器",
+          "pos": "n."
+        },
+        {
+          "en": "feminism",
+          "zh": "n. 女权运动",
+          "pos": "n."
+        },
+        {
+          "en": "feminist",
+          "zh": "n. 女权主义者",
+          "pos": "n."
+        },
+        {
+          "en": "fencing",
+          "zh": "n. 围墙，栅栏；击剑，剑术",
+          "pos": "n."
+        },
+        {
+          "en": "fender",
+          "zh": "n. 防卫物；挡泥板",
+          "pos": "n."
+        },
+        {
+          "en": "ferment",
+          "zh": "vt. 使发酵",
+          "pos": "vt."
+        },
+        {
+          "en": "fermentation",
+          "zh": "n. 发酵",
+          "pos": "n."
+        },
+        {
+          "en": "ferry",
+          "zh": "n. 渡口；渡船",
+          "pos": "n."
+        },
+        {
+          "en": "fertile",
+          "zh": "adj. 肥沃的，富饶的；能繁殖的",
+          "pos": "adj."
+        },
+        {
+          "en": "fierce",
+          "zh": "adj. 凶猛的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "infertile",
+          "zh": "adj. 不肥沃的，贫瘠的，不结果实的",
+          "pos": "adj."
+        },
+        {
+          "en": "fertilize",
+          "zh": "vt. 施肥，使丰饶；使受精",
+          "pos": "vt."
+        },
+        {
+          "en": "fertilizer",
+          "zh": "n. 肥料",
+          "pos": "n."
+        },
+        {
+          "en": "fervor",
+          "zh": "n. 热情，热烈",
+          "pos": "n."
+        },
+        {
+          "en": "festive",
+          "zh": "adj. 欢宴的，节日的",
+          "pos": "adj."
+        },
+        {
+          "en": "festival",
+          "zh": "n. 节日",
+          "pos": "n."
+        },
+        {
+          "en": "feud",
+          "zh": "n. 世仇",
+          "pos": "n."
+        },
+        {
+          "en": "feudal",
+          "zh": "adj. 封建制度的",
+          "pos": "adj."
+        },
+        {
+          "en": "feverish",
+          "zh": "adj. 发烧的",
+          "pos": "adj."
+        },
+        {
+          "en": "fiber",
+          "zh": "n. 纤维，光纤",
+          "pos": "n."
+        },
+        {
+          "en": "fiction",
+          "zh": "n. 小说，（虚构）故事",
+          "pos": "n."
+        },
+        {
+          "en": "nonfiction",
+          "zh": "n. 非小说的散文文学",
+          "pos": "n."
+        },
+        {
+          "en": "fictional",
+          "zh": "adj. 虚构的",
+          "pos": "adj."
+        },
+        {
+          "en": "fidelity",
+          "zh": "n. 忠实，忠诚",
+          "pos": "n."
+        },
+        {
+          "en": "fierce",
+          "zh": "adj. 凶猛的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

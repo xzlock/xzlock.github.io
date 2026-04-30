@@ -1,0 +1,304 @@
+{
+  "day": 34,
+  "title": "Day 034 · endanger → eradicate",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "engaging",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Astra Dust",
+      "hp": 100,
+      "words": [
+        {
+          "en": "endanger",
+          "zh": "vt. 危及；危害",
+          "pos": "vt."
+        },
+        {
+          "en": "endangered",
+          "zh": "adj. 有灭绝危险的，将要绝种的",
+          "pos": "adj."
+        },
+        {
+          "en": "endeavor",
+          "zh": "vi. 尝试，努力",
+          "pos": "vi."
+        },
+        {
+          "en": "endless",
+          "zh": "adj. 无止境的",
+          "pos": "adj."
+        },
+        {
+          "en": "endlessly",
+          "zh": "adv. 不断地，无穷尽地",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "endow",
+          "zh": "vt. 捐赠",
+          "pos": "vt."
+        },
+        {
+          "en": "endowment",
+          "zh": "n. 禀赋；捐款",
+          "pos": "n."
+        },
+        {
+          "en": "endure",
+          "zh": "vt. 承受，忍受",
+          "pos": "vt."
+        },
+        {
+          "en": "enduring",
+          "zh": "adj. 持久的，不朽的",
+          "pos": "adj."
+        },
+        {
+          "en": "endurance",
+          "zh": "n. 忍耐（力），持久（力）",
+          "pos": "n."
+        },
+        {
+          "en": "energetic",
+          "zh": "adj. 精力充沛的；积极的",
+          "pos": "adj."
+        },
+        {
+          "en": "engaging",
+          "zh": "adj. 动人的，迷人的",
+          "pos": "adj."
+        },
+        {
+          "en": "engrave",
+          "zh": "vt. 雕刻，铭刻",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "engraving",
+          "zh": "n. 雕刻术, 雕版, 雕版图",
+          "pos": "n."
+        },
+        {
+          "en": "enhance",
+          "zh": "vt. 提高，增加",
+          "pos": "vt."
+        },
+        {
+          "en": "enlightenment",
+          "zh": "n. 启迪，教化",
+          "pos": "n."
+        },
+        {
+          "en": "enormous",
+          "zh": "adj. 极大的，庞大的",
+          "pos": "adj."
+        },
+        {
+          "en": "enrage",
+          "zh": "vt. 激怒",
+          "pos": "vt."
+        },
+        {
+          "en": "enrich",
+          "zh": "vt. 加料于(食物)；使富足，使肥沃",
+          "pos": "vt."
+        },
+        {
+          "en": "ensemble",
+          "zh": "n. 全体，整体",
+          "pos": "n."
+        },
+        {
+          "en": "entanglement",
+          "zh": "n. 纠缠，缠绕物",
+          "pos": "n."
+        },
+        {
+          "en": "enterprise",
+          "zh": "n. 事业，企业",
+          "pos": "n."
+        },
+        {
+          "en": "enterprising",
+          "zh": "adj. 有进取心的,有事业心的,有魄力的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "entertain",
+          "zh": "vt. 娱乐；款待",
+          "pos": "vt."
+        },
+        {
+          "en": "entertainment",
+          "zh": "n. 娱乐；款待",
+          "pos": "n."
+        },
+        {
+          "en": "entertainer",
+          "zh": "n. 演艺人员",
+          "pos": "n."
+        },
+        {
+          "en": "enthusiasm",
+          "zh": "n. 热心，热情",
+          "pos": "n."
+        },
+        {
+          "en": "enthusiastically",
+          "zh": "adv. 热心地；满腔热情地",
+          "pos": "adv."
+        },
+        {
+          "en": "entitle",
+          "zh": "v. 取名叫，叫做",
+          "pos": "v."
+        },
+        {
+          "en": "engaging",
+          "zh": "adj. 动人的，迷人的",
+          "pos": "adj."
+        },
+        {
+          "en": "entitled",
+          "zh": "adj. 有资格的",
+          "pos": "adj."
+        },
+        {
+          "en": "entity",
+          "zh": "n. 存在物，实体",
+          "pos": "n."
+        },
+        {
+          "en": "entrenched",
+          "zh": "adj. 确立的，不容易改的(风俗习惯)",
+          "pos": "adj."
+        },
+        {
+          "en": "entrepreneur",
+          "zh": "n. 企业家，创业人",
+          "pos": "n."
+        },
+        {
+          "en": "entry",
+          "zh": "n. 进口；入口",
+          "pos": "n."
+        },
+        {
+          "en": "envelop",
+          "zh": "v. 把…包住，裹住",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "envision",
+          "zh": "vt. 想象，预想",
+          "pos": "vt."
+        },
+        {
+          "en": "enzyme",
+          "zh": "n. 酶",
+          "pos": "n."
+        },
+        {
+          "en": "ephemeral",
+          "zh": "adj. 短暂的，转瞬即逝的",
+          "pos": "adj."
+        },
+        {
+          "en": "epic",
+          "zh": "n. 史诗，叙事诗",
+          "pos": "n."
+        },
+        {
+          "en": "epidemic",
+          "zh": "n. 传染病，流行病",
+          "pos": "n."
+        },
+        {
+          "en": "epidermis",
+          "zh": "n. 表皮",
+          "pos": "n."
+        },
+        {
+          "en": "episode",
+          "zh": "n. 一段情节；（音乐）插曲",
+          "pos": "n."
+        },
+        {
+          "en": "epoch",
+          "zh": "n. 新纪元，时代",
+          "pos": "n."
+        },
+        {
+          "en": "equal",
+          "zh": "adj. 相等的，同样的",
+          "pos": "adj."
+        },
+        {
+          "en": "equality",
+          "zh": "n. 同等，平等",
+          "pos": "n."
+        },
+        {
+          "en": "equilibrium",
+          "zh": "n. 平衡，均衡",
+          "pos": "n."
+        },
+        {
+          "en": "equipment",
+          "zh": "n. 设备",
+          "pos": "n."
+        },
+        {
+          "en": "equitable",
+          "zh": "adj. 公平的，公正的",
+          "pos": "adj."
+        },
+        {
+          "en": "equivalent",
+          "zh": "n. 等同品",
+          "pos": "n."
+        },
+        {
+          "en": "eradicate",
+          "zh": "vt. 根除，杜绝",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 50,
+  "title": "Day 50 · London → drizzle",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "blizzard",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Fade Whisper",
+      "hp": 100,
+      "words": [
+        {
+          "en": "London",
+          "zh": "n. 伦敦",
+          "pos": "n."
+        },
+        {
+          "en": "Machu Picchu",
+          "zh": "\"n. 马丘比丘",
+          "pos": "n."
+        },
+        {
+          "en": "Mediterranean",
+          "zh": "\"n. 地中海",
+          "pos": "n."
+        },
+        {
+          "en": "Mexican",
+          "zh": "\"adj. 墨西哥的；墨西哥人的",
+          "pos": "adj."
+        },
+        {
+          "en": "Mexico",
+          "zh": "n. 墨西哥",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "KAY/O Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "Montreal",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "New York",
+          "zh": "\"n. 纽约州",
+          "pos": "n."
+        },
+        {
+          "en": "New Zealand",
+          "zh": "\"n. 新西兰",
+          "pos": "n."
+        },
+        {
+          "en": "Nigeria",
+          "zh": "n. 尼日利亚（位于非洲）",
+          "pos": "n."
+        },
+        {
+          "en": "North America",
+          "zh": "\"n. 北美洲",
+          "pos": "n."
+        },
+        {
+          "en": "Norway",
+          "zh": "n. 挪威（北欧国家名）",
+          "pos": "n."
+        },
+        {
+          "en": "Ottawa",
+          "zh": "n. 渥太华（加拿大首都）",
+          "pos": "n."
+        },
+        {
+          "en": "Paris",
+          "zh": "n. 巴黎（法国首都）；帕里斯（特洛伊王子）",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "Patras",
+          "zh": "\"佩特雷( 在伯罗奔尼撒半岛西北岸,临佩特雷湾) , 佩特雷湾(靠希腊伯罗奔尼撒半岛西北岸)\"",
+          "pos": ""
+        },
+        {
+          "en": "Peru",
+          "zh": "n. 秘鲁（拉丁美洲国家名）",
+          "pos": "n."
+        },
+        {
+          "en": "Poland",
+          "zh": "n. 波兰（欧洲国家）",
+          "pos": "n."
+        },
+        {
+          "en": "Polish",
+          "zh": "\"n. 磨光，擦亮；上光剂，擦亮剂；优雅，精良",
+          "pos": "n."
+        },
+        {
+          "en": "Portugal",
+          "zh": "n. 葡萄牙（欧洲西南部国家）",
+          "pos": "n."
+        },
+        {
+          "en": "Portuguese",
+          "zh": "\"n. 葡萄牙语；葡萄牙人",
+          "pos": "n."
+        },
+        {
+          "en": "Red Sea",
+          "zh": "\"n. 红海（印度洋西北的长形内海, 在亚洲阿拉伯半岛同非洲东北部之间）\"",
+          "pos": "n."
+        },
+        {
+          "en": "Rideau Canal",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "Russia",
+          "zh": "n. 俄罗斯",
+          "pos": "n."
+        },
+        {
+          "en": "Russian",
+          "zh": "\"n. 俄语；俄国人",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Clove Revive",
+      "hp": 250,
+      "words": [
+        {
+          "en": "Scotland",
+          "zh": "n. 苏格兰",
+          "pos": "n."
+        },
+        {
+          "en": "South America",
+          "zh": "\"n. 南美洲",
+          "pos": "n."
+        },
+        {
+          "en": "South Korea",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "Spain",
+          "zh": "n. 西班牙",
+          "pos": "n."
+        },
+        {
+          "en": "Spanish",
+          "zh": "\"n. 西班牙语；西班牙人",
+          "pos": "n."
+        },
+        {
+          "en": "Sweden",
+          "zh": "n. 瑞典（欧洲国家）",
+          "pos": "n."
+        },
+        {
+          "en": "Swedish",
+          "zh": "\"n. 瑞典语；瑞典人",
+          "pos": "n."
+        },
+        {
+          "en": "Swiss",
+          "zh": "\"n. 瑞士人；瑞士腔调",
+          "pos": "n."
+        },
+        {
+          "en": "Switzerland",
+          "zh": "n. 瑞士（欧洲国家）",
+          "pos": "n."
+        },
+        {
+          "en": "Thailand",
+          "zh": "n. 泰国（东南亚国家名）",
+          "pos": "n."
+        },
+        {
+          "en": "the Antarctic",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "the Arctic",
+          "zh": "北极；北极地区；北极圈",
+          "pos": ""
+        },
+        {
+          "en": "blizzard",
+          "zh": "\"n. 暴风雪，大风雪；大打击",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "the Netherlands",
+          "zh": "荷兰；尼德兰；荷兰女王日",
+          "pos": ""
+        },
+        {
+          "en": "the North Pole",
+          "zh": "\"na. 北极",
+          "pos": ""
+        },
+        {
+          "en": "the South Pole",
+          "zh": "\"na. 南极",
+          "pos": ""
+        },
+        {
+          "en": "the United States",
+          "zh": "\"na. 美利坚合众国",
+          "pos": ""
+        },
+        {
+          "en": "Toronto",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "Turkey",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "Vienna",
+          "zh": "n. 维也纳（奥地利首都）",
+          "pos": "n."
+        },
+        {
+          "en": "blizzard",
+          "zh": "\"n. 暴风雪，大风雪；大打击",
+          "pos": "n."
+        },
+        {
+          "en": "centigrade",
+          "zh": "adj. 摄氏的； 摄氏温度的；百分度的",
+          "pos": "adj."
+        },
+        {
+          "en": "cloudy",
+          "zh": "adj. 多云的；阴天的；愁容满面的",
+          "pos": "adj."
+        },
+        {
+          "en": "coldness",
+          "zh": "n. 寒冷；冷淡",
+          "pos": "n."
+        },
+        {
+          "en": "crosswind",
+          "zh": "n. 侧风",
+          "pos": "n."
+        },
+        {
+          "en": "degree centigrade",
+          "zh": "\"un. 摄氏度数",
+          "pos": "n."
+        },
+        {
+          "en": "downpour",
+          "zh": "n. 倾盆大雨；注下",
+          "pos": "n."
+        },
+        {
+          "en": "drizzle",
+          "zh": "\"n. 细雨，毛毛雨",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

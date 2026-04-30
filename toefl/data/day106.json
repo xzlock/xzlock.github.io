@@ -1,0 +1,304 @@
+{
+  "day": 106,
+  "title": "Day 106 · assuredly → autobiography",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "atmosphere",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Yoru Shadow",
+      "hp": 100,
+      "words": [
+        {
+          "en": "assuredly",
+          "zh": "adv. 确实地，确信地",
+          "pos": "adv."
+        },
+        {
+          "en": "reassure",
+          "zh": "vt. 使...安心，打消...疑虑",
+          "pos": "vt."
+        },
+        {
+          "en": "astonish",
+          "zh": "vt. 使惊讶",
+          "pos": "vt."
+        },
+        {
+          "en": "astonished",
+          "zh": "adj. 惊讶的",
+          "pos": "adj."
+        },
+        {
+          "en": "astonishing",
+          "zh": "adj. 惊人的，奇迹的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "astound",
+          "zh": "vt. 使惊异",
+          "pos": "vt."
+        },
+        {
+          "en": "astounding",
+          "zh": "adj. 令人吃惊的",
+          "pos": "adj."
+        },
+        {
+          "en": "astronomical",
+          "zh": "adj. 天文学的",
+          "pos": "adj."
+        },
+        {
+          "en": "astronomy",
+          "zh": "n. 天文学",
+          "pos": "n."
+        },
+        {
+          "en": "astronomer",
+          "zh": "n. 天文学家",
+          "pos": "n."
+        },
+        {
+          "en": "astute",
+          "zh": "adj. 机敏的，精明的",
+          "pos": "adj."
+        },
+        {
+          "en": "asymmetrical",
+          "zh": "adj. 不均匀的，不对称的",
+          "pos": "adj."
+        },
+        {
+          "en": "at",
+          "zh": "intervals 词组 不时；相隔一段距离",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "atheist",
+          "zh": "n. 无神论者",
+          "pos": "n."
+        },
+        {
+          "en": "theist",
+          "zh": "n. 有神论者",
+          "pos": "n."
+        },
+        {
+          "en": "athlete",
+          "zh": "n. 运动员",
+          "pos": "n."
+        },
+        {
+          "en": "atmosphere",
+          "zh": "n. 大气，大气层；（某地的）空气",
+          "pos": "n."
+        },
+        {
+          "en": "atom",
+          "zh": "n. 原子",
+          "pos": "n."
+        },
+        {
+          "en": "atomic",
+          "zh": "adj. 原子的；微小的",
+          "pos": "adj."
+        },
+        {
+          "en": "atomization",
+          "zh": "n. 原子化；雾化",
+          "pos": "n."
+        },
+        {
+          "en": "atrophy",
+          "zh": "n. 萎缩；萎缩症",
+          "pos": "n."
+        },
+        {
+          "en": "attachment",
+          "zh": "n. 依恋，喜欢",
+          "pos": "n."
+        },
+        {
+          "en": "attach",
+          "zh": "vt. 系，缚",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "atmosphere",
+          "zh": "n. 大气，大气层；（某地的）空气",
+          "pos": "n."
+        },
+        {
+          "en": "attached",
+          "zh": "adj. 附加的，附属的",
+          "pos": "adj."
+        },
+        {
+          "en": "attain",
+          "zh": "vt. 达到，获得",
+          "pos": "vt."
+        },
+        {
+          "en": "attainment",
+          "zh": "n. 成就",
+          "pos": "n."
+        },
+        {
+          "en": "attempt",
+          "zh": "n./vi. 尝试",
+          "pos": "n."
+        },
+        {
+          "en": "attend",
+          "zh": "vt. 参加；入学",
+          "pos": "vt."
+        },
+        {
+          "en": "attendant",
+          "zh": "n. 侍者，护理人员",
+          "pos": "n."
+        },
+        {
+          "en": "attendance",
+          "zh": "n. 出席，出席的人数",
+          "pos": "n."
+        },
+        {
+          "en": "attention",
+          "zh": "n. 注意，重视，关心",
+          "pos": "n."
+        },
+        {
+          "en": "attire",
+          "zh": "n. 穿着，服饰（正规服装的总称）",
+          "pos": "n."
+        },
+        {
+          "en": "attorney",
+          "zh": "n. 代理人，辩护律师",
+          "pos": "n."
+        },
+        {
+          "en": "attract",
+          "zh": "vt. 吸引；引起注意",
+          "pos": "vt."
+        },
+        {
+          "en": "attraction",
+          "zh": "n. 吸引；吸引人的事物",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "attractive",
+          "zh": "adj. 吸引人的，有魅力的",
+          "pos": "adj."
+        },
+        {
+          "en": "attribute",
+          "zh": "n. 属性，品质",
+          "pos": "n."
+        },
+        {
+          "en": "audible",
+          "zh": "adj. 听得见的",
+          "pos": "adj."
+        },
+        {
+          "en": "audit",
+          "zh": "vt. 旁听；稽核，审查",
+          "pos": "vt."
+        },
+        {
+          "en": "audience",
+          "zh": "n. 观众",
+          "pos": "n."
+        },
+        {
+          "en": "auditorium",
+          "zh": "n. 大礼堂",
+          "pos": "n."
+        },
+        {
+          "en": "audition",
+          "zh": "n. （对艺人的）面试（试演/试唱）",
+          "pos": "n."
+        },
+        {
+          "en": "auger",
+          "zh": "n. 螺丝钻，钻孔机",
+          "pos": "n."
+        },
+        {
+          "en": "augment",
+          "zh": "vt. 增加，增大",
+          "pos": "vt."
+        },
+        {
+          "en": "aurora",
+          "zh": "n. 极光=auroral light",
+          "pos": "n."
+        },
+        {
+          "en": "authentic",
+          "zh": "adj. 真的；可靠的，确实的",
+          "pos": "adj."
+        },
+        {
+          "en": "authenticate",
+          "zh": "vt. 证明…为真",
+          "pos": "vt."
+        },
+        {
+          "en": "authority",
+          "zh": "n. 权力，权限；权威人士",
+          "pos": "n."
+        },
+        {
+          "en": "authorize",
+          "zh": "vt. 授权，批准",
+          "pos": "vt."
+        },
+        {
+          "en": "autobiography",
+          "zh": "n. 自传",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

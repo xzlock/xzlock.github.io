@@ -1,0 +1,304 @@
+{
+  "day": 41,
+  "title": "Day 41 · soon → start",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "standby",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Breach Fist",
+      "hp": 100,
+      "words": [
+        {
+          "en": "soon",
+          "zh": "adv. 快；不久，一会儿；立刻；宁愿",
+          "pos": "adv."
+        },
+        {
+          "en": "sophisticated",
+          "zh": "\"adj. 复杂的；精致的；久经世故的；富有经验的",
+          "pos": "adj."
+        },
+        {
+          "en": "sort",
+          "zh": "\"n. 种类；方式；品质",
+          "pos": "n."
+        },
+        {
+          "en": "sound",
+          "zh": "\"n. 声音，语音；噪音；海峡；吵闹；听力范围； 探条",
+          "pos": "n."
+        },
+        {
+          "en": "source",
+          "zh": "n. 来源；水源；原始资料",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "spacious",
+          "zh": "adj. 宽敞的，广阔的；无边无际的",
+          "pos": "adj."
+        },
+        {
+          "en": "span",
+          "zh": "\"n. 跨度，跨距；范围",
+          "pos": "n."
+        },
+        {
+          "en": "spare",
+          "zh": "\"n. 剩余；备用零件",
+          "pos": "n."
+        },
+        {
+          "en": "sparkle",
+          "zh": "\"n. 闪耀；火花；活力",
+          "pos": "n."
+        },
+        {
+          "en": "spear",
+          "zh": "\"n. 矛，枪",
+          "pos": "n."
+        },
+        {
+          "en": "special",
+          "zh": "\"n. 特使，特派人员；特刊；特色菜；专车；特价商品",
+          "pos": "n."
+        },
+        {
+          "en": "specialize",
+          "zh": "\"vi. 专门从事；详细说明；特化",
+          "pos": "vi."
+        },
+        {
+          "en": "species",
+          "zh": "\"n. 物种；种类",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "specific",
+          "zh": "\"n. 特性；细节；特效药",
+          "pos": "n."
+        },
+        {
+          "en": "specimen",
+          "zh": "n. 样品，样本；标本",
+          "pos": "n."
+        },
+        {
+          "en": "spectacle",
+          "zh": "n. 景象；场面；奇观；壮观；公开展示；表相，假相 n.（复）眼镜",
+          "pos": "n."
+        },
+        {
+          "en": "spectacular",
+          "zh": "adj. 壮观的，惊人的；公开展示的",
+          "pos": "adj."
+        },
+        {
+          "en": "spectator",
+          "zh": "n. 观众；旁观者",
+          "pos": "n."
+        },
+        {
+          "en": "speculate",
+          "zh": "\"vi. 推测；投机；思索",
+          "pos": "vi."
+        },
+        {
+          "en": "speed",
+          "zh": "\"n. 速度，速率；迅速，快速；昌盛，繁荣",
+          "pos": "n."
+        },
+        {
+          "en": "spend",
+          "zh": "\"n. 预算",
+          "pos": "n."
+        },
+        {
+          "en": "sphere",
+          "zh": "\"n. 范围；球体",
+          "pos": "n."
+        },
+        {
+          "en": "spin around",
+          "zh": "\"na. 同“spin”",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "spirit",
+          "zh": "\"n. 精神；心灵；情绪；志气；烈酒",
+          "pos": "n."
+        },
+        {
+          "en": "splash",
+          "zh": "\"n. 飞溅的水；污点；卖弄",
+          "pos": "n."
+        },
+        {
+          "en": "splendid",
+          "zh": "adj. 辉煌的；灿烂的；极好的；杰出的",
+          "pos": "adj."
+        },
+        {
+          "en": "splinter",
+          "zh": "\"n. 碎片；微小的东西；极瘦的人",
+          "pos": "n."
+        },
+        {
+          "en": "split",
+          "zh": "\"n. 劈开；裂缝",
+          "pos": "n."
+        },
+        {
+          "en": "split-second",
+          "zh": "adj. 霎那间发生的，瞬间发生的",
+          "pos": "adj."
+        },
+        {
+          "en": "spoil",
+          "zh": "\"n. 次品；奖品",
+          "pos": "n."
+        },
+        {
+          "en": "spoilt",
+          "zh": "\"adj. 宠坏的；损坏的",
+          "pos": "adj."
+        },
+        {
+          "en": "spontaneous",
+          "zh": "adj. 自发的；自然的；无意识的",
+          "pos": "adj."
+        },
+        {
+          "en": "spot",
+          "zh": "\"n. 地点；斑点",
+          "pos": "n."
+        },
+        {
+          "en": "spotlessly",
+          "zh": "adv. 纯洁地；一尘不染地",
+          "pos": "adv."
+        },
+        {
+          "en": "standby",
+          "zh": "\"n. 备用品；可信赖的人",
+          "pos": "n."
+        },
+        {
+          "en": "spread",
+          "zh": "\"n. 传播；伸展",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "spring",
+          "zh": "\"n. 春天；弹簧；泉水；活力；跳跃",
+          "pos": "n."
+        },
+        {
+          "en": "spur",
+          "zh": "\"n. 鼓舞，刺激；马刺；山坡",
+          "pos": "n."
+        },
+        {
+          "en": "square",
+          "zh": "\"n. 平方；广场；正方形",
+          "pos": "n."
+        },
+        {
+          "en": "squat",
+          "zh": "\"vt. 使蹲坐，使蹲下",
+          "pos": "vt."
+        },
+        {
+          "en": "squeak",
+          "zh": "\"n. 吱吱声；机会",
+          "pos": "n."
+        },
+        {
+          "en": "squint",
+          "zh": "\"n. 斜视；斜孔小窗；一瞥",
+          "pos": "n."
+        },
+        {
+          "en": "stability",
+          "zh": "n. 稳定性；坚定，恒心",
+          "pos": "n."
+        },
+        {
+          "en": "staff",
+          "zh": "\"n. 职员；参谋；棒；支撑",
+          "pos": "n."
+        },
+        {
+          "en": "staggering",
+          "zh": "adj. 惊人的，令人震惊的",
+          "pos": "adj."
+        },
+        {
+          "en": "stamina",
+          "zh": "n. 毅力；精力；活力；持久力",
+          "pos": "n."
+        },
+        {
+          "en": "stamp",
+          "zh": "\"n. 邮票；印记；标志；跺脚",
+          "pos": "n."
+        },
+        {
+          "en": "stand",
+          "zh": "\"n. 站立；立场；看台；停止",
+          "pos": "n."
+        },
+        {
+          "en": "standard",
+          "zh": "\"n. 标准；水准；旗；度量衡标准",
+          "pos": "n."
+        },
+        {
+          "en": "standby",
+          "zh": "\"n. 备用品；可信赖的人",
+          "pos": "n."
+        },
+        {
+          "en": "start",
+          "zh": "\"n. 开始；起点",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

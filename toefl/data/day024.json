@@ -1,0 +1,304 @@
+{
+  "day": 24,
+  "title": "Day 024 · critique → dated",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "dagger",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Yoru Shadow",
+      "hp": 100,
+      "words": [
+        {
+          "en": "critique",
+          "zh": "n. （文艺）批评，评论",
+          "pos": "n."
+        },
+        {
+          "en": "crooked",
+          "zh": "adj. 不诚实的；欺诈的",
+          "pos": "adj."
+        },
+        {
+          "en": "crow",
+          "zh": "n. 乌鸦",
+          "pos": "n."
+        },
+        {
+          "en": "crude",
+          "zh": "adj. 粗糙的，粗鲁的；原始的",
+          "pos": "adj."
+        },
+        {
+          "en": "crumple",
+          "zh": "vt. 把…弄皱；起皱",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Sova Arrow",
+      "hp": 150,
+      "words": [
+        {
+          "en": "crumble",
+          "zh": "v. 粉碎；崩溃",
+          "pos": "v."
+        },
+        {
+          "en": "crush",
+          "zh": "vt. 压垮；粉碎；使变形",
+          "pos": "vt."
+        },
+        {
+          "en": "crustacean",
+          "zh": "n. 甲壳动物",
+          "pos": "n."
+        },
+        {
+          "en": "crystal",
+          "zh": "n. 水晶，晶体",
+          "pos": "n."
+        },
+        {
+          "en": "crystalline",
+          "zh": "adj. 水晶的，透明的",
+          "pos": "adj."
+        },
+        {
+          "en": "crystallize",
+          "zh": "v. 明确；使结晶化",
+          "pos": "v."
+        },
+        {
+          "en": "crystallized",
+          "zh": "adj. 变成晶体的",
+          "pos": "adj."
+        },
+        {
+          "en": "crystallization",
+          "zh": "n. 结晶化",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "cubism",
+          "zh": "n. 立体主义",
+          "pos": "n."
+        },
+        {
+          "en": "cube",
+          "zh": "n. 立方体，立方",
+          "pos": "n."
+        },
+        {
+          "en": "cubic",
+          "zh": "adj. 立方体的",
+          "pos": "adj."
+        },
+        {
+          "en": "cue",
+          "zh": "n. 提示，暗示",
+          "pos": "n."
+        },
+        {
+          "en": "culinary",
+          "zh": "adj. 厨房的，烹调的",
+          "pos": "adj."
+        },
+        {
+          "en": "culminate",
+          "zh": "v. 达到高潮/顶点",
+          "pos": "v."
+        },
+        {
+          "en": "cultivate",
+          "zh": "vt. 耕种；培养",
+          "pos": "vt."
+        },
+        {
+          "en": "cultivation",
+          "zh": "n. 耕种；培养",
+          "pos": "n."
+        },
+        {
+          "en": "culture",
+          "zh": "n. 文明，文化",
+          "pos": "n."
+        },
+        {
+          "en": "horticulture",
+          "zh": "n. 园艺",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "agriculture",
+          "zh": "n. 农业，农艺，农学",
+          "pos": "n."
+        },
+        {
+          "en": "cumbersome",
+          "zh": "adj. 笨重的，难处理的",
+          "pos": "adj."
+        },
+        {
+          "en": "curator",
+          "zh": "n. （博物馆等）馆长",
+          "pos": "n."
+        },
+        {
+          "en": "curious",
+          "zh": "adj. （令人）好奇的",
+          "pos": "adj."
+        },
+        {
+          "en": "curiosity",
+          "zh": "n. 好奇心",
+          "pos": "n."
+        },
+        {
+          "en": "currency",
+          "zh": "n. 通货，货币",
+          "pos": "n."
+        },
+        {
+          "en": "current",
+          "zh": "n. （液体、气体）流，趋势",
+          "pos": "n."
+        },
+        {
+          "en": "currently",
+          "zh": "adv. 现在，当前",
+          "pos": "adv."
+        },
+        {
+          "en": "curriculum",
+          "zh": "n. 学校的全部课程",
+          "pos": "n."
+        },
+        {
+          "en": "cushion",
+          "zh": "n. 垫子，软垫",
+          "pos": "n."
+        },
+        {
+          "en": "air-cushion",
+          "zh": "vehicle 词组 气垫船",
+          "pos": ""
+        },
+        {
+          "en": "custodian",
+          "zh": "n. 看守人，管理人",
+          "pos": "n."
+        },
+        {
+          "en": "dagger",
+          "zh": "n. 短剑，匕首",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "custom",
+          "zh": "n. 习惯，传统，惯例",
+          "pos": "n."
+        },
+        {
+          "en": "customs",
+          "zh": "n. 关税",
+          "pos": "n."
+        },
+        {
+          "en": "customer",
+          "zh": "n. 消费者",
+          "pos": "n."
+        },
+        {
+          "en": "customarily",
+          "zh": "adv. 通常",
+          "pos": "adv."
+        },
+        {
+          "en": "cuticle",
+          "zh": "n. 表皮",
+          "pos": "n."
+        },
+        {
+          "en": "cylinder",
+          "zh": "n. 圆筒，圆柱体",
+          "pos": "n."
+        },
+        {
+          "en": "dagger",
+          "zh": "n. 短剑，匕首",
+          "pos": "n."
+        },
+        {
+          "en": "daisy",
+          "zh": "n. 雏菊",
+          "pos": "n."
+        },
+        {
+          "en": "damp",
+          "zh": "adj. 潮湿的，有湿气的",
+          "pos": "adj."
+        },
+        {
+          "en": "dampen",
+          "zh": "vt. 使潮湿",
+          "pos": "vt."
+        },
+        {
+          "en": "dangerous",
+          "zh": "adj. 危险的",
+          "pos": "adj."
+        },
+        {
+          "en": "daring",
+          "zh": "adj. 大胆的，勇敢的",
+          "pos": "adj."
+        },
+        {
+          "en": "dart",
+          "zh": "v. 飞奔；投掷",
+          "pos": "v."
+        },
+        {
+          "en": "date",
+          "zh": "vt. 注明…的日期",
+          "pos": "vt."
+        },
+        {
+          "en": "dated",
+          "zh": "adj. 陈旧的，过时的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 10,
+  "title": "Day 010 · Cuban → betray",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "barrenness",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Deadlock Wire",
+      "hp": 100,
+      "words": [
+        {
+          "en": "Cuban",
+          "zh": "n./adj. 古巴人；古巴（人）的",
+          "pos": "n."
+        },
+        {
+          "en": "band",
+          "zh": "n. 乐队；队",
+          "pos": "n."
+        },
+        {
+          "en": "bandleader",
+          "zh": "n. 乐队指挥",
+          "pos": "n."
+        },
+        {
+          "en": "bandmaster",
+          "zh": "n. 乐队指挥",
+          "pos": "n."
+        },
+        {
+          "en": "bandanna",
+          "zh": "n. 大手帕",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Skye Falcon",
+      "hp": 150,
+      "words": [
+        {
+          "en": "bankruptcy",
+          "zh": "n. 破产",
+          "pos": "n."
+        },
+        {
+          "en": "bankrupt",
+          "zh": "adj. 破产了的",
+          "pos": "adj."
+        },
+        {
+          "en": "bar",
+          "zh": "n. 酒吧 snack bar 快餐店",
+          "pos": "n."
+        },
+        {
+          "en": "barb",
+          "zh": "n. （鱼钩等的）倒钩；倒刺",
+          "pos": "n."
+        },
+        {
+          "en": "barbecue",
+          "zh": "n. 烤肉野餐",
+          "pos": "n."
+        },
+        {
+          "en": "barber",
+          "zh": "n. 理发师",
+          "pos": "n."
+        },
+        {
+          "en": "bare",
+          "zh": "adj. 无遮蔽的，赤裸的，光（秃）的",
+          "pos": "adj."
+        },
+        {
+          "en": "barely",
+          "zh": "adv. 仅仅",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "barge",
+          "zh": "n. 驳船",
+          "pos": "n."
+        },
+        {
+          "en": "bark",
+          "zh": "n. 树皮",
+          "pos": "n."
+        },
+        {
+          "en": "barn",
+          "zh": "n. 谷仓；畜棚",
+          "pos": "n."
+        },
+        {
+          "en": "baroque",
+          "zh": "adj. 高度装饰的，过分雕琢的",
+          "pos": "adj."
+        },
+        {
+          "en": "barrel",
+          "zh": "n. 桶",
+          "pos": "n."
+        },
+        {
+          "en": "barren",
+          "zh": "adj. 贫瘠的；荒凉的",
+          "pos": "adj."
+        },
+        {
+          "en": "barrenness",
+          "zh": "n. 荒凉",
+          "pos": "n."
+        },
+        {
+          "en": "barrier",
+          "zh": "n. 屏障，障碍；栅栏",
+          "pos": "n."
+        },
+        {
+          "en": "barter",
+          "zh": "n./v. 物品交换，易货贸易",
+          "pos": "n."
+        },
+        {
+          "en": "basement",
+          "zh": "n. 地下室",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Wraith",
+      "hp": 250,
+      "words": [
+        {
+          "en": "basin",
+          "zh": "n. 盆；盆地",
+          "pos": "n."
+        },
+        {
+          "en": "bead",
+          "zh": "n. 珠子；（液体）小滴",
+          "pos": "n."
+        },
+        {
+          "en": "beaded",
+          "zh": "adj. 以珠装饰的，珠状的",
+          "pos": "adj."
+        },
+        {
+          "en": "beak",
+          "zh": "n. 鸟喙",
+          "pos": "n."
+        },
+        {
+          "en": "beam",
+          "zh": "n. 大梁",
+          "pos": "n."
+        },
+        {
+          "en": "barrenness",
+          "zh": "n. 荒凉",
+          "pos": "n."
+        },
+        {
+          "en": "girder",
+          "zh": "n. 钢结构大梁",
+          "pos": "n."
+        },
+        {
+          "en": "bear",
+          "zh": "vt. 负担，支撑",
+          "pos": "vt."
+        },
+        {
+          "en": "unbearable",
+          "zh": "adj. 无法忍受的，承受不住的",
+          "pos": "adj."
+        },
+        {
+          "en": "forebear",
+          "zh": "n. 祖先，祖宗",
+          "pos": "n."
+        },
+        {
+          "en": "beard",
+          "zh": "n. 胡须",
+          "pos": "n."
+        },
+        {
+          "en": "beat",
+          "zh": "v. 打击，敲击；打败",
+          "pos": "v."
+        },
+        {
+          "en": "bedrock",
+          "zh": "n. 基础；基石",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "behalf",
+          "zh": "n. 代表…，作为…的代表",
+          "pos": "n."
+        },
+        {
+          "en": "behave",
+          "zh": "vi. 举止，表现",
+          "pos": "vi."
+        },
+        {
+          "en": "behavior",
+          "zh": "n. 举止，行为",
+          "pos": "n."
+        },
+        {
+          "en": "belie",
+          "zh": "vt. 给人错觉；掩饰",
+          "pos": "vt."
+        },
+        {
+          "en": "bellows",
+          "zh": "n. 风箱",
+          "pos": "n."
+        },
+        {
+          "en": "below",
+          "zh": "prep./adv. 在…下面",
+          "pos": "prep."
+        },
+        {
+          "en": "beneath",
+          "zh": "prep./adv. 在…之下",
+          "pos": "prep."
+        },
+        {
+          "en": "benefit",
+          "zh": "n. 利益，好处",
+          "pos": "n."
+        },
+        {
+          "en": "beneficial",
+          "zh": "adj. 有益的，有利的",
+          "pos": "adj."
+        },
+        {
+          "en": "benign",
+          "zh": "adj. （病）良性的；亲切和蔼的",
+          "pos": "adj."
+        },
+        {
+          "en": "bequest",
+          "zh": "n. 遗产；遗赠",
+          "pos": "n."
+        },
+        {
+          "en": "besides",
+          "zh": "adv. 除了…（还有）",
+          "pos": "adv."
+        },
+        {
+          "en": "besiege",
+          "zh": "vt. 围攻；困扰",
+          "pos": "vt."
+        },
+        {
+          "en": "bestow",
+          "zh": "vt. 给与，赐赠",
+          "pos": "vt."
+        },
+        {
+          "en": "betray",
+          "zh": "vt. 背叛",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 7,
+  "title": "Day 007 · architectural → associate",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "arms",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Iso Shard",
+      "hp": 100,
+      "words": [
+        {
+          "en": "architectural",
+          "zh": "adj. 建筑上的；建筑学的",
+          "pos": "adj."
+        },
+        {
+          "en": "ardent",
+          "zh": "adj. 热烈投入的，极热心的",
+          "pos": "adj."
+        },
+        {
+          "en": "arduous",
+          "zh": "adj. 费力的，艰难的",
+          "pos": "adj."
+        },
+        {
+          "en": "arena",
+          "zh": "n. 竞技场，舞台",
+          "pos": "n."
+        },
+        {
+          "en": "aria",
+          "zh": "n. 独唱曲，咏叹调",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Breach Quake",
+      "hp": 150,
+      "words": [
+        {
+          "en": "arid",
+          "zh": "adj. 干旱的；贫瘠的",
+          "pos": "adj."
+        },
+        {
+          "en": "semiarid",
+          "zh": "adj. 雨量非常少的，半干旱的",
+          "pos": "adj."
+        },
+        {
+          "en": "arithmetic",
+          "zh": "n. 算数",
+          "pos": "n."
+        },
+        {
+          "en": "armor",
+          "zh": "n. 装甲；装甲车",
+          "pos": "n."
+        },
+        {
+          "en": "armored",
+          "zh": "adj. 披甲的，装甲的",
+          "pos": "adj."
+        },
+        {
+          "en": "arms",
+          "zh": "n. 武器，兵种",
+          "pos": "n."
+        },
+        {
+          "en": "armory",
+          "zh": "n. 纹章；兵工厂，军械库",
+          "pos": "n."
+        },
+        {
+          "en": "aroma",
+          "zh": "n. 香气，芬芳，芳香",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "aromatic",
+          "zh": "adj. 芬芳的",
+          "pos": "adj."
+        },
+        {
+          "en": "arouse",
+          "zh": "vt. 刺激，激起；唤醒",
+          "pos": "vt."
+        },
+        {
+          "en": "arrange",
+          "zh": "vt. 计划，准备",
+          "pos": "vt."
+        },
+        {
+          "en": "arrangement",
+          "zh": "n. 排列，安排",
+          "pos": "n."
+        },
+        {
+          "en": "array",
+          "zh": "n. 展示，陈列；一系列",
+          "pos": "n."
+        },
+        {
+          "en": "arsenal",
+          "zh": "n. 兵工厂，军械库",
+          "pos": "n."
+        },
+        {
+          "en": "arthritis",
+          "zh": "n. 关节炎",
+          "pos": "n."
+        },
+        {
+          "en": "article",
+          "zh": "n. 论文，文章",
+          "pos": "n."
+        },
+        {
+          "en": "particle",
+          "zh": "n. 点，微粒",
+          "pos": "n."
+        },
+        {
+          "en": "articulate",
+          "zh": "vt. 清楚地讲话，清晰地发音",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "particulate",
+          "zh": "adj. 微小的",
+          "pos": "adj."
+        },
+        {
+          "en": "artificial",
+          "zh": "adj. 人造的，人工的",
+          "pos": "adj."
+        },
+        {
+          "en": "artisan",
+          "zh": "n. 手工业工人，手艺人",
+          "pos": "n."
+        },
+        {
+          "en": "ascend",
+          "zh": "vt. （渐渐）上升，升高；攀登",
+          "pos": "vt."
+        },
+        {
+          "en": "ascending",
+          "zh": "adj. 上升的，向上的",
+          "pos": "adj."
+        },
+        {
+          "en": "arms",
+          "zh": "n. 武器，兵种",
+          "pos": "n."
+        },
+        {
+          "en": "ascent",
+          "zh": "n. 攀登，上升",
+          "pos": "n."
+        },
+        {
+          "en": "ascribe",
+          "zh": "vt. 把…归于",
+          "pos": "vt."
+        },
+        {
+          "en": "aspect",
+          "zh": "n. (问题的)方面；(事物的)一部分",
+          "pos": "n."
+        },
+        {
+          "en": "aspiring",
+          "zh": "adj. 有抱负的,有理想的,积极向上的",
+          "pos": "adj."
+        },
+        {
+          "en": "aspiration",
+          "zh": "n. 雄心，抱负",
+          "pos": "n."
+        },
+        {
+          "en": "assault",
+          "zh": "n. （武力）袭击；（口头）攻击",
+          "pos": "n."
+        },
+        {
+          "en": "assemble",
+          "zh": "vt. 集合，装配",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Ascendant Warlord",
+      "hp": 300,
+      "words": [
+        {
+          "en": "assembly",
+          "zh": "n. 集会；参加集会的人们",
+          "pos": "n."
+        },
+        {
+          "en": "assemblage",
+          "zh": "n. 集合，组合",
+          "pos": "n."
+        },
+        {
+          "en": "assert",
+          "zh": "vt. 声称，坚持",
+          "pos": "vt."
+        },
+        {
+          "en": "assess",
+          "zh": "vt. 估计，分析，评估",
+          "pos": "vt."
+        },
+        {
+          "en": "assessment",
+          "zh": "n. 估价，评估",
+          "pos": "n."
+        },
+        {
+          "en": "asset",
+          "zh": "n. assets 财产，资产",
+          "pos": "n."
+        },
+        {
+          "en": "cassette",
+          "zh": "n. 盒式磁带",
+          "pos": "n."
+        },
+        {
+          "en": "videocassette",
+          "zh": "n. 录像带",
+          "pos": "n."
+        },
+        {
+          "en": "assignment",
+          "zh": "n. 任务，作业",
+          "pos": "n."
+        },
+        {
+          "en": "assimilate",
+          "zh": "vt. 学习，吸收（知识）",
+          "pos": "vt."
+        },
+        {
+          "en": "assistant",
+          "zh": "n. 助手，助教",
+          "pos": "n."
+        },
+        {
+          "en": "assist",
+          "zh": "vt. 援助，帮助",
+          "pos": "vt."
+        },
+        {
+          "en": "assistance",
+          "zh": "n. 协助，援助",
+          "pos": "n."
+        },
+        {
+          "en": "assistantship",
+          "zh": "n. 研究生助教奖学金",
+          "pos": "n."
+        },
+        {
+          "en": "associate",
+          "zh": "v. 关联，联合",
+          "pos": "v."
+        }
+      ]
+    }
+  ]
+}

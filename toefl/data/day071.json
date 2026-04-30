@@ -1,0 +1,304 @@
+{
+  "day": 71,
+  "title": "Day 071 · waterproof → pungent",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "soundproof",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Skye Pup",
+      "hp": 100,
+      "words": [
+        {
+          "en": "waterproof",
+          "zh": "adj. 防水的",
+          "pos": "adj."
+        },
+        {
+          "en": "soundproof",
+          "zh": "adj. 隔音的",
+          "pos": "adj."
+        },
+        {
+          "en": "rustproof",
+          "zh": "adj. 不锈的",
+          "pos": "adj."
+        },
+        {
+          "en": "propagate",
+          "zh": "vt. 繁殖",
+          "pos": "vt."
+        },
+        {
+          "en": "propel",
+          "zh": "vt. 推进，促进",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Fade Nightmare",
+      "hp": 150,
+      "words": [
+        {
+          "en": "propellant",
+          "zh": "n. 推进物",
+          "pos": "n."
+        },
+        {
+          "en": "propensity",
+          "zh": "n. 倾向，癖好",
+          "pos": "n."
+        },
+        {
+          "en": "proper",
+          "zh": "adj. 恰当的，得体的",
+          "pos": "adj."
+        },
+        {
+          "en": "property",
+          "zh": "n. 财产，所有物；性质，特性；（小）道具[pl]",
+          "pos": "n."
+        },
+        {
+          "en": "proponent",
+          "zh": "n. 支持者，拥护者",
+          "pos": "n."
+        },
+        {
+          "en": "proportion",
+          "zh": "n. 比例，比率",
+          "pos": "n."
+        },
+        {
+          "en": "propose",
+          "zh": "vt. 提出，提议",
+          "pos": "vt."
+        },
+        {
+          "en": "proposal",
+          "zh": "n. 提案；建议",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "proprietor",
+          "zh": "n. 所有者，业主",
+          "pos": "n."
+        },
+        {
+          "en": "proprietorship",
+          "zh": "n. 所有权",
+          "pos": "n."
+        },
+        {
+          "en": "propulsion",
+          "zh": "n. 推进；推进力",
+          "pos": "n."
+        },
+        {
+          "en": "prose",
+          "zh": "n. 散文",
+          "pos": "n."
+        },
+        {
+          "en": "prosecute",
+          "zh": "vt. 对…起诉；告发",
+          "pos": "vt."
+        },
+        {
+          "en": "prospect",
+          "zh": "n. 前景，期望",
+          "pos": "n."
+        },
+        {
+          "en": "prospecting",
+          "zh": "n. 探矿",
+          "pos": "n."
+        },
+        {
+          "en": "prospector",
+          "zh": "n. 勘探者，采矿者",
+          "pos": "n."
+        },
+        {
+          "en": "prosper",
+          "zh": "vi. 繁荣，成功",
+          "pos": "vi."
+        },
+        {
+          "en": "prosperity",
+          "zh": "n. 繁荣，兴旺",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "soundproof",
+          "zh": "adj. 隔音的",
+          "pos": "adj."
+        },
+        {
+          "en": "prosperous",
+          "zh": "adj. 成功的，繁荣的",
+          "pos": "adj."
+        },
+        {
+          "en": "protagonist",
+          "zh": "n. 领导者",
+          "pos": "n."
+        },
+        {
+          "en": "protectionist",
+          "zh": "n. 贸易保护主义者",
+          "pos": "n."
+        },
+        {
+          "en": "protein",
+          "zh": "n. 蛋白质",
+          "pos": "n."
+        },
+        {
+          "en": "protest",
+          "zh": "n./v. 抗议",
+          "pos": "n."
+        },
+        {
+          "en": "prototype",
+          "zh": "n. 原型",
+          "pos": "n."
+        },
+        {
+          "en": "protruding",
+          "zh": "adj. 突出的",
+          "pos": "adj."
+        },
+        {
+          "en": "provincialism",
+          "zh": "n. 地方主义，心胸狭窄",
+          "pos": "n."
+        },
+        {
+          "en": "provision",
+          "zh": "n. 供应，供应品",
+          "pos": "n."
+        },
+        {
+          "en": "provoke",
+          "zh": "vt. 激怒，惹起",
+          "pos": "vt."
+        },
+        {
+          "en": "provocative",
+          "zh": "adj. 挑拨的；煽动的",
+          "pos": "adj."
+        },
+        {
+          "en": "provocation",
+          "zh": "n. 激怒，挑拨，刺激",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "prudent",
+          "zh": "adj. 审慎的，深谋远虑的",
+          "pos": "adj."
+        },
+        {
+          "en": "psychology",
+          "zh": "n. 心理学；心理",
+          "pos": "n."
+        },
+        {
+          "en": "parapsychology",
+          "zh": "n. 超心理学",
+          "pos": "n."
+        },
+        {
+          "en": "publicize",
+          "zh": "vt. （公开）宣传，宣扬",
+          "pos": "vt."
+        },
+        {
+          "en": "publicity",
+          "zh": "n. 公开，宣传",
+          "pos": "n."
+        },
+        {
+          "en": "puddle",
+          "zh": "n. 小水洼",
+          "pos": "n."
+        },
+        {
+          "en": "pueblo",
+          "zh": "n. 印第安人村庄",
+          "pos": "n."
+        },
+        {
+          "en": "pulp",
+          "zh": "n. 果肉",
+          "pos": "n."
+        },
+        {
+          "en": "pulse",
+          "zh": "n. 脉搏，脉冲",
+          "pos": "n."
+        },
+        {
+          "en": "pump",
+          "zh": "n. 泵",
+          "pos": "n."
+        },
+        {
+          "en": "pumpkin",
+          "zh": "n. 南瓜",
+          "pos": "n."
+        },
+        {
+          "en": "punch",
+          "zh": "vt. 重击",
+          "pos": "vt."
+        },
+        {
+          "en": "puncture",
+          "zh": "vt. 刺穿，戳破",
+          "pos": "vt."
+        },
+        {
+          "en": "acupuncture",
+          "zh": "n. 针刺；针灸",
+          "pos": "n."
+        },
+        {
+          "en": "pungent",
+          "zh": "adj. （气味、味道）刺激性的，辛辣的；尖锐的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

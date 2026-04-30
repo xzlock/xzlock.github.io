@@ -1,0 +1,304 @@
+{
+  "day": 92,
+  "title": "Day 092 · tolerance → treason",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "trail",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Breach Fist",
+      "hp": 100,
+      "words": [
+        {
+          "en": "tolerance",
+          "zh": "n. 忍受，宽容",
+          "pos": "n."
+        },
+        {
+          "en": "topography",
+          "zh": "n. 地形；地形学",
+          "pos": "n."
+        },
+        {
+          "en": "topographical",
+          "zh": "adj. 地形学的",
+          "pos": "adj."
+        },
+        {
+          "en": "topsoil",
+          "zh": "n. 表层土",
+          "pos": "n."
+        },
+        {
+          "en": "tornado",
+          "zh": "n. 旋风，龙卷风",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Fade Nightmare",
+      "hp": 150,
+      "words": [
+        {
+          "en": "cyclone",
+          "zh": "n. 旋风，龙卷风",
+          "pos": "n."
+        },
+        {
+          "en": "torpor",
+          "zh": "n. 迟钝，不活泼",
+          "pos": "n."
+        },
+        {
+          "en": "torque",
+          "zh": "n. 扭矩",
+          "pos": "n."
+        },
+        {
+          "en": "torrent",
+          "zh": "n. 连发，迸发",
+          "pos": "n."
+        },
+        {
+          "en": "torrential",
+          "zh": "adj. 奔流的，如急流的",
+          "pos": "adj."
+        },
+        {
+          "en": "tortuous",
+          "zh": "adj. 曲折的, 转弯抹角的",
+          "pos": "adj."
+        },
+        {
+          "en": "touching",
+          "zh": "adj. 动人的，令人感伤的",
+          "pos": "adj."
+        },
+        {
+          "en": "touched",
+          "zh": "adj. 被感动的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "touchdown",
+          "zh": "n. 着地，降落",
+          "pos": "n."
+        },
+        {
+          "en": "tough",
+          "zh": "adj. 坚硬的；坚强的",
+          "pos": "adj."
+        },
+        {
+          "en": "tournament",
+          "zh": "n. 比赛，锦标赛",
+          "pos": "n."
+        },
+        {
+          "en": "tow",
+          "zh": "v. 拖引，牵引",
+          "pos": "v."
+        },
+        {
+          "en": "tower",
+          "zh": "n. 塔，城堡",
+          "pos": "n."
+        },
+        {
+          "en": "towering",
+          "zh": "adj. 高耸的；杰出的",
+          "pos": "adj."
+        },
+        {
+          "en": "toxic",
+          "zh": "adj. 有毒的，中毒的",
+          "pos": "adj."
+        },
+        {
+          "en": "trace",
+          "zh": "n. 痕迹",
+          "pos": "n."
+        },
+        {
+          "en": "track",
+          "zh": "n. 轨道，路经 v. 追踪",
+          "pos": "n."
+        },
+        {
+          "en": "trail",
+          "zh": "n. 踪迹，小路 v. 追踪",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "tract",
+          "zh": "n. 广阔的地面，大片（土地）",
+          "pos": "n."
+        },
+        {
+          "en": "traction",
+          "zh": "n. 牵引",
+          "pos": "n."
+        },
+        {
+          "en": "tractor",
+          "zh": "n. 拖拉机",
+          "pos": "n."
+        },
+        {
+          "en": "tragedy",
+          "zh": "n. [戏剧]悲惨；悲惨之事",
+          "pos": "n."
+        },
+        {
+          "en": "trait",
+          "zh": "n. 特征，特性",
+          "pos": "n."
+        },
+        {
+          "en": "tranquil",
+          "zh": "adj. 宁静的，安静的",
+          "pos": "adj."
+        },
+        {
+          "en": "tranquility",
+          "zh": "n. 宁静，安静",
+          "pos": "n."
+        },
+        {
+          "en": "transaction",
+          "zh": "n. 交易",
+          "pos": "n."
+        },
+        {
+          "en": "transcend",
+          "zh": "vt. 超出，超越",
+          "pos": "vt."
+        },
+        {
+          "en": "transcript",
+          "zh": "n. 抄本",
+          "pos": "n."
+        },
+        {
+          "en": "trail",
+          "zh": "n. 踪迹，小路 v. 追踪",
+          "pos": "n."
+        },
+        {
+          "en": "transfer",
+          "zh": "v. 转移；转学",
+          "pos": "v."
+        },
+        {
+          "en": "transform",
+          "zh": "vt. （使）变形，改观",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "transition",
+          "zh": "n. 转变，过渡",
+          "pos": "n."
+        },
+        {
+          "en": "translucent",
+          "zh": "adj. 半透明的；透明的",
+          "pos": "adj."
+        },
+        {
+          "en": "transmit",
+          "zh": "v. 传送，传播",
+          "pos": "v."
+        },
+        {
+          "en": "transmitter",
+          "zh": "n. 传送者，发送器",
+          "pos": "n."
+        },
+        {
+          "en": "neurotransmitter",
+          "zh": "n. [生化]神经传递素",
+          "pos": "n."
+        },
+        {
+          "en": "transmute",
+          "zh": "vt. 使变化，使改变",
+          "pos": "vt."
+        },
+        {
+          "en": "transparent",
+          "zh": "adj. 透明的",
+          "pos": "adj."
+        },
+        {
+          "en": "transplant",
+          "zh": "v. 移植",
+          "pos": "v."
+        },
+        {
+          "en": "trap",
+          "zh": "v. 捕捉，困住；陷害",
+          "pos": "v."
+        },
+        {
+          "en": "trapper",
+          "zh": "n. 设阱捕兽者",
+          "pos": "n."
+        },
+        {
+          "en": "trash",
+          "zh": "n. 垃圾，废物",
+          "pos": "n."
+        },
+        {
+          "en": "treacherous",
+          "zh": "adj. 不可靠的，有暗藏的危险的",
+          "pos": "adj."
+        },
+        {
+          "en": "tread",
+          "zh": "vi. 踏，践踏；行走",
+          "pos": "vi."
+        },
+        {
+          "en": "treadmill",
+          "zh": "n. 踏车",
+          "pos": "n."
+        },
+        {
+          "en": "treason",
+          "zh": "n. 叛逆，叛国",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

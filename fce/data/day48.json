@@ -1,0 +1,304 @@
+{
+  "day": 48,
+  "title": "Day 48 · waterproof → worthwhile",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "whatever",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Deadlock Wire",
+      "hp": 100,
+      "words": [
+        {
+          "en": "waterproof",
+          "zh": "\"n. 防水材料",
+          "pos": "n."
+        },
+        {
+          "en": "wave",
+          "zh": "\"n. 波动；波浪；高潮；挥手示意；卷曲",
+          "pos": "n."
+        },
+        {
+          "en": "way",
+          "zh": "\"n. 方法；道路；方向；行业；习惯",
+          "pos": "n."
+        },
+        {
+          "en": "weak",
+          "zh": "adj. 疲软的；虚弱的；无力的；不牢固的",
+          "pos": "adj."
+        },
+        {
+          "en": "wearing",
+          "zh": "\"v. 穿着；磨损（wear的ing形式）",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "weary",
+          "zh": "\"adj. 疲倦的；厌烦的；令人厌烦的",
+          "pos": "adj."
+        },
+        {
+          "en": "web",
+          "zh": "\"n. 网；卷筒纸；蹼；织物；圈套",
+          "pos": "n."
+        },
+        {
+          "en": "week",
+          "zh": "n. 周，星期",
+          "pos": "n."
+        },
+        {
+          "en": "weekend",
+          "zh": "\"n. 周末，周末休假；周末聚会",
+          "pos": "n."
+        },
+        {
+          "en": "weigh",
+          "zh": "\"n. 权衡；称重量",
+          "pos": "n."
+        },
+        {
+          "en": "weight",
+          "zh": "\"n. 重量，重力；负担；砝码；重要性",
+          "pos": "n."
+        },
+        {
+          "en": "weird",
+          "zh": "\"n. （苏格兰）命运；预言",
+          "pos": "n."
+        },
+        {
+          "en": "welcome",
+          "zh": "\"n. 欢迎",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Drone",
+      "hp": 200,
+      "words": [
+        {
+          "en": "wellbeing",
+          "zh": "n. 幸福；福利；安乐",
+          "pos": "n."
+        },
+        {
+          "en": "well-dressed",
+          "zh": "adj. 穿着考究的；穿着入时的",
+          "pos": "adj."
+        },
+        {
+          "en": "well-equipped",
+          "zh": "adj. 设备精良的；装备很好的",
+          "pos": "adj."
+        },
+        {
+          "en": "well-known",
+          "zh": "adj. 著名的；众所周知的；清楚明白的",
+          "pos": "adj."
+        },
+        {
+          "en": "westerner",
+          "zh": "n. 西方人，欧美人；美国西部的人",
+          "pos": "n."
+        },
+        {
+          "en": "Western-style",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "whatever",
+          "zh": "\"conj. 无论什么",
+          "pos": "conj."
+        },
+        {
+          "en": "whenever",
+          "zh": "\"conj. 每当；无论何时",
+          "pos": "conj."
+        },
+        {
+          "en": "whereas",
+          "zh": "conj. 然而；鉴于；反之",
+          "pos": "conj."
+        },
+        {
+          "en": "whether",
+          "zh": "\"conj. 是否；不论",
+          "pos": "conj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "whisper",
+          "zh": "\"n. 私语；谣传；飒飒的声音",
+          "pos": "n."
+        },
+        {
+          "en": "whistle",
+          "zh": "\"n. 口哨；汽笛；呼啸声",
+          "pos": "n."
+        },
+        {
+          "en": "whole",
+          "zh": "\"n. 整体；全部",
+          "pos": "n."
+        },
+        {
+          "en": "wide",
+          "zh": "\"n. 大千世界",
+          "pos": "n."
+        },
+        {
+          "en": "widespread",
+          "zh": "adj. 普遍的，广泛的；分布广的",
+          "pos": "adj."
+        },
+        {
+          "en": "wild",
+          "zh": "\"n. 荒野",
+          "pos": "n."
+        },
+        {
+          "en": "wilderness",
+          "zh": "n. 荒地；大量，茫茫一片",
+          "pos": "n."
+        },
+        {
+          "en": "wildlife",
+          "zh": "\"n. 野生动植物",
+          "pos": "n."
+        },
+        {
+          "en": "will",
+          "zh": "\"n. 意志；决心；情感；遗嘱；意图；心愿",
+          "pos": "n."
+        },
+        {
+          "en": "wind",
+          "zh": "\"vi. 缠绕；上发条；吹响号角",
+          "pos": "vi."
+        },
+        {
+          "en": "wise",
+          "zh": "\"adj. 明智的；聪明的；博学的",
+          "pos": "adj."
+        },
+        {
+          "en": "wish",
+          "zh": "\"n. 希望；祝福；心愿",
+          "pos": "n."
+        },
+        {
+          "en": "whatever",
+          "zh": "\"conj. 无论什么",
+          "pos": "conj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Ascendant Warlord",
+      "hp": 300,
+      "words": [
+        {
+          "en": "withdraw",
+          "zh": "\"vt. 撤退；收回；撤消；拉开",
+          "pos": "vt."
+        },
+        {
+          "en": "within",
+          "zh": "\"prep. 在…之内",
+          "pos": "prep."
+        },
+        {
+          "en": "without",
+          "zh": "\"prep. 没有；超过；在…外面",
+          "pos": "prep."
+        },
+        {
+          "en": "witness",
+          "zh": "\"n. 证人；目击者；证据",
+          "pos": "n."
+        },
+        {
+          "en": "wonder",
+          "zh": "\"n. 惊奇；奇迹；惊愕",
+          "pos": "n."
+        },
+        {
+          "en": "work",
+          "zh": "\"n. 工作； 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品",
+          "pos": "n."
+        },
+        {
+          "en": "workforce",
+          "zh": "n. 劳动力；工人总数，职工总数",
+          "pos": "n."
+        },
+        {
+          "en": "world",
+          "zh": "n. 世界；领域；世俗；全人类；物质生活",
+          "pos": "n."
+        },
+        {
+          "en": "world-famous",
+          "zh": "adj. 举世闻名的",
+          "pos": "adj."
+        },
+        {
+          "en": "worldwide",
+          "zh": "\"adj. 全世界的",
+          "pos": "adj."
+        },
+        {
+          "en": "worried-looking",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "worry",
+          "zh": "\"n. 担心；烦恼；撕咬",
+          "pos": "n."
+        },
+        {
+          "en": "worship",
+          "zh": "\"n. 崇拜；礼拜；尊敬",
+          "pos": "n."
+        },
+        {
+          "en": "worth",
+          "zh": "\"n. 价值；财产",
+          "pos": "n."
+        },
+        {
+          "en": "worthwhile",
+          "zh": "adj. 值得做的，值得花时间的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

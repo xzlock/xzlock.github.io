@@ -1,0 +1,304 @@
+{
+  "day": 87,
+  "title": "Day 087 · stretch → successive",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "successive",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Cypher Eye",
+      "hp": 100,
+      "words": [
+        {
+          "en": "stretch",
+          "zh": "v. 伸展，伸长",
+          "pos": "v."
+        },
+        {
+          "en": "stride",
+          "zh": "n. 大步，一跨步",
+          "pos": "n."
+        },
+        {
+          "en": "strike",
+          "zh": "n./v. 罢工，打击",
+          "pos": "n."
+        },
+        {
+          "en": "striking",
+          "zh": "adj. 醒目的，惊人的",
+          "pos": "adj."
+        },
+        {
+          "en": "strikingly",
+          "zh": "adv. 醒目地, 引人侧目地",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Raze Bomber",
+      "hp": 150,
+      "words": [
+        {
+          "en": "string",
+          "zh": "n. （乐器的）弦；细绳，带子",
+          "pos": "n."
+        },
+        {
+          "en": "strings",
+          "zh": "n. 弦乐器",
+          "pos": "n."
+        },
+        {
+          "en": "stringent",
+          "zh": "adj. 严厉的",
+          "pos": "adj."
+        },
+        {
+          "en": "strip",
+          "zh": "vt. 剥夺；剥掉",
+          "pos": "vt."
+        },
+        {
+          "en": "stripe",
+          "zh": "n. 斑纹，条纹",
+          "pos": "n."
+        },
+        {
+          "en": "strive",
+          "zh": "vi. 努力，奋斗；力求",
+          "pos": "vi."
+        },
+        {
+          "en": "stroke",
+          "zh": "n. （绘画等）一笔；一击",
+          "pos": "n."
+        },
+        {
+          "en": "stubborn",
+          "zh": "adj. 顽固的，固执的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "stubbornness",
+          "zh": "n. 倔强，顽强",
+          "pos": "n."
+        },
+        {
+          "en": "studio",
+          "zh": "n. 录音室；艺术家工作室",
+          "pos": "n."
+        },
+        {
+          "en": "stumble",
+          "zh": "vi. 绊倒",
+          "pos": "vi."
+        },
+        {
+          "en": "stunning",
+          "zh": "adj. 令人惊叹的，极好的",
+          "pos": "adj."
+        },
+        {
+          "en": "stun",
+          "zh": "vt. 使晕倒，打晕；使震惊",
+          "pos": "vt."
+        },
+        {
+          "en": "stunt",
+          "zh": "n. 惊人表演，绝技；特技",
+          "pos": "n."
+        },
+        {
+          "en": "sturdy",
+          "zh": "adj. (人)强健的，结实的；(物)稳固的",
+          "pos": "adj."
+        },
+        {
+          "en": "stylized",
+          "zh": "adj. 风格化的，程式化的",
+          "pos": "adj."
+        },
+        {
+          "en": "subduct",
+          "zh": "v. 减去，除去",
+          "pos": "v."
+        },
+        {
+          "en": "subjected",
+          "zh": "adj. 服从的，隶属的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "submerge",
+          "zh": "v. （使）沉没，淹没",
+          "pos": "v."
+        },
+        {
+          "en": "submerged",
+          "zh": "adj. 在水中的，淹没的",
+          "pos": "adj."
+        },
+        {
+          "en": "submit",
+          "zh": "v. 服从",
+          "pos": "v."
+        },
+        {
+          "en": "successive",
+          "zh": "adj. 连续的，相继的",
+          "pos": "adj."
+        },
+        {
+          "en": "subsequent",
+          "zh": "adj. 随后的，后来的",
+          "pos": "adj."
+        },
+        {
+          "en": "subsequently",
+          "zh": "adv. 随后",
+          "pos": "adv."
+        },
+        {
+          "en": "subside",
+          "zh": "v. 平息，减退",
+          "pos": "v."
+        },
+        {
+          "en": "subsidiary",
+          "zh": "n. 支流；子公司",
+          "pos": "n."
+        },
+        {
+          "en": "subsidize",
+          "zh": "v. 补助，资助",
+          "pos": "v."
+        },
+        {
+          "en": "subsidy",
+          "zh": "n. 补助金，津贴",
+          "pos": "n."
+        },
+        {
+          "en": "subsist",
+          "zh": "vi. 生存，存在，供养",
+          "pos": "vi."
+        },
+        {
+          "en": "subsistence",
+          "zh": "n. 生存；生计；存活",
+          "pos": "n."
+        },
+        {
+          "en": "substantial",
+          "zh": "adj. 相当的，可观的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "substantially",
+          "zh": "adv. 相当多地，大大地",
+          "pos": "adv."
+        },
+        {
+          "en": "substantiate",
+          "zh": "vt. 证实，加强",
+          "pos": "vt."
+        },
+        {
+          "en": "unsubstantiated",
+          "zh": "adj. 未被证实的",
+          "pos": "adj."
+        },
+        {
+          "en": "substantive",
+          "zh": "adj. 真实的，有实质的",
+          "pos": "adj."
+        },
+        {
+          "en": "substitute",
+          "zh": "vt. 代替",
+          "pos": "vt."
+        },
+        {
+          "en": "subterranean",
+          "zh": "adj. 地下的，地表下的",
+          "pos": "adj."
+        },
+        {
+          "en": "subtle",
+          "zh": "adj. 微妙的，细微的",
+          "pos": "adj."
+        },
+        {
+          "en": "subtract",
+          "zh": "v. 减去 ~ from",
+          "pos": "v."
+        },
+        {
+          "en": "subtraction",
+          "zh": "n. 减少",
+          "pos": "n."
+        },
+        {
+          "en": "subtractive",
+          "zh": "adj. 减法的；负的",
+          "pos": "adj."
+        },
+        {
+          "en": "suburb",
+          "zh": "n. 郊区",
+          "pos": "n."
+        },
+        {
+          "en": "suburbanization",
+          "zh": "n. 近郊化，郊区建造",
+          "pos": "n."
+        },
+        {
+          "en": "suburbanite",
+          "zh": "n. 郊区居民",
+          "pos": "n."
+        },
+        {
+          "en": "subversive",
+          "zh": "adj. 颠覆性的，破坏性的",
+          "pos": "adj."
+        },
+        {
+          "en": "successive",
+          "zh": "adj. 连续的，相继的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

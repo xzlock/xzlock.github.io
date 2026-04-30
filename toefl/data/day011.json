@@ -1,0 +1,304 @@
+{
+  "day": 11,
+  "title": "Day 011 · beverage → bore",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "keyboard",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Yoru Shadow",
+      "hp": 100,
+      "words": [
+        {
+          "en": "beverage",
+          "zh": "n. （除水之外的）饮料",
+          "pos": "n."
+        },
+        {
+          "en": "bias",
+          "zh": "n. 偏见，偏好",
+          "pos": "n."
+        },
+        {
+          "en": "unbiased",
+          "zh": "adj. 没有偏见的",
+          "pos": "adj."
+        },
+        {
+          "en": "bicameral",
+          "zh": "adj. 两院制的，有两个议院的",
+          "pos": "adj."
+        },
+        {
+          "en": "bilateral",
+          "zh": "adj. 两边的；双边的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Clove Dash",
+      "hp": 150,
+      "words": [
+        {
+          "en": "bill",
+          "zh": "n. 帐单，发票",
+          "pos": "n."
+        },
+        {
+          "en": "hillbilly",
+          "zh": "n. 山地内部的贫农，山里人",
+          "pos": "n."
+        },
+        {
+          "en": "billion",
+          "zh": "n./adj. 十亿（的）",
+          "pos": "n."
+        },
+        {
+          "en": "biographer",
+          "zh": "n. 传记作家",
+          "pos": "n."
+        },
+        {
+          "en": "biologist",
+          "zh": "n. 生物学家",
+          "pos": "n."
+        },
+        {
+          "en": "bison",
+          "zh": "n. 美洲或欧洲的野牛",
+          "pos": "n."
+        },
+        {
+          "en": "bitter",
+          "zh": "adj. 苦（味）的",
+          "pos": "adj."
+        },
+        {
+          "en": "bitterness",
+          "zh": "n. 苦味；辛酸，苦难",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "bizarre",
+          "zh": "adj. 奇异的，古怪的",
+          "pos": "adj."
+        },
+        {
+          "en": "blame",
+          "zh": "vt. 谴责，责备",
+          "pos": "vt."
+        },
+        {
+          "en": "bland",
+          "zh": "adj. 淡味的；无味的",
+          "pos": "adj."
+        },
+        {
+          "en": "blanket",
+          "zh": "n. 毯子；厚的遮盖物",
+          "pos": "n."
+        },
+        {
+          "en": "blast",
+          "zh": "vi. 爆破",
+          "pos": "vi."
+        },
+        {
+          "en": "blaze",
+          "zh": "vi. 燃烧，照耀",
+          "pos": "vi."
+        },
+        {
+          "en": "bleak",
+          "zh": "adj. 荒凉的；凄凉的",
+          "pos": "adj."
+        },
+        {
+          "en": "blend",
+          "zh": "vt. 混合，掺混",
+          "pos": "vt."
+        },
+        {
+          "en": "blessing",
+          "zh": "n. 祝福，恩赐",
+          "pos": "n."
+        },
+        {
+          "en": "blink",
+          "zh": "v. 眨眼",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "blizzard",
+          "zh": "n. 暴风雪",
+          "pos": "n."
+        },
+        {
+          "en": "block",
+          "zh": "n. 一块（木头或石头等）",
+          "pos": "n."
+        },
+        {
+          "en": "keyboard",
+          "zh": "n. 键盘",
+          "pos": "n."
+        },
+        {
+          "en": "bloom",
+          "zh": "n./vi. 花/开花",
+          "pos": "n."
+        },
+        {
+          "en": "blossom",
+          "zh": "n./vi. 花/开花",
+          "pos": "n."
+        },
+        {
+          "en": "blues",
+          "zh": "n. 抑郁，沮丧；布鲁斯音乐",
+          "pos": "n."
+        },
+        {
+          "en": "bluff",
+          "zh": "n. 悬崖，绝壁；v.诈骗，吓唬",
+          "pos": "n."
+        },
+        {
+          "en": "blunt",
+          "zh": "adj. 直言不讳的",
+          "pos": "adj."
+        },
+        {
+          "en": "blush",
+          "zh": "vi. 脸红，羞愧",
+          "pos": "vi."
+        },
+        {
+          "en": "board",
+          "zh": "n. （薄而平的）木板",
+          "pos": "n."
+        },
+        {
+          "en": "aboard",
+          "zh": "prep./adv. 在（船、飞机、车）上/上（船、飞机、车）",
+          "pos": "prep."
+        },
+        {
+          "en": "boarder",
+          "zh": "n. 寄宿者；寄生者",
+          "pos": "n."
+        },
+        {
+          "en": "boardinghouse",
+          "zh": "n. 寄宿公寓",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "keyboard",
+          "zh": "n. 键盘",
+          "pos": "n."
+        },
+        {
+          "en": "cupboard",
+          "zh": "n. 食橱，碗碟柜",
+          "pos": "n."
+        },
+        {
+          "en": "boast",
+          "zh": "n./v. 自夸，以有…而自豪",
+          "pos": "n."
+        },
+        {
+          "en": "boastful",
+          "zh": "adj. 吹嘘的，自负的",
+          "pos": "adj."
+        },
+        {
+          "en": "bold",
+          "zh": "adj. 勇敢的，大胆的；放肆/无礼的",
+          "pos": "adj."
+        },
+        {
+          "en": "bolster",
+          "zh": "n. 垫子，枕垫",
+          "pos": "n."
+        },
+        {
+          "en": "bonanza",
+          "zh": "n. 富矿带；幸运，带来好运的事",
+          "pos": "n."
+        },
+        {
+          "en": "bond",
+          "zh": "n. 联结，联系；粘连；化学键",
+          "pos": "n."
+        },
+        {
+          "en": "boom",
+          "zh": "n. 繁荣",
+          "pos": "n."
+        },
+        {
+          "en": "boon",
+          "zh": "n. 恩惠，恩赐",
+          "pos": "n."
+        },
+        {
+          "en": "baboon",
+          "zh": "n. 狒狒",
+          "pos": "n."
+        },
+        {
+          "en": "boost",
+          "zh": "vt. 增加，提高，促进",
+          "pos": "vt."
+        },
+        {
+          "en": "boring",
+          "zh": "adj. 令人厌烦的",
+          "pos": "adj."
+        },
+        {
+          "en": "boredom",
+          "zh": "n. 烦恼，无聊",
+          "pos": "n."
+        },
+        {
+          "en": "bore",
+          "zh": "vt. 钻孔；令人厌烦",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

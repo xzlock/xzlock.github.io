@@ -1,0 +1,304 @@
+{
+  "day": 62,
+  "title": "Day 062 · olfactory → outbreak",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "opposed",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Harbor Drop",
+      "hp": 100,
+      "words": [
+        {
+          "en": "olfactory",
+          "zh": "adj. 嗅觉的",
+          "pos": "adj."
+        },
+        {
+          "en": "omit",
+          "zh": "vt. 省略，省去，忽略",
+          "pos": "vt."
+        },
+        {
+          "en": "ongoing",
+          "zh": "adj. 正在进行的",
+          "pos": "adj."
+        },
+        {
+          "en": "onset",
+          "zh": "n. 开始",
+          "pos": "n."
+        },
+        {
+          "en": "onslaught",
+          "zh": "n. 冲击；猛攻",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "ooze",
+          "zh": "n. 软泥",
+          "pos": "n."
+        },
+        {
+          "en": "opaque",
+          "zh": "adj. 不透明的；晦涩难懂的",
+          "pos": "adj."
+        },
+        {
+          "en": "opera",
+          "zh": "n. 歌剧",
+          "pos": "n."
+        },
+        {
+          "en": "opponent",
+          "zh": "n. 对手，反对者",
+          "pos": "n."
+        },
+        {
+          "en": "opportunity",
+          "zh": "n. 机会，时机",
+          "pos": "n."
+        },
+        {
+          "en": "opposed",
+          "zh": "adj. 反对的",
+          "pos": "adj."
+        },
+        {
+          "en": "opposing",
+          "zh": "adj 相反的，对立的",
+          "pos": ""
+        },
+        {
+          "en": "opposition",
+          "zh": "n. 反对，敌对",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "opposite",
+          "zh": "n. 相反的事物",
+          "pos": "n."
+        },
+        {
+          "en": "optical",
+          "zh": "adj. 视觉的；光学的",
+          "pos": "adj."
+        },
+        {
+          "en": "optometrist",
+          "zh": "n. 验光师",
+          "pos": "n."
+        },
+        {
+          "en": "optimal",
+          "zh": "adj. 最佳的，最理想的",
+          "pos": "adj."
+        },
+        {
+          "en": "optimum",
+          "zh": "adj. 最适宜的",
+          "pos": "adj."
+        },
+        {
+          "en": "optimist",
+          "zh": "n. 乐观者",
+          "pos": "n."
+        },
+        {
+          "en": "optimistic",
+          "zh": "adj. 乐观的",
+          "pos": "adj."
+        },
+        {
+          "en": "optional",
+          "zh": "adj. 可自由选择的",
+          "pos": "adj."
+        },
+        {
+          "en": "option",
+          "zh": "n. 选项，选择权",
+          "pos": "n."
+        },
+        {
+          "en": "oral",
+          "zh": "adj. 口头的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "oratorio",
+          "zh": "n. 宗教剧",
+          "pos": "n."
+        },
+        {
+          "en": "opposed",
+          "zh": "adj. 反对的",
+          "pos": "adj."
+        },
+        {
+          "en": "orbit",
+          "zh": "n. 轨道",
+          "pos": "n."
+        },
+        {
+          "en": "orbital",
+          "zh": "adj. 轨道的",
+          "pos": "adj."
+        },
+        {
+          "en": "orchard",
+          "zh": "n. 果园",
+          "pos": "n."
+        },
+        {
+          "en": "orchestra",
+          "zh": "n. 管弦乐队",
+          "pos": "n."
+        },
+        {
+          "en": "orchid",
+          "zh": "n. 兰花",
+          "pos": "n."
+        },
+        {
+          "en": "ordeal",
+          "zh": "n. 严峻考验，痛苦经历",
+          "pos": "n."
+        },
+        {
+          "en": "ordinance",
+          "zh": "n. 法令，条例",
+          "pos": "n."
+        },
+        {
+          "en": "ore",
+          "zh": "n. 矿石",
+          "pos": "n."
+        },
+        {
+          "en": "roe",
+          "zh": "n. 鱼卵",
+          "pos": "n."
+        },
+        {
+          "en": "organic",
+          "zh": "adj. （化学）有机的",
+          "pos": "adj."
+        },
+        {
+          "en": "organically",
+          "zh": "adv. 器官上地, 有机地,有组织地",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "organism",
+          "zh": "n. 生物，有机物",
+          "pos": "n."
+        },
+        {
+          "en": "orientation",
+          "zh": "n. 定向；介绍性指导",
+          "pos": "n."
+        },
+        {
+          "en": "orient",
+          "zh": "vt. 使适应；确定方向",
+          "pos": "vt."
+        },
+        {
+          "en": "oriental",
+          "zh": "adj. 亚洲的，东方的",
+          "pos": "adj."
+        },
+        {
+          "en": "original",
+          "zh": "adj. 最初的，原始的",
+          "pos": "adj."
+        },
+        {
+          "en": "originality",
+          "zh": "n. 创意，新奇",
+          "pos": "n."
+        },
+        {
+          "en": "originate",
+          "zh": "vt. 发生；发起，创办",
+          "pos": "vt."
+        },
+        {
+          "en": "ornament",
+          "zh": "n. 装饰；装饰物",
+          "pos": "n."
+        },
+        {
+          "en": "ornamentation",
+          "zh": "n. 装饰；装饰品",
+          "pos": "n."
+        },
+        {
+          "en": "ornamental",
+          "zh": "adj. 装饰的",
+          "pos": "adj."
+        },
+        {
+          "en": "ounce",
+          "zh": "n. 盎司",
+          "pos": "n."
+        },
+        {
+          "en": "renounce",
+          "zh": "v. 断绝关系",
+          "pos": "v."
+        },
+        {
+          "en": "pronounced",
+          "zh": "adj. 显著的，明确的",
+          "pos": "adj."
+        },
+        {
+          "en": "oust",
+          "zh": "vt. 驱逐；赶走",
+          "pos": "vt."
+        },
+        {
+          "en": "outbreak",
+          "zh": "n. 发作；爆发",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

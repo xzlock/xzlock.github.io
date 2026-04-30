@@ -1,0 +1,304 @@
+{
+  "day": 4,
+  "title": "Day 004 · aggravating → amazement",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "aloof",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Cypher Eye",
+      "hp": 100,
+      "words": [
+        {
+          "en": "aggravating",
+          "zh": "adj. 恼人的，讨厌的",
+          "pos": "adj."
+        },
+        {
+          "en": "aggregate",
+          "zh": "n. 总数",
+          "pos": "n."
+        },
+        {
+          "en": "aggregation",
+          "zh": "n. 集合，群体",
+          "pos": "n."
+        },
+        {
+          "en": "aggressive",
+          "zh": "adj. 强有力的，坚持己见的",
+          "pos": "adj."
+        },
+        {
+          "en": "aggressiveness",
+          "zh": "n. 侵略；争斗",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "agile",
+          "zh": "adj. 敏捷的，活泼轻快的",
+          "pos": "adj."
+        },
+        {
+          "en": "agility",
+          "zh": "n. 敏捷，活泼",
+          "pos": "n."
+        },
+        {
+          "en": "fragile",
+          "zh": "adj. 易碎的，脆的",
+          "pos": "adj."
+        },
+        {
+          "en": "fragility",
+          "zh": "n. 脆弱",
+          "pos": "n."
+        },
+        {
+          "en": "agitation",
+          "zh": "n. 焦虑，不安；煽动",
+          "pos": "n."
+        },
+        {
+          "en": "agreeable",
+          "zh": "adj. 使人愉快的，合意的",
+          "pos": "adj."
+        },
+        {
+          "en": "disagreeable",
+          "zh": "adj. 不令人喜欢的，令人厌恶的",
+          "pos": "adj."
+        },
+        {
+          "en": "ailment",
+          "zh": "n. 疾病（尤指轻病、小病）",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "aim",
+          "zh": "n. 目标，计划",
+          "pos": "n."
+        },
+        {
+          "en": "air",
+          "zh": "n. 空气，空中",
+          "pos": "n."
+        },
+        {
+          "en": "airborne",
+          "zh": "adj. 空气传播的；空运的，空降的",
+          "pos": "adj."
+        },
+        {
+          "en": "ajar",
+          "zh": "adj. （门窗等）微开的",
+          "pos": "adj."
+        },
+        {
+          "en": "akin",
+          "zh": "adj. 同族的；类似的",
+          "pos": "adj."
+        },
+        {
+          "en": "alchemy",
+          "zh": "n. 炼金术",
+          "pos": "n."
+        },
+        {
+          "en": "alder",
+          "zh": "n. 赤杨树",
+          "pos": "n."
+        },
+        {
+          "en": "alert",
+          "zh": "adj. 机敏的",
+          "pos": "adj."
+        },
+        {
+          "en": "algae",
+          "zh": "n. 海藻",
+          "pos": "n."
+        },
+        {
+          "en": "alien",
+          "zh": "adj. 相异的；陌生的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "aloof",
+          "zh": "adj. 远离的；冷淡的，漠不关心的",
+          "pos": "adj."
+        },
+        {
+          "en": "salient",
+          "zh": "adj. 显著的，突出的",
+          "pos": "adj."
+        },
+        {
+          "en": "alignment",
+          "zh": "n. 排列；联合，联盟",
+          "pos": "n."
+        },
+        {
+          "en": "alike",
+          "zh": "adj. 相同的，相似的",
+          "pos": "adj."
+        },
+        {
+          "en": "allegation",
+          "zh": "n. 宣称，主张，断言",
+          "pos": "n."
+        },
+        {
+          "en": "allegory",
+          "zh": "n. 寓言",
+          "pos": "n."
+        },
+        {
+          "en": "alliteration",
+          "zh": "n. （诗歌的）头韵",
+          "pos": "n."
+        },
+        {
+          "en": "allocate",
+          "zh": "vt. 分配",
+          "pos": "vt."
+        },
+        {
+          "en": "alloy",
+          "zh": "n. 合金",
+          "pos": "n."
+        },
+        {
+          "en": "allude",
+          "zh": "vi. 暗指，影射，间接提到",
+          "pos": "vi."
+        },
+        {
+          "en": "ally",
+          "zh": "n. 联盟；同盟者",
+          "pos": "n."
+        },
+        {
+          "en": "rally",
+          "zh": "n. 集会",
+          "pos": "n."
+        },
+        {
+          "en": "aloft",
+          "zh": "adv. 在高处；在空中",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Kingdom Titan",
+      "hp": 300,
+      "words": [
+        {
+          "en": "alone",
+          "zh": "adj./v. 单独的（地）",
+          "pos": "adj."
+        },
+        {
+          "en": "aloof",
+          "zh": "adj. 远离的；冷淡的，漠不关心的",
+          "pos": "adj."
+        },
+        {
+          "en": "alter",
+          "zh": "vt. 改变，修改",
+          "pos": "vt."
+        },
+        {
+          "en": "alteration",
+          "zh": "n. 变更，改造",
+          "pos": "n."
+        },
+        {
+          "en": "alternate",
+          "zh": "adj. 交替的，轮流的",
+          "pos": "adj."
+        },
+        {
+          "en": "alternately",
+          "zh": "adv. 交替地，隔一个地",
+          "pos": "adv."
+        },
+        {
+          "en": "alternation",
+          "zh": "n. 交替，轮流",
+          "pos": "n."
+        },
+        {
+          "en": "alternative",
+          "zh": "adj. 另一可选的，另外的",
+          "pos": "adj."
+        },
+        {
+          "en": "altitude",
+          "zh": "n. 高度",
+          "pos": "n."
+        },
+        {
+          "en": "latitude",
+          "zh": "n. 纬度",
+          "pos": "n."
+        },
+        {
+          "en": "platitude",
+          "zh": "adj. 陈词滥调",
+          "pos": "adj."
+        },
+        {
+          "en": "aluminum",
+          "zh": "n. 铝",
+          "pos": "n."
+        },
+        {
+          "en": "amateur",
+          "zh": "adj. 业余的",
+          "pos": "adj."
+        },
+        {
+          "en": "amaze",
+          "zh": "vt. 使吃惊，使惊叹",
+          "pos": "vt."
+        },
+        {
+          "en": "amazement",
+          "zh": "n. 惊愕，惊异",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

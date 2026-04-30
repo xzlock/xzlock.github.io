@@ -1,0 +1,304 @@
+{
+  "day": 58,
+  "title": "Day 58 · smart → novel",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "album",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Reyna Mote",
+      "hp": 100,
+      "words": [
+        {
+          "en": "smart",
+          "zh": "adj. 聪明的；巧妙的；敏捷的；厉害的；潇洒的；剧烈的；时髦的",
+          "pos": "adj."
+        },
+        {
+          "en": "stall",
+          "zh": "\"n. 货摊；畜栏；托辞",
+          "pos": "n."
+        },
+        {
+          "en": "supermarket",
+          "zh": "n. 超级市场；自助售货商店",
+          "pos": "n."
+        },
+        {
+          "en": "take-away",
+          "zh": "\"n. 熟食",
+          "pos": "n."
+        },
+        {
+          "en": "toyshop",
+          "zh": "n. 玩具店",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "travel agent",
+          "zh": "\"n. 旅行代办人；旅行代理商；旅行社",
+          "pos": "n."
+        },
+        {
+          "en": "waiter",
+          "zh": "n. 服务员，侍者",
+          "pos": "n."
+        },
+        {
+          "en": "waitress",
+          "zh": "\"n. 女服务员；女侍者",
+          "pos": "n."
+        },
+        {
+          "en": "work on commission",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "accordion",
+          "zh": "\"n. 手风琴",
+          "pos": "n."
+        },
+        {
+          "en": "actor",
+          "zh": "n. 男演员；行动者；作用物",
+          "pos": "n."
+        },
+        {
+          "en": "actress",
+          "zh": "n. 女演员",
+          "pos": "n."
+        },
+        {
+          "en": "album",
+          "zh": "n. 相簿；唱片集；集邮簿；签名纪念册",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "animated films",
+          "zh": "动画片；电影",
+          "pos": ""
+        },
+        {
+          "en": "attractive buildings",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "autobiography",
+          "zh": "n. 自传；自传文学",
+          "pos": "n."
+        },
+        {
+          "en": "ballet",
+          "zh": "n. 芭蕾舞剧；芭蕾舞乐曲",
+          "pos": "n."
+        },
+        {
+          "en": "bass guitar",
+          "zh": "\"n. 电贝斯",
+          "pos": "n."
+        },
+        {
+          "en": "biography",
+          "zh": "n. 传记；档案；个人简介",
+          "pos": "n."
+        },
+        {
+          "en": "box office",
+          "zh": "\"n. 票房；售票处",
+          "pos": "n."
+        },
+        {
+          "en": "carnival",
+          "zh": "n. 狂欢节，嘉年华会；饮宴狂欢",
+          "pos": "n."
+        },
+        {
+          "en": "cathedral",
+          "zh": "n. 大教堂",
+          "pos": "n."
+        },
+        {
+          "en": "cello",
+          "zh": "n. 大提琴",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "chord",
+          "zh": "n. 弦；和弦；香水的基调",
+          "pos": "n."
+        },
+        {
+          "en": "classical music",
+          "zh": "\"na. 古典音乐",
+          "pos": ""
+        },
+        {
+          "en": "colossus",
+          "zh": "n. 巨像；巨人；巨大的东西",
+          "pos": "n."
+        },
+        {
+          "en": "comedy",
+          "zh": "n. 喜剧；喜剧性；有趣的事情",
+          "pos": "n."
+        },
+        {
+          "en": "concert",
+          "zh": "\"n. 音乐会；一致；和谐",
+          "pos": "n."
+        },
+        {
+          "en": "concert hall",
+          "zh": "\"na. 音乐堂",
+          "pos": ""
+        },
+        {
+          "en": "detective fiction",
+          "zh": "侦探小说；推理小说",
+          "pos": ""
+        },
+        {
+          "en": "album",
+          "zh": "n. 相簿；唱片集；集邮簿；签名纪念册",
+          "pos": "n."
+        },
+        {
+          "en": "drama",
+          "zh": "n. 戏剧，戏剧艺术；剧本；戏剧性事件",
+          "pos": "n."
+        },
+        {
+          "en": "duet",
+          "zh": "n. 二重奏；二重唱",
+          "pos": "n."
+        },
+        {
+          "en": "exhibition",
+          "zh": "n. 展览，显示；展览会；展览品",
+          "pos": "n."
+        },
+        {
+          "en": "fiction",
+          "zh": "n. 小说；虚构，编造；谎言",
+          "pos": "n."
+        },
+        {
+          "en": "film premiere",
+          "zh": "首映礼",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "gallery",
+          "zh": "\"n. 画廊；走廊；旁听席；地道",
+          "pos": "n."
+        },
+        {
+          "en": "historic buildings",
+          "zh": "古建筑，历史建筑（historic building的复数形式）",
+          "pos": ""
+        },
+        {
+          "en": "historical",
+          "zh": "adj. 历史的；史学的；基于史实的",
+          "pos": "adj."
+        },
+        {
+          "en": "hit song",
+          "zh": "流行一时的歌曲；流行歌曲；畅销歌曲",
+          "pos": ""
+        },
+        {
+          "en": "intonation",
+          "zh": "n. 声调，语调；语音的抑扬",
+          "pos": "n."
+        },
+        {
+          "en": "jazz",
+          "zh": "\"n. 爵士乐，爵士舞；喧闹",
+          "pos": "n."
+        },
+        {
+          "en": "jazz up",
+          "zh": "\"v. 以爵士乐方式演奏；使…活泼有趣；以鲜艳颜色装饰",
+          "pos": "v."
+        },
+        {
+          "en": "keyboard",
+          "zh": "\"n. 键盘",
+          "pos": "n."
+        },
+        {
+          "en": "lyric",
+          "zh": "\"adj. 抒情的；吟唱的",
+          "pos": "adj."
+        },
+        {
+          "en": "manga comic books",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "medieval",
+          "zh": "adj. 中世纪的；原始的；仿中世纪的；老式的",
+          "pos": "adj."
+        },
+        {
+          "en": "music for cartoons and adverts",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "musician",
+          "zh": "n. 音乐家",
+          "pos": "n."
+        },
+        {
+          "en": "non-fiction",
+          "zh": "n. 非小说；非小说类文学作品；纪实小说",
+          "pos": "n."
+        },
+        {
+          "en": "novel",
+          "zh": "\"adj. 新奇的；异常的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

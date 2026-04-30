@@ -1,0 +1,304 @@
+{
+  "day": 89,
+  "title": "Day 089 · surpass → synthetic",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "synchronize",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "surpass",
+          "zh": "vt. 超越，胜过",
+          "pos": "vt."
+        },
+        {
+          "en": "surpassingly",
+          "zh": "adv. 卓越地，超群地",
+          "pos": "adv."
+        },
+        {
+          "en": "surplus",
+          "zh": "n. 过剩，剩余（物资）",
+          "pos": "n."
+        },
+        {
+          "en": "survey",
+          "zh": "n./v. 调查",
+          "pos": "n."
+        },
+        {
+          "en": "survive",
+          "zh": "vi. (人)幸免于难,活下来；(物)耐久",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Fade Nightmare",
+      "hp": 150,
+      "words": [
+        {
+          "en": "survival",
+          "zh": "n. 生存，幸存",
+          "pos": "n."
+        },
+        {
+          "en": "survivor",
+          "zh": "n. 生还者，残存物",
+          "pos": "n."
+        },
+        {
+          "en": "survivability",
+          "zh": "n. 存活率，生命力",
+          "pos": "n."
+        },
+        {
+          "en": "susceptible",
+          "zh": "adj. 易受影响的；敏感的，过敏的",
+          "pos": "adj."
+        },
+        {
+          "en": "suspect",
+          "zh": "adj. 令人怀疑的，不可信的",
+          "pos": "adj."
+        },
+        {
+          "en": "suspend",
+          "zh": "vt. 吊，悬挂",
+          "pos": "vt."
+        },
+        {
+          "en": "suspender",
+          "zh": "n. 吊裤带",
+          "pos": "n."
+        },
+        {
+          "en": "suspense",
+          "zh": "n. 悬念，情节",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "suspicious",
+          "zh": "adj. 可疑的；好猜疑的",
+          "pos": "adj."
+        },
+        {
+          "en": "suspicion",
+          "zh": "n. 怀疑",
+          "pos": "n."
+        },
+        {
+          "en": "sustained",
+          "zh": "adj. 持续不变的",
+          "pos": "adj."
+        },
+        {
+          "en": "sustenance",
+          "zh": "n. 食物，生计",
+          "pos": "n."
+        },
+        {
+          "en": "swallow",
+          "zh": "v. 吞下，咽下",
+          "pos": "v."
+        },
+        {
+          "en": "swamp",
+          "zh": "n. 沼泽，湿地",
+          "pos": "n."
+        },
+        {
+          "en": "swampy",
+          "zh": "adj. 沼泽的，湿地的",
+          "pos": "adj."
+        },
+        {
+          "en": "swarm",
+          "zh": "n. 蜂群，一大群",
+          "pos": "n."
+        },
+        {
+          "en": "sway",
+          "zh": "vi. 摇摆，摇动",
+          "pos": "vi."
+        },
+        {
+          "en": "sweep",
+          "zh": "v. 席卷，扫过",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "sweeping",
+          "zh": "adj. 彻底的，广泛的",
+          "pos": "adj."
+        },
+        {
+          "en": "swell",
+          "zh": "vi. （使）肿胀、膨胀",
+          "pos": "vi."
+        },
+        {
+          "en": "swelling",
+          "zh": "n. 肿胀",
+          "pos": "n."
+        },
+        {
+          "en": "swift",
+          "zh": "adj. 迅速的，敏捷的",
+          "pos": "adj."
+        },
+        {
+          "en": "swiftness",
+          "zh": "n. 迅速，敏捷",
+          "pos": "n."
+        },
+        {
+          "en": "syllable",
+          "zh": "n. （语音）音节",
+          "pos": "n."
+        },
+        {
+          "en": "symbiosis",
+          "zh": "n. 共生（关系），共栖",
+          "pos": "n."
+        },
+        {
+          "en": "symbiotic",
+          "zh": "adj. 共栖的，共生的",
+          "pos": "adj."
+        },
+        {
+          "en": "symbol",
+          "zh": "n. 符号，记号；象征",
+          "pos": "n."
+        },
+        {
+          "en": "symbolism",
+          "zh": "n. 象征主义；符号论",
+          "pos": "n."
+        },
+        {
+          "en": "symbology",
+          "zh": "n. 象征学",
+          "pos": "n."
+        },
+        {
+          "en": "symbolize",
+          "zh": "v. 象征",
+          "pos": "v."
+        },
+        {
+          "en": "synchronize",
+          "zh": "vt. 同步，同时发生",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "symmetrical",
+          "zh": "adj. 对称的",
+          "pos": "adj."
+        },
+        {
+          "en": "symmetry",
+          "zh": "n. 对称（性），匀称",
+          "pos": "n."
+        },
+        {
+          "en": "sympathy",
+          "zh": "n. 同情，同情心",
+          "pos": "n."
+        },
+        {
+          "en": "sympathize",
+          "zh": "v. 同情，体谅",
+          "pos": "v."
+        },
+        {
+          "en": "sympathetic",
+          "zh": "adj. 有同情心的",
+          "pos": "adj."
+        },
+        {
+          "en": "symphony",
+          "zh": "n. 交响乐，交响曲",
+          "pos": "n."
+        },
+        {
+          "en": "symptom",
+          "zh": "n. 症状；征兆",
+          "pos": "n."
+        },
+        {
+          "en": "synchronize",
+          "zh": "vt. 同步，同时发生",
+          "pos": "vt."
+        },
+        {
+          "en": "synonym",
+          "zh": "n. 同义字",
+          "pos": "n."
+        },
+        {
+          "en": "synonymous",
+          "zh": "adj. 同义的",
+          "pos": "adj."
+        },
+        {
+          "en": "synthesize",
+          "zh": "vt. 综合；合成",
+          "pos": "vt."
+        },
+        {
+          "en": "synthesizer",
+          "zh": "n. [电子]合成器",
+          "pos": "n."
+        },
+        {
+          "en": "synthesis",
+          "zh": "n. 综合, 合成",
+          "pos": "n."
+        },
+        {
+          "en": "photosynthesis",
+          "zh": "n. 光合作用",
+          "pos": "n."
+        },
+        {
+          "en": "synthetic",
+          "zh": "adj. 合成的，人造的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

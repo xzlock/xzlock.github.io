@@ -1,0 +1,304 @@
+{
+  "day": 79,
+  "title": "Day 079 · sandy → scraping",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "sarcastic",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Sova Scout",
+      "hp": 100,
+      "words": [
+        {
+          "en": "sandy",
+          "zh": "adj. 沙的，多沙的",
+          "pos": "adj."
+        },
+        {
+          "en": "sanitation",
+          "zh": "n. （公共、环境）卫生，卫生设施",
+          "pos": "n."
+        },
+        {
+          "en": "sanitary",
+          "zh": "adj. （有关）卫生的",
+          "pos": "adj."
+        },
+        {
+          "en": "sap",
+          "zh": "n. 树液，汁液",
+          "pos": "n."
+        },
+        {
+          "en": "sapphire",
+          "zh": "n. 蓝宝石",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Fade Nightmare",
+      "hp": 150,
+      "words": [
+        {
+          "en": "sarcastic",
+          "zh": "adj. 讽刺的，挖苦的",
+          "pos": "adj."
+        },
+        {
+          "en": "satire",
+          "zh": "n. 讽刺；讽刺文学",
+          "pos": "n."
+        },
+        {
+          "en": "satiric",
+          "zh": "adj. 讽刺的，挖苦的",
+          "pos": "adj."
+        },
+        {
+          "en": "satirist",
+          "zh": "n. 讽刺作家",
+          "pos": "n."
+        },
+        {
+          "en": "satisfactory",
+          "zh": "adj. 令人满意的，符合要求的",
+          "pos": "adj."
+        },
+        {
+          "en": "unsatisfactory",
+          "zh": "adj. 令人不满意的",
+          "pos": "adj."
+        },
+        {
+          "en": "saturate",
+          "zh": "vt. 浸透，使湿透",
+          "pos": "vt."
+        },
+        {
+          "en": "saturated",
+          "zh": "adj. 渗透的, 饱和的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "saucer",
+          "zh": "n. 茶碟，垫盘",
+          "pos": "n."
+        },
+        {
+          "en": "save",
+          "zh": "vt. 拯救；保留",
+          "pos": "vt."
+        },
+        {
+          "en": "savings",
+          "zh": "n. 储蓄，存款",
+          "pos": "n."
+        },
+        {
+          "en": "lifesaver",
+          "zh": "n. 救生者, 水难救生员",
+          "pos": "n."
+        },
+        {
+          "en": "scale",
+          "zh": "vt. 攀登",
+          "pos": "vt."
+        },
+        {
+          "en": "scaled",
+          "zh": "adj. 有鳞状斑点的，有鳞的",
+          "pos": "adj."
+        },
+        {
+          "en": "upscale",
+          "zh": "adj. 高消费阶层的",
+          "pos": "adj."
+        },
+        {
+          "en": "scan",
+          "zh": "vt. 扫描；细看，审视",
+          "pos": "vt."
+        },
+        {
+          "en": "scapegoat",
+          "zh": "n. 替罪羊，代人受过的人",
+          "pos": "n."
+        },
+        {
+          "en": "scarce",
+          "zh": "adj. 缺乏的，稀有的，罕见的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "scarcely",
+          "zh": "adv. 几乎不，简直没有",
+          "pos": "adv."
+        },
+        {
+          "en": "scare",
+          "zh": "vt. 惊吓，使受惊",
+          "pos": "vt."
+        },
+        {
+          "en": "scarlet",
+          "zh": "adj. 猩红的，鲜红的",
+          "pos": "adj."
+        },
+        {
+          "en": "scatter",
+          "zh": "vt. 使分散，扩散",
+          "pos": "vt."
+        },
+        {
+          "en": "scavenger",
+          "zh": "n. 清道夫，食腐动物",
+          "pos": "n."
+        },
+        {
+          "en": "scene",
+          "zh": "n. 地点，现场；景色",
+          "pos": "n."
+        },
+        {
+          "en": "scenery",
+          "zh": "n. 风景，景色",
+          "pos": "n."
+        },
+        {
+          "en": "scenic",
+          "zh": "adj. 风景如画的",
+          "pos": "adj."
+        },
+        {
+          "en": "scent",
+          "zh": "n. 气味；香味",
+          "pos": "n."
+        },
+        {
+          "en": "sarcastic",
+          "zh": "adj. 讽刺的，挖苦的",
+          "pos": "adj."
+        },
+        {
+          "en": "incandescent",
+          "zh": "adj. 遇热发光的, 白炽的",
+          "pos": "adj."
+        },
+        {
+          "en": "adolescent",
+          "zh": "n. 青少年",
+          "pos": "n."
+        },
+        {
+          "en": "schedule",
+          "zh": "n. 时间表；计划表",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "reschedule",
+          "zh": "v. 重新计划, 重订...的时间表",
+          "pos": "v."
+        },
+        {
+          "en": "scheme",
+          "zh": "n. 方案",
+          "pos": "n."
+        },
+        {
+          "en": "scholar",
+          "zh": "n. 学者",
+          "pos": "n."
+        },
+        {
+          "en": "scholarship",
+          "zh": "n. 奖学金",
+          "pos": "n."
+        },
+        {
+          "en": "scholarly",
+          "zh": "adj. 学者气质的，学术的",
+          "pos": "adj."
+        },
+        {
+          "en": "scissors",
+          "zh": "n. 剪刀",
+          "pos": "n."
+        },
+        {
+          "en": "scope",
+          "zh": "n. 范围，界限",
+          "pos": "n."
+        },
+        {
+          "en": "score",
+          "zh": "n. 分数，得分；刻痕，划痕",
+          "pos": "n."
+        },
+        {
+          "en": "scotch",
+          "zh": "v. 镇压，粉碎",
+          "pos": "v."
+        },
+        {
+          "en": "Scotch",
+          "zh": "adj. 苏格兰的",
+          "pos": "adj."
+        },
+        {
+          "en": "scour",
+          "zh": "vt. 冲刷，擦掉",
+          "pos": "vt."
+        },
+        {
+          "en": "scout",
+          "zh": "n. 侦察；侦察员",
+          "pos": "n."
+        },
+        {
+          "en": "scrap",
+          "zh": "n. 废料，残余物",
+          "pos": "n."
+        },
+        {
+          "en": "scrape",
+          "zh": "n. 刮，擦；擦痕",
+          "pos": "n."
+        },
+        {
+          "en": "scraping",
+          "zh": "n. 刮削下的碎屑",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

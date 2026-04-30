@@ -1,0 +1,304 @@
+{
+  "day": 43,
+  "title": "Day 043 · ware → grease",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "gorgeous",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "ware",
+          "zh": "n. 制品，器具",
+          "pos": "n."
+        },
+        {
+          "en": "earthenware",
+          "zh": "n. 土器，陶器",
+          "pos": "n."
+        },
+        {
+          "en": "tableware",
+          "zh": "n. 餐具",
+          "pos": "n."
+        },
+        {
+          "en": "hardware",
+          "zh": "n. 五金器具",
+          "pos": "n."
+        },
+        {
+          "en": "warehouse",
+          "zh": "n. 仓库，货栈",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Chamber Bullet",
+      "hp": 150,
+      "words": [
+        {
+          "en": "glazed",
+          "zh": "adj. 上过釉的，表面光滑的",
+          "pos": "adj."
+        },
+        {
+          "en": "glaze",
+          "zh": "vt. 装玻璃，上釉，使表面光滑",
+          "pos": "vt."
+        },
+        {
+          "en": "glean",
+          "zh": "v. 点滴搜集；拾",
+          "pos": "v."
+        },
+        {
+          "en": "glide",
+          "zh": "vi. 滑动，滑行",
+          "pos": "vi."
+        },
+        {
+          "en": "glider",
+          "zh": "n. 滑行者；滑翔机",
+          "pos": "n."
+        },
+        {
+          "en": "glimpse",
+          "zh": "n. 一瞥，一看",
+          "pos": "n."
+        },
+        {
+          "en": "global",
+          "zh": "adj. 全球性的",
+          "pos": "adj."
+        },
+        {
+          "en": "glorify",
+          "zh": "v. 美化，赞扬",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "glossy",
+          "zh": "adj. 平滑的，有光泽的",
+          "pos": "adj."
+        },
+        {
+          "en": "glowing",
+          "zh": "adj. 白热的，通红的",
+          "pos": "adj."
+        },
+        {
+          "en": "gnaw",
+          "zh": "v. 咬，啃",
+          "pos": "v."
+        },
+        {
+          "en": "goal",
+          "zh": "n. 目标",
+          "pos": "n."
+        },
+        {
+          "en": "gorgeous",
+          "zh": "adj. 华丽的；灿烂的",
+          "pos": "adj."
+        },
+        {
+          "en": "gospel",
+          "zh": "n. 福音",
+          "pos": "n."
+        },
+        {
+          "en": "gossip",
+          "zh": "n. 社会新闻，小道传闻",
+          "pos": "n."
+        },
+        {
+          "en": "gourmet",
+          "zh": "n. 美食家",
+          "pos": "n."
+        },
+        {
+          "en": "gourmand",
+          "zh": "n. 嗜食者",
+          "pos": "n."
+        },
+        {
+          "en": "govern",
+          "zh": "vt. 统治，管理；控制",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "governor",
+          "zh": "n. 州长；总督",
+          "pos": "n."
+        },
+        {
+          "en": "grab",
+          "zh": "vt. 攫取，抓住",
+          "pos": "vt."
+        },
+        {
+          "en": "grace",
+          "zh": "n. 风度",
+          "pos": "n."
+        },
+        {
+          "en": "graceful",
+          "zh": "adj. 优雅的",
+          "pos": "adj."
+        },
+        {
+          "en": "gorgeous",
+          "zh": "adj. 华丽的；灿烂的",
+          "pos": "adj."
+        },
+        {
+          "en": "disgrace",
+          "zh": "vt. 玷污",
+          "pos": "vt."
+        },
+        {
+          "en": "graft",
+          "zh": "v. 嫁接；移植",
+          "pos": "v."
+        },
+        {
+          "en": "grand",
+          "zh": "adj. 壮观的；显赫的",
+          "pos": "adj."
+        },
+        {
+          "en": "grandeur",
+          "zh": "n. 庄严，伟大",
+          "pos": "n."
+        },
+        {
+          "en": "granite",
+          "zh": "n. 花岗岩",
+          "pos": "n."
+        },
+        {
+          "en": "graphic",
+          "zh": "adj. 绘画似的；图解的，生动的",
+          "pos": "adj."
+        },
+        {
+          "en": "graph",
+          "zh": "n. 图表",
+          "pos": "n."
+        },
+        {
+          "en": "graphics",
+          "zh": "n. （作单数用）制图法，制图学",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "kymograph",
+          "zh": "n. 波动曲线记录仪",
+          "pos": "n."
+        },
+        {
+          "en": "telegraph",
+          "zh": "n. 电报机，电报",
+          "pos": "n."
+        },
+        {
+          "en": "stereophotograph",
+          "zh": "n. 立体摄影，立体相片",
+          "pos": "n."
+        },
+        {
+          "en": "photograph",
+          "zh": "n. 照片",
+          "pos": "n."
+        },
+        {
+          "en": "seismograph",
+          "zh": "n. 地震仪, 测震仪",
+          "pos": "n."
+        },
+        {
+          "en": "lithograph",
+          "zh": "n. 平板印刷，平板画",
+          "pos": "n."
+        },
+        {
+          "en": "graphite",
+          "zh": "n. 石墨",
+          "pos": "n."
+        },
+        {
+          "en": "grasp",
+          "zh": "vt. 抓住，抓紧",
+          "pos": "vt."
+        },
+        {
+          "en": "grasshopper",
+          "zh": "n. 蚱蜢，蚂蚱",
+          "pos": "n."
+        },
+        {
+          "en": "grateful",
+          "zh": "adj. 感激的，感谢的",
+          "pos": "adj."
+        },
+        {
+          "en": "gravitational",
+          "zh": "adj. 地心引力的，重力的",
+          "pos": "adj."
+        },
+        {
+          "en": "gravitation",
+          "zh": "n. 引力，重力",
+          "pos": "n."
+        },
+        {
+          "en": "gravity",
+          "zh": "n. 地心引力",
+          "pos": "n."
+        },
+        {
+          "en": "graze",
+          "zh": "vi. （牲畜）吃草；放牧",
+          "pos": "vi."
+        },
+        {
+          "en": "grease",
+          "zh": "n. 油脂",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

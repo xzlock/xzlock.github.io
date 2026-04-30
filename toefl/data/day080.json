@@ -1,0 +1,304 @@
+{
+  "day": 80,
+  "title": "Day 080 · scratch → semimolten",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "seam",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Viper Spawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "scratch",
+          "zh": "vt. 搔，抓，擦",
+          "pos": "vt."
+        },
+        {
+          "en": "screen",
+          "zh": "n. 屏幕",
+          "pos": "n."
+        },
+        {
+          "en": "scruple",
+          "zh": "n. 踌躇；顾忌",
+          "pos": "n."
+        },
+        {
+          "en": "scrupulously",
+          "zh": "adv. 小心翼翼地",
+          "pos": "adv."
+        },
+        {
+          "en": "unscrupulously",
+          "zh": "adv. 肆无忌惮地，无道德的",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "scuba",
+          "zh": "n. 水中呼吸器",
+          "pos": "n."
+        },
+        {
+          "en": "sculpture",
+          "zh": "n. 雕塑；雕刻品",
+          "pos": "n."
+        },
+        {
+          "en": "sculpt",
+          "zh": "vt. 雕刻，造型",
+          "pos": "vt."
+        },
+        {
+          "en": "sculptor",
+          "zh": "n. 雕刻家",
+          "pos": "n."
+        },
+        {
+          "en": "sculptural",
+          "zh": "adj. 雕刻的，雕刻般的",
+          "pos": "adj."
+        },
+        {
+          "en": "cucumber",
+          "zh": "n. 黄瓜",
+          "pos": "n."
+        },
+        {
+          "en": "seam",
+          "zh": "n. 接缝，缝合线",
+          "pos": "n."
+        },
+        {
+          "en": "seamen",
+          "zh": "n. 海员",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Drone",
+      "hp": 200,
+      "words": [
+        {
+          "en": "seabed",
+          "zh": "n. 海底，海床",
+          "pos": "n."
+        },
+        {
+          "en": "seamount",
+          "zh": "n. 海底山",
+          "pos": "n."
+        },
+        {
+          "en": "seaport",
+          "zh": "n. 海港，港口",
+          "pos": "n."
+        },
+        {
+          "en": "seashore",
+          "zh": "n. 海岸，海滨",
+          "pos": "n."
+        },
+        {
+          "en": "seaweed",
+          "zh": "n. 海草，海藻",
+          "pos": "n."
+        },
+        {
+          "en": "seasoning",
+          "zh": "n. 调味品，调料",
+          "pos": "n."
+        },
+        {
+          "en": "seasonal",
+          "zh": "adj. 季节的，季节性的",
+          "pos": "adj."
+        },
+        {
+          "en": "unseasonably",
+          "zh": "adv. 不合时令地，不合时宜地",
+          "pos": "adv."
+        },
+        {
+          "en": "seclusion",
+          "zh": "n. 独处，隐居",
+          "pos": "n."
+        },
+        {
+          "en": "seclude",
+          "zh": "vt. 使隔离，使孤立",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "secondary",
+          "zh": "adj. 中级的",
+          "pos": "adj."
+        },
+        {
+          "en": "secrete",
+          "zh": "vt. 分泌；隐匿，使隐秘",
+          "pos": "vt."
+        },
+        {
+          "en": "secretin",
+          "zh": "n. 分泌素",
+          "pos": "n."
+        },
+        {
+          "en": "seam",
+          "zh": "n. 接缝，缝合线",
+          "pos": "n."
+        },
+        {
+          "en": "oversecretion",
+          "zh": "n. 分泌过多",
+          "pos": "n."
+        },
+        {
+          "en": "secret",
+          "zh": "n. 秘密",
+          "pos": "n."
+        },
+        {
+          "en": "sect",
+          "zh": "n. 宗派，教派",
+          "pos": "n."
+        },
+        {
+          "en": "sector",
+          "zh": "n. 扇形面；地区",
+          "pos": "n."
+        },
+        {
+          "en": "section",
+          "zh": "n. 部分，节",
+          "pos": "n."
+        },
+        {
+          "en": "sectional",
+          "zh": "adj. 部分的，部门的",
+          "pos": "adj."
+        },
+        {
+          "en": "subsection",
+          "zh": "n. 分部，分段",
+          "pos": "n."
+        },
+        {
+          "en": "intersected",
+          "zh": "adj. 分割的",
+          "pos": "adj."
+        },
+        {
+          "en": "secular",
+          "zh": "adj. 世俗的，尘世的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "secure",
+          "zh": "vt. 使安全，保卫",
+          "pos": "vt."
+        },
+        {
+          "en": "securely",
+          "zh": "adv. 安心地, 安全地",
+          "pos": "adv."
+        },
+        {
+          "en": "security",
+          "zh": "n. 安全",
+          "pos": "n."
+        },
+        {
+          "en": "sedentary",
+          "zh": "adj. （人或动物）土生的，不迁徙的",
+          "pos": "adj."
+        },
+        {
+          "en": "sediment",
+          "zh": "n. 沉积物，沉淀物",
+          "pos": "n."
+        },
+        {
+          "en": "sedimentary",
+          "zh": "adj. 沉积的，沉淀性的",
+          "pos": "adj."
+        },
+        {
+          "en": "seduce",
+          "zh": "vt. 勾引，诱惑",
+          "pos": "vt."
+        },
+        {
+          "en": "seedling",
+          "zh": "n. 秧苗, 树苗",
+          "pos": "n."
+        },
+        {
+          "en": "seemingly",
+          "zh": "adv. 表面上，似乎",
+          "pos": "adv."
+        },
+        {
+          "en": "segment",
+          "zh": "n. 部分；片断",
+          "pos": "n."
+        },
+        {
+          "en": "segregate",
+          "zh": "vt. 分离，隔离",
+          "pos": "vt."
+        },
+        {
+          "en": "seismic",
+          "zh": "adj. 地震的；由地震引起的",
+          "pos": "adj."
+        },
+        {
+          "en": "seismology",
+          "zh": "n. 地震学",
+          "pos": "n."
+        },
+        {
+          "en": "self-sufficient",
+          "zh": "adj. 自给自足的",
+          "pos": "adj."
+        },
+        {
+          "en": "semimolten",
+          "zh": "adj. 半熔化的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

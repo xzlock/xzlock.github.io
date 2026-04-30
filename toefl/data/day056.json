@@ -1,0 +1,304 @@
+{
+  "day": 56,
+  "title": "Day 056 · ferromagnetic → mask",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "marrow cavity",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Phoenix Ember",
+      "hp": 100,
+      "words": [
+        {
+          "en": "ferromagnetic",
+          "zh": "adj. 铁磁的, 铁磁体",
+          "pos": "adj."
+        },
+        {
+          "en": "geomagnetic",
+          "zh": "adj. 地磁的",
+          "pos": "adj."
+        },
+        {
+          "en": "electromagnetic",
+          "zh": "adj. 电磁的",
+          "pos": "adj."
+        },
+        {
+          "en": "magnificent",
+          "zh": "adj. 华丽的；高尚的；丰富的",
+          "pos": "adj."
+        },
+        {
+          "en": "magnificence",
+          "zh": "n. 华丽，富丽堂皇",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Sova Arrow",
+      "hp": 150,
+      "words": [
+        {
+          "en": "magnify",
+          "zh": "vt. 放大，扩大",
+          "pos": "vt."
+        },
+        {
+          "en": "magnitude",
+          "zh": "n. 大小，光度，重要",
+          "pos": "n."
+        },
+        {
+          "en": "maintenance",
+          "zh": "n. 维修，保养",
+          "pos": "n."
+        },
+        {
+          "en": "maize",
+          "zh": "n. 玉米",
+          "pos": "n."
+        },
+        {
+          "en": "corn",
+          "zh": "n. 玉米，谷类",
+          "pos": "n."
+        },
+        {
+          "en": "popcorn",
+          "zh": "n. 爆米花",
+          "pos": "n."
+        },
+        {
+          "en": "cornet",
+          "zh": "n. 短号",
+          "pos": "n."
+        },
+        {
+          "en": "majestic",
+          "zh": "adj. 壮观的，庄严的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "majesty",
+          "zh": "n. 威严，最高权威",
+          "pos": "n."
+        },
+        {
+          "en": "majority",
+          "zh": "n. 多数",
+          "pos": "n."
+        },
+        {
+          "en": "makeup",
+          "zh": "n. 组成，结构",
+          "pos": "n."
+        },
+        {
+          "en": "malfunction",
+          "zh": "n. 故障，失灵",
+          "pos": "n."
+        },
+        {
+          "en": "mall",
+          "zh": "n. 大规模购物中心",
+          "pos": "n."
+        },
+        {
+          "en": "mallet",
+          "zh": "n. 槌棒",
+          "pos": "n."
+        },
+        {
+          "en": "malleable",
+          "zh": "adj. 可锻的，可塑的，可延展的",
+          "pos": "adj."
+        },
+        {
+          "en": "malleability",
+          "zh": "n. 可锻性，可塑性，延展性",
+          "pos": "n."
+        },
+        {
+          "en": "malnutrition",
+          "zh": "n. 营养不良",
+          "pos": "n."
+        },
+        {
+          "en": "mammal",
+          "zh": "n. 哺乳动物",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "mammoth",
+          "zh": "n. 猛犸象",
+          "pos": "n."
+        },
+        {
+          "en": "mandatory",
+          "zh": "adj. 命令的，强制的",
+          "pos": "adj."
+        },
+        {
+          "en": "mandate",
+          "zh": "n. 命令，要求",
+          "pos": "n."
+        },
+        {
+          "en": "maneuver",
+          "zh": "vt. (敏捷地)操纵；(用策略)调动",
+          "pos": "vt."
+        },
+        {
+          "en": "marrow cavity",
+          "zh": "n. 骨髓腔",
+          "pos": "n."
+        },
+        {
+          "en": "mania",
+          "zh": "n. 狂热",
+          "pos": "n."
+        },
+        {
+          "en": "manifestation",
+          "zh": "n. 表现，显示",
+          "pos": "n."
+        },
+        {
+          "en": "manipulate",
+          "zh": "vt. 操作；操纵，利用",
+          "pos": "vt."
+        },
+        {
+          "en": "mannerism",
+          "zh": "n. 特殊习惯，怪癖",
+          "pos": "n."
+        },
+        {
+          "en": "mansion",
+          "zh": "n. 大厦；公寓",
+          "pos": "n."
+        },
+        {
+          "en": "manual",
+          "zh": "n. 手册",
+          "pos": "n."
+        },
+        {
+          "en": "manually",
+          "zh": "adv. 用手",
+          "pos": "adv."
+        },
+        {
+          "en": "manure",
+          "zh": "n. 肥料",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "map",
+          "zh": "vt. 绘制…的地图",
+          "pos": "vt."
+        },
+        {
+          "en": "marble",
+          "zh": "n. 大理石",
+          "pos": "n."
+        },
+        {
+          "en": "march",
+          "zh": "vi./n. 前进，行进",
+          "pos": "vi."
+        },
+        {
+          "en": "margin",
+          "zh": "n. 边缘；余地",
+          "pos": "n."
+        },
+        {
+          "en": "marine",
+          "zh": "adj. 海的，航海的，海产的",
+          "pos": "adj."
+        },
+        {
+          "en": "aquamarine",
+          "zh": "n. 绿玉；碧绿色",
+          "pos": "n."
+        },
+        {
+          "en": "submarine",
+          "zh": "n. 潜水艇，潜艇",
+          "pos": "n."
+        },
+        {
+          "en": "maritime",
+          "zh": "adj. 海上的，海事的",
+          "pos": "adj."
+        },
+        {
+          "en": "markedly",
+          "zh": "adv. 显著地，明显地",
+          "pos": "adv."
+        },
+        {
+          "en": "marrow cavity",
+          "zh": "n. 骨髓腔",
+          "pos": "n."
+        },
+        {
+          "en": "marsh",
+          "zh": "n. 湿地，沼泽",
+          "pos": "n."
+        },
+        {
+          "en": "marshy",
+          "zh": "adj. 沼泽的",
+          "pos": "adj."
+        },
+        {
+          "en": "marvel",
+          "zh": "n. 奇异的事物，罕见的例子",
+          "pos": "n."
+        },
+        {
+          "en": "marvelous",
+          "zh": "adj. 不可思议的；了不起的",
+          "pos": "adj."
+        },
+        {
+          "en": "mask",
+          "zh": "n. 面具",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

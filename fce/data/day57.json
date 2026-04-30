@@ -1,0 +1,304 @@
+{
+  "day": 57,
+  "title": "Day 57 · twin room → slogan",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "cheque",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Phoenix Ember",
+      "hp": 100,
+      "words": [
+        {
+          "en": "twin room",
+          "zh": "\"n. 双人房",
+          "pos": "n."
+        },
+        {
+          "en": "viewfinder",
+          "zh": "n. 取景器；反光镜；检像器",
+          "pos": "n."
+        },
+        {
+          "en": "visit monuments",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "voyage",
+          "zh": "\"n. 航行；航程；旅行记",
+          "pos": "n."
+        },
+        {
+          "en": "western",
+          "zh": "\"n. 西方人；西部片，西部小说",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "windsurfing",
+          "zh": "\"n. 帆板运动",
+          "pos": "n."
+        },
+        {
+          "en": "ad",
+          "zh": "n. 公元；广告（ad）",
+          "pos": "n."
+        },
+        {
+          "en": "artifact",
+          "zh": "n. 人工制品；手工艺品",
+          "pos": "n."
+        },
+        {
+          "en": "bill",
+          "zh": "\"n. 法案；广告；账单； 票据；钞票；清单",
+          "pos": "n."
+        },
+        {
+          "en": "brand",
+          "zh": "\"n. 商标，牌子；烙印",
+          "pos": "n."
+        },
+        {
+          "en": "cafe",
+          "zh": "n. 咖啡馆；小餐馆",
+          "pos": "n."
+        },
+        {
+          "en": "canteen",
+          "zh": "n. 食堂，小卖部；水壶",
+          "pos": "n."
+        },
+        {
+          "en": "cardboard",
+          "zh": "\"n. 硬纸板；纸板箱；卡纸板",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Wall",
+      "hp": 200,
+      "words": [
+        {
+          "en": "cash",
+          "zh": "\"n. 现款，现金",
+          "pos": "n."
+        },
+        {
+          "en": "cheque",
+          "zh": "n. 支票",
+          "pos": "n."
+        },
+        {
+          "en": "client",
+          "zh": "n. 客户；顾客；委托人",
+          "pos": "n."
+        },
+        {
+          "en": "coin",
+          "zh": "\"n. 硬币，钱币",
+          "pos": "n."
+        },
+        {
+          "en": "credit card",
+          "zh": "\"n. 信用卡",
+          "pos": "n."
+        },
+        {
+          "en": "customer",
+          "zh": "n. 顾客；家伙",
+          "pos": "n."
+        },
+        {
+          "en": "customer service",
+          "zh": "\"un. 售后服务",
+          "pos": "n."
+        },
+        {
+          "en": "customise",
+          "zh": "vt. 定制，定做",
+          "pos": "vt."
+        },
+        {
+          "en": "deodorant",
+          "zh": "\"n. 除臭剂",
+          "pos": "n."
+        },
+        {
+          "en": "department store",
+          "zh": "\"n. 百货公司；大百货商店",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "deposit",
+          "zh": "\"n. 存款；押金；订金；保证金；沉淀物",
+          "pos": "n."
+        },
+        {
+          "en": "discounted stuff",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "dollar",
+          "zh": "n. 美元",
+          "pos": "n."
+        },
+        {
+          "en": "dry-cleaner's",
+          "zh": "干洗店；乾洗店",
+          "pos": ""
+        },
+        {
+          "en": "eBay",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "escalator",
+          "zh": "n. （美）自动扶梯；电动扶梯",
+          "pos": "n."
+        },
+        {
+          "en": "fleece",
+          "zh": "\"n. 羊毛，绒头织物；羊毛制的覆盖物",
+          "pos": "n."
+        },
+        {
+          "en": "full price",
+          "zh": "\"un. 足价",
+          "pos": "n."
+        },
+        {
+          "en": "cheque",
+          "zh": "n. 支票",
+          "pos": "n."
+        },
+        {
+          "en": "go shopping",
+          "zh": "\"na. 去买东西",
+          "pos": ""
+        },
+        {
+          "en": "goods",
+          "zh": "n. 商品；动产；合意的人；真本领",
+          "pos": "n."
+        },
+        {
+          "en": "headset",
+          "zh": "n. 耳机；头戴式受话器",
+          "pos": "n."
+        },
+        {
+          "en": "hype",
+          "zh": "\"n. 大肆宣传；皮下注射",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "invoice",
+          "zh": "\"n. 账单，发货单，收款请求",
+          "pos": "n."
+        },
+        {
+          "en": "jeweller",
+          "zh": "n. 珠宝商；钟表匠，宝石匠",
+          "pos": "n."
+        },
+        {
+          "en": "label",
+          "zh": "\"vt. 标注；贴标签于",
+          "pos": "vt."
+        },
+        {
+          "en": "leaflet",
+          "zh": "n. 小叶；传单",
+          "pos": "n."
+        },
+        {
+          "en": "mailshot",
+          "zh": "n. 邮寄广告",
+          "pos": "n."
+        },
+        {
+          "en": "mall",
+          "zh": "n. 购物商场；林荫路；铁圈球场",
+          "pos": "n."
+        },
+        {
+          "en": "manager",
+          "zh": "n. 经理；管理人员",
+          "pos": "n."
+        },
+        {
+          "en": "metal tags",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "metallic coins",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "personal belongings",
+          "zh": "\"un. 随身物品",
+          "pos": "n."
+        },
+        {
+          "en": "pharmacy",
+          "zh": "n. 药房；配药学，药剂学；制药业；一批备用药品",
+          "pos": "n."
+        },
+        {
+          "en": "receipt",
+          "zh": "\"n. 收到；收据；收入",
+          "pos": "n."
+        },
+        {
+          "en": "refund",
+          "zh": "\"n. 退款；偿还，偿还额",
+          "pos": "n."
+        },
+        {
+          "en": "salesman",
+          "zh": "n. 推销员；售货员",
+          "pos": "n."
+        },
+        {
+          "en": "slogan",
+          "zh": "n. 标语；呐喊声",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

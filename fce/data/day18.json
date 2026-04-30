@@ -1,0 +1,304 @@
+{
+  "day": 18,
+  "title": "Day 18 · formula → get away with",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "freeze",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Neon Flicker",
+      "hp": 100,
+      "words": [
+        {
+          "en": "formula",
+          "zh": "n. 公式，准则；配方；婴儿食品",
+          "pos": "n."
+        },
+        {
+          "en": "fortnight",
+          "zh": "n. 两星期",
+          "pos": "n."
+        },
+        {
+          "en": "fortunate",
+          "zh": "adj. 幸运的；侥幸的；吉祥的；带来幸运的",
+          "pos": "adj."
+        },
+        {
+          "en": "fortune",
+          "zh": "\"n. 财富；命运；运气",
+          "pos": "n."
+        },
+        {
+          "en": "forward",
+          "zh": "\"n. 前锋",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "found",
+          "zh": "\"v. 找到（find的过去分词）",
+          "pos": "v."
+        },
+        {
+          "en": "fraction",
+          "zh": "n. 分数；部分；小部分；稍微",
+          "pos": "n."
+        },
+        {
+          "en": "fragile",
+          "zh": "adj. 脆的；易碎的",
+          "pos": "adj."
+        },
+        {
+          "en": "frame",
+          "zh": "\"n. 框架；结构； 画面",
+          "pos": "n."
+        },
+        {
+          "en": "fragment",
+          "zh": "\"n. 碎片；片断或不完整部分",
+          "pos": "n."
+        },
+        {
+          "en": "free",
+          "zh": "\"adj. 免费的；自由的，不受约束的； 游离的",
+          "pos": "adj."
+        },
+        {
+          "en": "freestyle",
+          "zh": "\"n. 自由式",
+          "pos": "n."
+        },
+        {
+          "en": "freeze",
+          "zh": "\"n. 冻结；凝固",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "frequent",
+          "zh": "\"adj. 频繁的；时常发生的；惯常的",
+          "pos": "adj."
+        },
+        {
+          "en": "fresh",
+          "zh": "\"n. 开始；新生；泛滥",
+          "pos": "n."
+        },
+        {
+          "en": "freshly-made",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "friction",
+          "zh": "n. 摩擦， 摩擦力",
+          "pos": "n."
+        },
+        {
+          "en": "friend",
+          "zh": "n. 朋友；助手；赞助者",
+          "pos": "n."
+        },
+        {
+          "en": "front",
+          "zh": "\"n. 前面；正面；前线",
+          "pos": "n."
+        },
+        {
+          "en": "frown",
+          "zh": "\"n. 皱眉，蹙额",
+          "pos": "n."
+        },
+        {
+          "en": "frustrate",
+          "zh": "\"vt. 挫败；阻挠；使感到灰心",
+          "pos": "vt."
+        },
+        {
+          "en": "fulfil",
+          "zh": "vt. 履行；完成；实践；满足",
+          "pos": "vt."
+        },
+        {
+          "en": "full",
+          "zh": "\"n. 全部；完整",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Clove Revive",
+      "hp": 250,
+      "words": [
+        {
+          "en": "full-time",
+          "zh": "adj. 专职的；全日制的；全部时间的",
+          "pos": "adj."
+        },
+        {
+          "en": "fume",
+          "zh": "\"n. 烟；愤怒，烦恼",
+          "pos": "n."
+        },
+        {
+          "en": "fun",
+          "zh": "\"n. 乐趣；玩笑；有趣的人或事",
+          "pos": "n."
+        },
+        {
+          "en": "function",
+          "zh": "\"n. 功能； 函数；职责；盛大的集会",
+          "pos": "n."
+        },
+        {
+          "en": "fund",
+          "zh": "\"n. 基金；资金；存款",
+          "pos": "n."
+        },
+        {
+          "en": "fundamental",
+          "zh": "\"n. 基本原理；基本原则",
+          "pos": "n."
+        },
+        {
+          "en": "fundraising",
+          "zh": "\"n. 筹款；资金募集",
+          "pos": "n."
+        },
+        {
+          "en": "freeze",
+          "zh": "\"n. 冻结；凝固",
+          "pos": "n."
+        },
+        {
+          "en": "furious",
+          "zh": "adj. 激烈的；狂怒的；热烈兴奋的；喧闹的",
+          "pos": "adj."
+        },
+        {
+          "en": "furthermore",
+          "zh": "adv. 此外；而且",
+          "pos": "adv."
+        },
+        {
+          "en": "fussy",
+          "zh": "adj. 爱挑剔的，难取悦的；易烦恼的",
+          "pos": "adj."
+        },
+        {
+          "en": "future",
+          "zh": "\"n. 未来；前途；期货；将来时",
+          "pos": "n."
+        },
+        {
+          "en": "gain",
+          "zh": "\"n. 增加；利润；收获",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "gallop",
+          "zh": "\"n. 疾驰；飞奔",
+          "pos": "n."
+        },
+        {
+          "en": "gap",
+          "zh": "\"n. 间隙；缺口；差距；分歧",
+          "pos": "n."
+        },
+        {
+          "en": "gather",
+          "zh": "\"n. 聚集；衣褶；收获量",
+          "pos": "n."
+        },
+        {
+          "en": "gauge",
+          "zh": "\"n. 计量器；标准尺寸；容量规格",
+          "pos": "n."
+        },
+        {
+          "en": "gear",
+          "zh": "\"n. 齿轮；装置，工具；传动装置",
+          "pos": "n."
+        },
+        {
+          "en": "general",
+          "zh": "\"n. 一般；将军，上将；常规",
+          "pos": "n."
+        },
+        {
+          "en": "generation",
+          "zh": "n. 一代；产生；一代人；生殖",
+          "pos": "n."
+        },
+        {
+          "en": "generous",
+          "zh": "adj. 慷慨的，大方的；宽宏大量的；有雅量的",
+          "pos": "adj."
+        },
+        {
+          "en": "gentle",
+          "zh": "\"n. 蛆，饵",
+          "pos": "n."
+        },
+        {
+          "en": "genuine",
+          "zh": "adj. 真实的，真正的；诚恳的",
+          "pos": "adj."
+        },
+        {
+          "en": "geography",
+          "zh": "n. 地理；地形",
+          "pos": "n."
+        },
+        {
+          "en": "gesture",
+          "zh": "\"n. 姿态；手势",
+          "pos": "n."
+        },
+        {
+          "en": "get away",
+          "zh": "\"na. 逃脱；出发；把…送出",
+          "pos": ""
+        },
+        {
+          "en": "get away from",
+          "zh": "\"v. 逃脱",
+          "pos": "v."
+        },
+        {
+          "en": "get away with",
+          "zh": "\"na. 拿走；避开责备；卷(款)潜逃",
+          "pos": ""
+        }
+      ]
+    }
+  ]
+}

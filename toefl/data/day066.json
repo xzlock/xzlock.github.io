@@ -1,0 +1,304 @@
+{
+  "day": 66,
+  "title": "Day 066 · persistence → pivotal",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "perspective",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Chamber Pawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "persistence",
+          "zh": "n. 坚持不懈，持续",
+          "pos": "n."
+        },
+        {
+          "en": "persistent",
+          "zh": "adj. 坚持不懈的",
+          "pos": "adj."
+        },
+        {
+          "en": "personality",
+          "zh": "n. 个性，性格",
+          "pos": "n."
+        },
+        {
+          "en": "personnel",
+          "zh": "n. 人员，职员",
+          "pos": "n."
+        },
+        {
+          "en": "perspective",
+          "zh": "n. (判断事物的)角度，方法，观点",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "perspiration",
+          "zh": "n. 汗水；出汗",
+          "pos": "n."
+        },
+        {
+          "en": "perspire",
+          "zh": "vi. 出汗",
+          "pos": "vi."
+        },
+        {
+          "en": "persuade",
+          "zh": "v. 说服，劝说，（使）相信",
+          "pos": "v."
+        },
+        {
+          "en": "persuasive",
+          "zh": "adj. 有说服力的，善说服的",
+          "pos": "adj."
+        },
+        {
+          "en": "pertinent",
+          "zh": "adj. 相关的，切题的；中肯的",
+          "pos": "adj."
+        },
+        {
+          "en": "pest",
+          "zh": "n. 害虫；令人讨厌的人或物",
+          "pos": "n."
+        },
+        {
+          "en": "pesticide",
+          "zh": "n. 杀虫剂",
+          "pos": "n."
+        },
+        {
+          "en": "pestilence",
+          "zh": "n. 瘟疫",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "pestilential",
+          "zh": "adj. 引起瘟疫的",
+          "pos": "adj."
+        },
+        {
+          "en": "pet",
+          "zh": "n. 宠物",
+          "pos": "n."
+        },
+        {
+          "en": "petal",
+          "zh": "n. 花瓣",
+          "pos": "n."
+        },
+        {
+          "en": "petition",
+          "zh": "n./v. 请愿",
+          "pos": "n."
+        },
+        {
+          "en": "repetition",
+          "zh": "n. 重复；循环",
+          "pos": "n."
+        },
+        {
+          "en": "petroleum",
+          "zh": "n. 石油",
+          "pos": "n."
+        },
+        {
+          "en": "phase",
+          "zh": "n. 阶段，态",
+          "pos": "n."
+        },
+        {
+          "en": "phenomena",
+          "zh": "n. （pl）现象",
+          "pos": "n."
+        },
+        {
+          "en": "phenomenally",
+          "zh": "adv. 明白地，显著地",
+          "pos": "adv."
+        },
+        {
+          "en": "philology",
+          "zh": "n. 语言学，文献学",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Wraith",
+      "hp": 250,
+      "words": [
+        {
+          "en": "philosophy",
+          "zh": "n. 哲学；原理，人生观",
+          "pos": "n."
+        },
+        {
+          "en": "phonetics",
+          "zh": "n. 语音学",
+          "pos": "n."
+        },
+        {
+          "en": "physiological",
+          "zh": "adj. 生理学的；生理上的",
+          "pos": "adj."
+        },
+        {
+          "en": "physiology",
+          "zh": "n. 生理学",
+          "pos": "n."
+        },
+        {
+          "en": "picturesque",
+          "zh": "adj. 如画的，美丽的",
+          "pos": "adj."
+        },
+        {
+          "en": "pierce",
+          "zh": "vt. 穿透，戳穿",
+          "pos": "vt."
+        },
+        {
+          "en": "pigment",
+          "zh": "n. 色素，颜料",
+          "pos": "n."
+        },
+        {
+          "en": "pillar",
+          "zh": "n. 柱，柱子",
+          "pos": "n."
+        },
+        {
+          "en": "capillary",
+          "zh": "n. 毛细管",
+          "pos": "n."
+        },
+        {
+          "en": "pillow",
+          "zh": "n. 枕头",
+          "pos": "n."
+        },
+        {
+          "en": "perspective",
+          "zh": "n. (判断事物的)角度，方法，观点",
+          "pos": "n."
+        },
+        {
+          "en": "willow",
+          "zh": "n. 柳树",
+          "pos": "n."
+        },
+        {
+          "en": "pinch",
+          "zh": "vt. 掐，夹痛",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "pine",
+          "zh": "n. 松树",
+          "pos": "n."
+        },
+        {
+          "en": "porcupine",
+          "zh": "n. [动]豪猪, 箭猪",
+          "pos": "n."
+        },
+        {
+          "en": "pineapple",
+          "zh": "n. 凤梨, 菠萝",
+          "pos": "n."
+        },
+        {
+          "en": "spine",
+          "zh": "n. 脊骨；书脊",
+          "pos": "n."
+        },
+        {
+          "en": "spined",
+          "zh": "adj. 有背骨的, 有脊柱的",
+          "pos": "adj."
+        },
+        {
+          "en": "spinet",
+          "zh": "n. 小型立式钢琴",
+          "pos": "n."
+        },
+        {
+          "en": "pinpoint",
+          "zh": "vt. 准确地确定；用针标出…的精确位置",
+          "pos": "vt."
+        },
+        {
+          "en": "pioneer",
+          "zh": "n. 开拓者",
+          "pos": "n."
+        },
+        {
+          "en": "pioneering",
+          "zh": "adj. 开创性的",
+          "pos": "adj."
+        },
+        {
+          "en": "pique",
+          "zh": "vt. 激起，引起（好奇等）",
+          "pos": "vt."
+        },
+        {
+          "en": "pit",
+          "zh": "n. 坑，地坑；煤矿",
+          "pos": "n."
+        },
+        {
+          "en": "pitch",
+          "zh": "n. 音高",
+          "pos": "n."
+        },
+        {
+          "en": "pitcher",
+          "zh": "n. 大水罐，水壶",
+          "pos": "n."
+        },
+        {
+          "en": "pivot",
+          "zh": "n. 枢轴；中心点，重点",
+          "pos": "n."
+        },
+        {
+          "en": "pivotal",
+          "zh": "adj. 枢轴的，关键的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

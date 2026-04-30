@@ -1,0 +1,304 @@
+{
+  "day": 104,
+  "title": "Day 104 · antique → arid",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "application",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "KAY/O Unit",
+      "hp": 100,
+      "words": [
+        {
+          "en": "antique",
+          "zh": "n. 古董",
+          "pos": "n."
+        },
+        {
+          "en": "antiquity",
+          "zh": "n. 古迹；古物",
+          "pos": "n."
+        },
+        {
+          "en": "antiseptic",
+          "zh": "n. 防腐剂，杀菌剂",
+          "pos": "n."
+        },
+        {
+          "en": "anxious",
+          "zh": "adj. 渴望的；担忧的",
+          "pos": "adj."
+        },
+        {
+          "en": "apologize",
+          "zh": "vi. 道歉",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "apology",
+          "zh": "n. 道歉，歉意",
+          "pos": "n."
+        },
+        {
+          "en": "appeal",
+          "zh": "n. 吸引力",
+          "pos": "n."
+        },
+        {
+          "en": "appealing",
+          "zh": "adj. 动人的，媚人的",
+          "pos": "adj."
+        },
+        {
+          "en": "appetite",
+          "zh": "n. 胃口，食欲",
+          "pos": "n."
+        },
+        {
+          "en": "applaud",
+          "zh": "vi. 喝彩，欢呼",
+          "pos": "vi."
+        },
+        {
+          "en": "applicant",
+          "zh": "n. 申请人",
+          "pos": "n."
+        },
+        {
+          "en": "apply",
+          "zh": "v. 应用，适用",
+          "pos": "v."
+        },
+        {
+          "en": "application",
+          "zh": "n. 申请",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "appliance",
+          "zh": "n. 用具，器具",
+          "pos": "n."
+        },
+        {
+          "en": "appoint",
+          "zh": "vt. 任命，选派",
+          "pos": "vt."
+        },
+        {
+          "en": "appointment",
+          "zh": "n. 约会",
+          "pos": "n."
+        },
+        {
+          "en": "disappointment",
+          "zh": "n. 失望",
+          "pos": "n."
+        },
+        {
+          "en": "apportion",
+          "zh": "vt. （按比例或计划）分配",
+          "pos": "vt."
+        },
+        {
+          "en": "appraisal",
+          "zh": "n. 评价，估价",
+          "pos": "n."
+        },
+        {
+          "en": "appreciable",
+          "zh": "adj. (数量或变化)很大的，值得重视的",
+          "pos": "adj."
+        },
+        {
+          "en": "appreciate",
+          "zh": "vt. 赏识；鉴赏",
+          "pos": "vt."
+        },
+        {
+          "en": "appreciation",
+          "zh": "n. 欣赏；口味，兴趣",
+          "pos": "n."
+        },
+        {
+          "en": "apprentice",
+          "zh": "n. 学徒",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "approach",
+          "zh": "n. 方法",
+          "pos": "n."
+        },
+        {
+          "en": "approaching",
+          "zh": "adj. 接近的，逼近的",
+          "pos": "adj."
+        },
+        {
+          "en": "appropriate",
+          "zh": "adj. 适当的，恰当的",
+          "pos": "adj."
+        },
+        {
+          "en": "appropriation",
+          "zh": "n. 拨款",
+          "pos": "n."
+        },
+        {
+          "en": "approve",
+          "zh": "vt. 批准",
+          "pos": "vt."
+        },
+        {
+          "en": "approval",
+          "zh": "n. 赞成，正式批准",
+          "pos": "n."
+        },
+        {
+          "en": "disapproval",
+          "zh": "n. 不赞成",
+          "pos": "n."
+        },
+        {
+          "en": "approximate",
+          "zh": "v. 接近，近似",
+          "pos": "v."
+        },
+        {
+          "en": "approximately",
+          "zh": "adv. 近似地，大约",
+          "pos": "adv."
+        },
+        {
+          "en": "apt",
+          "zh": "adj. 恰当的，贴切的",
+          "pos": "adj."
+        },
+        {
+          "en": "aptly",
+          "zh": "adv. 适当地，得体地",
+          "pos": "adv."
+        },
+        {
+          "en": "application",
+          "zh": "n. 申请",
+          "pos": "n."
+        },
+        {
+          "en": "aquatic",
+          "zh": "adj. 水生的，水栖的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "aquarium",
+          "zh": "n. 水族馆",
+          "pos": "n."
+        },
+        {
+          "en": "arbitrary",
+          "zh": "adj. 专横的，专制的，武断的",
+          "pos": "adj."
+        },
+        {
+          "en": "arboreal",
+          "zh": "adj. 树栖的；树的",
+          "pos": "adj."
+        },
+        {
+          "en": "arc",
+          "zh": "n. 弧形，拱形",
+          "pos": "n."
+        },
+        {
+          "en": "archaeology",
+          "zh": "n. 考古学",
+          "pos": "n."
+        },
+        {
+          "en": "archaeological",
+          "zh": "adj. 考古学的",
+          "pos": "adj."
+        },
+        {
+          "en": "archipelago",
+          "zh": "n. 群岛",
+          "pos": "n."
+        },
+        {
+          "en": "architect",
+          "zh": "n. 建筑师",
+          "pos": "n."
+        },
+        {
+          "en": "architecture",
+          "zh": "n. 建筑；建筑学",
+          "pos": "n."
+        },
+        {
+          "en": "architectural",
+          "zh": "adj. 建筑上的；建筑学的",
+          "pos": "adj."
+        },
+        {
+          "en": "ardent",
+          "zh": "adj. 热烈投入的，极热心的",
+          "pos": "adj."
+        },
+        {
+          "en": "arduous",
+          "zh": "adj. 费力的，艰难的",
+          "pos": "adj."
+        },
+        {
+          "en": "arena",
+          "zh": "n. 竞技场，舞台",
+          "pos": "n."
+        },
+        {
+          "en": "aria",
+          "zh": "n. 独唱曲，咏叹调",
+          "pos": "n."
+        },
+        {
+          "en": "arid",
+          "zh": "adj. 干旱的；贫瘠的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

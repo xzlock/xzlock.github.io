@@ -1,0 +1,304 @@
+{
+  "day": 46,
+  "title": "Day 46 · tumble out → unwrapped",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "undercooked",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "tumble out",
+          "zh": "乱七八糟地倒出来；掉出来；仓促地(或慌乱地)移出，走出，跑出；争吵",
+          "pos": ""
+        },
+        {
+          "en": "tune in",
+          "zh": "\"na. 调谐；收听；开始",
+          "pos": ""
+        },
+        {
+          "en": "turn",
+          "zh": "\"n. 转弯；变化；(损害或有益于别人的)行为，举动，举止",
+          "pos": "n."
+        },
+        {
+          "en": "twice",
+          "zh": "adv. 两次；两倍",
+          "pos": "adv."
+        },
+        {
+          "en": "twist",
+          "zh": "\"n. 扭曲；拧；扭伤",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Iso Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "type",
+          "zh": "\"n. 类型，品种；模范；样式",
+          "pos": "n."
+        },
+        {
+          "en": "ultimately",
+          "zh": "adv. 最后；根本；基本上",
+          "pos": "adv."
+        },
+        {
+          "en": "unaware",
+          "zh": "\"adj. 不知道的，无意的；未察觉到的",
+          "pos": "adj."
+        },
+        {
+          "en": "unbelievable",
+          "zh": "adj. 难以置信的；不可信的",
+          "pos": "adj."
+        },
+        {
+          "en": "uncanny",
+          "zh": "adj. 神秘的；离奇的；可怕的",
+          "pos": "adj."
+        },
+        {
+          "en": "uncarefully",
+          "zh": "不客气",
+          "pos": ""
+        },
+        {
+          "en": "uncomfortable",
+          "zh": "adj. 不舒服的；不安的",
+          "pos": "adj."
+        },
+        {
+          "en": "uncovered",
+          "zh": "\"v. 揭露（uncover的过去分词）；脱帽致敬；移去覆盖物",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "under",
+          "zh": "\"prep. 低于，少于；在...之下",
+          "pos": "prep."
+        },
+        {
+          "en": "undercooked",
+          "zh": "adj. 煎（或烤、炸） 得火候不足的；煮得欠熟的",
+          "pos": "adj."
+        },
+        {
+          "en": "underground",
+          "zh": "\"n. 地下；地铁；地道；地下组织；秘密活动；先锋派团体",
+          "pos": "n."
+        },
+        {
+          "en": "underline",
+          "zh": "\"n. 下划线；下期节目预告",
+          "pos": "n."
+        },
+        {
+          "en": "underneath",
+          "zh": "\"prep. 在…的下面；在…的形式下；在…的支配下",
+          "pos": "prep."
+        },
+        {
+          "en": "underside",
+          "zh": "n. 下面；阴暗面",
+          "pos": "n."
+        },
+        {
+          "en": "understand",
+          "zh": "\"vi. 理解；懂得；熟悉",
+          "pos": "vi."
+        },
+        {
+          "en": "underwater",
+          "zh": "\"n. 水下",
+          "pos": "n."
+        },
+        {
+          "en": "undignified",
+          "zh": "adj. 不庄重的；无威严的",
+          "pos": "adj."
+        },
+        {
+          "en": "unearth",
+          "zh": "vt. 发掘；揭露，发现；从洞中赶出",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "unedited",
+          "zh": "adj. 未刊行的；未编辑的；未经审查的",
+          "pos": "adj."
+        },
+        {
+          "en": "unemployed",
+          "zh": "adj. 失业的；未被利用的",
+          "pos": "adj."
+        },
+        {
+          "en": "unemployment",
+          "zh": "n. 失业；失业率；失业人数",
+          "pos": "n."
+        },
+        {
+          "en": "unexpected",
+          "zh": "adj. 意外的，想不到的",
+          "pos": "adj."
+        },
+        {
+          "en": "unexplained",
+          "zh": "adj. 未经解释的；未经说明的；不清楚的",
+          "pos": "adj."
+        },
+        {
+          "en": "unfair",
+          "zh": "adj. 不公平的，不公正的",
+          "pos": "adj."
+        },
+        {
+          "en": "unfortunate",
+          "zh": "adj. 不幸的；令人遗憾的；不成功的",
+          "pos": "adj."
+        },
+        {
+          "en": "unfriendly",
+          "zh": "\"adj. 不友好的；不利的",
+          "pos": "adj."
+        },
+        {
+          "en": "unhealthy",
+          "zh": "adj. 不健康的；危险的；有害身心健康的",
+          "pos": "adj."
+        },
+        {
+          "en": "uninformed",
+          "zh": "adj. 无知的；未被通知的；未受教育的；不学无术的",
+          "pos": "adj."
+        },
+        {
+          "en": "undercooked",
+          "zh": "adj. 煎（或烤、炸） 得火候不足的；煮得欠熟的",
+          "pos": "adj."
+        },
+        {
+          "en": "unique",
+          "zh": "\"n. 独一无二的人或物",
+          "pos": "n."
+        },
+        {
+          "en": "university",
+          "zh": "n. 大学；综合性大学；大学校舍",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "unknowable",
+          "zh": "adj. 不可知的；不能知道的",
+          "pos": "adj."
+        },
+        {
+          "en": "unless",
+          "zh": "\"conj. 除非，如果不",
+          "pos": "conj."
+        },
+        {
+          "en": "unlikely",
+          "zh": "\"adj. 不太可能的；没希望的",
+          "pos": "adj."
+        },
+        {
+          "en": "unlock",
+          "zh": "\"vt. 开启；开…的锁；表露",
+          "pos": "vt."
+        },
+        {
+          "en": "unpaid",
+          "zh": "adj. 未付款的； 未缴纳的；无报酬的",
+          "pos": "adj."
+        },
+        {
+          "en": "unpleasant",
+          "zh": "adj. 讨厌的；使人不愉快的",
+          "pos": "adj."
+        },
+        {
+          "en": "unpredictable",
+          "zh": "\"n. 不可预言的事",
+          "pos": "n."
+        },
+        {
+          "en": "unsettling",
+          "zh": "\"adj. 使人不安的；（消息）扰乱的",
+          "pos": "adj."
+        },
+        {
+          "en": "unspoilt",
+          "zh": "未受破坏的",
+          "pos": ""
+        },
+        {
+          "en": "untested",
+          "zh": "adj. 未经检验的； 未试验的",
+          "pos": "adj."
+        },
+        {
+          "en": "untrustworthy",
+          "zh": "adj. 靠不住的；不能信赖的",
+          "pos": "adj."
+        },
+        {
+          "en": "unused",
+          "zh": "adj. 不用的；从未用过的",
+          "pos": "adj."
+        },
+        {
+          "en": "unusual",
+          "zh": "adj. 不寻常的；与众不同的；不平常的",
+          "pos": "adj."
+        },
+        {
+          "en": "unwind",
+          "zh": "\"vt. 放松；解开； 展开",
+          "pos": "vt."
+        },
+        {
+          "en": "unwrapped",
+          "zh": "\"adj. 解缠的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

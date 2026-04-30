@@ -1,0 +1,304 @@
+{
+  "day": 27,
+  "title": "Day 27 · meditate → museum",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "melting",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Fade Whisper",
+      "hp": 100,
+      "words": [
+        {
+          "en": "meditate",
+          "zh": "\"vt. 考虑；计划；企图",
+          "pos": "vt."
+        },
+        {
+          "en": "medium",
+          "zh": "\"adj. 中间的，中等的；半生熟的",
+          "pos": "adj."
+        },
+        {
+          "en": "meet",
+          "zh": "\"vt. 满足；遇见；对付",
+          "pos": "vt."
+        },
+        {
+          "en": "mellow",
+          "zh": "\"adj. 圆润的，柔和的；成熟的；芳醇的",
+          "pos": "adj."
+        },
+        {
+          "en": "melting",
+          "zh": "\"adj. 融化的；溶解的；动人的；感伤的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Sova Arrow",
+      "hp": 150,
+      "words": [
+        {
+          "en": "memory",
+          "zh": "n. 记忆，记忆力；内存， 存储器；回忆",
+          "pos": "n."
+        },
+        {
+          "en": "mental",
+          "zh": "\"adj. 精神的；脑力的；疯的",
+          "pos": "adj."
+        },
+        {
+          "en": "mention",
+          "zh": "\"vt. 提到，谈到；提及，论及；说起",
+          "pos": "vt."
+        },
+        {
+          "en": "mess",
+          "zh": "\"n. 混乱；食堂，伙食团；困境；脏乱的东西",
+          "pos": "n."
+        },
+        {
+          "en": "message",
+          "zh": "\"n. 消息；差使；启示；预言；广告词",
+          "pos": "n."
+        },
+        {
+          "en": "methodical",
+          "zh": "adj. 有系统的；有方法的",
+          "pos": "adj."
+        },
+        {
+          "en": "metropolitan",
+          "zh": "\"adj. 大都市的；大主教辖区的；宗主国的",
+          "pos": "adj."
+        },
+        {
+          "en": "middle",
+          "zh": "\"adj. 中间的，中部的；中级的，中等的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "migration",
+          "zh": "n. 迁移；移民；移动",
+          "pos": "n."
+        },
+        {
+          "en": "military",
+          "zh": "\"adj. 军事的；军人的；适于战争的",
+          "pos": "adj."
+        },
+        {
+          "en": "million",
+          "zh": "\"n. 百万；无数",
+          "pos": "n."
+        },
+        {
+          "en": "mind",
+          "zh": "\"n. 理智，精神；意见；智力；记忆力",
+          "pos": "n."
+        },
+        {
+          "en": "mind-numbing",
+          "zh": "adj. 令人心烦意乱的；令人厌恶的；无法想象的",
+          "pos": "adj."
+        },
+        {
+          "en": "mine",
+          "zh": "\"n. 矿，矿藏；矿山，矿井；地雷，水雷",
+          "pos": "n."
+        },
+        {
+          "en": "mineral",
+          "zh": "\"n. 矿物；（英）矿泉水；无机物；苏打水（常用复数表示）",
+          "pos": "n."
+        },
+        {
+          "en": "minimize",
+          "zh": "\"vt. 使减到最少；小看，极度轻视",
+          "pos": "vt."
+        },
+        {
+          "en": "minor",
+          "zh": "\"adj. 未成年的；次要的；较小的；小调的；二流的",
+          "pos": "adj."
+        },
+        {
+          "en": "minute",
+          "zh": "\"n. 分，分钟；片刻，一会儿；备忘录，笔记；会议记录",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "miserable",
+          "zh": "adj. 悲惨的；痛苦的；卑鄙的",
+          "pos": "adj."
+        },
+        {
+          "en": "melting",
+          "zh": "\"adj. 融化的；溶解的；动人的；感伤的",
+          "pos": "adj."
+        },
+        {
+          "en": "misery",
+          "zh": "n. 痛苦，悲惨；不幸；苦恼；穷困",
+          "pos": "n."
+        },
+        {
+          "en": "miss",
+          "zh": "\"n. 女士，小姐，年轻未婚女子",
+          "pos": "n."
+        },
+        {
+          "en": "mission",
+          "zh": "\"n. 使命，任务；代表团；布道",
+          "pos": "n."
+        },
+        {
+          "en": "mistake",
+          "zh": "\"n. 错误；误会；过失",
+          "pos": "n."
+        },
+        {
+          "en": "mistreat",
+          "zh": "vt. 虐待",
+          "pos": "vt."
+        },
+        {
+          "en": "misunderstand",
+          "zh": "vt. 误解；误会",
+          "pos": "vt."
+        },
+        {
+          "en": "mix",
+          "zh": "\"vt. 配制；混淆；使混和；使结交",
+          "pos": "vt."
+        },
+        {
+          "en": "mobile",
+          "zh": "\"adj. 可移动的；机动的；易变的；非固定的",
+          "pos": "adj."
+        },
+        {
+          "en": "model",
+          "zh": "\"n. 模型；典型；模范；模特儿；样式",
+          "pos": "n."
+        },
+        {
+          "en": "modern",
+          "zh": "\"adj. 现代的，近代的；时髦的",
+          "pos": "adj."
+        },
+        {
+          "en": "modern-looking",
+          "zh": "adj. 时髦的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "modest",
+          "zh": "adj. 谦虚的，谦逊的；适度的；端庄的；羞怯的",
+          "pos": "adj."
+        },
+        {
+          "en": "moment",
+          "zh": "n. 片刻，瞬间，时刻；重要，契机",
+          "pos": "n."
+        },
+        {
+          "en": "monument",
+          "zh": "\"n. 纪念碑；历史遗迹；不朽的作品",
+          "pos": "n."
+        },
+        {
+          "en": "mood",
+          "zh": "n. 情绪，语气；心境；气氛",
+          "pos": "n."
+        },
+        {
+          "en": "moreover",
+          "zh": "adv. 而且；此外",
+          "pos": "adv."
+        },
+        {
+          "en": "most",
+          "zh": "\"adv. 最；非常，极其；最多；几乎",
+          "pos": "adv."
+        },
+        {
+          "en": "motivate",
+          "zh": "vt. 刺激；使有动机；激发…的积极性",
+          "pos": "vt."
+        },
+        {
+          "en": "motorway",
+          "zh": "n. 高速公路，汽车高速公路",
+          "pos": "n."
+        },
+        {
+          "en": "mount",
+          "zh": "\"vt. 增加；爬上；使骑上马；安装，架置；镶嵌，嵌入；准备上演；成立（军队等）",
+          "pos": "vt."
+        },
+        {
+          "en": "move",
+          "zh": "\"n. 移动；步骤；迁居；策略",
+          "pos": "n."
+        },
+        {
+          "en": "multicoloured",
+          "zh": "adj. 多色彩的",
+          "pos": "adj."
+        },
+        {
+          "en": "multinational",
+          "zh": "\"adj. 跨国公司的；多国的",
+          "pos": "adj."
+        },
+        {
+          "en": "multiple",
+          "zh": "\"adj. 多重的；多样的；许多的",
+          "pos": "adj."
+        },
+        {
+          "en": "mumble",
+          "zh": "\"vt. 含糊地说；抿着嘴嚼",
+          "pos": "vt."
+        },
+        {
+          "en": "museum",
+          "zh": "n. 博物馆",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

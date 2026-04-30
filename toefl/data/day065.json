@@ -1,0 +1,304 @@
+{
+  "day": 65,
+  "title": "Day 065 · peak → persist",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "peak",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Cypher Eye",
+      "hp": 100,
+      "words": [
+        {
+          "en": "peak",
+          "zh": "n. 山顶；最高点，顶端",
+          "pos": "n."
+        },
+        {
+          "en": "pebble",
+          "zh": "n. 小鹅卵石",
+          "pos": "n."
+        },
+        {
+          "en": "peck",
+          "zh": "v. 啄，啄起",
+          "pos": "v."
+        },
+        {
+          "en": "peculiar",
+          "zh": "adj. 特有的，专有的",
+          "pos": "adj."
+        },
+        {
+          "en": "peculiarity",
+          "zh": "n. 特性，怪癖",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "pedagogy",
+          "zh": "n. 教育学，教学法",
+          "pos": "n."
+        },
+        {
+          "en": "pedagogic",
+          "zh": "adj. 教育学的",
+          "pos": "adj."
+        },
+        {
+          "en": "pedagogical",
+          "zh": "adj. 教育学的，教学法的",
+          "pos": "adj."
+        },
+        {
+          "en": "peer",
+          "zh": "v. 凝视，仔细看",
+          "pos": "v."
+        },
+        {
+          "en": "peerless",
+          "zh": "adj. 出类拔萃的, 无可匹敌的",
+          "pos": "adj."
+        },
+        {
+          "en": "penal",
+          "zh": "adj. 刑罚的，刑法上的",
+          "pos": "adj."
+        },
+        {
+          "en": "penalty",
+          "zh": "n. 处罚，罚款",
+          "pos": "n."
+        },
+        {
+          "en": "penchant",
+          "zh": "n. 爱好，嗜好；（强烈的）倾向",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "pendant",
+          "zh": "n. 垂饰；下垂物",
+          "pos": "n."
+        },
+        {
+          "en": "penetrate",
+          "zh": "vt. 穿透；渗透",
+          "pos": "vt."
+        },
+        {
+          "en": "penetrating",
+          "zh": "adj. （声音）响亮的，尖锐的",
+          "pos": "adj."
+        },
+        {
+          "en": "peninsula",
+          "zh": "n. 半岛",
+          "pos": "n."
+        },
+        {
+          "en": "pensive",
+          "zh": "adj. 沉思的",
+          "pos": "adj."
+        },
+        {
+          "en": "perceive",
+          "zh": "vt. 感知；察觉，发觉",
+          "pos": "vt."
+        },
+        {
+          "en": "perception",
+          "zh": "n. 理解；感知，感觉",
+          "pos": "n."
+        },
+        {
+          "en": "perceptive",
+          "zh": "adj. 感知的；有洞察力的",
+          "pos": "adj."
+        },
+        {
+          "en": "perch",
+          "zh": "n. 栖木 v. （使）栖息",
+          "pos": "n."
+        },
+        {
+          "en": "percolate",
+          "zh": "v. 过滤，渗透 n. 滤液",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "percussion",
+          "zh": "n. 打击乐器；震荡，影响",
+          "pos": "n."
+        },
+        {
+          "en": "perennial",
+          "zh": "adj. 四季不断的，终年的；（植物）多年生的",
+          "pos": "adj."
+        },
+        {
+          "en": "peak",
+          "zh": "n. 山顶；最高点，顶端",
+          "pos": "n."
+        },
+        {
+          "en": "perennially",
+          "zh": "adv. 永久地，终年地",
+          "pos": "adv."
+        },
+        {
+          "en": "perfect",
+          "zh": "adj. 完美的，理想的",
+          "pos": "adj."
+        },
+        {
+          "en": "perfection",
+          "zh": "n. 尽善尽美，完美",
+          "pos": "n."
+        },
+        {
+          "en": "perform",
+          "zh": "vt. 履行，执行",
+          "pos": "vt."
+        },
+        {
+          "en": "performance",
+          "zh": "n. 履行，执行；表演，演奏",
+          "pos": "n."
+        },
+        {
+          "en": "performer",
+          "zh": "n. 表演者",
+          "pos": "n."
+        },
+        {
+          "en": "perimeter",
+          "zh": "n. 边缘，周边地带",
+          "pos": "n."
+        },
+        {
+          "en": "periodic",
+          "zh": "adj. 周期的, 定期的",
+          "pos": "adj."
+        },
+        {
+          "en": "period",
+          "zh": "n. 时期；时代",
+          "pos": "n."
+        },
+        {
+          "en": "periodical",
+          "zh": "n. 期刊，杂志",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "peripheral",
+          "zh": "adj. 周边的，外围的",
+          "pos": "adj."
+        },
+        {
+          "en": "periphery",
+          "zh": "n. 外围",
+          "pos": "n."
+        },
+        {
+          "en": "perishable",
+          "zh": "adj. （尤指食物）易腐的，易坏的",
+          "pos": "adj."
+        },
+        {
+          "en": "permanent",
+          "zh": "adj. 长久的，永久的",
+          "pos": "adj."
+        },
+        {
+          "en": "permeate",
+          "zh": "vt. 弥漫；渗透，透过",
+          "pos": "vt."
+        },
+        {
+          "en": "permeable",
+          "zh": "adj. 有浸透性的，能透过的",
+          "pos": "adj."
+        },
+        {
+          "en": "permission",
+          "zh": "n. 许可，允许",
+          "pos": "n."
+        },
+        {
+          "en": "permissive",
+          "zh": "adj. 许可的，宽容的",
+          "pos": "adj."
+        },
+        {
+          "en": "perpendicular",
+          "zh": "adj. 垂直的，直立的",
+          "pos": "adj."
+        },
+        {
+          "en": "perpetuate",
+          "zh": "vt. 使…延续，使永存",
+          "pos": "vt."
+        },
+        {
+          "en": "perplex",
+          "zh": "vt. 迷惑，困惑；难住",
+          "pos": "vt."
+        },
+        {
+          "en": "perplexing",
+          "zh": "adj. 使人困惑的；令人费解的",
+          "pos": "adj."
+        },
+        {
+          "en": "persevere",
+          "zh": "vi. 坚持不懈，不屈不挠",
+          "pos": "vi."
+        },
+        {
+          "en": "perseverance",
+          "zh": "n. 坚定不移",
+          "pos": "n."
+        },
+        {
+          "en": "persist",
+          "zh": "vi. 坚持；持续",
+          "pos": "vi."
+        }
+      ]
+    }
+  ]
+}

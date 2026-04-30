@@ -1,0 +1,304 @@
+{
+  "day": 33,
+  "title": "Day 033 · eligible → encyclopedia",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "enclosure",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Deadlock Wire",
+      "hp": 100,
+      "words": [
+        {
+          "en": "eligible",
+          "zh": "adj. 合格的，有资格的",
+          "pos": "adj."
+        },
+        {
+          "en": "eliminate",
+          "zh": "vt. 排除，剔除",
+          "pos": "vt."
+        },
+        {
+          "en": "elimination",
+          "zh": "n. 排除，除去",
+          "pos": "n."
+        },
+        {
+          "en": "elite",
+          "zh": "n. 精英",
+          "pos": "n."
+        },
+        {
+          "en": "elixir",
+          "zh": "n. 长生不老药，万能药",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Chamber Bullet",
+      "hp": 150,
+      "words": [
+        {
+          "en": "elliptical",
+          "zh": "adj. 椭圆的",
+          "pos": "adj."
+        },
+        {
+          "en": "elongate",
+          "zh": "vt. 延长，伸长",
+          "pos": "vt."
+        },
+        {
+          "en": "eloquent",
+          "zh": "adj. 善于表达的，有口才的；雄辩的",
+          "pos": "adj."
+        },
+        {
+          "en": "elusive",
+          "zh": "adj. 难懂的，难捉摸的",
+          "pos": "adj."
+        },
+        {
+          "en": "emancipate",
+          "zh": "vt. 解放，释放",
+          "pos": "vt."
+        },
+        {
+          "en": "emancipation",
+          "zh": "n. 释放，解放",
+          "pos": "n."
+        },
+        {
+          "en": "embarrass",
+          "zh": "vt. 使尴尬，使困窘",
+          "pos": "vt."
+        },
+        {
+          "en": "embed",
+          "zh": "vt. 插入；镶嵌",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "embellish",
+          "zh": "vt. 装饰，修饰",
+          "pos": "vt."
+        },
+        {
+          "en": "embellishment",
+          "zh": "n. 装饰，修饰",
+          "pos": "n."
+        },
+        {
+          "en": "emblem",
+          "zh": "n. 象征，标志；徽章",
+          "pos": "n."
+        },
+        {
+          "en": "embody",
+          "zh": "vt. 使具体化；包含，收录",
+          "pos": "vt."
+        },
+        {
+          "en": "emboss",
+          "zh": "v. 加浮雕花纹于，使凸出",
+          "pos": "v."
+        },
+        {
+          "en": "embrace",
+          "zh": "vt. 包含",
+          "pos": "vt."
+        },
+        {
+          "en": "embroider",
+          "zh": "vt. 刺绣, 镶边；装饰",
+          "pos": "vt."
+        },
+        {
+          "en": "embroidery",
+          "zh": "n. 刺绣",
+          "pos": "n."
+        },
+        {
+          "en": "embryo",
+          "zh": "n. 胚胎；事物的萌芽期",
+          "pos": "n."
+        },
+        {
+          "en": "embryological",
+          "zh": "adj. 胚胎学的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "embryonic",
+          "zh": "adj. 胚胎的，萌芽期的",
+          "pos": "adj."
+        },
+        {
+          "en": "emerge",
+          "zh": "vi. 出现，浮现",
+          "pos": "vi."
+        },
+        {
+          "en": "emerging",
+          "zh": "adj. 正在不断出现的",
+          "pos": "adj."
+        },
+        {
+          "en": "emergence",
+          "zh": "n. 出现，形成",
+          "pos": "n."
+        },
+        {
+          "en": "emigrant",
+          "zh": "n. 移民（出国）",
+          "pos": "n."
+        },
+        {
+          "en": "eminent",
+          "zh": "adj. 著名的，显著的",
+          "pos": "adj."
+        },
+        {
+          "en": "eminence",
+          "zh": "n. 显赫的声望",
+          "pos": "n."
+        },
+        {
+          "en": "enclosure",
+          "zh": "n. 围绕；围墙",
+          "pos": "n."
+        },
+        {
+          "en": "preeminent",
+          "zh": "adj. 卓越的",
+          "pos": "adj."
+        },
+        {
+          "en": "emission",
+          "zh": "n. 散发；发射",
+          "pos": "n."
+        },
+        {
+          "en": "emit",
+          "zh": "vt. 发出，放射",
+          "pos": "vt."
+        },
+        {
+          "en": "emotional",
+          "zh": "adj. 情绪的，情感的",
+          "pos": "adj."
+        },
+        {
+          "en": "emotion",
+          "zh": "n. 情绪，强烈的情感",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "emphasize",
+          "zh": "vt. 强调, 着重",
+          "pos": "vt."
+        },
+        {
+          "en": "emphasis",
+          "zh": "n. 强调, 重点",
+          "pos": "n."
+        },
+        {
+          "en": "employ",
+          "zh": "vt. 用，使用",
+          "pos": "vt."
+        },
+        {
+          "en": "employee",
+          "zh": "n. 雇员",
+          "pos": "n."
+        },
+        {
+          "en": "employer",
+          "zh": "n. 雇主，老板",
+          "pos": "n."
+        },
+        {
+          "en": "empty",
+          "zh": "adj. 空的；空洞的，空虚的",
+          "pos": "adj."
+        },
+        {
+          "en": "enactment",
+          "zh": "n. 设定，制定",
+          "pos": "n."
+        },
+        {
+          "en": "encase",
+          "zh": "vt. 装入，包住，围",
+          "pos": "vt."
+        },
+        {
+          "en": "enclose",
+          "zh": "vt. 装入，放入封套；围绕",
+          "pos": "vt."
+        },
+        {
+          "en": "enclosure",
+          "zh": "n. 围绕；围墙",
+          "pos": "n."
+        },
+        {
+          "en": "encompass",
+          "zh": "vt. 包括，包含",
+          "pos": "vt."
+        },
+        {
+          "en": "encounter",
+          "zh": "vt. 遭遇，遇到",
+          "pos": "vt."
+        },
+        {
+          "en": "encourage",
+          "zh": "vt. 鼓励，支持",
+          "pos": "vt."
+        },
+        {
+          "en": "encroach",
+          "zh": "vi. 侵占，蚕食",
+          "pos": "vi."
+        },
+        {
+          "en": "encyclopedia",
+          "zh": "n. 百科全书",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

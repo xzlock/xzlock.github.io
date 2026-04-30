@@ -1,0 +1,304 @@
+{
+  "day": 14,
+  "title": "Day 014 · careerism → ceremony",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "celebrated",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Harbor Drop",
+      "hp": 100,
+      "words": [
+        {
+          "en": "careerism",
+          "zh": "n. 野心，追求名利",
+          "pos": "n."
+        },
+        {
+          "en": "careless",
+          "zh": "adj. 粗心的，疏忽的",
+          "pos": "adj."
+        },
+        {
+          "en": "carelessly",
+          "zh": "adv. 不注意地，粗心地",
+          "pos": "adv."
+        },
+        {
+          "en": "careful",
+          "zh": "adj. 小心的，仔细地",
+          "pos": "adj."
+        },
+        {
+          "en": "cargo",
+          "zh": "n. 货物",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Reyna Shade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "caricature",
+          "zh": "n. 讽刺画",
+          "pos": "n."
+        },
+        {
+          "en": "carnival",
+          "zh": "n. 狂欢节",
+          "pos": "n."
+        },
+        {
+          "en": "carnivorous",
+          "zh": "adj. 食肉的",
+          "pos": "adj."
+        },
+        {
+          "en": "carve",
+          "zh": "vt. 切开；雕刻",
+          "pos": "vt."
+        },
+        {
+          "en": "carver",
+          "zh": "n. 雕刻匠，雕工",
+          "pos": "n."
+        },
+        {
+          "en": "carving",
+          "zh": "n. 雕刻品，雕花",
+          "pos": "n."
+        },
+        {
+          "en": "cast",
+          "zh": "vt. 浇铸",
+          "pos": "vt."
+        },
+        {
+          "en": "casting",
+          "zh": "n. 铸件，铸造",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "cast-iron",
+          "zh": "adj. 铸铁的",
+          "pos": "adj."
+        },
+        {
+          "en": "forecast",
+          "zh": "n./vt. 预测，预报",
+          "pos": "n."
+        },
+        {
+          "en": "broadcast",
+          "zh": "n./vt. 广播；传播",
+          "pos": "n."
+        },
+        {
+          "en": "rebroadcast",
+          "zh": "vt. 重播",
+          "pos": "vt."
+        },
+        {
+          "en": "newscast",
+          "zh": "n. 新闻广播",
+          "pos": "n."
+        },
+        {
+          "en": "overcast",
+          "zh": "adj. 阴天的，阴暗的",
+          "pos": "adj."
+        },
+        {
+          "en": "casual",
+          "zh": "adj. 非正式的，随便的；漫不经心的",
+          "pos": "adj."
+        },
+        {
+          "en": "catalyst",
+          "zh": "n. 催化剂；促使事情发展的因素",
+          "pos": "n."
+        },
+        {
+          "en": "catalyze",
+          "zh": "vt. 促使；激励",
+          "pos": "vt."
+        },
+        {
+          "en": "catastrophe",
+          "zh": "n. 异常的灾祸",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "catching",
+          "zh": "adj. 传染的；有魅力的，迷人的",
+          "pos": "adj."
+        },
+        {
+          "en": "eye-catching",
+          "zh": "adj. 引人注目的，耀眼的",
+          "pos": "adj."
+        },
+        {
+          "en": "categorize",
+          "zh": "vt. 分类",
+          "pos": "vt."
+        },
+        {
+          "en": "category",
+          "zh": "n. 种类，类目；范畴",
+          "pos": "n."
+        },
+        {
+          "en": "cater",
+          "zh": "vi. 满足需要，迎合",
+          "pos": "vi."
+        },
+        {
+          "en": "caterpillar",
+          "zh": "n. 毛虫",
+          "pos": "n."
+        },
+        {
+          "en": "cathedral",
+          "zh": "n. 总教堂，大教堂",
+          "pos": "n."
+        },
+        {
+          "en": "cause",
+          "zh": "vt. 导致，引起",
+          "pos": "vt."
+        },
+        {
+          "en": "celebrated",
+          "zh": "adj. 有名的，大名鼎鼎的",
+          "pos": "adj."
+        },
+        {
+          "en": "cautious",
+          "zh": "adj. 小心的，谨慎的",
+          "pos": "adj."
+        },
+        {
+          "en": "cautiously",
+          "zh": "adv. 小心地，谨慎地",
+          "pos": "adv."
+        },
+        {
+          "en": "caution",
+          "zh": "n. 小心，谨慎",
+          "pos": "n."
+        },
+        {
+          "en": "cavern",
+          "zh": "n. 大山洞，大洞穴",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "cavity",
+          "zh": "n. 洞；腔",
+          "pos": "n."
+        },
+        {
+          "en": "cease",
+          "zh": "v. 停止，终止",
+          "pos": "v."
+        },
+        {
+          "en": "ceaseless",
+          "zh": "adj. 不停的",
+          "pos": "adj."
+        },
+        {
+          "en": "celebrated",
+          "zh": "adj. 有名的，大名鼎鼎的",
+          "pos": "adj."
+        },
+        {
+          "en": "celebrate",
+          "zh": "vt. 庆祝，祝贺；表扬，赞美",
+          "pos": "vt."
+        },
+        {
+          "en": "celebrity",
+          "zh": "n. 名人",
+          "pos": "n."
+        },
+        {
+          "en": "celestial",
+          "zh": "adj. 天体的；天上的",
+          "pos": "adj."
+        },
+        {
+          "en": "cell",
+          "zh": "n. 细胞，单人牢房，电池",
+          "pos": "n."
+        },
+        {
+          "en": "cellist",
+          "zh": "n. 大提琴家",
+          "pos": "n."
+        },
+        {
+          "en": "cello",
+          "zh": "n. 大提琴",
+          "pos": "n."
+        },
+        {
+          "en": "census",
+          "zh": "n. 人口调查，人口普查",
+          "pos": "n."
+        },
+        {
+          "en": "centennial",
+          "zh": "n. 百年纪念",
+          "pos": "n."
+        },
+        {
+          "en": "centigrade",
+          "zh": "adj. 摄氏（温度）的",
+          "pos": "adj."
+        },
+        {
+          "en": "ceremonial",
+          "zh": "n. 仪式",
+          "pos": "n."
+        },
+        {
+          "en": "ceremony",
+          "zh": "n. 典礼，仪式；礼节",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

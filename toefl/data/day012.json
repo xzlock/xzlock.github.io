@@ -1,0 +1,304 @@
+{
+  "day": 12,
+  "title": "Day 012 · boulder → bulky",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "bouquet",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "KAY/O Unit",
+      "hp": 100,
+      "words": [
+        {
+          "en": "boulder",
+          "zh": "n. 巨石",
+          "pos": "n."
+        },
+        {
+          "en": "bounce",
+          "zh": "vi. 跳起，弹回",
+          "pos": "vi."
+        },
+        {
+          "en": "bound",
+          "zh": "adj. 被束缚的；有义务的",
+          "pos": "adj."
+        },
+        {
+          "en": "boundary",
+          "zh": "n. 分界线，边界",
+          "pos": "n."
+        },
+        {
+          "en": "boundless",
+          "zh": "adj. 无限的，无边无际的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Iso Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "bouquet",
+          "zh": "n. 花束",
+          "pos": "n."
+        },
+        {
+          "en": "bow",
+          "zh": "n. 弓；弓形",
+          "pos": "n."
+        },
+        {
+          "en": "bowlegged",
+          "zh": "adj. 弯脚的",
+          "pos": "adj."
+        },
+        {
+          "en": "bowl",
+          "zh": "n. 碗，碗状物",
+          "pos": "n."
+        },
+        {
+          "en": "elbow",
+          "zh": "n. 肘",
+          "pos": "n."
+        },
+        {
+          "en": "rainbow",
+          "zh": "n. 彩虹",
+          "pos": "n."
+        },
+        {
+          "en": "braid",
+          "zh": "vt. 编织",
+          "pos": "vt."
+        },
+        {
+          "en": "brain",
+          "zh": "n. 脑，大脑；头脑，智力",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "brawl",
+          "zh": "n. 争吵",
+          "pos": "n."
+        },
+        {
+          "en": "brawling",
+          "zh": "n. 争吵，喧嚷",
+          "pos": "n."
+        },
+        {
+          "en": "breach",
+          "zh": "vt. 打破，突破",
+          "pos": "vt."
+        },
+        {
+          "en": "breakup",
+          "zh": "n. 分裂，分离",
+          "pos": "n."
+        },
+        {
+          "en": "breathless",
+          "zh": "adj. 无声息的，喘不过气来的",
+          "pos": "adj."
+        },
+        {
+          "en": "breathing",
+          "zh": "n. 呼吸",
+          "pos": "n."
+        },
+        {
+          "en": "breath",
+          "zh": "n. 呼吸，气息",
+          "pos": "n."
+        },
+        {
+          "en": "breathe",
+          "zh": "v. 呼吸，呼出",
+          "pos": "v."
+        },
+        {
+          "en": "breathtaking",
+          "zh": "adj. 令人激动的；惊人的",
+          "pos": "adj."
+        },
+        {
+          "en": "breed",
+          "zh": "vt. 养育，繁殖",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "crossbreeding",
+          "zh": "n. 异种交配，杂交",
+          "pos": "n."
+        },
+        {
+          "en": "bouquet",
+          "zh": "n. 花束",
+          "pos": "n."
+        },
+        {
+          "en": "breeze",
+          "zh": "n. 微风",
+          "pos": "n."
+        },
+        {
+          "en": "brighten",
+          "zh": "v. 点亮",
+          "pos": "v."
+        },
+        {
+          "en": "brilliance",
+          "zh": "n. 聪明；辉煌",
+          "pos": "n."
+        },
+        {
+          "en": "brilliantly",
+          "zh": "adv. 辉煌地，灿烂地",
+          "pos": "adv."
+        },
+        {
+          "en": "brim",
+          "zh": "n. 边；边缘",
+          "pos": "n."
+        },
+        {
+          "en": "broad-brimmed",
+          "zh": "adj. 宽边的",
+          "pos": "adj."
+        },
+        {
+          "en": "briny",
+          "zh": "adj. 盐水的，咸的",
+          "pos": "adj."
+        },
+        {
+          "en": "brisk",
+          "zh": "adj. 活泼的，轻快的",
+          "pos": "adj."
+        },
+        {
+          "en": "briskness",
+          "zh": "n. 敏捷，活泼",
+          "pos": "n."
+        },
+        {
+          "en": "brittle",
+          "zh": "adj. 易碎的",
+          "pos": "adj."
+        },
+        {
+          "en": "broaden",
+          "zh": "v. 放宽，变宽，扩大",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Ascendant Warlord",
+      "hp": 300,
+      "words": [
+        {
+          "en": "brochure",
+          "zh": "n. 小册子",
+          "pos": "n."
+        },
+        {
+          "en": "bronze",
+          "zh": "n. 青铜；铜像",
+          "pos": "n."
+        },
+        {
+          "en": "sun-bronzed",
+          "zh": "adj. 被太阳晒成古铜色的",
+          "pos": "adj."
+        },
+        {
+          "en": "brook",
+          "zh": "n. 小河",
+          "pos": "n."
+        },
+        {
+          "en": "brown",
+          "zh": "n./adj. 褐色（的），棕色（的）",
+          "pos": "n."
+        },
+        {
+          "en": "brownish",
+          "zh": "adj. 成褐色的",
+          "pos": "adj."
+        },
+        {
+          "en": "bubble",
+          "zh": "n. 气泡，水泡",
+          "pos": "n."
+        },
+        {
+          "en": "buckle",
+          "zh": "n. 皮带扣环",
+          "pos": "n."
+        },
+        {
+          "en": "bud",
+          "zh": "n. 芽，蓓蕾",
+          "pos": "n."
+        },
+        {
+          "en": "buddy",
+          "zh": "n. 密友，伙伴",
+          "pos": "n."
+        },
+        {
+          "en": "budget",
+          "zh": "n. 预算",
+          "pos": "n."
+        },
+        {
+          "en": "buggy",
+          "zh": "n. 小马车，童车",
+          "pos": "n."
+        },
+        {
+          "en": "bulb",
+          "zh": "n. 球茎，球状物",
+          "pos": "n."
+        },
+        {
+          "en": "bulk",
+          "zh": "n. 大批；大部分",
+          "pos": "n."
+        },
+        {
+          "en": "bulky",
+          "zh": "adj. 庞大的，笨重的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 5,
+  "title": "Day 05 · belong → brochure",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "bridle",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Cypher Eye",
+      "hp": 100,
+      "words": [
+        {
+          "en": "belong",
+          "zh": "vi. 属于，应归入；居住；适宜；应被放置",
+          "pos": "vi."
+        },
+        {
+          "en": "below",
+          "zh": "\"prep. 在…下面",
+          "pos": "prep."
+        },
+        {
+          "en": "benefit",
+          "zh": "\"n. 利益，好处；救济金",
+          "pos": "n."
+        },
+        {
+          "en": "besides",
+          "zh": "\"prep. 除…之外",
+          "pos": "prep."
+        },
+        {
+          "en": "best",
+          "zh": "\"n. 最好的人，最好的事物；最佳状态",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Neon Pulse",
+      "hp": 150,
+      "words": [
+        {
+          "en": "betray",
+          "zh": "vt. 背叛；出卖；泄露（秘密）；露出…迹象",
+          "pos": "vt."
+        },
+        {
+          "en": "bewildering",
+          "zh": "\"adj. 使人困惑的；令人产生混乱的",
+          "pos": "adj."
+        },
+        {
+          "en": "beyond",
+          "zh": "\"prep. 超过；越过；那一边；在...较远的一边",
+          "pos": "prep."
+        },
+        {
+          "en": "bite",
+          "zh": "\"n. 咬；一口；咬伤；刺痛",
+          "pos": "n."
+        },
+        {
+          "en": "bizarre",
+          "zh": "adj. 奇异的（指态度，容貌，款式等）",
+          "pos": "adj."
+        },
+        {
+          "en": "blame",
+          "zh": "\"n. 责备；责任；过失",
+          "pos": "n."
+        },
+        {
+          "en": "blank",
+          "zh": "\"n. 空白；空虚；空白表格",
+          "pos": "n."
+        },
+        {
+          "en": "blast",
+          "zh": "\"n. 爆炸；冲击波；一阵",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "blindness",
+          "zh": "n. 失明；无知；盲区",
+          "pos": "n."
+        },
+        {
+          "en": "block",
+          "zh": "\"n. 块；街区；大厦；障碍物",
+          "pos": "n."
+        },
+        {
+          "en": "blog",
+          "zh": "n. 博客；部落格；网络日志",
+          "pos": "n."
+        },
+        {
+          "en": "blow",
+          "zh": "\"n. 吹；打击；殴打",
+          "pos": "n."
+        },
+        {
+          "en": "blunder",
+          "zh": "\"n. 大错",
+          "pos": "n."
+        },
+        {
+          "en": "blurt",
+          "zh": "vt. 未加思索地冲口说出；突然说出",
+          "pos": "vt."
+        },
+        {
+          "en": "blush",
+          "zh": "\"n. 脸红；红色；羞愧",
+          "pos": "n."
+        },
+        {
+          "en": "boast",
+          "zh": "\"n. 自夸；值得夸耀的事物，引以为荣的事物",
+          "pos": "n."
+        },
+        {
+          "en": "bolster",
+          "zh": "\"n. 支持；长枕",
+          "pos": "n."
+        },
+        {
+          "en": "bombard",
+          "zh": "\"n. 射石炮",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "bonus",
+          "zh": "n. 奖金；红利；额外津贴",
+          "pos": "n."
+        },
+        {
+          "en": "boom",
+          "zh": "\"n. 繁荣；吊杆；隆隆声",
+          "pos": "n."
+        },
+        {
+          "en": "boredom",
+          "zh": "n. 厌倦；令人厌烦的事物",
+          "pos": "n."
+        },
+        {
+          "en": "born",
+          "zh": "\"v. 出世（bear的过去分词）",
+          "pos": "v."
+        },
+        {
+          "en": "boss",
+          "zh": "\"n. 老板；首领；工头",
+          "pos": "n."
+        },
+        {
+          "en": "bother",
+          "zh": "\"n. 麻烦；烦恼",
+          "pos": "n."
+        },
+        {
+          "en": "bottom",
+          "zh": "\"n. 底部；末端；臀部；尽头",
+          "pos": "n."
+        },
+        {
+          "en": "bounce",
+          "zh": "\"n. 跳；弹力；活力",
+          "pos": "n."
+        },
+        {
+          "en": "bound",
+          "zh": "\"n. 范围；跳跃",
+          "pos": "n."
+        },
+        {
+          "en": "boundary",
+          "zh": "n. 边界；范围；分界线",
+          "pos": "n."
+        },
+        {
+          "en": "bow out of",
+          "zh": "\"取消……",
+          "pos": ""
+        },
+        {
+          "en": "branch",
+          "zh": "\"n. 树枝，分枝；分部；支流",
+          "pos": "n."
+        },
+        {
+          "en": "bridle",
+          "zh": "\"n. 缰绳；马勒；系带；约束物",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "break",
+          "zh": "\"vi. 打破；折断；弄坏；削弱",
+          "pos": "vi."
+        },
+        {
+          "en": "breakneck",
+          "zh": "adj. 非常危险的；要使颈骨折断似的；极快的",
+          "pos": "adj."
+        },
+        {
+          "en": "breath",
+          "zh": "n. 呼吸，气息；一口气，（呼吸的）一次；瞬间，瞬息；微风；迹象；无声音，气音",
+          "pos": "n."
+        },
+        {
+          "en": "breathtaking",
+          "zh": "adj. 惊人的；惊险的；令人激动的",
+          "pos": "adj."
+        },
+        {
+          "en": "breed",
+          "zh": "\"n. 品种；种类，类型",
+          "pos": "n."
+        },
+        {
+          "en": "breeze",
+          "zh": "\"n. 微风；轻而易举的事；煤屑；焦炭渣；小风波",
+          "pos": "n."
+        },
+        {
+          "en": "bridle",
+          "zh": "\"n. 缰绳；马勒；系带；约束物",
+          "pos": "n."
+        },
+        {
+          "en": "brief",
+          "zh": "\"n. 摘要，简报；概要，诉书",
+          "pos": "n."
+        },
+        {
+          "en": "bright",
+          "zh": "\"n. 车头灯光",
+          "pos": "n."
+        },
+        {
+          "en": "brilliant",
+          "zh": "adj. 灿烂的，闪耀的；杰出的；有才气的；精彩的，绝妙的",
+          "pos": "adj."
+        },
+        {
+          "en": "brim with",
+          "zh": "洋溢；洋溢着；充满着",
+          "pos": ""
+        },
+        {
+          "en": "bring",
+          "zh": "vt. 带来；促使；引起；使某人处于某种情况或境地",
+          "pos": "vt."
+        },
+        {
+          "en": "broadcast",
+          "zh": "\"n. 广播；播音；广播节目",
+          "pos": "n."
+        },
+        {
+          "en": "broaden",
+          "zh": "\"vt. 使扩大；使变宽",
+          "pos": "vt."
+        },
+        {
+          "en": "brochure",
+          "zh": "n. 手册，小册子",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

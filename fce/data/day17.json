@@ -1,0 +1,304 @@
+{
+  "day": 17,
+  "title": "Day 17 · filing → formidable",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "fit",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Astra Dust",
+      "hp": 100,
+      "words": [
+        {
+          "en": "filing",
+          "zh": "\"n. 文件归档；锉；锉屑",
+          "pos": "n."
+        },
+        {
+          "en": "fill",
+          "zh": "\"n. 满足；填满的量；装填物",
+          "pos": "n."
+        },
+        {
+          "en": "filthy",
+          "zh": "adj. 肮脏的；污秽的；猥亵的",
+          "pos": "adj."
+        },
+        {
+          "en": "final",
+          "zh": "\"n. 决赛；期末考试；当日报纸的末版",
+          "pos": "n."
+        },
+        {
+          "en": "finance",
+          "zh": "\"n. 财政，财政学；金融",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Iso Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "financial",
+          "zh": "adj. 金融的；财政的，财务的",
+          "pos": "adj."
+        },
+        {
+          "en": "find",
+          "zh": "\"n. 发现",
+          "pos": "n."
+        },
+        {
+          "en": "finish",
+          "zh": "\"n. 结束；完美；回味（葡萄酒）",
+          "pos": "n."
+        },
+        {
+          "en": "fire",
+          "zh": "\"n. 火；火灾；炮火；炉火；热情；激情；磨难",
+          "pos": "n."
+        },
+        {
+          "en": "first",
+          "zh": "\"num. 第一",
+          "pos": "num."
+        },
+        {
+          "en": "first-rate",
+          "zh": "\"adj. 第一流的；最上等的",
+          "pos": "adj."
+        },
+        {
+          "en": "fit",
+          "zh": "\"n. 合身；发作；痉挛",
+          "pos": "n."
+        },
+        {
+          "en": "fix",
+          "zh": "\"n. 困境；方位；贿赂",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "flag",
+          "zh": "\"n. 标志；旗子",
+          "pos": "n."
+        },
+        {
+          "en": "flap",
+          "zh": "\"n. 拍打，拍打声；神经紧张； 襟翼",
+          "pos": "n."
+        },
+        {
+          "en": "flat",
+          "zh": "\"n. 平地；公寓；平面",
+          "pos": "n."
+        },
+        {
+          "en": "flavour",
+          "zh": "\"n. 香味；滋味",
+          "pos": "n."
+        },
+        {
+          "en": "flee",
+          "zh": "\"vt. 逃跑，逃走；逃避",
+          "pos": "vt."
+        },
+        {
+          "en": "fleeting",
+          "zh": "\"adj. 飞逝的；转瞬间的",
+          "pos": "adj."
+        },
+        {
+          "en": "flexible",
+          "zh": "adj. 灵活的；柔韧的；易弯曲的",
+          "pos": "adj."
+        },
+        {
+          "en": "flick",
+          "zh": "\"n. 弹开；快速的轻打；轻打声",
+          "pos": "n."
+        },
+        {
+          "en": "flight",
+          "zh": "\"n. 飞行；班机；逃走",
+          "pos": "n."
+        },
+        {
+          "en": "float",
+          "zh": "\"n. 彩车，花车；漂流物；浮舟；浮萍",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Clove Revive",
+      "hp": 250,
+      "words": [
+        {
+          "en": "flock",
+          "zh": "\"n. 群；棉束（等于floc）",
+          "pos": "n."
+        },
+        {
+          "en": "flood",
+          "zh": "\"n. 洪水；泛滥；一大批",
+          "pos": "n."
+        },
+        {
+          "en": "flow",
+          "zh": "\"n. 流动；流量；涨潮，泛滥",
+          "pos": "n."
+        },
+        {
+          "en": "fluency",
+          "zh": "\"n. （语言、文章）流利；（技能）娴熟",
+          "pos": "n."
+        },
+        {
+          "en": "fluffy",
+          "zh": "adj. 蓬松的；松软的；毛茸茸的；无内容的",
+          "pos": "adj."
+        },
+        {
+          "en": "flush",
+          "zh": "\"n. 激动，洋溢；面红；萌芽；旺盛；奔流",
+          "pos": "n."
+        },
+        {
+          "en": "flutter",
+          "zh": "\"n. 摆动；鼓翼；烦扰",
+          "pos": "n."
+        },
+        {
+          "en": "focus",
+          "zh": "\"n. 焦点；中心；清晰；焦距",
+          "pos": "n."
+        },
+        {
+          "en": "folk",
+          "zh": "\"n. 民族；人们；亲属（复数）",
+          "pos": "n."
+        },
+        {
+          "en": "follow",
+          "zh": "\"n. 跟随；追随",
+          "pos": "n."
+        },
+        {
+          "en": "fond",
+          "zh": "adj. 喜欢的；温柔的；宠爱的",
+          "pos": "adj."
+        },
+        {
+          "en": "foolish",
+          "zh": "adj. 愚蠢的；傻的",
+          "pos": "adj."
+        },
+        {
+          "en": "fit",
+          "zh": "\"n. 合身；发作；痉挛",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Kingdom Titan",
+      "hp": 300,
+      "words": [
+        {
+          "en": "footpath",
+          "zh": "n. 人行道；小路；小径",
+          "pos": "n."
+        },
+        {
+          "en": "footprint",
+          "zh": "n. 足迹；脚印",
+          "pos": "n."
+        },
+        {
+          "en": "forbid",
+          "zh": "vt. 禁止；不准；不允许；严禁",
+          "pos": "vt."
+        },
+        {
+          "en": "force",
+          "zh": "\"n. 力量；武力；军队；魄力",
+          "pos": "n."
+        },
+        {
+          "en": "forecast",
+          "zh": "\"n. 预测，预报；预想",
+          "pos": "n."
+        },
+        {
+          "en": "foreign",
+          "zh": "adj. 外国的；外交的；异质的；不相关的",
+          "pos": "adj."
+        },
+        {
+          "en": "foresee",
+          "zh": "vt. 预见；预知",
+          "pos": "vt."
+        },
+        {
+          "en": "forever",
+          "zh": "adv. 永远；不断地；常常",
+          "pos": "adv."
+        },
+        {
+          "en": "forget",
+          "zh": "\"vi. 忘记",
+          "pos": "vi."
+        },
+        {
+          "en": "forgive",
+          "zh": "\"vt. 原谅；免除（债务、义务等）",
+          "pos": "vt."
+        },
+        {
+          "en": "form",
+          "zh": "\"n. 形式，形状；形态，外形；方式；表格",
+          "pos": "n."
+        },
+        {
+          "en": "formal",
+          "zh": "\"n. 正式的社交活动；夜礼服",
+          "pos": "n."
+        },
+        {
+          "en": "formation",
+          "zh": "n. 形成；构造；编队",
+          "pos": "n."
+        },
+        {
+          "en": "form-filing",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "formidable",
+          "zh": "adj. 强大的；可怕的；令人敬畏的；艰难的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

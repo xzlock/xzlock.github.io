@@ -1,0 +1,304 @@
+{
+  "day": 83,
+  "title": "Day 083 · slimy → spaceship",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "smother",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Harbor Drop",
+      "hp": 100,
+      "words": [
+        {
+          "en": "slimy",
+          "zh": "adj. 黏糊糊的；（分泌）黏液的",
+          "pos": "adj."
+        },
+        {
+          "en": "slip",
+          "zh": "n. 片，纸片",
+          "pos": "n."
+        },
+        {
+          "en": "slipper",
+          "zh": "n. 拖鞋",
+          "pos": "n."
+        },
+        {
+          "en": "slippery",
+          "zh": "adj. （物体表面）滑的，光滑的",
+          "pos": "adj."
+        },
+        {
+          "en": "slope",
+          "zh": "n. 斜坡，斜面",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Breach Quake",
+      "hp": 150,
+      "words": [
+        {
+          "en": "sloping",
+          "zh": "adj. 倾斜的，有坡度的",
+          "pos": "adj."
+        },
+        {
+          "en": "sloth",
+          "zh": "n. 树懒；怠惰，懒惰",
+          "pos": "n."
+        },
+        {
+          "en": "slothful",
+          "zh": "adj. 迟钝的，懒惰的",
+          "pos": "adj."
+        },
+        {
+          "en": "sluggish",
+          "zh": "adj. 行动迟缓的；不活泼的",
+          "pos": "adj."
+        },
+        {
+          "en": "slum",
+          "zh": "n. 贫民窟",
+          "pos": "n."
+        },
+        {
+          "en": "smart",
+          "zh": "adj. 巧妙的，聪明的",
+          "pos": "adj."
+        },
+        {
+          "en": "smelting",
+          "zh": "n. 冶炼",
+          "pos": "n."
+        },
+        {
+          "en": "smog",
+          "zh": "n. 烟雾",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Drone",
+      "hp": 200,
+      "words": [
+        {
+          "en": "smoothly",
+          "zh": "adv. 平稳地；顺利地",
+          "pos": "adv."
+        },
+        {
+          "en": "smother",
+          "zh": "vt. 使窒息",
+          "pos": "vt."
+        },
+        {
+          "en": "smuggle",
+          "zh": "vt. 走私",
+          "pos": "vt."
+        },
+        {
+          "en": "snap",
+          "zh": "v. 突然折断",
+          "pos": "v."
+        },
+        {
+          "en": "snippet",
+          "zh": "adj. 小片，片段；摘录",
+          "pos": "adj."
+        },
+        {
+          "en": "snug",
+          "zh": "adj. 温暖舒适的",
+          "pos": "adj."
+        },
+        {
+          "en": "sociable",
+          "zh": "adj. 好交际的，友善的",
+          "pos": "adj."
+        },
+        {
+          "en": "solar",
+          "zh": "adj. 太阳的",
+          "pos": "adj."
+        },
+        {
+          "en": "solder",
+          "zh": "vt. 焊接，焊在一起",
+          "pos": "vt."
+        },
+        {
+          "en": "soldier",
+          "zh": "n. 军人，士兵",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "smother",
+          "zh": "vt. 使窒息",
+          "pos": "vt."
+        },
+        {
+          "en": "sole",
+          "zh": "adj. 单独的，惟一的",
+          "pos": "adj."
+        },
+        {
+          "en": "solely",
+          "zh": "adv. 独自地，单独地",
+          "pos": "adv."
+        },
+        {
+          "en": "solemn",
+          "zh": "adj. 严肃的；庄严的，隆重的",
+          "pos": "adj."
+        },
+        {
+          "en": "solicit",
+          "zh": "vt. 恳求，乞求",
+          "pos": "vt."
+        },
+        {
+          "en": "solicitor",
+          "zh": "n. 律师，法律顾问",
+          "pos": "n."
+        },
+        {
+          "en": "solidarity",
+          "zh": "n. 团结，团结一致",
+          "pos": "n."
+        },
+        {
+          "en": "solidify",
+          "zh": "vt. 使凝结，使团结，使巩固",
+          "pos": "vt."
+        },
+        {
+          "en": "solitary",
+          "zh": "adj. 孤独的；独居的",
+          "pos": "adj."
+        },
+        {
+          "en": "solitude",
+          "zh": "n. 孤独；独处",
+          "pos": "n."
+        },
+        {
+          "en": "solo",
+          "zh": "n. 独奏曲",
+          "pos": "n."
+        },
+        {
+          "en": "soloist",
+          "zh": "n. 独奏者，独唱者",
+          "pos": "n."
+        },
+        {
+          "en": "soluble",
+          "zh": "adj. 可溶的，可溶解的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Alpha Phantom",
+      "hp": 300,
+      "words": [
+        {
+          "en": "solution",
+          "zh": "n. 解答，解决",
+          "pos": "n."
+        },
+        {
+          "en": "somewhat",
+          "zh": "adv. 稍微，有点",
+          "pos": "adv."
+        },
+        {
+          "en": "soothe",
+          "zh": "vt. 使（某人情绪）平静，安慰；使（痛苦，疼痛）缓和或减轻",
+          "pos": "vt."
+        },
+        {
+          "en": "sophisticated",
+          "zh": "adj. (事物)复杂的；(人)久经事故的",
+          "pos": "adj."
+        },
+        {
+          "en": "unsophisticated",
+          "zh": "adj. 不懂世故的, 单纯的",
+          "pos": "adj."
+        },
+        {
+          "en": "sophistication",
+          "zh": "n. 老练；精致复杂",
+          "pos": "n."
+        },
+        {
+          "en": "sort",
+          "zh": "n./v. 种类，分类",
+          "pos": "n."
+        },
+        {
+          "en": "sour",
+          "zh": "adj. 酸的",
+          "pos": "adj."
+        },
+        {
+          "en": "souvenir",
+          "zh": "n. 纪念品",
+          "pos": "n."
+        },
+        {
+          "en": "sovereign",
+          "zh": "n. 君主；统治",
+          "pos": "n."
+        },
+        {
+          "en": "sow",
+          "zh": "vt. 播种",
+          "pos": "vt."
+        },
+        {
+          "en": "soybean",
+          "zh": "n. 大豆",
+          "pos": "n."
+        },
+        {
+          "en": "bean",
+          "zh": "n. 豆子",
+          "pos": "n."
+        },
+        {
+          "en": "soy",
+          "zh": "n. 大豆",
+          "pos": "n."
+        },
+        {
+          "en": "spaceship",
+          "zh": "n. 宇宙飞船",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

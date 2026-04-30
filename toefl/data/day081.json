@@ -1,0 +1,304 @@
+{
+  "day": 81,
+  "title": "Day 081 · semester → shortcut",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "serrated",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Skye Pup",
+      "hp": 100,
+      "words": [
+        {
+          "en": "semester",
+          "zh": "n. 学期",
+          "pos": "n."
+        },
+        {
+          "en": "senator",
+          "zh": "n. 参议员",
+          "pos": "n."
+        },
+        {
+          "en": "sensational",
+          "zh": "adj. 极好的，绝妙的；引起轰动的",
+          "pos": "adj."
+        },
+        {
+          "en": "sensation",
+          "zh": "n. 感觉，知觉",
+          "pos": "n."
+        },
+        {
+          "en": "sensible",
+          "zh": "adj. 明智的，合理的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Chamber Bullet",
+      "hp": 150,
+      "words": [
+        {
+          "en": "sensibility",
+          "zh": "n. 敏感性，感性",
+          "pos": "n."
+        },
+        {
+          "en": "sensitive",
+          "zh": "adj. 灵敏的",
+          "pos": "adj."
+        },
+        {
+          "en": "sensitivity",
+          "zh": "n. 敏感",
+          "pos": "n."
+        },
+        {
+          "en": "photosensitive",
+          "zh": "adj. [物] 感光性的",
+          "pos": "adj."
+        },
+        {
+          "en": "sensory",
+          "zh": "adj. 感觉的，感官的",
+          "pos": "adj."
+        },
+        {
+          "en": "sentimental",
+          "zh": "adj. 感伤性的, 感情脆弱的",
+          "pos": "adj."
+        },
+        {
+          "en": "sentimentalize",
+          "zh": "v. 伤感",
+          "pos": "v."
+        },
+        {
+          "en": "sentimentalism",
+          "zh": "n. 感情主意，感情用事",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "sequence",
+          "zh": "n. 序列；顺序",
+          "pos": "n."
+        },
+        {
+          "en": "serene",
+          "zh": "adj. 平静的，安详的",
+          "pos": "adj."
+        },
+        {
+          "en": "serious",
+          "zh": "adj. 严肃的，认真的",
+          "pos": "adj."
+        },
+        {
+          "en": "seriously",
+          "zh": "adv. 认真地；庄重地",
+          "pos": "adv."
+        },
+        {
+          "en": "serrated",
+          "zh": "adj. 锯齿状的",
+          "pos": "adj."
+        },
+        {
+          "en": "setting",
+          "zh": "n. 背景，环境；装置",
+          "pos": "n."
+        },
+        {
+          "en": "sewer",
+          "zh": "n. 下水道；裁缝师",
+          "pos": "n."
+        },
+        {
+          "en": "shade",
+          "zh": "n. 阴，阴凉处；阴影",
+          "pos": "n."
+        },
+        {
+          "en": "lampshade",
+          "zh": "n. 灯罩",
+          "pos": "n."
+        },
+        {
+          "en": "shaft",
+          "zh": "n. 杆状物，轴",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "shallow",
+          "zh": "adj. 浅的",
+          "pos": "adj."
+        },
+        {
+          "en": "sharpen",
+          "zh": "vt. 消尖；使敏锐，使敏捷",
+          "pos": "vt."
+        },
+        {
+          "en": "sharply",
+          "zh": "adv. 突然地，猛烈地",
+          "pos": "adv."
+        },
+        {
+          "en": "shatter",
+          "zh": "v. 使粉碎，破碎",
+          "pos": "v."
+        },
+        {
+          "en": "shear",
+          "zh": "v. 剪，修剪，剪切",
+          "pos": "v."
+        },
+        {
+          "en": "sheath",
+          "zh": "n. 鞘，外壳",
+          "pos": "n."
+        },
+        {
+          "en": "shed",
+          "zh": "vt. 脱落，蜕",
+          "pos": "vt."
+        },
+        {
+          "en": "serrated",
+          "zh": "adj. 锯齿状的",
+          "pos": "adj."
+        },
+        {
+          "en": "sheer",
+          "zh": "adj. 陡峭的",
+          "pos": "adj."
+        },
+        {
+          "en": "shell",
+          "zh": "n. 壳",
+          "pos": "n."
+        },
+        {
+          "en": "eggshell",
+          "zh": "n. 蛋壳",
+          "pos": "n."
+        },
+        {
+          "en": "shellfish",
+          "zh": "n. 贝，有壳的水生动物",
+          "pos": "n."
+        },
+        {
+          "en": "shelter",
+          "zh": "n. 掩蔽处；庇护所",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "sheltered",
+          "zh": "adj. 遮蔽的",
+          "pos": "adj."
+        },
+        {
+          "en": "shield",
+          "zh": "v. 庇护，保护",
+          "pos": "v."
+        },
+        {
+          "en": "shift",
+          "zh": "v. 移动，改变位置或方向",
+          "pos": "v."
+        },
+        {
+          "en": "shifting",
+          "zh": "adj. 变动的；运动的",
+          "pos": "adj."
+        },
+        {
+          "en": "shine",
+          "zh": "vi. 照耀，发光",
+          "pos": "vi."
+        },
+        {
+          "en": "shining",
+          "zh": "adj. 发亮的，华丽的",
+          "pos": "adj."
+        },
+        {
+          "en": "shiny",
+          "zh": "adj. 有光泽的，发光的",
+          "pos": "adj."
+        },
+        {
+          "en": "sunshine",
+          "zh": "n. 阳光",
+          "pos": "n."
+        },
+        {
+          "en": "shipment",
+          "zh": "n. 装运；装载的货物",
+          "pos": "n."
+        },
+        {
+          "en": "shipwright",
+          "zh": "n. 造船工人",
+          "pos": "n."
+        },
+        {
+          "en": "wright",
+          "zh": "n. 建造者，制造者",
+          "pos": "n."
+        },
+        {
+          "en": "shock",
+          "zh": "n. 震动，震惊",
+          "pos": "n."
+        },
+        {
+          "en": "shocking",
+          "zh": "adj. 骇人听闻的",
+          "pos": "adj."
+        },
+        {
+          "en": "shocked",
+          "zh": "adj. 震惊的，震撼的",
+          "pos": "adj."
+        },
+        {
+          "en": "shortcut",
+          "zh": "n. 捷径",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

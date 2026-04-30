@@ -1,0 +1,304 @@
+{
+  "day": 18,
+  "title": "Day 018 · commuter → compute",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "comprise",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Astra Dust",
+      "hp": 100,
+      "words": [
+        {
+          "en": "commuter",
+          "zh": "n. 经常往返者",
+          "pos": "n."
+        },
+        {
+          "en": "telecommuter",
+          "zh": "n. （通过在线方式）远距离工作者",
+          "pos": "n."
+        },
+        {
+          "en": "compact",
+          "zh": "adj. 紧凑的，紧密的；简洁的",
+          "pos": "adj."
+        },
+        {
+          "en": "compaction",
+          "zh": "n. 压紧",
+          "pos": "n."
+        },
+        {
+          "en": "companion",
+          "zh": "n. 同伴，同事",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "KAY/O Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "comparable",
+          "zh": "adj. 可比的，比得上的；类似的",
+          "pos": "adj."
+        },
+        {
+          "en": "comparative",
+          "zh": "adj. 比较的",
+          "pos": "adj."
+        },
+        {
+          "en": "comparatively",
+          "zh": "adv. 相当地；比较地",
+          "pos": "adv."
+        },
+        {
+          "en": "compatible",
+          "zh": "adj. 可以并存的，相容的，协调的",
+          "pos": "adj."
+        },
+        {
+          "en": "incompatible",
+          "zh": "adj. 矛盾的，不调和的",
+          "pos": "adj."
+        },
+        {
+          "en": "compel",
+          "zh": "vt. 强迫，使不得不",
+          "pos": "vt."
+        },
+        {
+          "en": "compensate",
+          "zh": "vt. 补偿，赔偿",
+          "pos": "vt."
+        },
+        {
+          "en": "compensation",
+          "zh": "n. 补偿，赔偿",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Trap",
+      "hp": 200,
+      "words": [
+        {
+          "en": "compensatory",
+          "zh": "adj. 补偿性的",
+          "pos": "adj."
+        },
+        {
+          "en": "compete",
+          "zh": "vi. 竞争，比得上",
+          "pos": "vi."
+        },
+        {
+          "en": "competent",
+          "zh": "adj. 有能力的，能胜任的",
+          "pos": "adj."
+        },
+        {
+          "en": "competence",
+          "zh": "n. 能力，胜任",
+          "pos": "n."
+        },
+        {
+          "en": "competition",
+          "zh": "n. 竞争，竞赛",
+          "pos": "n."
+        },
+        {
+          "en": "competitiveness",
+          "zh": "n. 竞争能力",
+          "pos": "n."
+        },
+        {
+          "en": "competing",
+          "zh": "adj. 有竞争性的，不相上下的",
+          "pos": "adj."
+        },
+        {
+          "en": "compile",
+          "zh": "vt. 汇集，编辑",
+          "pos": "vt."
+        },
+        {
+          "en": "complacence",
+          "zh": "n. 自满，自以为是",
+          "pos": "n."
+        },
+        {
+          "en": "complaint",
+          "zh": "n. 抱怨，怨言",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "complain",
+          "zh": "v. 抱怨；悲叹",
+          "pos": "v."
+        },
+        {
+          "en": "complement",
+          "zh": "vt. 补充，使完善",
+          "pos": "vt."
+        },
+        {
+          "en": "complementary",
+          "zh": "adj. 补充的，补足的",
+          "pos": "adj."
+        },
+        {
+          "en": "comprise",
+          "zh": "vt. 包含；由…组成",
+          "pos": "vt."
+        },
+        {
+          "en": "complex",
+          "zh": "adj. 复杂的，费解的；结构复杂的",
+          "pos": "adj."
+        },
+        {
+          "en": "complexity",
+          "zh": "n. 复杂（性）",
+          "pos": "n."
+        },
+        {
+          "en": "complicated",
+          "zh": "adj. 费解的，棘手的；结构复杂的",
+          "pos": "adj."
+        },
+        {
+          "en": "complication",
+          "zh": "n. 并发症；复杂，复杂性",
+          "pos": "n."
+        },
+        {
+          "en": "complicity",
+          "zh": "n. 共谋；同谋，共犯",
+          "pos": "n."
+        },
+        {
+          "en": "complimentary",
+          "zh": "adj. 赞美的",
+          "pos": "adj."
+        },
+        {
+          "en": "compliment",
+          "zh": "n. 恭维，称赞",
+          "pos": "n."
+        },
+        {
+          "en": "component",
+          "zh": "n. 成分，组成部分",
+          "pos": "n."
+        },
+        {
+          "en": "compose",
+          "zh": "vt. 作曲，写作；组成",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "recompose",
+          "zh": "vt. 重写；重新安排",
+          "pos": "vt."
+        },
+        {
+          "en": "composition",
+          "zh": "n. 构成，组成",
+          "pos": "n."
+        },
+        {
+          "en": "decomposition",
+          "zh": "n. 分解；腐烂",
+          "pos": "n."
+        },
+        {
+          "en": "compound",
+          "zh": "n. 化合物",
+          "pos": "n."
+        },
+        {
+          "en": "comprehend",
+          "zh": "vt. 领悟，理解",
+          "pos": "vt."
+        },
+        {
+          "en": "comprehensible",
+          "zh": "adj. 可理解的，易于了解的",
+          "pos": "adj."
+        },
+        {
+          "en": "comprehension",
+          "zh": "n. 理解，包含",
+          "pos": "n."
+        },
+        {
+          "en": "comprehensive",
+          "zh": "adj. 全面的，综合的",
+          "pos": "adj."
+        },
+        {
+          "en": "compress",
+          "zh": "vt. 压缩，浓缩",
+          "pos": "vt."
+        },
+        {
+          "en": "compression",
+          "zh": "n. 浓缩，压缩",
+          "pos": "n."
+        },
+        {
+          "en": "compressed",
+          "zh": "adj. 被压缩的，紧凑的",
+          "pos": "adj."
+        },
+        {
+          "en": "comprise",
+          "zh": "vt. 包含；由…组成",
+          "pos": "vt."
+        },
+        {
+          "en": "compromise",
+          "zh": "n. 妥协，折衷",
+          "pos": "n."
+        },
+        {
+          "en": "compulsory",
+          "zh": "adj. 必须做的，被强制的",
+          "pos": "adj."
+        },
+        {
+          "en": "compute",
+          "zh": "vt. 计算",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 64,
+  "title": "Day 064 · palatable → pave",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "paucity",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Reyna Mote",
+      "hp": 100,
+      "words": [
+        {
+          "en": "palatable",
+          "zh": "adj. 美味的",
+          "pos": "adj."
+        },
+        {
+          "en": "unpalatable",
+          "zh": "adj. 味道差的，不好吃的",
+          "pos": "adj."
+        },
+        {
+          "en": "pale",
+          "zh": "adj. 苍白的；暗淡的",
+          "pos": "adj."
+        },
+        {
+          "en": "palette",
+          "zh": "n. 调色板，颜料",
+          "pos": "n."
+        },
+        {
+          "en": "paleontologist",
+          "zh": "n. 古生物学者",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Neon Pulse",
+      "hp": 150,
+      "words": [
+        {
+          "en": "pamphlet",
+          "zh": "n. 小册子",
+          "pos": "n."
+        },
+        {
+          "en": "pane",
+          "zh": "n. 窗格玻璃",
+          "pos": "n."
+        },
+        {
+          "en": "panel",
+          "zh": "n. 镶板",
+          "pos": "n."
+        },
+        {
+          "en": "panic",
+          "zh": "n. 恐慌",
+          "pos": "n."
+        },
+        {
+          "en": "Hispanic",
+          "zh": "adj. 西班牙的",
+          "pos": "adj."
+        },
+        {
+          "en": "pants",
+          "zh": "n. 裤子；短裤",
+          "pos": "n."
+        },
+        {
+          "en": "rampant",
+          "zh": "adj. 猖獗的，蔓生的",
+          "pos": "adj."
+        },
+        {
+          "en": "parachute",
+          "zh": "n. 降落伞",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Wall",
+      "hp": 200,
+      "words": [
+        {
+          "en": "parade",
+          "zh": "n. 游行",
+          "pos": "n."
+        },
+        {
+          "en": "parallel",
+          "zh": "vt. 与…平行；匹敌",
+          "pos": "vt."
+        },
+        {
+          "en": "unparalleled",
+          "zh": "adj. 无比的，空前的",
+          "pos": "adj."
+        },
+        {
+          "en": "paralysis",
+          "zh": "n. 瘫痪，中风",
+          "pos": "n."
+        },
+        {
+          "en": "paralyze",
+          "zh": "vt. 使瘫痪，使麻痹",
+          "pos": "vt."
+        },
+        {
+          "en": "parameter",
+          "zh": "n. 参数，参量",
+          "pos": "n."
+        },
+        {
+          "en": "paramount",
+          "zh": "adj. 最重要的；最高权力的",
+          "pos": "adj."
+        },
+        {
+          "en": "paraphrase",
+          "zh": "vt. 将…释义，改写",
+          "pos": "vt."
+        },
+        {
+          "en": "parasite",
+          "zh": "n. 寄生虫，食客",
+          "pos": "n."
+        },
+        {
+          "en": "parasitic",
+          "zh": "adj. 寄生的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "parliamentary",
+          "zh": "adj. 议会（制）的",
+          "pos": "adj."
+        },
+        {
+          "en": "partial",
+          "zh": "adj. 部分的",
+          "pos": "adj."
+        },
+        {
+          "en": "impartially",
+          "zh": "adv. 公平地，无私地",
+          "pos": "adv."
+        },
+        {
+          "en": "participant",
+          "zh": "n. 参与者，参赛者",
+          "pos": "n."
+        },
+        {
+          "en": "passion",
+          "zh": "n. 激情，热情",
+          "pos": "n."
+        },
+        {
+          "en": "passionate",
+          "zh": "adj. 充满热情的，热烈的",
+          "pos": "adj."
+        },
+        {
+          "en": "passive",
+          "zh": "adj. 被动的；消极的",
+          "pos": "adj."
+        },
+        {
+          "en": "pastel",
+          "zh": "adj. 柔和的",
+          "pos": "adj."
+        },
+        {
+          "en": "paucity",
+          "zh": "n. 小量，缺乏",
+          "pos": "n."
+        },
+        {
+          "en": "pasture",
+          "zh": "n. 牧场，草地",
+          "pos": "n."
+        },
+        {
+          "en": "patch",
+          "zh": "n. 片，块",
+          "pos": "n."
+        },
+        {
+          "en": "patent",
+          "zh": "n. 专利",
+          "pos": "n."
+        },
+        {
+          "en": "path",
+          "zh": "n. 轨道，道路",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "pathway",
+          "zh": "n. 路，径",
+          "pos": "n."
+        },
+        {
+          "en": "footpath",
+          "zh": "n. 人行道，小路",
+          "pos": "n."
+        },
+        {
+          "en": "pathogen",
+          "zh": "n. 病菌，病原体",
+          "pos": "n."
+        },
+        {
+          "en": "patriarch",
+          "zh": "n. 家长，族长",
+          "pos": "n."
+        },
+        {
+          "en": "patriarchal",
+          "zh": "adj. 家长的，族长的",
+          "pos": "adj."
+        },
+        {
+          "en": "patriot",
+          "zh": "n. 爱国者",
+          "pos": "n."
+        },
+        {
+          "en": "patriotic",
+          "zh": "adj. 爱国的",
+          "pos": "adj."
+        },
+        {
+          "en": "patrol",
+          "zh": "v. 巡逻，巡视",
+          "pos": "v."
+        },
+        {
+          "en": "patroller",
+          "zh": "n. 巡警",
+          "pos": "n."
+        },
+        {
+          "en": "patron",
+          "zh": "n. 赞助人，资助人",
+          "pos": "n."
+        },
+        {
+          "en": "patronage",
+          "zh": "n. 赞助；惠顾",
+          "pos": "n."
+        },
+        {
+          "en": "patronizing",
+          "zh": "adj. 俨然以恩人态度的, 要人领情的",
+          "pos": "adj."
+        },
+        {
+          "en": "paucity",
+          "zh": "n. 小量，缺乏",
+          "pos": "n."
+        },
+        {
+          "en": "pauper",
+          "zh": "n. 贫民，乞丐",
+          "pos": "n."
+        },
+        {
+          "en": "pave",
+          "zh": "vt. 铺设，为…铺路",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 51,
+  "title": "Day 051 · interior → irrevocable",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "irreverent",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Chamber Pawn",
+      "hp": 100,
+      "words": [
+        {
+          "en": "interior",
+          "zh": "n./adj. 内部（的）",
+          "pos": "n."
+        },
+        {
+          "en": "interlocking",
+          "zh": "adj. 连锁的，关联的",
+          "pos": "adj."
+        },
+        {
+          "en": "intermediate",
+          "zh": "adj. 中间的，中级的",
+          "pos": "adj."
+        },
+        {
+          "en": "intermittent",
+          "zh": "adj. 间歇的，断断续续的",
+          "pos": "adj."
+        },
+        {
+          "en": "internal",
+          "zh": "adj. 内在的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Skye Falcon",
+      "hp": 150,
+      "words": [
+        {
+          "en": "interpersonal",
+          "zh": "adj. 人与人之间的；关于人与人之间关系的",
+          "pos": "adj."
+        },
+        {
+          "en": "interpretation",
+          "zh": "n. 解释",
+          "pos": "n."
+        },
+        {
+          "en": "interrupt",
+          "zh": "vt. 打断，使中断",
+          "pos": "vt."
+        },
+        {
+          "en": "intersect",
+          "zh": "vi. 相交",
+          "pos": "vi."
+        },
+        {
+          "en": "intersection",
+          "zh": "n. 十字路口，交叉点",
+          "pos": "n."
+        },
+        {
+          "en": "interstellar",
+          "zh": "adj. 星际的",
+          "pos": "adj."
+        },
+        {
+          "en": "interval",
+          "zh": "n. 间隔时间",
+          "pos": "n."
+        },
+        {
+          "en": "intervention",
+          "zh": "n. 干涉，介入",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Turret",
+      "hp": 200,
+      "words": [
+        {
+          "en": "intimate",
+          "zh": "adj. 亲密的",
+          "pos": "adj."
+        },
+        {
+          "en": "intimacy",
+          "zh": "n. 亲密，熟悉",
+          "pos": "n."
+        },
+        {
+          "en": "intoxication",
+          "zh": "n. 陶醉，醉酒",
+          "pos": "n."
+        },
+        {
+          "en": "intrepid",
+          "zh": "adj. 勇敢的",
+          "pos": "adj."
+        },
+        {
+          "en": "intricate",
+          "zh": "adj. 复杂的，错综的",
+          "pos": "adj."
+        },
+        {
+          "en": "intricately",
+          "zh": "adv. 杂乱地",
+          "pos": "adv."
+        },
+        {
+          "en": "intrigue",
+          "zh": "vt. 激起…的兴趣",
+          "pos": "vt."
+        },
+        {
+          "en": "intriguing",
+          "zh": "adj. 吸引人的,引起兴趣(或好奇心)的",
+          "pos": "adj."
+        },
+        {
+          "en": "intrinsic",
+          "zh": "adj. 固有的，内在的",
+          "pos": "adj."
+        },
+        {
+          "en": "introspective",
+          "zh": "adj. 自省的，反省的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Tide",
+      "hp": 250,
+      "words": [
+        {
+          "en": "intrusion",
+          "zh": "n. 侵扰，干扰",
+          "pos": "n."
+        },
+        {
+          "en": "intruder",
+          "zh": "n. 入侵者，闯入者",
+          "pos": "n."
+        },
+        {
+          "en": "intruding",
+          "zh": "adj. 入侵性的",
+          "pos": "adj."
+        },
+        {
+          "en": "invade",
+          "zh": "vt. 侵略，侵犯",
+          "pos": "vt."
+        },
+        {
+          "en": "invasion",
+          "zh": "n. 入侵",
+          "pos": "n."
+        },
+        {
+          "en": "invader",
+          "zh": "n. 侵略者",
+          "pos": "n."
+        },
+        {
+          "en": "irreverent",
+          "zh": "adj. 不敬的",
+          "pos": "adj."
+        },
+        {
+          "en": "invariably",
+          "zh": "adv. 不变地，总是",
+          "pos": "adv."
+        },
+        {
+          "en": "inventory",
+          "zh": "n. 存货清单；库存品",
+          "pos": "n."
+        },
+        {
+          "en": "invertebrate",
+          "zh": "n./adj. 无脊椎动物（的）",
+          "pos": "n."
+        },
+        {
+          "en": "vertebrate",
+          "zh": "n./adj. 脊椎动物（的）",
+          "pos": "n."
+        },
+        {
+          "en": "investigate",
+          "zh": "vt. 调查，研究",
+          "pos": "vt."
+        },
+        {
+          "en": "investigation",
+          "zh": "n. 调查",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "inviting",
+          "zh": "adj. 诱人的，引人心动的",
+          "pos": "adj."
+        },
+        {
+          "en": "involuntary",
+          "zh": "adj. 不知不觉地，无意识的",
+          "pos": "adj."
+        },
+        {
+          "en": "ion",
+          "zh": "n. 离子",
+          "pos": "n."
+        },
+        {
+          "en": "irony",
+          "zh": "n. 反讽，讽刺",
+          "pos": "n."
+        },
+        {
+          "en": "ironic",
+          "zh": "adj. 讽刺的",
+          "pos": "adj."
+        },
+        {
+          "en": "irregular",
+          "zh": "adj. 不规则的，不整齐的",
+          "pos": "adj."
+        },
+        {
+          "en": "irregularly",
+          "zh": "adv. 不规则地",
+          "pos": "adv."
+        },
+        {
+          "en": "irrelevant",
+          "zh": "adj. 离题的；无关的",
+          "pos": "adj."
+        },
+        {
+          "en": "irreparable",
+          "zh": "adj. 不能挽回的",
+          "pos": "adj."
+        },
+        {
+          "en": "irresistible",
+          "zh": "adj. 无法抗拒的,无法抵抗的;诱人的",
+          "pos": "adj."
+        },
+        {
+          "en": "irresponsible",
+          "zh": "adj. 不负责的",
+          "pos": "adj."
+        },
+        {
+          "en": "irreverent",
+          "zh": "adj. 不敬的",
+          "pos": "adj."
+        },
+        {
+          "en": "irreverence",
+          "zh": "n. 不敬；不敬的行为",
+          "pos": "n."
+        },
+        {
+          "en": "irreversible",
+          "zh": "adj. 不可改变的；不可撤销的",
+          "pos": "adj."
+        },
+        {
+          "en": "irrevocable",
+          "zh": "adj. 不能取消的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

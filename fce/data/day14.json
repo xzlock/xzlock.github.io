@@ -1,0 +1,304 @@
+{
+  "day": 14,
+  "title": "Day 14 · effort → erect",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "emphasize",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Raze Cub",
+      "hp": 100,
+      "words": [
+        {
+          "en": "effort",
+          "zh": "n. 努力；成就",
+          "pos": "n."
+        },
+        {
+          "en": "either",
+          "zh": "\"conj. 也（用于否定句或否定词组后）；根本",
+          "pos": "conj."
+        },
+        {
+          "en": "elaborate",
+          "zh": "\"adj. 精心制作的；详尽的；煞费苦心的",
+          "pos": "adj."
+        },
+        {
+          "en": "electric",
+          "zh": "\"n. 电；电气车辆；带电体",
+          "pos": "n."
+        },
+        {
+          "en": "electrical",
+          "zh": "adj. 有关电的；电气科学的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Fade Nightmare",
+      "hp": 150,
+      "words": [
+        {
+          "en": "electronic",
+          "zh": "\"adj. 电子的",
+          "pos": "adj."
+        },
+        {
+          "en": "elegant",
+          "zh": "adj. 高雅的，优雅的；讲究的；简炼的；简洁的",
+          "pos": "adj."
+        },
+        {
+          "en": "element",
+          "zh": "n. 元素；要素；原理；成分；自然环境",
+          "pos": "n."
+        },
+        {
+          "en": "elitist",
+          "zh": "\"n. 优秀人才；杰出人物",
+          "pos": "n."
+        },
+        {
+          "en": "elsewhere",
+          "zh": "adv. 在别处；到别处",
+          "pos": "adv."
+        },
+        {
+          "en": "embarrass",
+          "zh": "vt. 使局促不安；使困窘；阻碍",
+          "pos": "vt."
+        },
+        {
+          "en": "emerge",
+          "zh": "vi. 浮现；摆脱；暴露",
+          "pos": "vi."
+        },
+        {
+          "en": "emergency",
+          "zh": "\"n. 紧急情况；突发事件；非常时刻",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "emigrate",
+          "zh": "\"vi. 移居；移居外国",
+          "pos": "vi."
+        },
+        {
+          "en": "emit",
+          "zh": "vt. 发出，放射；发行；发表",
+          "pos": "vt."
+        },
+        {
+          "en": "emotion",
+          "zh": "n. 情感；情绪",
+          "pos": "n."
+        },
+        {
+          "en": "emphasize",
+          "zh": "vt. 强调，着重",
+          "pos": "vt."
+        },
+        {
+          "en": "empire",
+          "zh": "n. 帝国；帝王统治，君权",
+          "pos": "n."
+        },
+        {
+          "en": "employ",
+          "zh": "\"n. 使用；雇用",
+          "pos": "n."
+        },
+        {
+          "en": "enable",
+          "zh": "vt. 使能够，使成为可能；授予权利或方法",
+          "pos": "vt."
+        },
+        {
+          "en": "enclose",
+          "zh": "vt. 围绕；装入；放入封套",
+          "pos": "vt."
+        },
+        {
+          "en": "encounter",
+          "zh": "\"n. 遭遇，偶然碰见",
+          "pos": "n."
+        },
+        {
+          "en": "encourage",
+          "zh": "vt. 鼓励，怂恿；激励；支持",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "end",
+          "zh": "\"n. 结束；目标；尽头；末端；死亡",
+          "pos": "n."
+        },
+        {
+          "en": "energy",
+          "zh": "n. 能量；精力；活力；精神",
+          "pos": "n."
+        },
+        {
+          "en": "English-speaking",
+          "zh": "adj. 说英语的",
+          "pos": "adj."
+        },
+        {
+          "en": "enhance",
+          "zh": "vt. 提高；加强；增加",
+          "pos": "vt."
+        },
+        {
+          "en": "emphasize",
+          "zh": "vt. 强调，着重",
+          "pos": "vt."
+        },
+        {
+          "en": "enjoy",
+          "zh": "vt. 欣赏，享受；喜爱；使过得快活",
+          "pos": "vt."
+        },
+        {
+          "en": "enlightened",
+          "zh": "\"v. 启迪（enlighten的过去式）",
+          "pos": "v."
+        },
+        {
+          "en": "enmesh",
+          "zh": "vt. 使绊住；使陷入",
+          "pos": "vt."
+        },
+        {
+          "en": "enormous",
+          "zh": "adj. 庞大的，巨大的；凶暴的，极恶的",
+          "pos": "adj."
+        },
+        {
+          "en": "enough",
+          "zh": "\"n. 很多；充足",
+          "pos": "n."
+        },
+        {
+          "en": "enquire",
+          "zh": "\"vi. 询问；调查；问候（等于inquire）",
+          "pos": "vi."
+        },
+        {
+          "en": "enrolment",
+          "zh": "n. 登记，注册；入学",
+          "pos": "n."
+        },
+        {
+          "en": "ensure",
+          "zh": "vt. 保证，确保；使安全",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Kingdom Titan",
+      "hp": 300,
+      "words": [
+        {
+          "en": "enter",
+          "zh": "\"n. 输入；回车",
+          "pos": "n."
+        },
+        {
+          "en": "enterprise",
+          "zh": "n. 企业；事业；进取心；事业心",
+          "pos": "n."
+        },
+        {
+          "en": "entertain",
+          "zh": "\"vt. 娱乐；招待；怀抱；容纳",
+          "pos": "vt."
+        },
+        {
+          "en": "enthuse",
+          "zh": "\"vt. 使热心",
+          "pos": "vt."
+        },
+        {
+          "en": "enthusiasm",
+          "zh": "n. 热心，热忱，热情",
+          "pos": "n."
+        },
+        {
+          "en": "enthusiastic",
+          "zh": "adj. 热情的；热心的；狂热的",
+          "pos": "adj."
+        },
+        {
+          "en": "entire",
+          "zh": "adj. 全部的，整个的；全体的",
+          "pos": "adj."
+        },
+        {
+          "en": "entry",
+          "zh": "n. 进入；入口；条目；登记；报关手续；对土地的侵占",
+          "pos": "n."
+        },
+        {
+          "en": "environment",
+          "zh": "n. 环境，外界",
+          "pos": "n."
+        },
+        {
+          "en": "envisage",
+          "zh": "vt. 正视，面对；想像",
+          "pos": "vt."
+        },
+        {
+          "en": "envy",
+          "zh": "\"n. 嫉妒，妒忌；羡慕",
+          "pos": "n."
+        },
+        {
+          "en": "equally",
+          "zh": "adv. 同样地；相等地，平等地；公平地",
+          "pos": "adv."
+        },
+        {
+          "en": "equipment",
+          "zh": "n. 设备，装备；器材",
+          "pos": "n."
+        },
+        {
+          "en": "equivalent",
+          "zh": "\"n. 等价物，相等物",
+          "pos": "n."
+        },
+        {
+          "en": "erect",
+          "zh": "\"vt. 使竖立；建造；安装",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

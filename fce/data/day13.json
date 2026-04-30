@@ -1,0 +1,304 @@
+{
+  "day": 13,
+  "title": "Day 13 · distraction → efficient",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "download",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Iso Shard",
+      "hp": 100,
+      "words": [
+        {
+          "en": "distraction",
+          "zh": "n. 注意力分散；消遣；心烦意乱",
+          "pos": "n."
+        },
+        {
+          "en": "distress",
+          "zh": "\"n. 危难，不幸；贫困；悲痛",
+          "pos": "n."
+        },
+        {
+          "en": "distribute",
+          "zh": "vt. 分配；散布；分开；把…分类",
+          "pos": "vt."
+        },
+        {
+          "en": "district",
+          "zh": "n. 区域；地方；行政区",
+          "pos": "n."
+        },
+        {
+          "en": "disturb",
+          "zh": "\"vt. 打扰；妨碍；使不安；弄乱；使恼怒",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Neon Pulse",
+      "hp": 150,
+      "words": [
+        {
+          "en": "diverse",
+          "zh": "adj. 不同的；多种多样的；变化多的",
+          "pos": "adj."
+        },
+        {
+          "en": "divert",
+          "zh": "\"vt. 转移；使…欢娱；使…转向",
+          "pos": "vt."
+        },
+        {
+          "en": "divide",
+          "zh": "\"n. 分水岭，分水线",
+          "pos": "n."
+        },
+        {
+          "en": "docile",
+          "zh": "adj. 温顺的，驯服的；容易教的",
+          "pos": "adj."
+        },
+        {
+          "en": "document",
+          "zh": "\"n. 文件，公文； 文档；证件",
+          "pos": "n."
+        },
+        {
+          "en": "dole out",
+          "zh": "\"na. 少量地分给；发放",
+          "pos": ""
+        },
+        {
+          "en": "dot",
+          "zh": "\"n. 点，圆点；嫁妆",
+          "pos": "n."
+        },
+        {
+          "en": "double",
+          "zh": "\"n. 两倍；双精度型",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Drone",
+      "hp": 200,
+      "words": [
+        {
+          "en": "doubt",
+          "zh": "\"n. 怀疑；疑问；疑惑",
+          "pos": "n."
+        },
+        {
+          "en": "download",
+          "zh": "vt. 下载",
+          "pos": "vt."
+        },
+        {
+          "en": "downstairs",
+          "zh": "\"n. 楼下",
+          "pos": "n."
+        },
+        {
+          "en": "down-to-earth",
+          "zh": "adj. 实际的；现实的",
+          "pos": "adj."
+        },
+        {
+          "en": "downtown",
+          "zh": "\"n. 市中心区；三分线以外",
+          "pos": "n."
+        },
+        {
+          "en": "drag",
+          "zh": "\"n. 拖；拖累",
+          "pos": "n."
+        },
+        {
+          "en": "drain",
+          "zh": "\"n. 排水；下水道，排水管；消耗",
+          "pos": "n."
+        },
+        {
+          "en": "dramatic",
+          "zh": "adj. 戏剧的；急剧的；引人注目的；激动人心的",
+          "pos": "adj."
+        },
+        {
+          "en": "draw",
+          "zh": "\"n. 平局；抽签",
+          "pos": "n."
+        },
+        {
+          "en": "dreadful",
+          "zh": "adj. 可怕的；糟透的，令人不快的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "dream",
+          "zh": "\"n. 梦想，愿望；梦",
+          "pos": "n."
+        },
+        {
+          "en": "drill",
+          "zh": "\"n. 训练；钻孔机；钻子；播种机",
+          "pos": "n."
+        },
+        {
+          "en": "drink",
+          "zh": "\"n. 酒，饮料；喝酒",
+          "pos": "n."
+        },
+        {
+          "en": "dripping",
+          "zh": "\"n. 滴；水滴；滴下物",
+          "pos": "n."
+        },
+        {
+          "en": "drone on",
+          "zh": "\"v. 不断地咕哝",
+          "pos": "v."
+        },
+        {
+          "en": "drop",
+          "zh": "\"n. 滴；落下；空投；微量；滴剂",
+          "pos": "n."
+        },
+        {
+          "en": "drudgery",
+          "zh": "n. 苦工，苦差事",
+          "pos": "n."
+        },
+        {
+          "en": "dry",
+          "zh": "\"n. 干涸",
+          "pos": "n."
+        },
+        {
+          "en": "due to",
+          "zh": "\"un. 由于；预定；因为；亏",
+          "pos": "n."
+        },
+        {
+          "en": "dull",
+          "zh": "\"adj. 钝的；迟钝的；无趣的；呆滞的；阴暗的",
+          "pos": "adj."
+        },
+        {
+          "en": "download",
+          "zh": "vt. 下载",
+          "pos": "vt."
+        },
+        {
+          "en": "dump",
+          "zh": "\"n. 垃圾场；仓库；无秩序地累积",
+          "pos": "n."
+        },
+        {
+          "en": "durable",
+          "zh": "\"n. 耐用品",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Omega Spectre",
+      "hp": 300,
+      "words": [
+        {
+          "en": "duty",
+          "zh": "n. 责任； 关税；职务",
+          "pos": "n."
+        },
+        {
+          "en": "dynamic",
+          "zh": "\"n. 动态；动力",
+          "pos": "n."
+        },
+        {
+          "en": "dynasty",
+          "zh": "n. 王朝，朝代",
+          "pos": "n."
+        },
+        {
+          "en": "eager",
+          "zh": "adj. 渴望的；热切的；热心的",
+          "pos": "adj."
+        },
+        {
+          "en": "earn",
+          "zh": "vt. 赚，赚得；获得，挣得；使得到；博得",
+          "pos": "vt."
+        },
+        {
+          "en": "ease",
+          "zh": "\"n. 轻松，舒适；安逸，悠闲",
+          "pos": "n."
+        },
+        {
+          "en": "easy",
+          "zh": "\"adj. 容易的；舒适的",
+          "pos": "adj."
+        },
+        {
+          "en": "eccentric",
+          "zh": "\"n. 古怪的人",
+          "pos": "n."
+        },
+        {
+          "en": "ecology",
+          "zh": "n. 生态学；社会生态学",
+          "pos": "n."
+        },
+        {
+          "en": "economics",
+          "zh": "n. 经济学；国家的经济状况",
+          "pos": "n."
+        },
+        {
+          "en": "economy",
+          "zh": "n. 经济；节约；理财",
+          "pos": "n."
+        },
+        {
+          "en": "ecosystem",
+          "zh": "n. 生态系统",
+          "pos": "n."
+        },
+        {
+          "en": "education",
+          "zh": "n. 教育；培养；教育学",
+          "pos": "n."
+        },
+        {
+          "en": "effect",
+          "zh": "\"n. 影响；效果；作用",
+          "pos": "n."
+        },
+        {
+          "en": "efficient",
+          "zh": "adj. 有效率的；有能力的；生效的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

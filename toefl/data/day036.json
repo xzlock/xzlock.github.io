@@ -1,0 +1,304 @@
+{
+  "day": 36,
+  "title": "Day 036 · excessive → explosive",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "exploitation",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Sova Scout",
+      "hp": 100,
+      "words": [
+        {
+          "en": "excessive",
+          "zh": "adj. 过度的，过分的，过多的",
+          "pos": "adj."
+        },
+        {
+          "en": "exchange",
+          "zh": "n./vt. 兑换，交换",
+          "pos": "n."
+        },
+        {
+          "en": "excitement",
+          "zh": "n. 激动，兴奋；刺激",
+          "pos": "n."
+        },
+        {
+          "en": "excite",
+          "zh": "vt. 刺激，使兴奋",
+          "pos": "vt."
+        },
+        {
+          "en": "exciting",
+          "zh": "adj. 令人兴奋的，刺激的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Neon Pulse",
+      "hp": 150,
+      "words": [
+        {
+          "en": "exclaim",
+          "zh": "vt. 呼喊；惊叫",
+          "pos": "vt."
+        },
+        {
+          "en": "exclude",
+          "zh": "vt. 把…排除在外，排斥",
+          "pos": "vt."
+        },
+        {
+          "en": "exclusion",
+          "zh": "n. 排除，逐出",
+          "pos": "n."
+        },
+        {
+          "en": "exclusive",
+          "zh": "adj. 单独的，唯一的；排外的",
+          "pos": "adj."
+        },
+        {
+          "en": "exclusively",
+          "zh": "adv. 排外地, 专有地",
+          "pos": "adv."
+        },
+        {
+          "en": "excursion",
+          "zh": "n. 远足，游览",
+          "pos": "n."
+        },
+        {
+          "en": "excuse",
+          "zh": "vt. 原谅",
+          "pos": "vt."
+        },
+        {
+          "en": "execute",
+          "zh": "vt. 完成，实施，执行",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "execution",
+          "zh": "n. 实施，执行；完成",
+          "pos": "n."
+        },
+        {
+          "en": "executive",
+          "zh": "adj. 行政的",
+          "pos": "adj."
+        },
+        {
+          "en": "exemplary",
+          "zh": "adj. 模范的，典范的，可仿效的",
+          "pos": "adj."
+        },
+        {
+          "en": "exemplify",
+          "zh": "vt. 例证；作为…的例子",
+          "pos": "vt."
+        },
+        {
+          "en": "exempt",
+          "zh": "vt. 使免除，豁免",
+          "pos": "vt."
+        },
+        {
+          "en": "exemption",
+          "zh": "n. 解除，免除",
+          "pos": "n."
+        },
+        {
+          "en": "exert",
+          "zh": "vt. 运用，行使，施加",
+          "pos": "vt."
+        },
+        {
+          "en": "exertion",
+          "zh": "n. 尽力，努力",
+          "pos": "n."
+        },
+        {
+          "en": "exhale",
+          "zh": "vt. 呼出，呼气",
+          "pos": "vt."
+        },
+        {
+          "en": "exhaust",
+          "zh": "n. 排气，排气装置",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "exhausted",
+          "zh": "adj. 精疲力尽的",
+          "pos": "adj."
+        },
+        {
+          "en": "exhausting",
+          "zh": "adj. 使用尽的, 令人疲乏不堪的",
+          "pos": "adj."
+        },
+        {
+          "en": "exhibit",
+          "zh": "vt. 展现；展览",
+          "pos": "vt."
+        },
+        {
+          "en": "exhibition",
+          "zh": "n. 展览会；展览品",
+          "pos": "n."
+        },
+        {
+          "en": "exhilarating",
+          "zh": "adj. 爽快的，使人愉快的",
+          "pos": "adj."
+        },
+        {
+          "en": "exhilarate",
+          "zh": "vt. 使人兴奋",
+          "pos": "vt."
+        },
+        {
+          "en": "exit",
+          "zh": "n. 出口",
+          "pos": "n."
+        },
+        {
+          "en": "exorbitant",
+          "zh": "adj. （价格、索价）过高的，过分的",
+          "pos": "adj."
+        },
+        {
+          "en": "exotic",
+          "zh": "adj. 异国的，外来的；奇异的",
+          "pos": "adj."
+        },
+        {
+          "en": "expand",
+          "zh": "v. 扩大，膨胀；扩张",
+          "pos": "v."
+        },
+        {
+          "en": "expanding",
+          "zh": "adj. 扩大的，增加的",
+          "pos": "adj."
+        },
+        {
+          "en": "exploitation",
+          "zh": "n. 开发，开采",
+          "pos": "n."
+        },
+        {
+          "en": "expansion",
+          "zh": "n. 扩张，发展",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "expanse",
+          "zh": "n. 广阔的区域",
+          "pos": "n."
+        },
+        {
+          "en": "expedition",
+          "zh": "n. 远征；探险队",
+          "pos": "n."
+        },
+        {
+          "en": "expel",
+          "zh": "v. 驱逐，开除；排出",
+          "pos": "v."
+        },
+        {
+          "en": "expenditure",
+          "zh": "n. 支出, 花费",
+          "pos": "n."
+        },
+        {
+          "en": "expertise",
+          "zh": "n. 专门技术，技能",
+          "pos": "n."
+        },
+        {
+          "en": "expire",
+          "zh": "vi. 期满，到期",
+          "pos": "vi."
+        },
+        {
+          "en": "explicit",
+          "zh": "adj. 明确的，清楚的",
+          "pos": "adj."
+        },
+        {
+          "en": "implicit",
+          "zh": "adj. 暗示的，含蓄的",
+          "pos": "adj."
+        },
+        {
+          "en": "explode",
+          "zh": "vi. 爆炸；爆发",
+          "pos": "vi."
+        },
+        {
+          "en": "exploit",
+          "zh": "vt. 开拓；开采，开发",
+          "pos": "vt."
+        },
+        {
+          "en": "exploitation",
+          "zh": "n. 开发，开采",
+          "pos": "n."
+        },
+        {
+          "en": "explore",
+          "zh": "vt. 探险，勘探",
+          "pos": "vt."
+        },
+        {
+          "en": "explorer",
+          "zh": "n. 探险家，探测者",
+          "pos": "n."
+        },
+        {
+          "en": "exploration",
+          "zh": "n. 勘察；探究",
+          "pos": "n."
+        },
+        {
+          "en": "explosive",
+          "zh": "adj. 爆炸的；易爆发的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 52,
+  "title": "Day 52 · damp → planet",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "muddy",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Iso Shard",
+      "hp": 100,
+      "words": [
+        {
+          "en": "damp",
+          "zh": "\"n. 潮湿，湿气",
+          "pos": "n."
+        },
+        {
+          "en": "dawn",
+          "zh": "\"n. 黎明；开端",
+          "pos": "n."
+        },
+        {
+          "en": "daylight",
+          "zh": "n. 白天；日光；黎明；公开",
+          "pos": "n."
+        },
+        {
+          "en": "desert",
+          "zh": "\"n. 沙漠；荒原；应得的赏罚",
+          "pos": "n."
+        },
+        {
+          "en": "diamond",
+          "zh": "\"n. 钻石，金刚石；菱形；方块牌",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Jett Blitz",
+      "hp": 150,
+      "words": [
+        {
+          "en": "dust",
+          "zh": "\"n. 灰尘；尘埃；尘土",
+          "pos": "n."
+        },
+        {
+          "en": "earth",
+          "zh": "\"n. 地球；地表，陆地；土地，土壤；尘事，俗事；兽穴",
+          "pos": "n."
+        },
+        {
+          "en": "equator",
+          "zh": "n. 赤道",
+          "pos": "n."
+        },
+        {
+          "en": "farmland",
+          "zh": "n. 农田",
+          "pos": "n."
+        },
+        {
+          "en": "fast-flowing",
+          "zh": "\"水流湍急的",
+          "pos": ""
+        },
+        {
+          "en": "fuel",
+          "zh": "\"n. 燃料；刺激因素",
+          "pos": "n."
+        },
+        {
+          "en": "full-spectrum light",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "gas",
+          "zh": "\"n. 气体； 瓦斯；汽油；毒气",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "giant limestone blocks",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "glacial",
+          "zh": "adj. 冰的；冰冷的；冰河时代的",
+          "pos": "adj."
+        },
+        {
+          "en": "glacier",
+          "zh": "n. 冰河，冰川",
+          "pos": "n."
+        },
+        {
+          "en": "global warming",
+          "zh": "\"n. 全球（气候）变暖；地球大气层变暖",
+          "pos": "n."
+        },
+        {
+          "en": "gravel",
+          "zh": "\"n. 碎石；砂砾",
+          "pos": "n."
+        },
+        {
+          "en": "helium gas",
+          "zh": "氦气；可代注氦气；氦气瓶",
+          "pos": ""
+        },
+        {
+          "en": "hillside",
+          "zh": "n. 山坡，山腹；山腰",
+          "pos": "n."
+        },
+        {
+          "en": "Himalaya mountains",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "ice gorge",
+          "zh": "冰坝;冰谷;冰峡",
+          "pos": ""
+        },
+        {
+          "en": "ice shell",
+          "zh": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "muddy",
+          "zh": "\"adj. 泥泞的；模糊的；混乱的",
+          "pos": "adj."
+        },
+        {
+          "en": "icecap",
+          "zh": "n. 冰冠，冰帽",
+          "pos": "n."
+        },
+        {
+          "en": "icescape",
+          "zh": "n. （尤指极地的）冰景",
+          "pos": "n."
+        },
+        {
+          "en": "icy wilderness",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "inland",
+          "zh": "\"n. 内地；内陆",
+          "pos": "n."
+        },
+        {
+          "en": "island",
+          "zh": "\"n. 岛；岛屿；安全岛；岛状物",
+          "pos": "n."
+        },
+        {
+          "en": "jungle",
+          "zh": "\"n. 丛林，密林；危险地带",
+          "pos": "n."
+        },
+        {
+          "en": "limestone",
+          "zh": "n. 石灰岩",
+          "pos": "n."
+        },
+        {
+          "en": "litter",
+          "zh": "\"n. 垃圾；轿，担架；一窝（动物的幼崽）；凌乱",
+          "pos": "n."
+        },
+        {
+          "en": "Mars",
+          "zh": "n. 战神； 火星",
+          "pos": "n."
+        },
+        {
+          "en": "mist",
+          "zh": "\"n. 薄雾；视线模糊不清；模糊不清之物",
+          "pos": "n."
+        },
+        {
+          "en": "moon",
+          "zh": "\"n. 月亮；月球；月光；卫星",
+          "pos": "n."
+        },
+        {
+          "en": "moonlight",
+          "zh": "\"adj. 月夜的；有月光的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "mountainous",
+          "zh": "adj. 多山的；巨大的；山一般的",
+          "pos": "adj."
+        },
+        {
+          "en": "mountainside",
+          "zh": "n. 山腰；山坡",
+          "pos": "n."
+        },
+        {
+          "en": "mud",
+          "zh": "\"vt. 弄脏；用泥涂",
+          "pos": "vt."
+        },
+        {
+          "en": "muddy",
+          "zh": "\"adj. 泥泞的；模糊的；混乱的",
+          "pos": "adj."
+        },
+        {
+          "en": "ocean",
+          "zh": "n. 海洋；大量；广阔",
+          "pos": "n."
+        },
+        {
+          "en": "oil",
+          "zh": "\"n. 油；石油；油画颜料",
+          "pos": "n."
+        },
+        {
+          "en": "oil stain",
+          "zh": "\"un. 油渍；油斑",
+          "pos": "n."
+        },
+        {
+          "en": "orchard",
+          "zh": "n. 果园；果树林",
+          "pos": "n."
+        },
+        {
+          "en": "oxygen",
+          "zh": "n. 氧气， 氧",
+          "pos": "n."
+        },
+        {
+          "en": "Pacific",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "Pacific Ocean",
+          "zh": "\"n. 太平洋",
+          "pos": "n."
+        },
+        {
+          "en": "panhandle",
+          "zh": "\"n. 平锅柄；（美）柄状的狭长区域",
+          "pos": "n."
+        },
+        {
+          "en": "peak",
+          "zh": "\"n. 山峰；最高点；顶点；帽舌",
+          "pos": "n."
+        },
+        {
+          "en": "plain",
+          "zh": "\"n. 平原；无格式；朴实无华的东西",
+          "pos": "n."
+        },
+        {
+          "en": "planet",
+          "zh": "n. 行星",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

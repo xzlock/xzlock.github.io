@@ -1,0 +1,304 @@
+{
+  "day": 42,
+  "title": "Day 42 · startling → subject",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "steep",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Raze Cub",
+      "hp": 100,
+      "words": [
+        {
+          "en": "startling",
+          "zh": "adj. 令人吃惊的",
+          "pos": "adj."
+        },
+        {
+          "en": "state",
+          "zh": "\"n. 国家；州；情形",
+          "pos": "n."
+        },
+        {
+          "en": "state-of-the-art",
+          "zh": "adj. 最先进的；已经发展的；达到最高水准的",
+          "pos": "adj."
+        },
+        {
+          "en": "statistic",
+          "zh": "\"n. 统计数值",
+          "pos": "n."
+        },
+        {
+          "en": "status",
+          "zh": "n. 地位；状态；情形；重要身份",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Jett Blitz",
+      "hp": 150,
+      "words": [
+        {
+          "en": "stay",
+          "zh": "\"n. 逗留；停止；支柱",
+          "pos": "n."
+        },
+        {
+          "en": "steady",
+          "zh": "\"n. 关系固定的情侣；固定支架",
+          "pos": "n."
+        },
+        {
+          "en": "steal",
+          "zh": "\"n. 偷窃；便宜货；偷垒；断球",
+          "pos": "n."
+        },
+        {
+          "en": "steep",
+          "zh": "\"n. 峭壁；浸渍",
+          "pos": "n."
+        },
+        {
+          "en": "steer",
+          "zh": "\"vt. 控制，引导；驾驶",
+          "pos": "vt."
+        },
+        {
+          "en": "step",
+          "zh": "\"n. 步，脚步；步骤；步伐；梯级",
+          "pos": "n."
+        },
+        {
+          "en": "sterilisation",
+          "zh": "绝育，消毒，灭菌",
+          "pos": ""
+        },
+        {
+          "en": "stick",
+          "zh": "\"n. 棍；手杖；呆头呆脑的人",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "stiff",
+          "zh": "\"adj. 呆板的；坚硬的；严厉的；拘谨的",
+          "pos": "adj."
+        },
+        {
+          "en": "still",
+          "zh": "\"conj. 仍然；但是；尽管如此",
+          "pos": "conj."
+        },
+        {
+          "en": "stimulate",
+          "zh": "\"vi. 起刺激作用；起促进作用",
+          "pos": "vi."
+        },
+        {
+          "en": "stimulus",
+          "zh": "n. 刺激；激励；刺激物",
+          "pos": "n."
+        },
+        {
+          "en": "stitch",
+          "zh": "\"n. 针脚，线迹；一针",
+          "pos": "n."
+        },
+        {
+          "en": "stock",
+          "zh": "\"n. 股份，股票；库存；血统；树干；家畜",
+          "pos": "n."
+        },
+        {
+          "en": "stop",
+          "zh": "\"n. 停止；车站；障碍；逗留",
+          "pos": "n."
+        },
+        {
+          "en": "store",
+          "zh": "\"n. 商店；储备，贮藏；仓库",
+          "pos": "n."
+        },
+        {
+          "en": "straggle",
+          "zh": "\"n. 散乱",
+          "pos": "n."
+        },
+        {
+          "en": "straight",
+          "zh": "\"n. 直；直线；直男，直女，异性恋者",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "straightforward",
+          "zh": "\"adj. 简单的；坦率的；明确的；径直的",
+          "pos": "adj."
+        },
+        {
+          "en": "strain",
+          "zh": "\"n. 张力；拉紧；负担；扭伤；血缘",
+          "pos": "n."
+        },
+        {
+          "en": "strange",
+          "zh": "\"adj. 奇怪的；陌生的；外行的",
+          "pos": "adj."
+        },
+        {
+          "en": "strap",
+          "zh": "\"n. 带；皮带；磨刀皮带；鞭打",
+          "pos": "n."
+        },
+        {
+          "en": "strategy",
+          "zh": "n. 战略，策略",
+          "pos": "n."
+        },
+        {
+          "en": "stream",
+          "zh": "\"n. 溪流；流动；潮流；光线",
+          "pos": "n."
+        },
+        {
+          "en": "streetwise",
+          "zh": "\"n. 在现代化大城市的生存能力",
+          "pos": "n."
+        },
+        {
+          "en": "strength",
+          "zh": "n. 力量；力气；兵力；长处",
+          "pos": "n."
+        },
+        {
+          "en": "stress",
+          "zh": "\"n. 压力；强调；紧张；重要性；重读",
+          "pos": "n."
+        },
+        {
+          "en": "stretch",
+          "zh": "\"vt. 伸展,张开；（大量地）使用，消耗（金钱，时间）；使竭尽所能；使全力以赴；",
+          "pos": "vt."
+        },
+        {
+          "en": "stride",
+          "zh": "\"n. 大步；步幅；进展",
+          "pos": "n."
+        },
+        {
+          "en": "steep",
+          "zh": "\"n. 峭壁；浸渍",
+          "pos": "n."
+        },
+        {
+          "en": "strike",
+          "zh": "\"n. 罢工；打击；殴打",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "string",
+          "zh": "n. 线，弦，细绳；一串，一行",
+          "pos": "n."
+        },
+        {
+          "en": "strip",
+          "zh": "\"n. 带；条状；脱衣舞",
+          "pos": "n."
+        },
+        {
+          "en": "strive",
+          "zh": "vi. 努力；奋斗；抗争",
+          "pos": "vi."
+        },
+        {
+          "en": "stroke",
+          "zh": "\"n. （游泳或划船的）划；中风；（打、击等的）一下；冲程；（成功的）举动；尝试；轻抚",
+          "pos": "n."
+        },
+        {
+          "en": "stroll",
+          "zh": "\"n. 漫步；闲逛；巡回演出",
+          "pos": "n."
+        },
+        {
+          "en": "structure",
+          "zh": "\"n. 结构；构造；建筑物",
+          "pos": "n."
+        },
+        {
+          "en": "struggle",
+          "zh": "\"n. 努力，奋斗；竞争",
+          "pos": "n."
+        },
+        {
+          "en": "stuck",
+          "zh": "\"v. 刺（stick的过去式）",
+          "pos": "v."
+        },
+        {
+          "en": "studio",
+          "zh": "n. 工作室； 演播室；画室；电影制片厂",
+          "pos": "n."
+        },
+        {
+          "en": "study",
+          "zh": "\"n. 学习，研究；课题；书房；学问",
+          "pos": "n."
+        },
+        {
+          "en": "stuff",
+          "zh": "\"n. 东西；材料；填充物；素材资料",
+          "pos": "n."
+        },
+        {
+          "en": "stumble upon",
+          "zh": "\"un. 踌躇地转着；碰上",
+          "pos": "n."
+        },
+        {
+          "en": "stun",
+          "zh": "\"n. 昏迷；打昏；惊倒；令人惊叹的事物",
+          "pos": "n."
+        },
+        {
+          "en": "style",
+          "zh": "\"n. 风格；时尚；类型；字体",
+          "pos": "n."
+        },
+        {
+          "en": "subject",
+          "zh": "\"n. 主题；科目； 主语；国民",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

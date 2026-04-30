@@ -1,0 +1,304 @@
+{
+  "day": 4,
+  "title": "Day 04 · attempt → believe",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "authority",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Gekko Slime",
+      "hp": 100,
+      "words": [
+        {
+          "en": "attempt",
+          "zh": "\"n. 企图，试图；攻击",
+          "pos": "n."
+        },
+        {
+          "en": "attend",
+          "zh": "\"vi. 出席；致力于；照料；照顾",
+          "pos": "vi."
+        },
+        {
+          "en": "attention",
+          "zh": "n. 注意力；关心；立正！（口令）",
+          "pos": "n."
+        },
+        {
+          "en": "attitude",
+          "zh": "n. 态度；看法；意见；姿势",
+          "pos": "n."
+        },
+        {
+          "en": "attract",
+          "zh": "\"vt. 吸引；引起",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Neon Pulse",
+      "hp": 150,
+      "words": [
+        {
+          "en": "auction",
+          "zh": "\"n. 拍卖",
+          "pos": "n."
+        },
+        {
+          "en": "audience",
+          "zh": "n. 观众；听众；读者；接见；正式会见；拜会",
+          "pos": "n."
+        },
+        {
+          "en": "audition",
+          "zh": "\"n. 听力，听觉；试听",
+          "pos": "n."
+        },
+        {
+          "en": "austere",
+          "zh": "adj. 严峻的；简朴的；苦行的；无装饰的",
+          "pos": "adj."
+        },
+        {
+          "en": "authority",
+          "zh": "n. 权威；权力；当局",
+          "pos": "n."
+        },
+        {
+          "en": "autograph",
+          "zh": "\"n. 亲笔，手稿；亲笔签名",
+          "pos": "n."
+        },
+        {
+          "en": "automatically",
+          "zh": "\"adj. 不经思索的",
+          "pos": "adj."
+        },
+        {
+          "en": "auxiliary",
+          "zh": "\"n. 助动词；辅助者，辅助物；附属机构",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Ghost",
+      "hp": 200,
+      "words": [
+        {
+          "en": "available",
+          "zh": "adj. 可获得的；可购得的；可找到的；有空的",
+          "pos": "adj."
+        },
+        {
+          "en": "average",
+          "zh": "\"n. 平均；平均数；海损",
+          "pos": "n."
+        },
+        {
+          "en": "avoid",
+          "zh": "vt. 避免；避开，躲避；消除",
+          "pos": "vt."
+        },
+        {
+          "en": "awake",
+          "zh": "\"adj. 醒着的",
+          "pos": "adj."
+        },
+        {
+          "en": "aware",
+          "zh": "adj. 意识到的；知道的；有…方面知识的；懂世故的",
+          "pos": "adj."
+        },
+        {
+          "en": "awful",
+          "zh": "adj. 可怕的；极坏的；使人敬畏的",
+          "pos": "adj."
+        },
+        {
+          "en": "awkward",
+          "zh": "adj. 尴尬的；笨拙的；棘手的；不合适的",
+          "pos": "adj."
+        },
+        {
+          "en": "back and forth",
+          "zh": "\"na. 来回地",
+          "pos": ""
+        },
+        {
+          "en": "back up",
+          "zh": "\"na. 支持；堵塞；抢救后方；把(文件等备份)",
+          "pos": ""
+        },
+        {
+          "en": "background",
+          "zh": "\"n. 背景；隐蔽的位置",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Paranoia",
+      "hp": 250,
+      "words": [
+        {
+          "en": "balance",
+          "zh": "\"n. 平衡；余额；匀称",
+          "pos": "n."
+        },
+        {
+          "en": "authority",
+          "zh": "n. 权威；权力；当局",
+          "pos": "n."
+        },
+        {
+          "en": "bang",
+          "zh": "\"n. 刘海；重击；突然巨响",
+          "pos": "n."
+        },
+        {
+          "en": "bare",
+          "zh": "\"adj. 空的；赤裸的，无遮蔽的",
+          "pos": "adj."
+        },
+        {
+          "en": "barefoot",
+          "zh": "\"adj. 赤脚的",
+          "pos": "adj."
+        },
+        {
+          "en": "bargain",
+          "zh": "\"n. 交易；便宜货；契约",
+          "pos": "n."
+        },
+        {
+          "en": "barrier",
+          "zh": "\"n. 障碍物，屏障；界线",
+          "pos": "n."
+        },
+        {
+          "en": "base",
+          "zh": "\"n. 基础；底部；垒",
+          "pos": "n."
+        },
+        {
+          "en": "basic",
+          "zh": "\"n. 基础；要素",
+          "pos": "n."
+        },
+        {
+          "en": "basis",
+          "zh": "n. 基础；底部；主要成分；基本原则或原理",
+          "pos": "n."
+        },
+        {
+          "en": "bask",
+          "zh": "\"vt. 使…晒太阳；使暖和而舒适",
+          "pos": "vt."
+        },
+        {
+          "en": "battleground",
+          "zh": "n. 战场",
+          "pos": "n."
+        },
+        {
+          "en": "be absorbed in",
+          "zh": "\"na. 全神贯注在…；热衷于",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "be drummed into",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "be indebted to",
+          "zh": "对…感激；受惠于；我深表感激",
+          "pos": ""
+        },
+        {
+          "en": "be on one's feet",
+          "zh": "站；站立着",
+          "pos": ""
+        },
+        {
+          "en": "be paired with",
+          "zh": "与…配对；配有",
+          "pos": ""
+        },
+        {
+          "en": "be nosy about",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "be up against",
+          "zh": "\"na. 遇到(经济上的)巨大困难",
+          "pos": ""
+        },
+        {
+          "en": "beat",
+          "zh": "\"n. 拍子；敲击；有规律的一连串敲打",
+          "pos": "n."
+        },
+        {
+          "en": "beforehand",
+          "zh": "\"adj. 提前的；预先准备好的",
+          "pos": "adj."
+        },
+        {
+          "en": "begin",
+          "zh": "\"vi. 开始；首先",
+          "pos": "vi."
+        },
+        {
+          "en": "beguile",
+          "zh": "vt. 欺骗；使着迷；轻松地消磨",
+          "pos": "vt."
+        },
+        {
+          "en": "behalf",
+          "zh": "n. 代表；利益",
+          "pos": "n."
+        },
+        {
+          "en": "behave",
+          "zh": "\"vi. 表现；（机器等）运转；举止端正；（事物）起某种作用",
+          "pos": "vi."
+        },
+        {
+          "en": "behind",
+          "zh": "\"prep. 落后于；支持；晚于",
+          "pos": "prep."
+        },
+        {
+          "en": "belief",
+          "zh": "n. 相信，信赖；信仰；教义",
+          "pos": "n."
+        },
+        {
+          "en": "believe",
+          "zh": "\"vi. 信任；料想；笃信宗教",
+          "pos": "vi."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 59,
+  "title": "Day 059 · moderate → myth",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "monarch",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Clove Mist",
+      "hp": 100,
+      "words": [
+        {
+          "en": "moderate",
+          "zh": "adj. 温和的；适度的，有节制的",
+          "pos": "adj."
+        },
+        {
+          "en": "modest",
+          "zh": "adj. 谦虚的；适度的",
+          "pos": "adj."
+        },
+        {
+          "en": "modify",
+          "zh": "vt. 修改，变更",
+          "pos": "vt."
+        },
+        {
+          "en": "moist",
+          "zh": "adj. 潮湿的，多雨的",
+          "pos": "adj."
+        },
+        {
+          "en": "moisten",
+          "zh": "vt. 弄湿，使湿润",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Iso Blade",
+      "hp": 150,
+      "words": [
+        {
+          "en": "moisture",
+          "zh": "n. 潮湿，湿气；湿度",
+          "pos": "n."
+        },
+        {
+          "en": "mold",
+          "zh": "vt. 塑造",
+          "pos": "vt."
+        },
+        {
+          "en": "molecule",
+          "zh": "n. 分子",
+          "pos": "n."
+        },
+        {
+          "en": "molecular",
+          "zh": "adj. 分子的",
+          "pos": "adj."
+        },
+        {
+          "en": "molten",
+          "zh": "adj. 熔融的，熔化的",
+          "pos": "adj."
+        },
+        {
+          "en": "monarch",
+          "zh": "n. 君主，帝王",
+          "pos": "n."
+        },
+        {
+          "en": "monetary",
+          "zh": "adj. 货币的，金钱的",
+          "pos": "adj."
+        },
+        {
+          "en": "monitor",
+          "zh": "vt. 监控；监测",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Grid",
+      "hp": 200,
+      "words": [
+        {
+          "en": "monochromatic",
+          "zh": "adj. 单色的，一色的",
+          "pos": "adj."
+        },
+        {
+          "en": "monopolize",
+          "zh": "vt. 独占，垄断",
+          "pos": "vt."
+        },
+        {
+          "en": "monopoly",
+          "zh": "n. 独占，垄断",
+          "pos": "n."
+        },
+        {
+          "en": "monotonous",
+          "zh": "adj. 单调乏味的，无变化的",
+          "pos": "adj."
+        },
+        {
+          "en": "monster",
+          "zh": "n. 怪物，巨兽",
+          "pos": "n."
+        },
+        {
+          "en": "monument",
+          "zh": "n. 纪念碑；纪念物",
+          "pos": "n."
+        },
+        {
+          "en": "mounmental",
+          "zh": "adj. 杰出的，不朽的",
+          "pos": "adj."
+        },
+        {
+          "en": "morale",
+          "zh": "n. 士气",
+          "pos": "n."
+        },
+        {
+          "en": "morphololgy",
+          "zh": "n. 形态学，形态论",
+          "pos": "n."
+        },
+        {
+          "en": "mortal",
+          "zh": "n. 凡人，人类",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "motif",
+          "zh": "n. （作品）主题，主旨",
+          "pos": "n."
+        },
+        {
+          "en": "motion",
+          "zh": "n. 运动",
+          "pos": "n."
+        },
+        {
+          "en": "motionless",
+          "zh": "adj. 不动的，静止的",
+          "pos": "adj."
+        },
+        {
+          "en": "motivate",
+          "zh": "vt. 激发，刺激",
+          "pos": "vt."
+        },
+        {
+          "en": "monarch",
+          "zh": "n. 君主，帝王",
+          "pos": "n."
+        },
+        {
+          "en": "motivation",
+          "zh": "n. 动机，刺激",
+          "pos": "n."
+        },
+        {
+          "en": "motive",
+          "zh": "n. 动机",
+          "pos": "n."
+        },
+        {
+          "en": "automotive",
+          "zh": "adj. 汽车的，自动推进的",
+          "pos": "adj."
+        },
+        {
+          "en": "mourning",
+          "zh": "n. 悲恸，服丧",
+          "pos": "n."
+        },
+        {
+          "en": "mournful",
+          "zh": "adj. 悲痛的，悲哀的",
+          "pos": "adj."
+        },
+        {
+          "en": "mouth",
+          "zh": "n. 入口",
+          "pos": "n."
+        },
+        {
+          "en": "mortar",
+          "zh": "n. 灰泥；臼, 研钵",
+          "pos": "n."
+        },
+        {
+          "en": "mulberry",
+          "zh": "n. 桑树",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Protocol Zero",
+      "hp": 300,
+      "words": [
+        {
+          "en": "multicellular",
+          "zh": "adj. 多细胞的",
+          "pos": "adj."
+        },
+        {
+          "en": "multi-faceted",
+          "zh": "adj. 多方面的；多才多艺的",
+          "pos": "adj."
+        },
+        {
+          "en": "multiple",
+          "zh": "adj. 多样的，多重的",
+          "pos": "adj."
+        },
+        {
+          "en": "multiply",
+          "zh": "v. 繁殖，增加",
+          "pos": "v."
+        },
+        {
+          "en": "multistory",
+          "zh": "n. 多层建筑",
+          "pos": "n."
+        },
+        {
+          "en": "multitude",
+          "zh": "n. 大量，多数",
+          "pos": "n."
+        },
+        {
+          "en": "mundane",
+          "zh": "adj. 世俗的，平凡的",
+          "pos": "adj."
+        },
+        {
+          "en": "municipal",
+          "zh": "adj. 市的，市政的",
+          "pos": "adj."
+        },
+        {
+          "en": "mural",
+          "zh": "n. 壁画，壁饰",
+          "pos": "n."
+        },
+        {
+          "en": "muscular",
+          "zh": "adj. 强壮的，肌肉发达的",
+          "pos": "adj."
+        },
+        {
+          "en": "mushroom",
+          "zh": "n. 蘑菇",
+          "pos": "n."
+        },
+        {
+          "en": "mutual",
+          "zh": "adj. 相互的；共有的",
+          "pos": "adj."
+        },
+        {
+          "en": "myriad",
+          "zh": "n. 许多，无数",
+          "pos": "n."
+        },
+        {
+          "en": "mysterious",
+          "zh": "adj. 神秘的",
+          "pos": "adj."
+        },
+        {
+          "en": "myth",
+          "zh": "n. 神话，神话故事",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

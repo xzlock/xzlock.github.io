@@ -1,0 +1,304 @@
+{
+  "day": 43,
+  "title": "Day 43 · submarine → sweep",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "substitute",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Phoenix Ember",
+      "hp": 100,
+      "words": [
+        {
+          "en": "submarine",
+          "zh": "\"n. 潜水艇；海底生物",
+          "pos": "n."
+        },
+        {
+          "en": "submit",
+          "zh": "\"vi. 提交；服从",
+          "pos": "vi."
+        },
+        {
+          "en": "subscription",
+          "zh": "n. 捐献；订阅；订金；签署",
+          "pos": "n."
+        },
+        {
+          "en": "subsequent",
+          "zh": "adj. 后来的，随后的",
+          "pos": "adj."
+        },
+        {
+          "en": "subsidize",
+          "zh": "vt. 资助；给与奖助金；向…行贿",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Neon Pulse",
+      "hp": 150,
+      "words": [
+        {
+          "en": "substance",
+          "zh": "n. 物质；实质；资产；主旨",
+          "pos": "n."
+        },
+        {
+          "en": "substitute",
+          "zh": "\"n. 代用品；代替者",
+          "pos": "n."
+        },
+        {
+          "en": "subtitle",
+          "zh": "\"n. 副标题；说明或对白的字幕",
+          "pos": "n."
+        },
+        {
+          "en": "subtlety",
+          "zh": "n. 微妙；敏锐；精明",
+          "pos": "n."
+        },
+        {
+          "en": "suburb",
+          "zh": "n. 郊区；边缘",
+          "pos": "n."
+        },
+        {
+          "en": "succeed",
+          "zh": "\"vi. 成功；继承；继任；兴旺",
+          "pos": "vi."
+        },
+        {
+          "en": "success",
+          "zh": "n. 成功，成就；胜利；大获成功的人或事物",
+          "pos": "n."
+        },
+        {
+          "en": "successive",
+          "zh": "adj. 连续的；继承的；依次的；接替的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Drone",
+      "hp": 200,
+      "words": [
+        {
+          "en": "such as",
+          "zh": "\"un. 例如；像；象…这样；诸如…之类",
+          "pos": "n."
+        },
+        {
+          "en": "sudden",
+          "zh": "\"n. 突然发生的事",
+          "pos": "n."
+        },
+        {
+          "en": "suffer",
+          "zh": "\"vi. 遭受，忍受；受痛苦；经验；受损害",
+          "pos": "vi."
+        },
+        {
+          "en": "sufficient",
+          "zh": "adj. 足够的；充分的",
+          "pos": "adj."
+        },
+        {
+          "en": "suffuse",
+          "zh": "vt. 充满；弥漫",
+          "pos": "vt."
+        },
+        {
+          "en": "suggest",
+          "zh": "vt. 提议，建议；启发；使人想起；显示；暗示",
+          "pos": "vt."
+        },
+        {
+          "en": "suit",
+          "zh": "\"n. 诉讼；恳求；套装，西装；一套外衣",
+          "pos": "n."
+        },
+        {
+          "en": "sum",
+          "zh": "\"n. 金额；总数",
+          "pos": "n."
+        },
+        {
+          "en": "summary",
+          "zh": "\"n. 概要，摘要，总结",
+          "pos": "n."
+        },
+        {
+          "en": "summit",
+          "zh": "\"n. 顶点；最高级会议；最高阶层",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Mollie",
+      "hp": 250,
+      "words": [
+        {
+          "en": "sun-lit",
+          "zh": "阳光照耀的",
+          "pos": ""
+        },
+        {
+          "en": "sun-tanned",
+          "zh": "adj. 被太阳晒黑的",
+          "pos": "adj."
+        },
+        {
+          "en": "superb",
+          "zh": "adj. 极好的；华丽的；宏伟的",
+          "pos": "adj."
+        },
+        {
+          "en": "superior",
+          "zh": "\"n. 上级，长官；优胜者，高手；长者",
+          "pos": "n."
+        },
+        {
+          "en": "superlative",
+          "zh": "\"n. 最高级；最好的人；最高程度；夸大话",
+          "pos": "n."
+        },
+        {
+          "en": "supervise",
+          "zh": "\"vt. 监督，管理；指导",
+          "pos": "vt."
+        },
+        {
+          "en": "supplement",
+          "zh": "\"vt. 增补，补充",
+          "pos": "vt."
+        },
+        {
+          "en": "substitute",
+          "zh": "\"n. 代用品；代替者",
+          "pos": "n."
+        },
+        {
+          "en": "supply",
+          "zh": "\"n. 供给，补给；供应品",
+          "pos": "n."
+        },
+        {
+          "en": "support",
+          "zh": "\"n. 支持，维持；支援，供养；支持者，支撑物",
+          "pos": "n."
+        },
+        {
+          "en": "suppose",
+          "zh": "\"conj. 假使…结果会怎样",
+          "pos": "conj."
+        },
+        {
+          "en": "sure",
+          "zh": "\"adj. 确信的；可靠的；必定的",
+          "pos": "adj."
+        },
+        {
+          "en": "surf",
+          "zh": "\"vi. 作冲浪运动",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radiant Devourer",
+      "hp": 300,
+      "words": [
+        {
+          "en": "surface",
+          "zh": "\"n. 表面；表层；外观",
+          "pos": "n."
+        },
+        {
+          "en": "surprise",
+          "zh": "\"n. 惊奇，诧异；突然袭击",
+          "pos": "n."
+        },
+        {
+          "en": "surround",
+          "zh": "\"n. 围绕物",
+          "pos": "n."
+        },
+        {
+          "en": "surveillance",
+          "zh": "n. 监督；监视",
+          "pos": "n."
+        },
+        {
+          "en": "survey",
+          "zh": "\"n. 调查；测量；审视；纵览",
+          "pos": "n."
+        },
+        {
+          "en": "survival",
+          "zh": "n. 幸存，残存；幸存者，残存物",
+          "pos": "n."
+        },
+        {
+          "en": "survive",
+          "zh": "\"vi. 幸存；活下来",
+          "pos": "vi."
+        },
+        {
+          "en": "suspect",
+          "zh": "\"n. 嫌疑犯",
+          "pos": "n."
+        },
+        {
+          "en": "suspend",
+          "zh": "\"vt. 延缓，推迟；使暂停；使悬浮",
+          "pos": "vt."
+        },
+        {
+          "en": "suspense",
+          "zh": "n. 悬念；悬疑；焦虑；悬而不决",
+          "pos": "n."
+        },
+        {
+          "en": "sustain",
+          "zh": "vt. 维持；支撑，承担；忍受；供养；证实",
+          "pos": "vt."
+        },
+        {
+          "en": "swallow",
+          "zh": "\"n. 燕子；一次吞咽的量",
+          "pos": "n."
+        },
+        {
+          "en": "swap",
+          "zh": "\"n. 交换；交换之物",
+          "pos": "n."
+        },
+        {
+          "en": "sweaty",
+          "zh": "adj. 出汗的；吃力的；使人出汗的",
+          "pos": "adj."
+        },
+        {
+          "en": "sweep",
+          "zh": "\"n. 打扫，扫除；范围；全胜",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

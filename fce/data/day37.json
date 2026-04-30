@@ -1,0 +1,304 @@
+{
+  "day": 37,
+  "title": "Day 37 · reverence → satellite",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "run",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Cypher Eye",
+      "hp": 100,
+      "words": [
+        {
+          "en": "reverence",
+          "zh": "\"n. 崇敬；尊严；敬礼",
+          "pos": "n."
+        },
+        {
+          "en": "reverse",
+          "zh": "\"n. 背面；相反；倒退；失败",
+          "pos": "n."
+        },
+        {
+          "en": "review",
+          "zh": "\"n. 回顾；复习；评论；检讨；检阅",
+          "pos": "n."
+        },
+        {
+          "en": "revise",
+          "zh": "\"n. 修订；校订",
+          "pos": "n."
+        },
+        {
+          "en": "revive",
+          "zh": "\"vt. 使复兴；使苏醒；回想起；重演，重播",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "revoke",
+          "zh": "\"n. 有牌不跟",
+          "pos": "n."
+        },
+        {
+          "en": "revolution",
+          "zh": "n. 革命；旋转；运行；循环",
+          "pos": "n."
+        },
+        {
+          "en": "rewarding",
+          "zh": "adj. 有益的，值得的；有报酬的，报答的",
+          "pos": "adj."
+        },
+        {
+          "en": "rhetoric",
+          "zh": "\"n. 修辞，修辞学；华丽的词藻",
+          "pos": "n."
+        },
+        {
+          "en": "rhythm",
+          "zh": "n. 节奏；韵律",
+          "pos": "n."
+        },
+        {
+          "en": "ridden",
+          "zh": "\"v. 骑（ride的过去分词）",
+          "pos": "v."
+        },
+        {
+          "en": "ride",
+          "zh": "\"n. 骑；乘坐；交通工具；可供骑行的路；（乘坐汽车等的）旅行；乘骑；（乘车或骑车的）短途旅程；供乘骑的游乐设施",
+          "pos": "n."
+        },
+        {
+          "en": "ridiculous",
+          "zh": "adj. 可笑的；荒谬的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Deadlock Wall",
+      "hp": 200,
+      "words": [
+        {
+          "en": "right",
+          "zh": "\"n. 正确；右边；正义",
+          "pos": "n."
+        },
+        {
+          "en": "ring",
+          "zh": "\"n. 戒指；铃声，钟声；拳击场；环形物",
+          "pos": "n."
+        },
+        {
+          "en": "ringtone",
+          "zh": "n. 铃声，手机铃声",
+          "pos": "n."
+        },
+        {
+          "en": "ripen",
+          "zh": "\"vt. 使成熟",
+          "pos": "vt."
+        },
+        {
+          "en": "risk",
+          "zh": "\"n. 风险；危险；冒险",
+          "pos": "n."
+        },
+        {
+          "en": "riveting",
+          "zh": "\"n. 铆接",
+          "pos": "n."
+        },
+        {
+          "en": "roam",
+          "zh": "\"n. 漫步，漫游；流浪",
+          "pos": "n."
+        },
+        {
+          "en": "roar",
+          "zh": "\"n. 咆哮；吼；轰鸣",
+          "pos": "n."
+        },
+        {
+          "en": "rocket",
+          "zh": "\"n. 火箭",
+          "pos": "n."
+        },
+        {
+          "en": "role",
+          "zh": "n. 角色；任务",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "roll in money",
+          "zh": "\"在钱里打滚,一身是钱,非常富有\"",
+          "pos": ""
+        },
+        {
+          "en": "roll on",
+          "zh": "\"v. 在…上打滚；滚滚向前；赶紧来；穿上",
+          "pos": "v."
+        },
+        {
+          "en": "romantic",
+          "zh": "\"n. 浪漫的人",
+          "pos": "n."
+        },
+        {
+          "en": "rough",
+          "zh": "\"n. 艰苦；高低不平的地面；未经加工的材料；粗糙的部分",
+          "pos": "n."
+        },
+        {
+          "en": "round",
+          "zh": "\"n. 圆；循环；一回合；圆形物",
+          "pos": "n."
+        },
+        {
+          "en": "route",
+          "zh": "\"n. 路线；航线；通道",
+          "pos": "n."
+        },
+        {
+          "en": "routine",
+          "zh": "\"n. 程序；日常工作；例行公事",
+          "pos": "n."
+        },
+        {
+          "en": "run",
+          "zh": "\"n. 奔跑；赛跑；趋向；奔跑的路程",
+          "pos": "n."
+        },
+        {
+          "en": "royal",
+          "zh": "\"n. 王室；王室成员",
+          "pos": "n."
+        },
+        {
+          "en": "rubber-stamp",
+          "zh": "vt. 不经审查就批准；加盖橡皮图章",
+          "pos": "vt."
+        },
+        {
+          "en": "ruined",
+          "zh": "\"v. 毁灭（ruin的变形）",
+          "pos": "v."
+        },
+        {
+          "en": "ruins",
+          "zh": "\"n. 遗迹（ruin的复数形式）；废墟",
+          "pos": "n."
+        },
+        {
+          "en": "rule",
+          "zh": "\"n. 统治；规则",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Lexicon Prime",
+      "hp": 300,
+      "words": [
+        {
+          "en": "run",
+          "zh": "\"n. 奔跑；赛跑；趋向；奔跑的路程",
+          "pos": "n."
+        },
+        {
+          "en": "rundown",
+          "zh": "n. 裁减；纲要",
+          "pos": "n."
+        },
+        {
+          "en": "rural",
+          "zh": "adj. 农村的，乡下的；田园的，有乡村风味的",
+          "pos": "adj."
+        },
+        {
+          "en": "rush through",
+          "zh": "\"v. 匆匆完成",
+          "pos": "v."
+        },
+        {
+          "en": "rush-hour",
+          "zh": "\"n. 交通拥挤时间；高峰时刻",
+          "pos": "n."
+        },
+        {
+          "en": "rusty",
+          "zh": "adj. 生锈的，腐蚀的；铁锈色的，锈色的；迟钝的",
+          "pos": "adj."
+        },
+        {
+          "en": "sack",
+          "zh": "\"n. 麻布袋；洗劫",
+          "pos": "n."
+        },
+        {
+          "en": "sacrifice",
+          "zh": "\"n. 牺牲；祭品；供奉",
+          "pos": "n."
+        },
+        {
+          "en": "saddle",
+          "zh": "\"n. 鞍，鞍状物；车座；拖具",
+          "pos": "n."
+        },
+        {
+          "en": "safe",
+          "zh": "\"n. 保险箱；冷藏室；纱橱",
+          "pos": "n."
+        },
+        {
+          "en": "salary",
+          "zh": "\"n. 薪水",
+          "pos": "n."
+        },
+        {
+          "en": "sale",
+          "zh": "n. 销售；出售；拍卖；销售额；廉价出售",
+          "pos": "n."
+        },
+        {
+          "en": "same",
+          "zh": "\"adj. 相同的；同一的；上述的（通常与the连用）；无变化的",
+          "pos": "adj."
+        },
+        {
+          "en": "sample",
+          "zh": "\"n. 样品；样本；例子",
+          "pos": "n."
+        },
+        {
+          "en": "satellite",
+          "zh": "n. 卫星；人造卫星；随从；卫星国家",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "day": 21,
+  "title": "Day 021 · consort → contradictory",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "continent",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Reyna Mote",
+      "hp": 100,
+      "words": [
+        {
+          "en": "consort",
+          "zh": "vi. 陪伴，结交",
+          "pos": "vi."
+        },
+        {
+          "en": "consortium",
+          "zh": "n. 协会，联盟，财团",
+          "pos": "n."
+        },
+        {
+          "en": "conspicuous",
+          "zh": "adj. 显著的；显眼的，引人注目的",
+          "pos": "adj."
+        },
+        {
+          "en": "conspiracy",
+          "zh": "n. 阴谋，共谋",
+          "pos": "n."
+        },
+        {
+          "en": "constant",
+          "zh": "adj. 不变的，持续的；一再重复的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Gekko Wingman",
+      "hp": 150,
+      "words": [
+        {
+          "en": "constantly",
+          "zh": "adv. 不断地",
+          "pos": "adv."
+        },
+        {
+          "en": "constellation",
+          "zh": "n. 星座",
+          "pos": "n."
+        },
+        {
+          "en": "consternation",
+          "zh": "n. 惊愕，惊慌失措",
+          "pos": "n."
+        },
+        {
+          "en": "constituent",
+          "zh": "n. 成分，要素",
+          "pos": "n."
+        },
+        {
+          "en": "constitution",
+          "zh": "n. 组织；宪法",
+          "pos": "n."
+        },
+        {
+          "en": "constitute",
+          "zh": "vt. 建立（政府），组成，构成",
+          "pos": "vt."
+        },
+        {
+          "en": "constitutional",
+          "zh": "adj. 宪法的；章程的",
+          "pos": "adj."
+        },
+        {
+          "en": "constrain",
+          "zh": "vt. 限制，约束",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Killjoy Drone",
+      "hp": 200,
+      "words": [
+        {
+          "en": "constraint",
+          "zh": "n. 限制，约束",
+          "pos": "n."
+        },
+        {
+          "en": "constrict",
+          "zh": "vt. 约束；收缩",
+          "pos": "vt."
+        },
+        {
+          "en": "constricted",
+          "zh": "adj. 抑制的，约束的",
+          "pos": "adj."
+        },
+        {
+          "en": "construct",
+          "zh": "vt. 建造；创立",
+          "pos": "vt."
+        },
+        {
+          "en": "construction",
+          "zh": "n. 建筑，建造",
+          "pos": "n."
+        },
+        {
+          "en": "consult",
+          "zh": "vt. 咨询，请教",
+          "pos": "vt."
+        },
+        {
+          "en": "consultant",
+          "zh": "n. 顾问，咨询者",
+          "pos": "n."
+        },
+        {
+          "en": "consume",
+          "zh": "vt. 消费，消耗；大吃大喝",
+          "pos": "vt."
+        },
+        {
+          "en": "consumer",
+          "zh": "n. 消费者",
+          "pos": "n."
+        },
+        {
+          "en": "consumption",
+          "zh": "n. 消耗，消费",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Wraith",
+      "hp": 250,
+      "words": [
+        {
+          "en": "contact",
+          "zh": "vt. 使接触，与…联系",
+          "pos": "vt."
+        },
+        {
+          "en": "contagious",
+          "zh": "adj. 传染性的；有感染力的",
+          "pos": "adj."
+        },
+        {
+          "en": "contain",
+          "zh": "vt. 包含，容纳",
+          "pos": "vt."
+        },
+        {
+          "en": "container",
+          "zh": "n. 容器；集装箱",
+          "pos": "n."
+        },
+        {
+          "en": "contaminate",
+          "zh": "vt. 弄脏，污染；感染",
+          "pos": "vt."
+        },
+        {
+          "en": "contamination",
+          "zh": "n. 玷污，污染",
+          "pos": "n."
+        },
+        {
+          "en": "contemplate",
+          "zh": "v. 沉思，对…作周密思考",
+          "pos": "v."
+        },
+        {
+          "en": "contemporary",
+          "zh": "adj. 当代的，现代的",
+          "pos": "adj."
+        },
+        {
+          "en": "contender",
+          "zh": "n. 竞争者",
+          "pos": "n."
+        },
+        {
+          "en": "contention",
+          "zh": "n. 争论，争辩",
+          "pos": "n."
+        },
+        {
+          "en": "content",
+          "zh": "n. 内容；容量",
+          "pos": "n."
+        },
+        {
+          "en": "continent",
+          "zh": "n. 大陆",
+          "pos": "n."
+        },
+        {
+          "en": "contented",
+          "zh": "adj. 满足的，心安的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "The First Light",
+      "hp": 300,
+      "words": [
+        {
+          "en": "context",
+          "zh": "n. 上下文，语境",
+          "pos": "n."
+        },
+        {
+          "en": "contiguous",
+          "zh": "adj. 接近的，接壤的",
+          "pos": "adj."
+        },
+        {
+          "en": "continent",
+          "zh": "n. 大陆",
+          "pos": "n."
+        },
+        {
+          "en": "continental",
+          "zh": "adj. 大陆的，大陆性的",
+          "pos": "adj."
+        },
+        {
+          "en": "supercontinent",
+          "zh": "n. （地理）超大陆",
+          "pos": "n."
+        },
+        {
+          "en": "transcontinental",
+          "zh": "adj. 横贯大陆的，大陆那边的",
+          "pos": "adj."
+        },
+        {
+          "en": "continuation",
+          "zh": "n. 继续，延长",
+          "pos": "n."
+        },
+        {
+          "en": "continuity",
+          "zh": "n. (时间或空间的)连续性，连贯性",
+          "pos": "n."
+        },
+        {
+          "en": "continuum",
+          "zh": "n. 连续统一体",
+          "pos": "n."
+        },
+        {
+          "en": "contour",
+          "zh": "n. contours 轮廓",
+          "pos": "n."
+        },
+        {
+          "en": "contract",
+          "zh": "v. 收缩",
+          "pos": "v."
+        },
+        {
+          "en": "contraction",
+          "zh": "n. 缩短，收缩",
+          "pos": "n."
+        },
+        {
+          "en": "contractor",
+          "zh": "n. 定约人，承包人",
+          "pos": "n."
+        },
+        {
+          "en": "contradict",
+          "zh": "vt. 同…矛盾，同…抵触",
+          "pos": "vt."
+        },
+        {
+          "en": "contradictory",
+          "zh": "adj. 反对的，矛盾的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}

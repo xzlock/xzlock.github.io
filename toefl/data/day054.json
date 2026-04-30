@@ -1,0 +1,304 @@
+{
+  "day": 54,
+  "title": "Day 054 · legacy → trainload",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "shipload",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Raze Cub",
+      "hp": 100,
+      "words": [
+        {
+          "en": "legacy",
+          "zh": "n. 遗产，遗物",
+          "pos": "n."
+        },
+        {
+          "en": "legendary",
+          "zh": "adj. 传奇的",
+          "pos": "adj."
+        },
+        {
+          "en": "legend",
+          "zh": "n. 传说；传奇文学",
+          "pos": "n."
+        },
+        {
+          "en": "legible",
+          "zh": "adj. (指印刷或字迹)清楚地，易读的",
+          "pos": "adj."
+        },
+        {
+          "en": "legislation",
+          "zh": "n. 立法",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Chamber Bullet",
+      "hp": 150,
+      "words": [
+        {
+          "en": "legislate",
+          "zh": "vt. 立法",
+          "pos": "vt."
+        },
+        {
+          "en": "legislature",
+          "zh": "n. 立法机关",
+          "pos": "n."
+        },
+        {
+          "en": "legume",
+          "zh": "n. 豆类，豆荚",
+          "pos": "n."
+        },
+        {
+          "en": "leisure",
+          "zh": "n. 空闲，闲暇",
+          "pos": "n."
+        },
+        {
+          "en": "leisurely",
+          "zh": "adj. 从容的，悠闲的",
+          "pos": "adj."
+        },
+        {
+          "en": "lengthen",
+          "zh": "vt. 延长，使变长",
+          "pos": "vt."
+        },
+        {
+          "en": "lengthy",
+          "zh": "adj. (演说、文章等)冗长的，啰嗦的",
+          "pos": "adj."
+        },
+        {
+          "en": "leopard",
+          "zh": "n. 豹，美洲豹",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Chamber Sentinel",
+      "hp": 200,
+      "words": [
+        {
+          "en": "lethal",
+          "zh": "adj. 致命的",
+          "pos": "adj."
+        },
+        {
+          "en": "lethargic",
+          "zh": "adj. 昏睡的；懒洋洋的，萎靡不振的",
+          "pos": "adj."
+        },
+        {
+          "en": "lethargy",
+          "zh": "n. 昏睡，倦怠",
+          "pos": "n."
+        },
+        {
+          "en": "lettuce",
+          "zh": "n. 莴苣，生菜",
+          "pos": "n."
+        },
+        {
+          "en": "libel",
+          "zh": "n. 以文字损害名誉，诽谤",
+          "pos": "n."
+        },
+        {
+          "en": "liberal",
+          "zh": "adj. 开放的,主张变革的,自由主义的",
+          "pos": "adj."
+        },
+        {
+          "en": "liberate",
+          "zh": "vt. 释放，使自由",
+          "pos": "vt."
+        },
+        {
+          "en": "liberty",
+          "zh": "n. 自由",
+          "pos": "n."
+        },
+        {
+          "en": "liberally",
+          "zh": "adv. 随意地，不受限制地",
+          "pos": "adv."
+        },
+        {
+          "en": "lift",
+          "zh": "v. 举起，升高",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Brimstone Fury",
+      "hp": 250,
+      "words": [
+        {
+          "en": "facelift",
+          "zh": "n. 改建，表面修改",
+          "pos": "n."
+        },
+        {
+          "en": "likewise",
+          "zh": "adv. 同样地，也",
+          "pos": "adv."
+        },
+        {
+          "en": "limb",
+          "zh": "n. 肢，翼；树枝",
+          "pos": "n."
+        },
+        {
+          "en": "limestone",
+          "zh": "n. 石灰石",
+          "pos": "n."
+        },
+        {
+          "en": "lineage",
+          "zh": "n. 血统，世系",
+          "pos": "n."
+        },
+        {
+          "en": "linen",
+          "zh": "n. 亚麻布，亚麻制品",
+          "pos": "n."
+        },
+        {
+          "en": "linger",
+          "zh": "vi. 逗留；徘徊",
+          "pos": "vi."
+        },
+        {
+          "en": "shipload",
+          "zh": "n. 船货, 一船上的载货",
+          "pos": "n."
+        },
+        {
+          "en": "linguistic",
+          "zh": "adj. 语言上的，语言学上的",
+          "pos": "adj."
+        },
+        {
+          "en": "linguistics",
+          "zh": "n. 语言学",
+          "pos": "n."
+        },
+        {
+          "en": "liquid",
+          "zh": "n. 液体，流体",
+          "pos": "n."
+        },
+        {
+          "en": "literally",
+          "zh": "adv. 照字面意义地，逐字地",
+          "pos": "adv."
+        },
+        {
+          "en": "literary",
+          "zh": "adj. 文学（上）的，从事写作的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "literate",
+          "zh": "adj. 有文化的，有阅读和写作能力的",
+          "pos": "adj."
+        },
+        {
+          "en": "literacy",
+          "zh": "n. 有读写能力，识字",
+          "pos": "n."
+        },
+        {
+          "en": "semiliterate",
+          "zh": "n. 半文盲，有初等文化者",
+          "pos": "n."
+        },
+        {
+          "en": "obliterate",
+          "zh": "vt. 涂去，删除",
+          "pos": "vt."
+        },
+        {
+          "en": "iterate",
+          "zh": "vt. 反复说，重申",
+          "pos": "vt."
+        },
+        {
+          "en": "litter",
+          "zh": "vt. 乱丢",
+          "pos": "vt."
+        },
+        {
+          "en": "livelihood",
+          "zh": "n. 生计，谋生",
+          "pos": "n."
+        },
+        {
+          "en": "lively",
+          "zh": "adj. 活泼的，活跃的；栩栩如生的",
+          "pos": "adj."
+        },
+        {
+          "en": "liver",
+          "zh": "n. 肝脏",
+          "pos": "n."
+        },
+        {
+          "en": "livestock",
+          "zh": "n. 家畜，牲畜",
+          "pos": "n."
+        },
+        {
+          "en": "load",
+          "zh": "n. 重担；重任",
+          "pos": "n."
+        },
+        {
+          "en": "unload",
+          "zh": "vt. 摆脱…的负担，卸",
+          "pos": "vt."
+        },
+        {
+          "en": "overload",
+          "zh": "vt. 使超载，超过负荷",
+          "pos": "vt."
+        },
+        {
+          "en": "shipload",
+          "zh": "n. 船货, 一船上的载货",
+          "pos": "n."
+        },
+        {
+          "en": "trainload",
+          "zh": "n. 列车载重",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

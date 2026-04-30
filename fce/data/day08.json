@@ -1,0 +1,304 @@
+{
+  "day": 8,
+  "title": "Day 08 · coincide → confirm",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "collect",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Gekko Slime",
+      "hp": 100,
+      "words": [
+        {
+          "en": "coincide",
+          "zh": "\"vi. 一致，符合；同时发生",
+          "pos": "vi."
+        },
+        {
+          "en": "collapse",
+          "zh": "\"n. 倒塌；失败；衰竭",
+          "pos": "n."
+        },
+        {
+          "en": "collect",
+          "zh": "\"vt. 收集；募捐",
+          "pos": "vt."
+        },
+        {
+          "en": "collocation",
+          "zh": "n. 搭配；配置；排列",
+          "pos": "n."
+        },
+        {
+          "en": "colony",
+          "zh": "n. 殖民地；移民队；种群；动物栖息地",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Yoru Clone",
+      "hp": 150,
+      "words": [
+        {
+          "en": "column",
+          "zh": "n. 纵队，列；专栏；圆柱，柱形物",
+          "pos": "n."
+        },
+        {
+          "en": "combine",
+          "zh": "\"n. 联合收割机；联合企业",
+          "pos": "n."
+        },
+        {
+          "en": "come",
+          "zh": "\"vi. 来；开始；出现；发生；变成；到达",
+          "pos": "vi."
+        },
+        {
+          "en": "comfort",
+          "zh": "\"n. 安慰；舒适；安慰者",
+          "pos": "n."
+        },
+        {
+          "en": "command",
+          "zh": "\"n. 指挥，控制；命令；司令部",
+          "pos": "n."
+        },
+        {
+          "en": "commemorate",
+          "zh": "vt. 庆祝，纪念；成为…的纪念",
+          "pos": "vt."
+        },
+        {
+          "en": "comment",
+          "zh": "\"n. 评论；意见；批评",
+          "pos": "n."
+        },
+        {
+          "en": "commercial",
+          "zh": "\"n. 商业广告",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "commit",
+          "zh": "vt. 犯罪，做错事；把...交托给；指派…作战；使…承担义务",
+          "pos": "vt."
+        },
+        {
+          "en": "committed",
+          "zh": "\"v. 承诺；委托；干坏事；付诸（commit的过去分词）",
+          "pos": "v."
+        },
+        {
+          "en": "common",
+          "zh": "\"n. 普通；平民；公有地",
+          "pos": "n."
+        },
+        {
+          "en": "communal",
+          "zh": "adj. 公共的；公社的",
+          "pos": "adj."
+        },
+        {
+          "en": "communicate",
+          "zh": "\"vi. 通讯，传达；相通；交流；感染",
+          "pos": "vi."
+        },
+        {
+          "en": "community",
+          "zh": "n. 社区； 群落；共同体；团体",
+          "pos": "n."
+        },
+        {
+          "en": "commute",
+          "zh": "\"n. 通勤（口语）",
+          "pos": "n."
+        },
+        {
+          "en": "compact",
+          "zh": "\"n. 合同，契约；小粉盒",
+          "pos": "n."
+        },
+        {
+          "en": "company",
+          "zh": "\"n. 公司；陪伴，同伴；连队",
+          "pos": "n."
+        },
+        {
+          "en": "compare",
+          "zh": "\"vi. 相比，匹敌；比较，区别；比拟（常与to连用）",
+          "pos": "vi."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Toxin",
+      "hp": 250,
+      "words": [
+        {
+          "en": "comparison",
+          "zh": "n. 比较；对照；比喻；比较关系",
+          "pos": "n."
+        },
+        {
+          "en": "collect",
+          "zh": "\"vt. 收集；募捐",
+          "pos": "vt."
+        },
+        {
+          "en": "compensate",
+          "zh": "\"vt. 补偿，赔偿；付报酬",
+          "pos": "vt."
+        },
+        {
+          "en": "compete",
+          "zh": "vi. 竞争；比赛；对抗",
+          "pos": "vi."
+        },
+        {
+          "en": "complain",
+          "zh": "\"vi. 投诉；发牢骚；诉说",
+          "pos": "vi."
+        },
+        {
+          "en": "complaint",
+          "zh": "n. 抱怨；诉苦；疾病；委屈",
+          "pos": "n."
+        },
+        {
+          "en": "complete",
+          "zh": "\"adj. 完整的；完全的；彻底的",
+          "pos": "adj."
+        },
+        {
+          "en": "complex",
+          "zh": "\"n. 复合体；综合设施",
+          "pos": "n."
+        },
+        {
+          "en": "complicated",
+          "zh": "adj. 难懂的，复杂的",
+          "pos": "adj."
+        },
+        {
+          "en": "compliment",
+          "zh": "\"n. 恭维；称赞；问候；致意；道贺",
+          "pos": "n."
+        },
+        {
+          "en": "compromise",
+          "zh": "\"n. 妥协，和解；折衷",
+          "pos": "n."
+        },
+        {
+          "en": "compulsory",
+          "zh": "\"n. （花样滑冰、竞技体操等的）规定动作",
+          "pos": "n."
+        },
+        {
+          "en": "conceivable",
+          "zh": "adj. 可能的；想得到的，可想像的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "concern",
+          "zh": "\"n. 关系；关心；关心的事；忧虑",
+          "pos": "n."
+        },
+        {
+          "en": "conclude",
+          "zh": "\"vi. 推断；断定；决定",
+          "pos": "vi."
+        },
+        {
+          "en": "conclusion",
+          "zh": "n. 结论；结局；推论",
+          "pos": "n."
+        },
+        {
+          "en": "concord",
+          "zh": "n. 和谐；和睦；一致；协调",
+          "pos": "n."
+        },
+        {
+          "en": "concrete",
+          "zh": "\"n. 具体物；凝结物",
+          "pos": "n."
+        },
+        {
+          "en": "condition",
+          "zh": "\"n. 条件；情况；环境；身份",
+          "pos": "n."
+        },
+        {
+          "en": "conduct",
+          "zh": "\"n. 进行；行为；实施",
+          "pos": "n."
+        },
+        {
+          "en": "conference",
+          "zh": "\"n. 会议；讨论；协商；联盟；（正式）讨论会；（每年的）大会",
+          "pos": "n."
+        },
+        {
+          "en": "confess",
+          "zh": "\"vi. 承认；坦白；忏悔；供认",
+          "pos": "vi."
+        },
+        {
+          "en": "confide",
+          "zh": "\"vt. 吐露；委托",
+          "pos": "vt."
+        },
+        {
+          "en": "confidence",
+          "zh": "\"n. 信心；信任；秘密",
+          "pos": "n."
+        },
+        {
+          "en": "confident",
+          "zh": "adj. 自信的；确信的",
+          "pos": "adj."
+        },
+        {
+          "en": "confidential",
+          "zh": "adj. 机密的；表示信任的；获信任的",
+          "pos": "adj."
+        },
+        {
+          "en": "confine",
+          "zh": "\"n. 界限，边界;约束；限制",
+          "pos": "n."
+        },
+        {
+          "en": "confirm",
+          "zh": "vt. 确认；确定；证实；批准；使巩固",
+          "pos": "vt."
+        }
+      ]
+    }
+  ]
+}

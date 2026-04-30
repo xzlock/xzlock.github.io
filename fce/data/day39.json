@@ -1,0 +1,304 @@
+{
+  "day": 39,
+  "title": "Day 39 · separate → since",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "share",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Skye Pup",
+      "hp": 100,
+      "words": [
+        {
+          "en": "separate",
+          "zh": "\"n. .分开；抽印本",
+          "pos": "n."
+        },
+        {
+          "en": "serene",
+          "zh": "\"n. 平静；晴朗",
+          "pos": "n."
+        },
+        {
+          "en": "series",
+          "zh": "n. 系列，连续； 串联；级数；丛书",
+          "pos": "n."
+        },
+        {
+          "en": "serious",
+          "zh": "adj. 严肃的，严重的；认真的；庄重的；危急的",
+          "pos": "adj."
+        },
+        {
+          "en": "serve",
+          "zh": "\"n. 发球，轮到发球",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Neon Pulse",
+      "hp": 150,
+      "words": [
+        {
+          "en": "session",
+          "zh": "n. 会议；（法庭的）开庭；（议会等的）开会；学期；讲习会",
+          "pos": "n."
+        },
+        {
+          "en": "set",
+          "zh": "\"n. 集合；一套；布景； 装置",
+          "pos": "n."
+        },
+        {
+          "en": "settle",
+          "zh": "\"n. 有背长椅",
+          "pos": "n."
+        },
+        {
+          "en": "severe",
+          "zh": "adj. 严峻的；严厉的；剧烈的；苛刻的",
+          "pos": "adj."
+        },
+        {
+          "en": "shadow",
+          "zh": "\"n. 阴影；影子；幽灵；庇护；隐蔽处",
+          "pos": "n."
+        },
+        {
+          "en": "shake",
+          "zh": "\"n. 摇动；哆嗦",
+          "pos": "n."
+        },
+        {
+          "en": "shallow",
+          "zh": "\"n. 浅滩",
+          "pos": "n."
+        },
+        {
+          "en": "shame",
+          "zh": "\"n. 羞耻，羞愧；憾事，带来耻辱的人",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Cypher Camera",
+      "hp": 200,
+      "words": [
+        {
+          "en": "shape",
+          "zh": "\"n. 形状；模型；身材；具体化",
+          "pos": "n."
+        },
+        {
+          "en": "share",
+          "zh": "\"n. 份额；股份",
+          "pos": "n."
+        },
+        {
+          "en": "sharp",
+          "zh": "\"n. 尖头；骗子；内行",
+          "pos": "n."
+        },
+        {
+          "en": "shelter",
+          "zh": "\"n. 庇护；避难所；遮盖物",
+          "pos": "n."
+        },
+        {
+          "en": "shift",
+          "zh": "\"n. 移动；变化；手段；轮班",
+          "pos": "n."
+        },
+        {
+          "en": "shine",
+          "zh": "\"vt. 照射，擦亮；把…的光投向；（口）通过擦拭使…变得有光泽或光",
+          "pos": "vt."
+        },
+        {
+          "en": "shiver",
+          "zh": "\"n. 颤抖，战栗；碎片",
+          "pos": "n."
+        },
+        {
+          "en": "shock",
+          "zh": "\"n. 休克；震惊；震动；打击；禾束堆",
+          "pos": "n."
+        },
+        {
+          "en": "shoot",
+          "zh": "\"n. 射击；摄影；狩猎；急流",
+          "pos": "n."
+        },
+        {
+          "en": "shop",
+          "zh": "\"n. 商店；店铺",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Omen Wraith",
+      "hp": 250,
+      "words": [
+        {
+          "en": "shortage",
+          "zh": "n. 缺乏，缺少；不足",
+          "pos": "n."
+        },
+        {
+          "en": "shorten",
+          "zh": "\"vt. 缩短；减少；变短",
+          "pos": "vt."
+        },
+        {
+          "en": "short-listed",
+          "zh": "adj. 入围的，初步审核通过的",
+          "pos": "adj."
+        },
+        {
+          "en": "shot",
+          "zh": "\"n. 发射；炮弹；射手；镜头",
+          "pos": "n."
+        },
+        {
+          "en": "shout",
+          "zh": "\"n. 呼喊；呼叫",
+          "pos": "n."
+        },
+        {
+          "en": "show",
+          "zh": "\"n. 显示；表演；炫耀",
+          "pos": "n."
+        },
+        {
+          "en": "share",
+          "zh": "\"n. 份额；股份",
+          "pos": "n."
+        },
+        {
+          "en": "shower",
+          "zh": "\"n. 淋浴；（倾泻般出现的）一阵，一大批；阵雨",
+          "pos": "n."
+        },
+        {
+          "en": "shrink",
+          "zh": "\"vi. 收缩；畏缩",
+          "pos": "vi."
+        },
+        {
+          "en": "shuffle",
+          "zh": "\"n. 洗牌，洗纸牌；混乱，蒙混；拖着脚走",
+          "pos": "n."
+        },
+        {
+          "en": "shut",
+          "zh": "\"n. 关闭",
+          "pos": "n."
+        },
+        {
+          "en": "shutter",
+          "zh": "\"n. 快门；百叶窗；关闭物；遮板",
+          "pos": "n."
+        },
+        {
+          "en": "shuttle",
+          "zh": "\"n. 航天飞机；穿梭；梭子；穿梭班机、公共汽车等",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Null Sovereign",
+      "hp": 300,
+      "words": [
+        {
+          "en": "sibling",
+          "zh": "n. 兄弟姊妹；民族成员",
+          "pos": "n."
+        },
+        {
+          "en": "side",
+          "zh": "\"n. 方面；侧面；旁边",
+          "pos": "n."
+        },
+        {
+          "en": "sideline",
+          "zh": "\"n. 副业；球场边线；局外人的观点",
+          "pos": "n."
+        },
+        {
+          "en": "siege",
+          "zh": "\"n. 围攻；包围；围城；不断袭击；长期努力",
+          "pos": "n."
+        },
+        {
+          "en": "sigh",
+          "zh": "\"n. 叹息，叹气",
+          "pos": "n."
+        },
+        {
+          "en": "sight",
+          "zh": "\"n. 视力；景象；眼界；见解",
+          "pos": "n."
+        },
+        {
+          "en": "sightseeing",
+          "zh": "\"n. 观光；游览",
+          "pos": "n."
+        },
+        {
+          "en": "sign",
+          "zh": "\"n. 迹象；符号；记号；手势；指示牌",
+          "pos": "n."
+        },
+        {
+          "en": "signal",
+          "zh": "\"n. 信号；暗号；导火线",
+          "pos": "n."
+        },
+        {
+          "en": "significant",
+          "zh": "\"n. 象征；有意义的事物",
+          "pos": "n."
+        },
+        {
+          "en": "silent",
+          "zh": "\"n. 无声电影",
+          "pos": "n."
+        },
+        {
+          "en": "silver",
+          "zh": "\"n. 银；银器；银币；银质奖章；餐具；银灰色",
+          "pos": "n."
+        },
+        {
+          "en": "similar",
+          "zh": "\"n. 类似物",
+          "pos": "n."
+        },
+        {
+          "en": "simple",
+          "zh": "\"n. 笨蛋；愚蠢的行为；出身低微者",
+          "pos": "n."
+        },
+        {
+          "en": "since",
+          "zh": "\"conj. 因为；由于；既然；自…以来；自…以后",
+          "pos": "conj."
+        }
+      ]
+    }
+  ]
+}

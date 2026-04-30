@@ -1,0 +1,304 @@
+{
+  "day": 76,
+  "title": "Day 076 · representation → restriction",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "resentful",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Reyna Mote",
+      "hp": 100,
+      "words": [
+        {
+          "en": "representation",
+          "zh": "n. 表示，表现",
+          "pos": "n."
+        },
+        {
+          "en": "representative",
+          "zh": "n. 代表",
+          "pos": "n."
+        },
+        {
+          "en": "repress",
+          "zh": "vt. 抑制，镇压",
+          "pos": "vt."
+        },
+        {
+          "en": "reproductive",
+          "zh": "adj. 生殖的",
+          "pos": "adj."
+        },
+        {
+          "en": "reproduce",
+          "zh": "v. 繁殖，再生；复制",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Phoenix Blaze",
+      "hp": 150,
+      "words": [
+        {
+          "en": "reproduction",
+          "zh": "n. 复制品；繁殖",
+          "pos": "n."
+        },
+        {
+          "en": "reptile",
+          "zh": "n. 爬行动物",
+          "pos": "n."
+        },
+        {
+          "en": "repulse",
+          "zh": "vt. 击退",
+          "pos": "vt."
+        },
+        {
+          "en": "repute",
+          "zh": "n. 名声",
+          "pos": "n."
+        },
+        {
+          "en": "reputed",
+          "zh": "adj. 名誉好的，被称为…的，有…名气的",
+          "pos": "adj."
+        },
+        {
+          "en": "rescue",
+          "zh": "vt. 援救，救援",
+          "pos": "vt."
+        },
+        {
+          "en": "resemble",
+          "zh": "vt. 像，类似",
+          "pos": "vt."
+        },
+        {
+          "en": "resemblance",
+          "zh": "n. 相似，酷肖",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "resent",
+          "zh": "vt. 愤怒，怨恨",
+          "pos": "vt."
+        },
+        {
+          "en": "resentful",
+          "zh": "adj. 忿恨的，怨恨的",
+          "pos": "adj."
+        },
+        {
+          "en": "reserve",
+          "zh": "vt. 储备；保留，预定",
+          "pos": "vt."
+        },
+        {
+          "en": "reservoir",
+          "zh": "n. 水库, 蓄水池",
+          "pos": "n."
+        },
+        {
+          "en": "reside",
+          "zh": "vi. 居住",
+          "pos": "vi."
+        },
+        {
+          "en": "resident",
+          "zh": "n. 居民",
+          "pos": "n."
+        },
+        {
+          "en": "residential",
+          "zh": "adj. 住宅的，与居住有关的",
+          "pos": "adj."
+        },
+        {
+          "en": "residence",
+          "zh": "n. 居住，住处",
+          "pos": "n."
+        },
+        {
+          "en": "residual",
+          "zh": "adj. 剩余的，残留的",
+          "pos": "adj."
+        },
+        {
+          "en": "resist",
+          "zh": "vt. 抵抗",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Viper Pit",
+      "hp": 250,
+      "words": [
+        {
+          "en": "resistant",
+          "zh": "adj. 抵抗的，有抵抗力的",
+          "pos": "adj."
+        },
+        {
+          "en": "resistance",
+          "zh": "n. 反抗，抵抗；抵抗力，阻力",
+          "pos": "n."
+        },
+        {
+          "en": "resolute",
+          "zh": "adj. 坚决的，毅然的",
+          "pos": "adj."
+        },
+        {
+          "en": "resolve",
+          "zh": "vt. 解决",
+          "pos": "vt."
+        },
+        {
+          "en": "resentful",
+          "zh": "adj. 忿恨的，怨恨的",
+          "pos": "adj."
+        },
+        {
+          "en": "resolution",
+          "zh": "n. 坚定;决定,解决;分辨率,解析度",
+          "pos": "n."
+        },
+        {
+          "en": "resonance",
+          "zh": "n. 回声，反响",
+          "pos": "n."
+        },
+        {
+          "en": "resort",
+          "zh": "n. 旅游胜地",
+          "pos": "n."
+        },
+        {
+          "en": "resource",
+          "zh": "n. 资源，财力；办法，智谋",
+          "pos": "n."
+        },
+        {
+          "en": "respect",
+          "zh": "n./v. 尊敬，敬重",
+          "pos": "n."
+        },
+        {
+          "en": "disrespect",
+          "zh": "n. 失礼，无礼",
+          "pos": "n."
+        },
+        {
+          "en": "respective",
+          "zh": "adj. 分别的，各自的",
+          "pos": "adj."
+        },
+        {
+          "en": "respectively",
+          "zh": "adv. 分别地，各个地",
+          "pos": "adv."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Radianite Colossus",
+      "hp": 300,
+      "words": [
+        {
+          "en": "respiration",
+          "zh": "n. 呼吸",
+          "pos": "n."
+        },
+        {
+          "en": "respiratory",
+          "zh": "adj. 呼吸的",
+          "pos": "adj."
+        },
+        {
+          "en": "respond",
+          "zh": "vi. 回答，反应",
+          "pos": "vi."
+        },
+        {
+          "en": "correspond",
+          "zh": "vi. 符合，协调；通信",
+          "pos": "vi."
+        },
+        {
+          "en": "corresponding",
+          "zh": "adj. 相应的",
+          "pos": "adj."
+        },
+        {
+          "en": "responsible",
+          "zh": "adj. 有责任的",
+          "pos": "adj."
+        },
+        {
+          "en": "responsibility",
+          "zh": "n. 责任，职责",
+          "pos": "n."
+        },
+        {
+          "en": "responsive",
+          "zh": "adj. 响应的，做出相应的",
+          "pos": "adj."
+        },
+        {
+          "en": "restore",
+          "zh": "vt. 使恢复；整修，修复",
+          "pos": "vt."
+        },
+        {
+          "en": "restoration",
+          "zh": "n. 恢复；翻新",
+          "pos": "n."
+        },
+        {
+          "en": "restraint",
+          "zh": "n. 抑制，克制",
+          "pos": "n."
+        },
+        {
+          "en": "restrain",
+          "zh": "vt. 克制，抑制",
+          "pos": "vt."
+        },
+        {
+          "en": "unrestrained",
+          "zh": "adj. 无限制的",
+          "pos": "adj."
+        },
+        {
+          "en": "restrict",
+          "zh": "vt. 限制，约束",
+          "pos": "vt."
+        },
+        {
+          "en": "restriction",
+          "zh": "n. 限制，约束",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

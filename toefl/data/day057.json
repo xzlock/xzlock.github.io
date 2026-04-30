@@ -1,0 +1,304 @@
+{
+  "day": 57,
+  "title": "Day 057 · mason → meteor",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "menu",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Jett Echo",
+      "hp": 100,
+      "words": [
+        {
+          "en": "mason",
+          "zh": "n. 泥瓦匠",
+          "pos": "n."
+        },
+        {
+          "en": "stonemason",
+          "zh": "n. 石工，石匠",
+          "pos": "n."
+        },
+        {
+          "en": "masonry",
+          "zh": "n. 石工术；石匠职业",
+          "pos": "n."
+        },
+        {
+          "en": "massive",
+          "zh": "adj. 大而重的，庞大的；可观的",
+          "pos": "adj."
+        },
+        {
+          "en": "masterpiece",
+          "zh": "n. 杰作，名著",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Skye Falcon",
+      "hp": 150,
+      "words": [
+        {
+          "en": "matching",
+          "zh": "adj. (尤指颜色或外表)相配的,一致的",
+          "pos": "adj."
+        },
+        {
+          "en": "matchless",
+          "zh": "adj. 无敌的；无比的",
+          "pos": "adj."
+        },
+        {
+          "en": "mate",
+          "zh": "v. 结伴，成配偶",
+          "pos": "v."
+        },
+        {
+          "en": "mathematics",
+          "zh": "n. 数学",
+          "pos": "n."
+        },
+        {
+          "en": "maverick",
+          "zh": "adj. 特立独行的；不遵守传统的",
+          "pos": "adj."
+        },
+        {
+          "en": "meager",
+          "zh": "adj. 缺乏的，不足的",
+          "pos": "adj."
+        },
+        {
+          "en": "meaningful",
+          "zh": "adj. 意味深长的",
+          "pos": "adj."
+        },
+        {
+          "en": "measures",
+          "zh": "n. 措施，方法",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Barrier",
+      "hp": 200,
+      "words": [
+        {
+          "en": "mechanical",
+          "zh": "adj. 机械的；机械性的，呆板的",
+          "pos": "adj."
+        },
+        {
+          "en": "mechanics",
+          "zh": "n. 机械学，力学",
+          "pos": "n."
+        },
+        {
+          "en": "mechanized",
+          "zh": "adj. 机械化的",
+          "pos": "adj."
+        },
+        {
+          "en": "mechanism",
+          "zh": "n. 机械；机理，运作机制",
+          "pos": "n."
+        },
+        {
+          "en": "media",
+          "zh": "n. 媒体",
+          "pos": "n."
+        },
+        {
+          "en": "mediate",
+          "zh": "v. 斡旋，调停",
+          "pos": "v."
+        },
+        {
+          "en": "mediator",
+          "zh": "n. 调停者",
+          "pos": "n."
+        },
+        {
+          "en": "medieval",
+          "zh": "adj. 中世纪的",
+          "pos": "adj."
+        },
+        {
+          "en": "medium",
+          "zh": "n. 媒体，媒介；方法",
+          "pos": "n."
+        },
+        {
+          "en": "melodious",
+          "zh": "adj. 旋律优美的，悦耳的",
+          "pos": "adj."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Harbor Cascade",
+      "hp": 250,
+      "words": [
+        {
+          "en": "melody",
+          "zh": "n. 悦耳的音调",
+          "pos": "n."
+        },
+        {
+          "en": "melodic",
+          "zh": "adj. 有旋律的, 调子美妙的",
+          "pos": "adj."
+        },
+        {
+          "en": "membrane",
+          "zh": "n. 膜，薄膜",
+          "pos": "n."
+        },
+        {
+          "en": "memo",
+          "zh": "n. 备忘录",
+          "pos": "n."
+        },
+        {
+          "en": "memory",
+          "zh": "n. 记忆，记忆力；回忆",
+          "pos": "n."
+        },
+        {
+          "en": "memorize",
+          "zh": "vt. 纪念",
+          "pos": "vt."
+        },
+        {
+          "en": "menu",
+          "zh": "n. 菜单；选择单",
+          "pos": "n."
+        },
+        {
+          "en": "memorable",
+          "zh": "adj. 难忘的",
+          "pos": "adj."
+        },
+        {
+          "en": "memorandum",
+          "zh": "n. 备忘录, 便笺",
+          "pos": "n."
+        },
+        {
+          "en": "memorial",
+          "zh": "n. 纪念物",
+          "pos": "n."
+        },
+        {
+          "en": "menace",
+          "zh": "n. 危险物",
+          "pos": "n."
+        },
+        {
+          "en": "mend",
+          "zh": "vt. 修补；改进",
+          "pos": "vt."
+        },
+        {
+          "en": "recommend",
+          "zh": "vt. 推荐；介绍",
+          "pos": "vt."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Ascendant Warlord",
+      "hp": 300,
+      "words": [
+        {
+          "en": "mention",
+          "zh": "vt. 提及；说起",
+          "pos": "vt."
+        },
+        {
+          "en": "menu",
+          "zh": "n. 菜单；选择单",
+          "pos": "n."
+        },
+        {
+          "en": "mercantile",
+          "zh": "adj. 商业的，贸易的",
+          "pos": "adj."
+        },
+        {
+          "en": "merchant",
+          "zh": "n. 商人",
+          "pos": "n."
+        },
+        {
+          "en": "merchandise",
+          "zh": "n. 商品",
+          "pos": "n."
+        },
+        {
+          "en": "merge",
+          "zh": "v. （使）合并，（使）融合",
+          "pos": "v."
+        },
+        {
+          "en": "merger",
+          "zh": "n. 合并",
+          "pos": "n."
+        },
+        {
+          "en": "meridian",
+          "zh": "n. 子午线",
+          "pos": "n."
+        },
+        {
+          "en": "merit",
+          "zh": "n. 优点，价值",
+          "pos": "n."
+        },
+        {
+          "en": "mesmerize",
+          "zh": "vt. 施催眠术；使入迷，迷住",
+          "pos": "vt."
+        },
+        {
+          "en": "messy",
+          "zh": "adj. 肮脏的；凌乱的",
+          "pos": "adj."
+        },
+        {
+          "en": "metabolism",
+          "zh": "n. 新陈代谢",
+          "pos": "n."
+        },
+        {
+          "en": "metabolic",
+          "zh": "adj. 新陈代谢的",
+          "pos": "adj."
+        },
+        {
+          "en": "metaphor",
+          "zh": "n. 隐喻，暗喻",
+          "pos": "n."
+        },
+        {
+          "en": "meteor",
+          "zh": "n. 流星",
+          "pos": "n."
+        }
+      ]
+    }
+  ]
+}

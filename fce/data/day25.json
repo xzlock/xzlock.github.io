@@ -1,0 +1,304 @@
+{
+  "day": 25,
+  "title": "Day 25 · leap around → loud",
+  "total_slots": 51,
+  "unique_words": 50,
+  "repeated_word": "loneliness",
+  "monsters": [
+    {
+      "idx": 0,
+      "tier": "Initiate",
+      "name": "Breach Fist",
+      "hp": 100,
+      "words": [
+        {
+          "en": "leap around",
+          "zh": "",
+          "pos": ""
+        },
+        {
+          "en": "learn",
+          "zh": "\"vt. 学习；得知；认识到",
+          "pos": "vt."
+        },
+        {
+          "en": "leave",
+          "zh": "\"vt. 离开；留下；遗忘；委托",
+          "pos": "vt."
+        },
+        {
+          "en": "lecture",
+          "zh": "\"n. 演讲；讲稿；教训",
+          "pos": "n."
+        },
+        {
+          "en": "leeway",
+          "zh": "n. 余地；风压差；偏航；落后",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "tier": "Duelist",
+      "name": "Breach Quake",
+      "hp": 150,
+      "words": [
+        {
+          "en": "legal",
+          "zh": "adj. 法律的；合法的；法定的；依照法律的",
+          "pos": "adj."
+        },
+        {
+          "en": "legendary",
+          "zh": "\"adj. 传说的，传奇的",
+          "pos": "adj."
+        },
+        {
+          "en": "leisure",
+          "zh": "\"n. 闲暇；空闲；安逸",
+          "pos": "n."
+        },
+        {
+          "en": "lengthen",
+          "zh": "\"vt. 使延长；加长",
+          "pos": "vt."
+        },
+        {
+          "en": "lengthy",
+          "zh": "adj. 漫长的，冗长的；啰唆的",
+          "pos": "adj."
+        },
+        {
+          "en": "lessen",
+          "zh": "\"vt. 使…变小；使…减轻；使…变少",
+          "pos": "vt."
+        },
+        {
+          "en": "let down",
+          "zh": "\"na. 使失望；放下；丢面子",
+          "pos": ""
+        },
+        {
+          "en": "let go",
+          "zh": "\"v. 放手；解雇；松手；忽视",
+          "pos": "v."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "tier": "Sentinel",
+      "name": "Sage Warden",
+      "hp": 200,
+      "words": [
+        {
+          "en": "let off",
+          "zh": "\"na. 放(枪,花炮等)；说出(俏皮话等)；宽恕",
+          "pos": ""
+        },
+        {
+          "en": "level",
+          "zh": "\"n. 水平；标准；水平面",
+          "pos": "n."
+        },
+        {
+          "en": "liberty",
+          "zh": "n. 自由；许可；冒失",
+          "pos": "n."
+        },
+        {
+          "en": "licence",
+          "zh": "\"n. 许可证，执照；特许",
+          "pos": "n."
+        },
+        {
+          "en": "lie",
+          "zh": "\"vi. 躺；说谎；位于；展现",
+          "pos": "vi."
+        },
+        {
+          "en": "life",
+          "zh": "n. 生活，生存；寿命",
+          "pos": "n."
+        },
+        {
+          "en": "life-altering",
+          "zh": "改变生活的；改变人生的",
+          "pos": ""
+        },
+        {
+          "en": "lifestyle",
+          "zh": "\"n. 生活方式",
+          "pos": "n."
+        },
+        {
+          "en": "lift",
+          "zh": "\"vt. 举起；提升；鼓舞；空运；抄袭",
+          "pos": "vt."
+        },
+        {
+          "en": "lift-off",
+          "zh": "n. （火箭等）离地升空，垂直发射",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "tier": "Controller",
+      "name": "Astra Nebula",
+      "hp": 250,
+      "words": [
+        {
+          "en": "loneliness",
+          "zh": "n. 寂寞，孤独",
+          "pos": "n."
+        },
+        {
+          "en": "light",
+          "zh": "\"n. 光；光线；灯；打火机；领悟；浅色；天窗",
+          "pos": "n."
+        },
+        {
+          "en": "light-hearted",
+          "zh": "adj. 轻松的；无忧无虑的",
+          "pos": "adj."
+        },
+        {
+          "en": "lightweight",
+          "zh": "\"n. 轻量级选手；无足轻重的人",
+          "pos": "n."
+        },
+        {
+          "en": "like",
+          "zh": "\"vt. 喜欢；想；愿意",
+          "pos": "vt."
+        },
+        {
+          "en": "likewise",
+          "zh": "adv. 同样地；也",
+          "pos": "adv."
+        },
+        {
+          "en": "limelight",
+          "zh": "\"n. 石灰光，石灰光灯；众人注目的中心",
+          "pos": "n."
+        },
+        {
+          "en": "limit",
+          "zh": "\"n. 限制；限度；界线",
+          "pos": "n."
+        },
+        {
+          "en": "line",
+          "zh": "\"n. 路线，航线；排；绳",
+          "pos": "n."
+        },
+        {
+          "en": "linger",
+          "zh": "\"vi. 徘徊；苟延残喘；磨蹭",
+          "pos": "vi."
+        },
+        {
+          "en": "link",
+          "zh": "\"n. 链环，环节；联系，关系",
+          "pos": "n."
+        },
+        {
+          "en": "list",
+          "zh": "\"n. 列表；清单；目录",
+          "pos": "n."
+        },
+        {
+          "en": "literature",
+          "zh": "n. 文学；文献；文艺；著作",
+          "pos": "n."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "tier": "Boss",
+      "name": "Kingdom Titan",
+      "hp": 300,
+      "words": [
+        {
+          "en": "live",
+          "zh": "\"adj. 活的；生动的；实况转播的；精力充沛的",
+          "pos": "adj."
+        },
+        {
+          "en": "load",
+          "zh": "\"n. 负载，负荷；工作量；装载量",
+          "pos": "n."
+        },
+        {
+          "en": "local",
+          "zh": "\"n. 局部；当地居民；本地新闻",
+          "pos": "n."
+        },
+        {
+          "en": "locate",
+          "zh": "\"vt. 位于；查找…的地点",
+          "pos": "vt."
+        },
+        {
+          "en": "log",
+          "zh": "\"vi. 伐木",
+          "pos": "vi."
+        },
+        {
+          "en": "logistical",
+          "zh": "adj. 后勤方面的；运筹的，逻辑的",
+          "pos": "adj."
+        },
+        {
+          "en": "lone",
+          "zh": "adj. 单身的；独自的；寂寞的；人迹稀少的",
+          "pos": "adj."
+        },
+        {
+          "en": "loneliness",
+          "zh": "n. 寂寞，孤独",
+          "pos": "n."
+        },
+        {
+          "en": "long-distance",
+          "zh": "\"adj. 长途的；长距离的",
+          "pos": "adj."
+        },
+        {
+          "en": "longish",
+          "zh": "adj. 稍长的；略长的",
+          "pos": "adj."
+        },
+        {
+          "en": "long-term",
+          "zh": "\"adj. 长期的",
+          "pos": "adj."
+        },
+        {
+          "en": "look",
+          "zh": "\"vt. 看；期待；注意；面向；看上去像",
+          "pos": "vt."
+        },
+        {
+          "en": "lookout",
+          "zh": "n. 监视；监视哨；警戒；守望者；担心的事；前景",
+          "pos": "n."
+        },
+        {
+          "en": "lose",
+          "zh": "\"vt. 浪费；使沉溺于；使迷路；遗失；错过",
+          "pos": "vt."
+        },
+        {
+          "en": "loud",
+          "zh": "\"adj. 大声的，高声的；不断的；喧吵的",
+          "pos": "adj."
+        }
+      ]
+    }
+  ]
+}
